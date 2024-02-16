@@ -1,0 +1,841 @@
+ENT: ¿TEST, cual es tu fecha de nacimiento?
+TEST: ----------------- de 1970
+ENT: ¿En donde naciste?
+TEST: LUGAR1, Cauca
+ENT: ¿Tu sexo asignado al nacer es?
+TEST: Mujer
+ENT: ¿Tú te identificas como mujer afro, negra, palanquera?
+TEST: Negra.
+ENT: ¿Cual es tu lugar de residencia actual?
+TEST: LUGAR2
+ENT: ¿qué estudios has realizado?
+TEST: Profesionales, Administración de empresas
+ENT: ¿Cual es tu ocupación actual?
+TEST: ----------------- de la ORGANIZACIÓN SOCIAL1 del --------------- Cauca
+ENT: A parte de esta ---------------- que tienes en esta organización, ¿haces parte de alguna
+otra organización o colectivo?
+TEST: Del ORGANIZACIÓN SOCIAL2
+ENT: ¿Y cual es tu rol en ORGANIZACIÓN SOCIAL2?
+TEST: -----------------, articulamos...
+ENT: Listo TEST ahora si arrancamos con esta conversación, pero ya.
+TEST, queremos arrancar trayendo a la memoria de tu vida, ¿en que momento tu eres
+consciente de que hay actores armados en tu territorio?
+TEST: Mmm...yo creo que cuando empecé el trabajo comunitario, eso fue como en
+1988...1988-89, si en ese entonces se escuchaba hablar de la guerrilla de las FARC [INC:
+Fuerzas Armadas Revolucionarias de Colombia]
+ENT: ¿Y tu proceso de trabajo comunitario donde lo realizabas? ¿tú a dónde ibas a trabajar
+con las comunidades?
+TEST: A las veredas de LUGAR1, eran como 15 veredas, ---------, ----------, ------------,
+-----------,-------------, --------------, ------------------ENT: ¿Cuándo tu ibas entonces ya estaban las FARC haciendo presencia?
+TEST: Si, sobretodo en la parte alta, hacia el lado de ------- ----------- ------------ por ese sector
+ellos se movían...ese corredor...
+ENT: ¿Y que te contaban las personas cuando tu ibas hacer ese recorrido con las
+comunidades acerca de la presencia de las FARC? ¿ellos cómo se relacionaban con las
+comunidades?
+TEST: No, normalmente la gente lo que comentaba era que por ahí habían pasado esa noche
+anterior, generalmente era como paso, pasaban por esas veredas, iban como de travesía y a
+veces pues se quedaban a dormir en algún sitio, alguna caseta comunal, o si llovía,
+escampaban pues como en algún sitio, pero seguían su paso, era como...pero no había, pues
+que yo sepa no habido...
+ENT: No hacía asentamiento allí
+TEST: No, en estas veredas no, más arriba sí
+ENT: ¿Para que parte era el asentamiento de ellos?
+
+TEST: Era como hacía parte boscosa, no eran vereda, o sea, no había caserío, era como hacia
+la selva de la parte de...ellos bajaban al caserío por víveres, a comprar cosas a las tiendas, o
+pasaban por ahí, pero así de vivir ahí no, o sea, la gente sabía que por allá en el monte tenían
+sus cambuches, para la parte...de hecho cuando la gente tenía que penetrar también por allá
+a la selva, a la zona boscosa, a veces se encontraban cambuches de ellos, pero bien arriba,
+bien en la parte alta donde ya termina...donde ya no hay viviendas...
+ENT: ¿Y tú recuerdas que frente era el que operaba para esa época allá?
+TEST: No... Ah yo escuchaba mucho del Jacobo Arenas, la Columna Móvil Jacobo Arenas, si,
+escuchaba mucho de esa, esa era como la que más se mencionaba creo...
+ENT: ¿Y qué era lo que tenía o por qué era posible el asentamiento más arriba? ¿que era lo
+que había arriba que ellos estaban allá?
+TEST: Pues yo creo que el monte ¿no?
+ENT: ¿Y en esa época era perseguida la guerrilla por el ejército? ¿los buscaban? o más bien
+eran como cusumbo solos y estaban por allá y pasaban nomas
+TEST: Disculpe un momentico...[PAUSA: 09:13 - 11:33]
+ENT: Te estaba preguntando sobre si en esa época que tu dices que era tránsito todas estas
+veredas par arriba, las FARC, sobretodo de la Columna Jacobo Arenas, si, también había o se
+presentaban confrontaciones con el ejército, o el ejército los buscaba
+TEST: El Ejército se movía como hasta cierta parte, y a veces se encontraban, si, a veces se
+encontraban, uno escuchaba que habían enfrentamientos esporádicamente pero si se
+escuchaba, y ya hacia la parte más baja si era con más frecuencia, pero hubo un tiempo en
+que yo creo que efectivamente el ejército los buscaba, ya cuando en esa época del avión
+fantasma que los atacaban por tierra y por aire, entonces para esa época el avión fantasma
+ya el ejército penetraba más a las comunidades, más adentro
+ENT: Y cuando se intensifica esa búsqueda a través de esto que tu mencionas del avión
+fantasma, ¿qué pasaba con las comunidades en medio de esa confrontación?
+TEST: Pues al principio era muy fuerte para todo el mundo porque uno sentía mucho temor,
+no sabíamos claramente que estaba pasando, o sea, había mucha más preocupación porque
+estábamos como en medio de ese fuego ahí, como comunidad
+ENT: Esa época del uso del avión fantasma como tu dices ¿eso fue en los 80? o eso fue ya
+más adelante?
+TEST: Hombre yo no sé en qué año fue, pero ya fue mas adelante, eso seria como en el 97...
+ENT: ¿No se si tu recuerdes si en esa época de pronto producto de esa confrontación entre
+la guerrilla y el ejército se hubiesen dado situaciones de desplazamiento masivo de las
+comunidades de arriba?
+TEST: Desplazamientos masivos no, yo creo que el primer desplazamiento masivo fue
+cuando los paramilitares
+ENT: Ah ya, cuando llegan los paramilitares, listo, ya vamos a llegar a esa época, sino que lo
+que estamos tratando es como poder tener la conversación en términos temporales, por eso
+la pregunta de las épocas, ¿en ese momento donde las FARC estaba como de tránsito, de
+pronto las comunidades, las lideresas se dieron cuenta, ese tránsito también o ese corredor
+para que lo usaba las FARC? llevaban mensajes, mercados, armas, o no se si también
+insumos para el tema de narcotráfico, o más bien no se sabía muy bien por qué ellos
+
+transitaban por ahí
+TEST: Yo creo que llevaban insumos, alimentación, y pues yo nunca vi pero me imagino que
+también el tráfico de armas, porque esa es una zona que tiene salida al mar, yo no se si
+droga en ese tiempo porque la coca no estaba tan, o sea, de hecho en esa zona no se
+escuchaba hablar de coca, en nuestro municipio solo se escuchaba de coca en el ----- para
+acá afuera no se escuchaba como hoy día, entonces yo no sé si, no creo que coca, yo digo que
+mas que todo eran víveres y armas
+ENT: Ahí como, digamos como dentro de los otros relatos que hemos tenido en el ---------Cauca hay un elemento común y es relacionamiento de las FARC con las comunidades pero
+tu nos decías que ellos eran más bien de transito, ¿pero quizás ese relacionamiento que
+quizás no era tan fuerte con las comunidades, quizás si se entablo con algún político de la
+zona, con alguna autoridad, o quizás con algunos líderes o lideresas en esa época, o más
+bien no se evidencio nunca ese tipo de relacionamientos?
+TEST: Bueno yo la verdad no tengo conocimiento de relacionamiento con políticos, yo sí se
+que respecto al relacionamiento con algunas comunidades ellos convocaban a la gente por
+ejemplo a arreglar las vías, a hacer alguna obra, algún puente, alguna cosa que se hubiera
+dañado, ellos convocaban a la gente, la verdad yo nunca los vi así como tropas, es posible
+que uno...de hecho por ejemplo las reuniones que uno hacía a mi me decían –“la persona
+que salió por tal lado, que se fue a tal hora, eso hace parte de la guerrilla” pero yo nunca, o
+sea, como que no lo asociaba, para mi era alguien normal, entonces ya la gente de la
+comunidad si sabia quien no era de ahí y quien si era de allí, entonces era más fácil para la
+gente de allí mismo identificar que el tipo no era de ahí, que por lo tanto o por sus
+características...bueno, la gente los sacaba, pero siempre hubo como...por ejemplo, cuando
+estábamos en la reuniones que yo hacía con las mujeres y eso y estaban más como en
+función de que hacia, como lo hacía, como de investigar, pero ellos nunca se metieron con
+nosotros hasta ese entonces, porque nosotros hacíamos nuestras reuniones, nuestras
+capacitaciones y después era que yo me enteraba que de pronto ahí estuvieron, que el que
+estaba en la ventana era guerrillero, que el que estuvo tanto tiempo sentado en tal lado ese
+era si...pero igual nunca...en el camino uno se los encontraba, ya después cuando me decían,
+yo, ah este fue el que estuvo en tal parte, uno se los encontraba pero nunca me trataron mal,
+ni me dijeron nada, o sea, estaban como en función de saber uno qué era lo que estaba
+haciendo
+ENT: Bueno, en ese sentido digamos ya hemos dado como...[INTERRUP]
+TEST: Yo vivía acá abajo en la ------ una de las comunidades, pues ya muy cercanas a
+LUGAR2 entonces quizás la gente que vivía más hacia la montaña puede tener otra
+información relacionada con la permanencia de ellos en los caseríos, su relacionamiento, sí,
+pero yo la verdad no tuve, así como mucho detalle de cómo ellos se relacionaban con la
+gente, yo era más bien como en lo que andaba y en lo que estaba
+ENT: ¿Y en ese andar y en ese trabajo comunitario que fue lo que estuviste identificando de
+lo que pasaba con las comunidades? no precisamente en el marco del conflicto armado, sino
+como encontrabas tú a las comunidades en ese recorrido
+TEST: No pues con muchas necesidades, con muchas cosas por hacer, la comunidad sin
+servicios, sin agua, que todavía hoy hay muchas en esas situación, sin servicio de energía, el
+
+tema de la economía cada vez decayendo, por el tema del mercadeo, entonces la gente se
+desmotivaba de producir porque cuando sacan las cosas a vender, muchas veces cuesta más
+lo que, es más lo que hay que invertir que lo que ganan al vender, entonces era como
+buscamos juntos alternativas que ayuden hacer un ejercicio de comercialización que
+contribuyan a superar esa situación, como también empoderar a las mujeres en mi caso,
+porque trabajaba con mujeres, para que hiciéramos exigencias ante el gobierno local, para
+el arreglo de vías, porque ellas son las que más sufren cuando tienen que sacar las cosechas,
+cuando tienen que hacer sus actividades cotidianas, por lo que no hay los servicios básicos,
+y también el tema de la, que las mujeres enteran, porque en el campo ya estamos hablando
+de ley 70, derechos de los negros y de las negras, pero la gente allá en la zona rural ni idea,
+entonces era como llevarle esa información, de que habíamos logrado una ley 70, que
+teníamos unos derechos, de que también como mujeres tenemos unos derechos, de la
+importancia de asociarnos para seguir haciendo ese apoyo mutuo que sabemos hacer las
+mujeres en el marco de nuestra solidaridad, como parte de nuestra cultura, la gente negra
+es muy solidaria pero que también como juntas pudiéramos reclamar más fácil derechos y
+como juntas pudiéramos incluso gestionar recursos para apoyo a nuestras iniciativas,
+entonces básicamente en eso consistía mi trabajo, y motivarlas a que se organizaron, que
+formarán grupos veredales, lo que después dio como origen en la asociación. Éramos 15
+grupos de mujeres de 15 veredas y después del desplazamiento pues se fueron muchas
+mujeres, algunas no volvieron y hoy nos mantenemos 10 grupos de mujeres
+ENT: Listo, lo pregunto porque eso es muy importante el mirar si había posibilidades de
+organización para esa época y qué sucede después cuando llega ese momento de
+exacerbación de violencia y cuando llega la incursión paramilitar que es a donde nos vamos
+a enmarcar en este momento en términos de la temporalidad.
+TEST, ¿en qué momento ustedes se percatan que llegaron los paramilitares? ¿eso fue
+progresivo o fue en un momento, un día que llegaron y ustedes estaban invadidas por todos
+lados de esta gente?
+TEST: Bueno, la presencia fue progresiva pero no nos habíamos dado cuenta, realmente nos
+dimos cuenta un domingo día de mercado que llegaron unas camionetas allá, bueno estoy
+hablando de cuando hicieron presencia en --------- llegaron unas camionetas allí a la
+comunidad un domingo y todos encapuchados, todos armados pero de civiles y con el
+brazalete de las AUC [INC: Autodefensas Unidas de Colombia] pero antes de eso, nosotros
+veíamos gente haciéndose pasar por loco, durmiendo debajo de los puentes, pasándose por
+las casas, una vez por ejemplo un loco se le metió a la casa a una señora y se pasó de un lado
+a otro, otra vendiendo que pollos, aparecía mucha gente vendiendo dizque pollitos de un
+día, cambiandolos por ollas, por cosas que no tenían ningún valor y eso nos generó sospecha
+pero pues no, como nunca había pasado pues no...y ese día fue una cosa espantosa, bien
+traumática cuando hicieron presencia en camionetas de alta gama, varias camionetas, ellos
+se bajaron de manera apresurada en la comunidad, en el centro del parque y se ubicaron
+estratégicamente, llenaron las zona de la plaza, se ubicaron estratégicamente como en
+acción vigilante, la gente pues bastante preocupada muy inquieta, estuvimos así todo el día
+y ese día iban a matar también a un señor de la comunidad y la gente intervino y en esa
+mediación se logró que no lo matarán pero después lo asesinaron de todas maneras
+
+ENT: ¿Y de que lo acusaban los paramilitares?
+TEST: La verdad yo había escuchado que robo de ganado, pero del común, no había
+escuchado de los Paras.
+Y la otra manera cuando nos dimos cuenta de los paramilitares era porque ellos hacían
+intervenciones esporádicas, por ejemplo, iban, hacían una acción y se iban, algunos sitios,
+como por ejemplo cuando hicieron la presencia en LUGAR3, me comentaban que ellos
+hicieron un retén como a veces lo hacían, vendían la chiva de arriba de las veredas, porque
+todo el que bajara de allá arriba de la montaña para ellos era guerrillero, entonces venía la
+chiva con la gente un día de mercado y los hicieron parar en cierto sitio que se llama
+LUGAR3, ahí en LUGAR3 los hicieron bajar y a los hombres, a varios de ellos los hicieron
+acostarse boca abajo, y ellos ahí asesinaron como a 3, ahí así boca abajo, mi hermano era
+uno ahí que estaba en ese momento, el dice que el estaba de quinto y en ese momento
+cuando asesinan a la tercera persona les timbra el radio teléfono y ahí mismo arrancaron
+que –“vámonos, vámonos, vamos guiones” y arrancaron y se fueron y entonces pues mi
+hermano llego ese día a la casa, yo no se como llego, porque llegó, parecía una gelatina, todo
+le temblaba, mudo, mudo y se tiro al piso, soltó todo lo que se tiró al piso y mudo, mudo, y
+nosotros sin saber que era que pasaba y el sin poder hablar, de LUGAR3 a la casa hay como
+20 minutos o media hora, entonces este tramo le toco que transitarlo después de tremendo
+susto y bueno de ahí ya empezamos a escuchar que los paras estaban por la --------- un sitio
+de -------- ¿como es que llama esto? creo que es la --------- en -------- por -----------------Colombia es que es, es límite entre el Cauca y el Valle por arriba, que se escuchaban que
+habían ingresado por allá hombres armados, bueno ya empezamos a escuchar cosas así que
+nunca había pasado, hasta cuando hicieron presencia ahí como que le dijo, este domingo, un
+domingo de mercado recuerdo tanto...[INTERRUP]
+ENT: ¿Recuerdas que año?
+TEST: 2000, eso fue como en ------------- del 2000, pero ellos empezaron hacer presencia en
+el 99, sino que así ya públicamente, abiertamente en el 2000, y en el 2001 hicieron la
+masacre en el LUGAR4, que entraron por LUGAR1
+ENT: Esa entrada o ese paso para la realización de la masacre del LUGAR4 también fue muy
+violenta en lo que sabemos para las comunidades de la parte baja, por ejemplo, ---------------- -------------- bueno, todas estas partes que iban subiendo, ¿como viven ustedes esa
+pasada, ese tránsito de los Paramilitares hacia la masacre del LUGAR4 y luego como ustedes
+se dan cuenta que empieza a bajar toda esa cantidad de gente huyéndole a la matanza?
+TEST: Bueno...Si, al principio fue...esa gente empezó a llegar a --------a reclutar gente, a
+amenazar, a matar mucha gente allá en el ------------------- eso llevaban en el día 2, 3
+personas, eso parecía un...a unas velocidades enormes, ya la gente le daba hasta miedo salir
+a la calle porque eso...o cuando veía una camioneta negra inmediatamente, o una de alta
+gama inmediatamente corría a esconderse, y uno luego escuchaba los disparos a la orilla
+del río, mataban a la gente y la tiraban al río, fue unos tiempos supremamente duros, la
+zozobra era impresionante porque en ese momento uno no sabía quien era, uno decía, ¿será
+un familiar? ¿será un conocido? era una angustia impresionante, era una impotencia a dar
+más y empezaron también a coquetear muchas mujeres, algunas también obligarlas, que
+tenían que lavarles, cocinarles, algunas mujeres a pesar que tenían sus esposos, por
+
+ejemplo, conocemos un caso de una señora, que incluso ella es de la organización, la hacían
+bajar de la cama a ella para dormir ellos, en las camas, llegaban a las casas y primero había
+que cocinarle a ellos, o sea, una cantidad de atropellos impresionantes, la gente pues ya no
+hacían las fiestas, ya a la gente a las 5 o 6 de la tarde ya estaba guardado en su casa, ellos se
+apoderaron como del pueblo, esas calles eran solas, ya por ejemplo la gente no iba, la gente
+que iba tanto de LUGAR5, de LUGAR2 a --------- ya la gente no iba, en --------ellos tuvieron
+como una base, porque allí había como una relación muy estrecha con la fuerza pública, la
+fuerza pública llegaba como hasta -------- ahí no se, hacían como sus acuerdos, como sus
+reuniones, y ellos empezaron como hacerlos (las autoridades pues en esa zona), hay una
+finca que se llama -------------- y ahí hacían reuniones en esa finca, esta finca de la familia (o
+era) de la familia CONOCIDO1, porque ya la compraron, el gobierno la compro en el marco
+de la negociación con los indígenas, se la compró a las comunidades indígenas, que fue un
+error además porque una finca en medio de las comunidades negras se las compra a las
+comunidades indígenas, generando un conflicto ahí territorial, pero bueno, ahí lo hemos
+sabido llevar, pero solo para decir que fue también un error haber hecho esa adquisición,
+volviendo al tema pues de los paramilitares, también hicieron una base militar en...pasando
+------------ sigue ---------y luego ----------- y en -----------se tomaron una finca muy bonita que
+había ahí en la entrada cerca a la escuela, y eso se tomaban la escuela, se tomaban...las
+profesoras a veces no podían dar clases porque ellos estaban invadidos los salones, ¡ay
+dios!
+ENT: ¿Quieres que paremos un momento?
+TEST: Voy a ver por las cámaras a ver quien es...
+ENT: TEST, escuchándote es un escenario muy violento, o sea, excesivamente violento
+durante esa época, hubo alguna otra también, incluyeron alguna otra estrategia los
+paramilitares para poderse asentar, porque digamos que ellos tienen un asentamiento de
+varios años para estas veredas y para estos municipios, no se si quizás dentro de lo que tu
+nombrabas de lo que pasaba con las mujeres, sí ellos utilizaron también la estrategia de
+relacionarse con las mujeres para asentarse aquí
+TEST: Sí, y para sacar información, para...Sí, efectivamente a las mujeres las usaron como
+armas de guerra, como estrategia para lograr ellos sus propósitos, de hecho, embarazaron
+algunas, algunas mujeres quedaron embarazadas de ellos de manera involuntaria y fue con
+ese propósito de ellos marcar territorio como decíamos
+ENT: Ok, marcar territorio...eso es contundente frente a esa estrategia que desplegaron los
+paramilitares, ¿quien comandaba en esa época los paras?
+TEST: Yo escuchaba que "RANGO1" a nivel pues como cuando supuestamente que había
+convenciones de ellos, reuniones por allá en las fincas, ellos tenían allá como 3 puntos,
+-------- la finca esta que le digo en ----------- y ---------- y la otra finca que le digo que era de
+----------era más como de paso, yo me imagino que como cuando llegaban iban los "duros"
+porque mucha gente habló de que iban avionetas, que llegaban aviones, entonces cuando
+eran esos tipos de movimiento eran como en esas fincas y ya así como a nivel permanente
+en la zona yo escuche uno que le decían "RANGO2" yo no supe como era el nombre de él,
+porque todo el mundo era que "RANGO2", y otro que le decían..."El RANGO2" y el otro
+"RANGO3" pero ese como que no era el nombre de él
+
+ENT: Hay algo que me llama la atención cuando tu dices "es que también empezaron a
+reclutar gente en el territorio" ¿ese reclutamiento era por igual de hombres y mujeres?
+TEST: No, eran más hombres
+ENT: ¿Y para que los reclutaban? es decir, ¿era para también digamos ser "paras" rasos o
+tenían unas funciones diferentes estas personas que reclutaban en la comunidad?
+TEST: Yo creo que en parte era, primero para engrosar sus filas militares, pero también para
+guías, para que sirvieran de guías, para información, y también yo creo que, en parte para
+marcar territorio, porque al haber gente de la zona con ellos pues de alguna manera
+buscaba que la comunidad nos aceptara
+ENT: O sea que no era que los reclutaran y se los llevaron para otro lado, sino que ellos
+mantenían allí en la zona
+TEST: Si, a algunos se los llevaban, algunos se los llevaron, de hecho, mucha gente
+desaparece, uno no supo que paso con muchos que se fueron, ellos se los llevaron, pero otra
+gran mayoría estaban ahí mismo, quedaban ahí mismo
+ENT: Entiendo un poco como se va configurando esta estrategia de los paramilitares allí,
+una pregunta, y es que lo que es -------- ---------están muy cerca de LUGAR2, realmente es
+bastante cerca...es muy muy cerca, y tu ya nos has dado visos de un relacionamiento con la
+fuerza pública y los paramilitares ¿pero que hay de la administración local? tanto de
+LUGAR1 como de LUGAR2, ¿que pasaba con los alcaldes? ¿ellos qué acciones desplegaron
+cuando estos paramilitares estaban allí? ¿o crees que los paramilitares alcanzaron también
+a entablar relaciones con alcaldes de esa época?
+TEST: Bueno, alguno, yo no sé hasta qué punto relaciones, pero si se que algunos eran...hubo
+un momento en que eran más obligados, –“o lo haces o te matamos” pero si hubo un caso de
+uno que se alió con ellos para llegar a la alcaldía
+ENT: ¿De quien estamos hablando?
+TEST: Estamos de hablando de CONOCIDO2
+ENT: ¿Él estaba lanzándose a cuál alcaldía?
+TEST: De LUGAR1, el aspiró a la alcaldía de LUGAR1 y él...yo no sé si presionado, no se
+cuales fueron las razones, pero ellos trabajaron con él, pero ellos exigen que había votar por
+él, él había aspirado en varias ocasiones y de hecho pues si...en esa vez ellos dijeron que el
+candidato era él y que había que votar por él
+ENT: ¿Y ganó?
+TEST: Si
+ENT: ¿Y cómo fue esa alcaldía de CONOCIDO2 en LUGAR1? ¿que implicó?
+TEST: No pues imagínese, eso fue yo creo que lo peor que le pudo haber pasado a LUGAR1,
+ahí nos fuimos de culo al estanco...
+ENT: ¿Y qué era lo que sucedía? ¿cómo fue esa administración?
+TEST: No pues nosotros sentimos que era como la administración de ellos, o sea, una
+administración totalmente cooptada, pero además...es que el señor no estaba preparado
+para eso, un señor creo que a dudas penas había sido...no era ni bachiller, no había tenido la
+posibilidad de...él había sido concejal, le gustaba su tema político sí, pero realmente él no
+tenía el perfil para dirigir el municipio, y pues el municipio hecho mucho para atrás porque
+no presentaron los informes que había que presentar, o sea, muchos líos con la
+
+procuraduría, contratos inadecuados, de hecho el señor estuvo preso, CONOCIDO2 cuando
+salió de allí lo cogieron preso, él estuvo no se cuantos años en la cárcel por malos manejos
+ENT: ¿Pero nunca un proceso vinculado por los paramilitares?
+TEST: Yo creo que no
+ENT: ¿Y tú crees que durante esa administración los paramilitares tuvieron recursos de la
+alcaldía?
+TEST: Si claro, si, si, si, claro, era muy evidente
+ENT: ¿Él por qué partido se lanzo (CONOCIDO2)?
+TEST: Me parece que era el Liberal
+ENT: ¿En el Norte votan muy liberal no?
+TEST: Sí, no estoy segura, pero creo que él era liberal, porque él era de camisa roja
+ENT: ¿Y su gabinete, su gobierno lo compuso...digamos, como fue la construcción de ese
+gabinete de gobierno? ¿Quienes estaban allí en esa tarea?
+TEST: No, eso si fue gente de la zona, yo no recuerdo haber visto a gente de...Ah bueno, creo
+que había una señora que era muy influyente, ella era como...se hacía mucho lo que ella
+decía según decían, ella era como de Pasto, como de por allá del sur, pero de resto la gente
+era de la zona, la gente era de las veredas
+ENT: ¿Esa es la única vez que ustedes tienen indicios de que los paramilitares hayan
+incidido en elección locales allá en LUGAR1, o hubo una segunda vez que ellos también se
+hayan atrevido apoyar candidaturas?
+TEST: Pues así abiertamente que yo sepa solo esa, me di cuenta de otros hechos pero más
+que les tocó hablar con ellos para buscar respeto y que dejaran trabajar, no sé, lo que no sé
+en qué términos fueron sus diálogos sus negociaciones, pero si se que por ejemplo en la
+administración de CONOCIDO3 en la primera, porque creo que el fue 2 veces alcalde, a él le
+tocó buscar diálogo con ellos para que lo dejaran trabajar y entonces la verdad no se, no
+tengo los detalles en qué consistió ese diálogo, si eso implicó arreglos, si implico plata, no se,
+la verdad no se, pero si...pues era los que estaban en la zona, como cuando estaba la
+guerrilla, cuando estaba la guerrilla yo escuchaba que la guerrilla a veces mandaba a llamar
+a los funcionarios, mandaba a llamar a la montaña, de vez en cuando uno escuchaba que la
+guerrilla mando a llamar al secretario de gobierno, yo no sé qué harían, qué les dirían, yo
+entiendo que generalmente era ajuste el tema de donde están los recursos para esta vía, que
+paso con la planta, que paso...o necesitamos hacer este puente, era como más apretándolos
+en ese sentido de que hicieran obras...pero me imagino que igual haría los paramilitares, no
+para lo comunitario porque ellos...por lo menos acá en la zona yo no recuerdo que hayan
+hecho acciones sociales, los paras, pero me imagino que para sostenerse, para que los dejen
+estar, no se...
+ENT: Tú decías que ellos (los paramilitares) tenían como un centro de operaciones en -------y en estas fincas que tú señalabas, pero ahí digamos que también hay una coincidencia
+sobre LUGAR6, ¿por qué LUGAR6 era tan estratégico también ese control?
+TEST: Porque era como el punto de...Ahí en LUGAR6 era como la entrada, como la puerta de
+entrada a la región del LUGAR4 y como ellos llegaron fue prendiendo, o sea, como haciendo
+su alistamiento, porque acá ellos tuvieron casi creo que 1 año, hasta cuando hicieron la
+masacre de LUGAR4, entonces ellos llegaron fue haciendo toda una inteligencia y copando
+
+espacio, y pues la entrada a LUGAR6 era como la puerta de la región, entonces la entrada a
+LUGAR6 es como la entrada a la región, entonces LUGAR6 era estratégico por eso, y cuando
+la masacre del LUGAR4 ellos mandaron razón a las comunidades, de que o se salían o los
+mataban y entonces allí mucha gente se desplazó, a raíz de esa razón que ellos mandaron y
+ellos entraron a mucha gente en el camino, se toparon con gente en el camino, asesinaron a
+gente en el camino, violaron mujeres, ellos iban haciendo como estancia por caseríos y en
+algunos casos iban asesinando, violando...Uish...eso fue una plaga, fue terrible
+ENT: Dentro de estos ya varios años, ya casi un siglo, más de 20 años que sucedió la llegada
+y lo que fue la masacre del LUGAR4, ¿dentro de sus análisis a qué conclusión llegan sobre
+cuál era el interés que tenían los paramilitares sobre esta zona, sobre el municipio de
+LUGAR1? ¿que los movía? ¿cual era el interés o quien los trajo?
+TEST: Bueno, para mi los trajeron los empresarios, los empresarios los trajeron, yo
+entiendo, lo que entiendo es que por una lado la guerrilla pedía vacunas, por otro lado hay
+mucho interés en la zona de hacer megaproyectos y una manera de que entren las
+empresas, que entren su personal, era que la guerrilla no los secuestraron, era quitando la
+guerrilla del medio, y entonces por un lado el interés en el territorio para hacer sus
+empresas, evitar pagar vacunas que la guerrilla les cobraba, pero yo creo que
+fundamentalmente era el control de la zona, incluido poder hacer sus empresas en la región
+ENT: ¿De qué empresas estaríamos hablando TEST?
+TEST: Nosotros creemos que muchas empresas del valle, están ingenios, está ese tema de
+huevos Kikes, está el ingenio azucarero que es el que está acá en la región, eso es como lo
+más claros, también políticos, yo entiendo que había una relación muy estrecha entre esta
+gente CONOCIDO4 con los "paras" y todo el todo el tema del Arribismo, o sea, la corriente
+----------porque de hecho en el 2002 para esas elecciones ellos llegaron a la Balsa justo
+cercano a esas elecciones del 2002 y llegaron haciéndole campaña abiertamente a Uribe, o
+sea, la orden era que había que votar por Álvaro Uribe Vélez en el 2002, para la presidencia
+del 2002, entonces ellos llegaron y a los añitos como al año o 2 años, creo que fue como a los
+2 años porque ellos llegaron en el 2000, fue la elección, pero ellos empezaron a trabajar
+desde antes de la elección por supuesto, en todo el tema de la campaña y que había que
+votar por él y de hecho Álvaro Uribe ganó allá en toda esa región, entonces ahí ya había
+intereses políticos, el tema de la minería fue muy fuerte, por ejemplo, el cerro --------- me da
+pena decirle pero esta vuelto mierda, me da pena usar esta frase pero es para ponerlo en la
+magnitud que uno siente, eso lo han susungueado de una manera impresionante y fue justo
+a partir de la presencia de los paramilitares en esa zona y a nosotros nos ha tocado ver
+mucho como hombres que andaban con el brazalete después andaban como caminas allá en
+la zona, como mineros, entonces para mi fue el tema político, el tema minero y el tema de
+control territorial
+ENT: Un poco para ir encuadrando y quizás poder profundizar y es cuando tu nombras los
+ingenios y los empresarios del Valle del Cauca, ¿ustedes han encontrado una relación en la
+expansión de los cultivos de caña de azúcar con la presencia paramilitar en esa época?
+TEST: No yo creo que pues el tema de la expansión de la caña ha sido como muy
+permanente y no se ha debido solo al tema del paramilitarismo, yo creo que es más la
+minería ilegal sí se expandió mucho con el paramilitarismo y la caña obedeció más como a
+
+factores de apropiación territorial de otra manera, inclusive a veces como con concurso del
+estado, como la Caja Agraria, que endeudaban a la gente y luego expropiaba, o sea, alguien
+que tenía plata le ofreció pagarle la deuda al banco y se quedaba con las tierras, pero era
+una estrategia para quitarle la tierra a la gente, entre muchas otras, yo creo que cuando el
+paramilitarismo, es la lectura que yo hago, ya tiene que ver más con lo de vacunas, entonces
+cómo tenían que pagarle a la guerrilla creo entonces ellos prefirieron pagar su ejército, en
+ese caso los paras, que venían con respaldo político y militar, para evitarse el problema de la
+guerrilla, entonces ahí tuvieron que ver los cañeros, para mi, pues desde mi lectura
+ENT: TEST hay una pregunta que ha salido mucho en todas las entrevistas que hemos
+realizado y cuando tu dices “es que yo se convirtieron como casi que en una autoridad acá
+en el territorio” ese haberse convertido en casi una autoridad también se veía en que los
+problemas o los conflictos que son normales en cualquier comunidad, en cualquier colectivo
+humano, ¿ellos empezaron a asumir la tramitación de esos conflictos? es decir, ¿la gente
+terminó acudiendo a ellos para resolver problemas?
+TEST: ¿Los Paras? yo creo y tengo más conocimiento que acudían a la guerrilla, a los paras
+no, la verdad no...yo sentí que la relación con los paras era más forzada, mas de miedo...
+ENT: En ese sentido de esta relación pasada por el miedo, muy por el terror, porque todo lo
+que tu dices de dejar cuerpos, de matar gente, del río, finalmente lo que hace es establecer
+terror, un ambiente de terror todo el tiempo, en ese ambiente de terror ¿que tipo de
+acciones emprendió la comunidad hace muy en chiquito para poder protegerse y salvar la
+vida por ejemplo?
+TEST: Depende, hicieron muchas cosas, por ejemplo a nivel de las mujeres el hecho...ellas se
+organizaban y empezaban a...por ejemplo, para que no les reclutaran los muchachos
+empezaron a crear grupos de danza, entonces a mantenerlos como ocupados, lo otro es que
+entre la misma...hubo un momento en que la gente busco apoyo de la Defensoría, pero
+también hubo un momento en que todo se filtraba, no demoraba la gente en decir algo y ya
+los mismo paras lo sabían, entonces empezó ya a generar mucha desconfianza en las
+instituciones, la misma fuerza publica, pero si hubo un momento en que la gente empezó
+como acudir especialmente a la defensoría
+ENT: Tu has nombrado algo muy importante cuando tu dices "es que especialmente lo que
+se intensifica con la presencia paramilitar es la minería” ¿la minería ya tenía como presencia
+en algunos territorios o llega ya de manera mucho más fuerte en la época paramilitar? ¿y
+donde se concentra esa minería?
+TEST: Bueno yo lo que entiendo es que efectivamente ya habían algunas empresas
+multinacionales, como ORGANIZACIÓN INTERNACIONAL1 entre otras, como solicitando
+exploración y títulos mineros en la zona, específicamente LUGAR1, -----------------------, y ahí
+pues el movimiento social era el fuerte, nos estamos oponiendo a esos títulos, exigiendo
+consulta previa y todo pues el proceso legal, y pues justamente también lo que hizo la
+presencia de estos grupos fue desarticular toda esta unidad que estábamos construyendo
+las organizaciones en la región para la defensa de nuestros derechos porque ya no nos
+reunimos y si uno se reunía ya era con temor, ya no teníamos los mismos niveles de debates
+y pues rápidamente se otorgaron algunos títulos mineros en esas épocas sin hacer procesos
+de...claro, porque la gente atemorizada...es como lo que está pasando hoy, habrá ahora un
+
+proceso de consulta con el COVID ¿quien va? [RISAS] entonces era así, había un temor muy
+exacerbado por las acciones que ellos llegaron haciendo en el territorio y eso afectó el
+fortalecimiento y la dinámica social en la zona
+ENT: Y en cuanto a la minería ilegal digamos ¿ellos también afianzaron esta actividad más
+de tipo ilegal en los territorios?
+TEST: Sí claro, porque ahí fue que empezaron, después de eso empezaron a llegar las
+maquinas, las retos, por acá no se sabía de eso, de retroexcavadoras, con la presencia de los
+paramilitares al lado de ellos llegaron las retos hacer tremendos socavones en nuestros
+territorios, a acabar con los ríos y pues imagínese, gente armada ¿quien decía que?
+ENT: Con la llegada de la minería o más bien de poderle dar viabilidad a la minería tanto de
+la multinacional como de la minería ilegal, ¿como vinculan a las comunidades a esas
+actividades?
+TEST: Bueno, los que llegaron inicialmente para mi al lado de los paramilitares fueron los
+paisas, entonces eran los paisas los que compraban las bocaminas, los paisas, por ejemplo,
+usted se tenia su bocamina entonces llegaba a mi casa y me ofrecía, “vea allí eso pinta bien,
+usted no tiene plata nos asociamos, yo tengo el dinero que se necesita para comprar la
+maquinaria y la infraestructura que se requiere para hacer una explotación para que nos
+vaya bien a todos” y si, efectivamente mucha gente hizo negocio con ellos convencidos de
+que con el capital que ellos pusieran pues iban a poder extraer mejor el oro y de repente
+cuando les fueron fue llegando con máquinas, que por que eso era mejor, que era más
+efectivo, que no se y pues esos tipos respaldados por actores armados nadie se oponía a lo
+que ellos ya empezaron a hacer en el territorio, entonces la manera como ellos también
+establecieron la relaciones con la gente fue aparentemente a través de negocios e incluso
+después le decían “mire, yo ya he invertido mucha plata aquí, yo ya he invertido más de 50
+millones de pesos, usted no tenía sino una sola bocamina, yo le doy 5 millones más y usted
+se va” y a muchísima gente, sobretodo en el cerro que le digo que esta todo vuelto mierda,
+fue así, o sea, mucha gente de la zona los sacaron, y hoy esos huecos están en manos de
+paisas, de pastusos, muy pocos pero muy pocos en manos de la gente de ahí de la
+comunidad, eso es prácticamente una invasión lo que Ud. ve en el cerro --------- da tristeza
+uno moverse por esos lados porque era un sitio que era como de conservación, que era
+como de generación de vida porque de allí nace, se nutre el rio y que era una zona de vida,
+hoy ver eso todo lleno de cambuches como invasión y son puras bocaminas, pura gente que
+se ha venido de pasto, de muchas regiones, de Antioquia y se han ubicado en esa región y
+con eso pues el tema...hay zonas donde uno no puede moverse, por esa zona porque...o sea,
+los temas de seguridad son impresionantes, gente armada, no puede uno mirarlos porque
+ya lo están mirando mal, con solo la mirada generan terror, bueno es una cosa terrible la
+que aun seguimos viviendo en algunas regiones de acá del municipio, especialmente en
+LUGAR1
+ENT: Y que implicó todo este auge, expansión de la minería, con ese nivel además de tener
+estos cordones de seguridad, como tan protegido y de sacar la gente, ¿esto que implico para
+las mujeres? ¿cambia su relación con el territorio o ellas digamos que otros roles
+empezaron a desempeñar? ¿como eran contratadas? ¿que tipo de violencias se ejercían en el
+marco de esa minería?
+
+TEST: Bueno por un lado las mujeres perdieron su autonomía frente a la minería
+tradicional, porque ya no podían trabajar en esos...por ejemplo, la gente iba y trabajaba a la
+orilla de los ríos, cualquier parte, o sea, ese era como un sitio comunitario donde cualquiera
+se hacía en cualquier lado y sacaba, ahora ya no, ya empezó eso como a privatizarse, ya no
+se puede mover aquí, ya no puede de acá, ya solo puede sacar de acá y hoy día como está la
+situación es que ni siquiera la gente encuentra oro, ya a las mujeres les toca irse a otros
+lados para poder conseguir cualquier gramito para completar lo de su comida, porque ya en
+el rio como utilizan esos químicos que recogen todo el oro, unos químicos que son como
+aglutinadores entonces la gente ya no consigue, mientras que en la minería artesanal la
+gente lavaba y con la creciente, el rio volvía y recuperaba y Ud. iba mañana después de que
+había pasado la corriente, ahí donde estuvo ayer y ahí encontraba otra vez, porque el río
+mismo como que se hacia ese proceso de recuperación, entonces estaba siempre como en
+esa permanente ciclo, con ese ciclo, pero ya al venir con tanta maquinaria, haciendo esos
+socavones tan impresionantes, allá me dicen que hay bocaminas de kilómetros, imagínese,
+hacia abajo y luego hacia los lados, eso es impresionante allá en ese cerro, eso antes no se
+veía, era sobre el rio, era una cosa mas como en armonía con la naturaleza y por supuesto
+que las mujeres muchas les tocó irse para ----- dejando sus hijas y sus hijos solos. También
+se ha visto mucho eso de que esta gente a la muchacha jóvenes y bonitas pues empiezan a
+ofrecerles cosas, a ofrecerles dinero y ha habido esto mucho de enamoramiento interesado
+ahí, deterioro de familias porque pues ya el papa empieza a echarle la culpa a la mamá que
+ha malcriado la hija, ha habido pues deterioro de relaciones familiares...Desplazamiento
+porque los chicos han preferido también irse porque no tienen ya la misma posibilidad de
+generar ingresos en su territorio, pero también algunos por evitarse pues todo ese tema de
+reclutamientos y de ese ambiente que generaba ese tipo de minería en la zona entonces
+prefieren irse, la mujeres anteriormente estaban 3 días en la minería por ejemplo, 2 días en
+la minería y 3 días en la agricultura, hoy muchas a duras penas pueden estar en la
+agricultura, y es complejo porque la minería te daba con 2 días que iban tenían para
+comprar su azúcar, su sal, su arroz y lo demás lo producían en la finca, entonces eso también
+ha generado inseguridad alimentaria, tienen mayores dificultades para que la mujer que son
+quienes más asumen el tema de la educación de los hijos, para que las mujeres lo puedan
+hacer se presentan más dificultades, porque claro, ellas se iban a la mina y ellas trabajan 2
+días, por ejemplo, los dedicaban a las cosas de sus hijos, sus útiles, cuadernos, ahora a
+despensa solo en la agricultura a muchas les queda mucho más difícil, entonces si ha
+afectado todo el tema de generación de ingresos y de seguridad alimentaria
+ENT: ¿O sea que la minería nunca genero plata que rotara y que la gente por lo menos
+pudiera participar de ese boom en ese momento? o sea, nunca lo genero
+TEST: Para la gente de la comunidad no
+ENT: Ese tema de la minería de lo que tú estás narrando, ¿trajo nuevas violencias? como que
+empezaron a germinar otros puntos de violencia allá en el territorio?
+TEST: Si, claro, porque a veces se daban hasta disputas por sitios, por ejemplo, que aquí este
+señor de las pailas que ya se llama CONOCIDO5 entonces se generaban disputas,
+empezaron...uno empezó a sentir como que grupos que respaldaban a ciertos grupos
+armados y muchas veces incluso reclutaban a pelados de la misma zona y entonces les
+
+entregaban armas y era como quien hacían el trabajo de cuidado y de inteligencia para por
+decir algo, hay un sector que se llama ----------- entonces todo eso son mineros paisas, y hay
+otro sector que se llama...no recuerdo el nombre, esos son otros mineros y entonces cada
+quien tiene como su ejército privado y muchos de esos pelados son de la zona, entonces un
+reclutamiento ahí irregular en función de la minería, y eso por supuesto genera temas de
+inseguridad porque muchos de esos muchachos pues ya también con un arma se creen los
+putas y empiezan también a cometer actos de violencia contra su misma gente, incluso
+violaron mujeres, o a tomarlas sin su consentimiento sino que ellas también intimidadas por
+las armas pues acceden y empiezan a generar afectación a los derechos de su misma gente
+ENT: Si esto que tu nos dices de la minería digamos todas las dimensiones tanto en lo social
+como en lo económico es absolutamente tremendo, ¿pero también hubo sectores o ustedes
+han evidenciado sectores políticos que avalan y que están a favor y que han de hecho
+facilitado también que la minería se haya expandido?
+TEST: Sí, yo creo que precisamente por no haber un adecuado control político es que la
+minería ilegal se ha expandido como se ha expandido, yo creo que no solo hay políticos
+untados sino también instituciones en general, por ejemplo uno no ha visto una acción
+concreta de la fiscalía, las retros que se decomisaron acá cuando esa catástrofe en LUGAR2
+fue porque la presión de la gente con apoyo incluso de derechos humanos, ahí fue que
+medio funcionó un poquito la cosa, pero con todo y eso la fiscalía entregaron más de una
+máquina, entonces no hay una labor real y honesta de los funcionarios, sino que uno lo que
+siente es que hay una convivencia con esa gente y con esas prácticas de los funcionarios que
+tienen que otorgar licencias y que tienen que otorgar permisos de circulación, en fin, yo no
+sé si es por qué les pagan o si también es por qué están amenazados, pero lo que uno ve es
+que la institucionalidad no ha tenido autoridad
+ENT: Hablemos del narcotráfico, tu nos decías que para los 80's el tema de la coca estaba
+más para el LUGAR4 pero no estaba para las partes más bajas, ¿en que momento empiezan
+ustedes a percatarse que está llegando esta economía del narcotráfico pero que además la
+gente empieza a cultivar coca?
+TEST: Bueno yo creo que de manera desproporcionada ahorita después del acuerdo de paz,
+estamos en una cosa espeluznante, o sea, es una cosa increíble, uno dice, bueno antes que la
+guerrilla estaba allá arriba en la montaña...acá abajo había control y ¿ahora que pasa que no
+controlan?
+ENT: ¿Quien controlaba antes?
+TEST: La fuerza pública, el ejército, a policía que se movía más acá abajo, y ahora ya yo creo
+que hay mas coca acá abajo que arriba, es una cosa totalmente invertida, que uno dice
+bueno, pero qué es lo que se está moviendo aquí, porque los están haciendo a ojos del
+ejército a ojos de la policía, a los ojos de todo el mundo y nadie actúa, y entonces uno dice,
+bueno, ¿qué es lo que está pasando aquí? cuando se supone que el acuerdo lo que decía era
+que había que erradicar y que había sustituir y lo que estamos viendo aquí es un total
+incentivo para esta gente extraña que ha llegado al territorio que nosotros le llamamos
+paisas pues incrementen sus cultivos, a veces toman los terrenos alquilados, ofrecen mucho
+dinero a la gente que les alquile por 2, 3, 4 años, a veces los compran, utilizan distintas
+estrategias también pero igual para sembrar coca, entonces sitios donde Ud. nunca había
+
+visto una mata de coca, hoy...yo de hecho tengo preocupación por mi finca, porque a veces
+en ese sector donde esta mi finquita no había coca y hoy día uno va para allá y ya desde la
+carretera se ve, entonces uno dice ¿dios mío, qué va a pasar acá? y como eso en muchos
+sectores no había una mata de coca y después del acuerdo de paz antes en vez de haber
+mayor control por parte del Estado esto se ha vuelto nada...y yo tengo conocimiento de la
+parte alta, yo no conocía la coca, yo sabía que arriba por el LUGAR4, que por ------------- que
+no se, y bueno, el negocio de la coca, que allá era bueno, hay gente que se iba para allá que a
+raspar coca y después antes de la firma del acuerdo de paz si empezó como a salir más acá,
+digamos yo creo que hacía...a ver...lo de los paras fue como hacia el 2004, yo creo que en esa
+época 2005-2006 empezó a salir la coca, yo incluso en algún momento he dicho que los
+paras también vinieron a sembrar coca, porque es que justamente cuando hacen presencia
+ellos en la zona empieza a dispararse la coca...y ahora pues si está desbordada, ahora ni
+hablar...
+ENT: ¿En ese momento lo que sucede con el tema del narcotráfico y la coca, se habla de
+carteles o se habla de personas? ¿o sea, fulanito tal el que tiene el control de esta zona o son
+carteles los que están manejando el negocio, pues apoyados por grupos armados?
+TEST: Yo escucho mas de personas, yo escucho mas de personas, para la zona de -----------,
+de por acá de la zona ----------- he escuchado que el Cartel Sinaloa, he escuchado esos
+comentarios, también se escucha hablar de la Jaime Martínez que tienen relación desde
+------------, desde el -------------- Cauca, pero acá en sí yo he escuchado más de personas, que
+este es el que tiene el negocio tal, que este es el que tiene el negocio no se que y bueno las
+disidencias, las disidencias te dicen que no solo están cuidando...están como cuidando esos
+cultivos sino que también están sembrando y otros grupos que han aparecido en la zona,
+pero siempre como con el interés de cuidar esos cultivos, de cuidar sus trafico, y ahí es
+donde uno dice, ¿que pasa con la fuerza pública? si la gente sabe lo que está pasando y la
+fuerza pública como no va a saber que pasa por sus narices tales cosas, entonces el
+panorama ahora es bien complicado, teníamos una esperanza enorme con lo de la firma del
+acuerdo de paz y su implementación pero la verdad es que nosotros sentimos que el
+acuerdo de paz no hace parte de manera real de la agenda de este gobierno y por lo tanto no
+hay un compromiso real para el avance en la implementación de ese acuerdo, lo que hace
+que todo se más difícil, especialmente para nosotros, las comunidades que hoy...esto parece
+un bulto de alambre, uno no sabe por dónde entrarle porque es mucha. O sea, hay mucha
+cosa, es una cosa que mejor dicho uno tiene que estar es como a toda hora a la...
+ENT: Claro y con esa revoltura de cosas, minería, narcotráfico, carteles, grupos armados y la
+indiferencia o quizás otras cosas que pasan ahí y que es muy difícil saber qué hacer, para
+dónde coger. TEST tú nos has dado pues un panorama muy, muy difícil para las ciudades de
+LUGAR1, muy complejo, desde lo que esa presencia preliminar de las FARC, luego esa
+embestida paramilitar tan horrible, todo ese terror que genera, a este punto, en todo ese
+proceso, ese recorrido, este trabajo que tú has hecho de la mano con las mujeres allá, dentro
+de las afectaciones que ustedes se encuentran ¿cuales podrías tu enumerar acerca de las
+afectaciones a la cultura que comunidades negras ustedes han tenido?
+TEST: Las afectaciones a nuestra cultura...no pues...mucho, mucho, ha sido enorme, ha sido
+una afectación profunda, comenzando por las formas de trabajo, lo que le decía, la gente
+
+cultural de la gente que iban un tiempo a la minería, otro tiempo a la agricultura entonces se
+bandeaba entre lo uno y lo otro, o sea, eso se complementaba, y pues la gente no pasaba
+tanto trabajo como hoy, por otro lado el tema del intercambio, se intercambiaba más fácil
+los bienes y servicios los compartíamos con mucha más facilidad, porque casi que había
+para todo, habían para todos, había mas como esa relación de solidaridad, del compartir, de
+lo colectivo, ahora la situación esta más individualizada porque pues cada quien busca cómo
+sobrevivir y eso también paso mucho en el paramilitarismo, hubo gente que como no podía,
+así Ud. supiera que yo no era mala si iba a defenderme la mataban...entonces se empezó a
+sembrar también como ese individualismo, defiéndase Ud. y el otro verá, lo otro es la fiestas
+tradicionales, nosotros celebrábamos con mucha fuerza en todo el --------------Cauca las
+fiestas tradicionales, nosotros le llamábamos las...bueno si, las fiestas tradicionales en cada
+uno de los pueblos, hoy eso se ha ido perdiendo porque justamente en el tiempo del
+paramilitarismo la gente no podía reunirse, yo recuerdo un diciembre en --------- nosotros
+siempre en diciembre la gente eso salía medio pueblo, el uno a saludar al otro, a las 12 de la
+noche después que se daba la visita en la casa, no, eso salía el uno para una casa, el otro para
+el otro, le llevaba que la natilla, el buñuelo, la champaña, de aquí traían, eso era todo el resto
+de la madrugada eso se pasaba de un vecino a otro, porque hay había que visitar a todos los
+vecinos mas cercanos, y todos los vecinos más cercanos lo visitaban a uno, eso parecía...era
+una fiesta realmente y me toco, recuerdo el primer diciembre, todo el mundo a las 6 de la
+tarde encerrado en su casa, una cosa que nunca lo habíamos visto, eso generó un impacto
+psicológico, un impacto o sea, eso fue terrible para la comunidad...también en la parte de...yo
+creo que también de alguna manera se perdió...a nosotros las mujeres se nos dio como cosa,
+se nos empezó...o sea como que ya no había ese respeto, esa reverencia con las mujeres, ya
+nos vieron como presa fácil, nos empezaron a ver como objeto, de hecho algunos decían,
+algunas mujeres les decían “ahí va la sobra de los paras” a los niños que fueron fruto de esas
+relaciones forzadas les llamaban "paraquitas" les decían "esos son paraquitos" o sea, fue...y
+entonces era como que no te juntes con el que el papa es Paraco, realmente al colectivo y a
+la parte cultural nos afecto muchísimo, en la parte psicológica...
+ENT: TEST, ¿y dentro esas afectaciones de lo que tiene que ver con la espiritualidad, qué
+cambios observan ustedes que tuvieron luego de esta embestida y del paso de los
+paramilitares sobre su espiritualidad y sus prácticas espirituales?
+TEST: Yo creo que mucha gente se aferró más a los espacios religiosos protestantes creo yo
+que se dicen, mucha gente acogió estos espacios, otra gente...como también los tildaban, por
+ejemplo mayores que sabían rezar, entonces muchos infiltrados...como amenazados pues,
+médicos tradicionales, médicos mayores, la sabiduría de los mayores era como una
+amenaza para ellos entonces mucha gente dejó de practicarlo por miedo a que lo fueran a
+matar, su espiritualidad ancestral siempre se perdió porque mucha gente la oculto y lo dejo
+de hacerlo por eso, y otras se replegaron más hacia las iglesias evangélicas, buscando
+acercarse más a dios, que se yo...
+ENT: ¿En algún momento no se si de pronto hombres y mujeres vieron en las iglesias
+evangélicas también alguna forma de protección?
+TEST: Sí, total, en ---------por lo menos pasó mucho que la gente se juntaba a orar para que
+esa gente se fuera, que pasarán esas tormentas, la gente se acercaba mucho para orar
+
+ENT: Acerca de las afectaciones del territorio tu ya nos has dicho que volvieron nada con el
+tema de la minería, digamos las afectaciones también con los cultivos de coca y demás, pero
+quisiera preguntarte dentro de lo que hemos escuchado por el informe, pero también por
+diversas voces de mujeres en el Norte y es que sin duda alguna una afectación muy fuerte
+que se tuvo fue con la relación con el río
+TEST: Si claro, porque como te dije antes para ellos el río era el cementerio y para nosotros
+el río era donde lavábamos, donde nos bañábamos, donde íbamos a recoger el agua, para
+hacer nuestras actividades en la casa pero también era donde...el día domingo la gente se
+iba hacer su arroz con papa, ¿Ud. sabe que significa un arroz con papa para nosotros los
+negros en el río?
+ENT: No señora
+TEST: [RISAS] yo creo que haga de cuenta allá en --------que es el plato típico más apetecido
+por los ----------, eso significaba para nosotros irnos al río a hacer un arroz con papa
+amarilla, si no era amarilla no servía, no funcionaba, pero también era el espacio donde uno
+se reunía con sus hijos porque mientras la mamá lavaba el papá con los hijos llevaban la
+pelota, jugaban futbol, hacían el arroz, y el vecino compartían, montaban la olla juntos, o sea,
+era como un espacio de articulación comunitaria, era como cuando Ud. coge con su vecino y
+se va para la piscina, pues nosotros éramos para el río, eso se acabó porque ya la gente no
+puede ir al río porque en cualquier momento llegaban ellos "pin" a matar la gente ahí o en
+cualquier momento empezaba a pasar cuerpos cerca donde estaba la gente bañando o
+lavando, el cuerpo sin vida por supuesto, el tema de la pesca se redujo enormemente porque
+los pescadores ya no salían porque en vez de coger un pescado cogían una mano, un pie, el
+tema de la comida, por ejemplo, mi esposo era pescador, el pescaba, él hacía varias cosas,
+pero entre ellas le gustaba pescar y mi hermano mayor también le gusta la pesca y esos
+pescados sabían ya era como a petróleo, o sea, y ya la gente dejó de consumir el pescado,
+entonces para pescaban si nadie le compraba, llegó la época en que la gente no consumía
+pescado del río, entonces el río que era fuente de recreación, fuente de vida, fuente de
+articulación familiar, fuente de trabajo, porque en el caso de los pescadores de eso vivían
+familias enteras, pues dejó de hacerlo, así que para nosotros el río que es vida lo
+convirtieron en un cementerio
+ENT: ¿Y ustedes en este proceso organizativo que lleva bastante tiempo, un trabajo muy de
+hormiguita allá en cada vereda de LUGAR1, las comunidades han logrado recuperar algo de
+ese territorio, de esa relación con el río, de esa cultura, de esa ancestralidad?
+TEST: Se está intentando, ya la gente está volviendo al río, se han hecho varios rituales de
+sanación, si, se está intentando pero no es fácil
+ENT: Hay algo que tu nombras y que pao me decía y es importante ponerlo y es el tema de la
+afectaciones a los niños y a las niñas en términos psicosociales, también de lo educativo,
+¿como ha sido ese proceso, uno, de estigmatización, eso que decías de los niños que les
+dicen "los paraquitos", como ha sido para la comunidad transitar de la estigmatización a la
+inclusión? ¿o todavía se sigue estigmatizando?
+TEST: No yo creo que eso ha mermado bastante, también porque muchos las mamas los han
+sacado de la zona, se han ido, pero si en general ha mermado, antes si fue muy fuerte y
+también porque las mismas organizaciones hemos hecho trabajo de sensibilización, pues
+
+finalmente esas criaturas no tienen la culpa
+ENT: Si por supuesto, pero es triste saber que eso ha mermado porque los han tenido que
+sacar de la zona, o sea, mirar el nivel al que llegó la situación de señalamiento y
+estigmatización, para los niños crecen, niños y niñas, que crecen en ese ambiente de terror,
+como tu decías, que pasaban cuerpos por el río ¿como ha sido para ellos y ellas o que han
+evidenciado ustedes en términos de los psicológico en la afectación de esos niños que
+crecieron en un ambiente de terror en cuanto a los paramilitares?
+TEST: Eso también es otra consecuencia terrible, se han perdido muchos valores, los
+muchachos hoy día creen que tener un arma es tenerlo todo, que el arma les da poder,
+entonces los mayores han perdido autoridad frente a esos muchachos, el tema de la
+drogadicción precisamente en muchas de nuestras comunidades se disparó, con la
+presencia de esta gente, porque entre otras cosas muchos de ellos también vinieron fue a
+enseñar a meter droga, entonces la descomposición social en nuestras veredas que hoy
+vivimos y lo debemos a partir de la incursión paramilitar
+ENT: Claro una cuestión ahí muy fuerte que desbarata la estructura familiar en la gente.
+TEST esta entrevista no puede terminar, hay todavía otras pregunticas, no tantas, pero
+otras, pero esta entrevista no puede pasar por alto el tema de la discriminación y el racismo
+y es el racismo y la discriminación ¿como se evidencio bajo la presencia de los actores
+armados? ¿como se expresó ese racismo allá en las comunidades?
+TEST: Bueno, desde el lenguaje, desde la expresión, desde la expresión...de una manera
+despectiva se referían a las negras y a los negros con mucha frecuencia, siempre para lo
+negativo, entonces por supuesto que sí lo usaban...por ejemplo la mayoría de los negros en
+esas filas los usaban para cargar los maletines, para cargar...como la carga, como animal de
+carga por así decirlo, y sobre todo en el lenguaje
+ENT: ¿Esas maneras, esas formas en que se expresaron también dieron cuenta de la manera
+como ejercían violencia? es decir, había una cierta violencia que se ejercía sobre
+comunidades negras que variaba de la forma de violencia que se ejercía con las
+comunidades indígenas, ustedes han encontrado unas diferencias?
+TEST: Sí yo creo que la gente negra la torturaban, había mas acciones como crueles, de
+crueldad, había como más sufrimiento para asesinarlos, por ejemplo, en ----------- varias
+personas las mataron y utilizaron sus cabezas como balón de futbol, yo no se donde mas lo
+usaron pero es una cosa no sólo cruel sino desgarradora, si yo creo que por el hecho de ser
+negros las pruebas eran como más fuertes
+ENT: Después que todo este tiempo ha pasado ¿todavía persiste esas expresiones de
+racismo allá en LUGAR1?
+TEST: Ah sí, o sea, no solo en LUGAR1, en el ------------ Cauca a pesar que somos mayoría
+afros igual por ejemplo en las instituciones sientes ese racismo, en los centros educativos, se
+siente mucho ese racismo
+ENT: ¿Me podrías ejemplificar ese racismo como se vive en los centros educativos con los
+estudiantes?
+TEST: No solo con los estudiantes sino incluso con algunos padres de familia, por ejemplo
+yo viví una situación en las que mis hijos por alguna razón tuvieron que ir a colegio privado
+porque en el desplazamiento no habían cupos en los públicos y toco meterlos en colegios
+
+privados y eso era terrible para ellos porque los trataban como...yo recuerdo que me tocó ir
+muchas al colegio a hablar no solo con los profesores sino con los padres de familia y hasta
+con los mismo estudiantes, pedir permiso con los directivos del colegio para tratar de
+sensibilizar, entonces muchas cosas era desde los mismo padres de familia y yo pienso que
+la discriminación y el racismo viene de ahí, porque se creen en el imaginario colectivo
+todavía del país que los negros son inferiores, que los negras y las negras somos inferiores,
+entonces asimismo se nos quiere tratar, cuando uno va a veces a la búsqueda de un servicio
+de salud o como ya dije en la educación si a veces uno siente esas diferencias, no siempre ni
+en todo lado pero todavía existe
+ENT: Todavía está allí presente, y en lo que tu dices acerca del tratamiento de las
+instituciones ¿en algún momento ustedes han planteado que la cantidad de necesidades
+básicas insatisfechas que tienen las comunidades del Norte, sobretodo de las comunidades
+negras también obedecen a un racismo un institucional?
+TEST: Si, yo creo que parte de las necesidades básicas insatisfechas de la forma como el
+Estado aborda, los Gobiernos abordan las intervenciones en nuestros territorios tienen que
+ver con el racismo estructural que aún persiste, a nosotros nos tienen como ciudadanos de
+segunda categoría entonces así mismo nos ven y asimismo actúan y gran parte de la manera
+como no hacen lo que tienen que hacer es porque como negros no les importamos, solo les
+importamos para los votos, en épocas electorales y de ahí para allá pare de contar, luego
+para seguir saqueando los recursos que nosotros hemos cuidado por siglos, no solo el agua,
+sino también la minería, los bosques, a esos si, eso si lo visitan, lo venden, lo ferian, sin
+importar que hay gente negra, hay gente indígena, inclusive también mestiza que ha hecho
+posible la supervivencia de estos ecosistemas pero que al hacer una aprovechamiento
+indiscriminado como lo hacen pues no solo están acabando con esos ecosistemas sino con la
+vida comunitaria porque mucha gente ya no tiene la misma relación con el ambiente, con el
+medio ambiente, incluso para su subsistencia, como ya le dije que paso con la minería
+ENT: Quisiera preguntarte también, porque no podemos también, así como no poder dejar
+del lado el tema del racismo y la discriminación tampoco dejar de lado la resistencia en la
+organización social que ha sido vital en las comunidades sobretodo en lo que ustedes han
+realizado ¿desde cuando se empiezan a organizar las comunidades negras del Norte, o por
+lo menos las comunidades de LUGAR1?
+TEST: No yo creo que desde antes de yo nacer, el Norte en lo organizativo ha sido muy
+fuerte, ahora pues con tanta cosa se ha debilitado pero tanto los procesos en líderes como
+en lo organizativo sobre los negros, esa parte de reivindicación de derechos, yo creo que con
+todo el tema de la plata transatlántica nos ha tocado buscar formas de defendernos y de
+preservar y entonces eso ha hecho que el movimiento social, especialmente en el Cauca sea
+fuerte, yo escucho desde cuando la gente buscó la liberación cuando vienen de las fincas que
+armaban sus palenques, escucho hablar del negro Robles, escucho hablar de Prudencio
+Padilla, de mucho negros de acá del --------------- Cauca que por supuesto yo no lo conocí,
+creo que ni mi abuelo los conoció, pero que fueron hombres luchadores por la libertad de su
+gente negra, entonces yo creo que eso fue un legado que especialmente los negros en esta
+región llevamos desde la búsqueda de la libertad con la esclavitud
+ENT: ¿Y en relación a lo que ha sido la constitución de los concejos comunitarios, desde
+
+cuando empiezan ustedes a incorporar esa figura en las formas organizativas allá en el
+-------------- y en LUGAR1?
+TEST: Los Concejos Comunitarios más o menos a partir de la ley 70, la ley 70 muchos la ven
+que solo aplica para el Pacífico pero en realidad la ley 70 habla también de las comunidades
+ancestrales de los valles interandinos y entonces ahí estamos nosotros y entonces desde ese
+momento nosotros como negros vimos en esa herramienta que nos da la ley 70 una
+herramienta útil para avanzar en la defensa de nuestros derechos en micro territoriales
+ENT: ¿Y desde esa época que ustedes se empiezan a organizar, a incorporar esa ley 70 y a
+dinamizarla, recibieron amenazas u hostigamientos por el hecho de empezar a materializar
+esa figura de los concejos comunitarios?
+TEST: Si yo creo que...es que no estoy segura...no estoy segura que por impulsar los consejos
+pero si por impulsar leyes en defensa de la minería, en defensa que se hagan las consultas
+previas, como por impulsar las...bueno en últimas si, pues porque esa es la función de los
+concejos comunitarios, empiezan haber amenazas, desplazamientos, intimidaciones
+ENT: Dos últimas preguntas para cerrar. ¿Que ha pasado, porque se empieza a hacer un
+trabajo muy fuerte, sobretodo de acompañamiento a estas mujeres víctimas de lo que fue
+toda esta exacerbación de la guerra, que ha pasado con los liderazgos de las mujeres negras
+en el ------------- Cauca? ¿Ustedes cómo se han visto afectadas en ese sentido?
+TEST: Bueno yo creo que el liderazgo se ha mantenido, también el liderazgo de la mujer
+negra ha sido muy importante en esa región y aún se mantiene, yo creo que las mujeres de
+alguna manera aportamos enormemente a este ejercicio de defensa y reivindicación de
+derechos y la afectación ha sido todo ese tema de la estigmatización, la intimidación, la
+violencia sexual, amenazas, los asesinatos, en este años creo que van 4 mujeres en este
+---------- asesinadas, los asesinatos pero también las...los atentados para callar, para
+intimidar, para lo que sea, pero es un acción también igual de grave en contra de nuestro
+labor y de nuestro liderazgo por la defensa de los derechos colectivos, por querer generar
+cambios
+ENT: Por último, quería TEST para cerrar esta entrevista, ¿que no debe faltar en el informe
+final de la ORGANIZACIÓN PÚBLICA acerca de las comunidades negras, pero especialmente
+sobre las mujeres negras del -------------- Cauca?
+TEST: Nuestras voces...[RISAS] pero usted ya sabe que significa que nuestras voces están
+ahí...[RISAS] no yo creo que así como le hemos aportado enormemente a la construcción de
+región, de familia, de comunidad, de país, así como mujeres le hemos aportado a la
+búsqueda de la paz, también es importante que las mujeres negras seamos visibles en esos
+ejercicios de búsqueda de justicia, verdad, reparación y no repetición, y por eso es
+importante que todas esas cosas que nosotros vivimos, pero también lo que hicimos para
+sobrevivir y para reconstruir nuestros proyectos de vida pues queden reflejados en ese
+informe, que no solo se nos mire como víctimas sino que se nos mire como mujeres, como
+hombres y mujeres, pero especialmente como mujeres que le hemos apostado a levantarnos
+de las cenizas, entonces en ese sentido yo no se como pueda ser, si un capítulo especial para
+las mujeres negras, las mujeres indígenas, un capítulo étnico en el informe que recoja todas
+esas voces étnicas, pero si creo que es muy importante que nuestros aportes en todos los
+sentidos queden ahí, aportes en la guerra, una guerra que no es nuestra, que nos ha tocado
+
+vivir, pero que nos hicieron aportarle a ella, no solo poniendo muertos sino poniendo
+nuestros cuerpos, nuestros territorios, nuestros derechos, sino también nuestros aportes en
+la reconstrucción de comunidad
+ENT: Listo TEST muchas gracias, sin duda alguna esta entrevista nos ha dado vicios muy
+importantes de esos vacíos de información que también hemos logrado detectar en la
+investigación, que se complementan mucho con el informe, yo no quise preguntar mucho
+sobre la violencia sexual porque se que el informe, y se que también ustedes han puesto,
+entonces centramos las preguntas en otros asuntos...
+
+

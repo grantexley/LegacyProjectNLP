@@ -1,0 +1,1901 @@
+140-VI-00046 (12175)
+ENT: Entonces, cuénteme ¿usted cómo se llama, en dónde nació, hace cuánto vive acá?
+TEST: Mi nombre es TEST, cédula ------- de LUGAR1. Nací el ------------ de 1956 en LUGAR2,
+Huila. Voy a empezar a relatar [INTERRUP].
+X: Traigo el agua.
+ENT: Gracias.
+X: ¿Para quién es?
+ENT: Para el señor.
+TEST: Gracias.
+ENT: Muchas gracias.
+X. ¿Sumercé no va a tomar nada?
+ENT: No señora, así estoy bien, gracias.
+TEST: [CONT] A relatar lo que me sucedió en mi vida con la guerrilla de las FARC [INC:
+Fuerzas Armadas Revolucionarias de Colombia] en 1989, hace 15 años, 17 años, me
+contactó, en el municipio de LUGAR3, teniendo yo un negocio, el señor le decían
+GUERRILLERO1 DE LAS FARC, alias "GUERRILLERO1 DE LAS FARC", me dijo que me estaba
+necesitando el RANGO3 DE LAS FARC del 17, llegó tipo 6 de la tarde, y me tocó que darle
+posada porque teníamos que madrugar al otro día, viajar a la ciudad de LUGAR1 a coger la
+chiva de ORGANIZACIÓN PÚBLICA1 [INC: Empresa de Transporte] la cual iba para LUGAR4,
+teníamos que pasar por [DUD: LUGAR5 01:29], llegamos antes... perdone, cruzando LUGAR6
+[INC: Vereda de LUGAR7, Tolima], una hacienda que es cerca a la carretera, le decían
+------------, ahí llegamos, esperamos como unos 40 minutos, estaba ya minado de guerrilla, el
+cual conocí unos RANGO que estaban ahí que era el segundo del frente, RANGO1 DE LAS
+FARC, conocí también al famoso "RANGO2 DE LAS FARC" de nombre completo RANGO2 DE
+LAS FARC, que "RANGO2 DE LAS FARC". Como a la hora llegó el RANGO3 DE LAS FARC,
+RANGO3 DE LAS FARC, yo había llevado una cantidad de papeles, pues creyendo que me
+iban era a extorsionar o me iban a secuestrar, pues pa decirle que yo no tenía plata, cuando
+llegó me lo presentaron, era el RANGO3 DE LAS FARC. Me llevó a un lado, me llevó a un
+barranco y le presenté los documentos, y me dijo que a qué traía esos papeles, le dije que no,
+que era para mostrarle pues que yo no tenía plata ni nada. Me dijo: "No, es que yo lo
+necesito para otra cosa a usted". Entonces yo le dije que para qué sería. Dijo: "No, porque
+sabemos que usted llegó a LUGAR3 y usted tiene plata. Usted tiene un negocio, tiene un
+granero. Necesitamos que se nos siga suministrando ayuda no en plata, sino en verduras, en
+comida". El costo en ese tiempo pues de $150.000, pues que era mucha plata. Yo le dije pues
+que no tenía esa capacidad pa poderles dar. Entonces me dijo: "No, de todas maneras tiene
+que colaborarnos porque usted tiene unos hijos, tiene una familia y no queremos llegar
+hasta esos extremos de tocar su familia, porque necesitamos su colaboración". Para mí me
+atacó mucho, me dio miedo, le lloré al RANGO3 DE LAS FARC, pero no me puso mucha
+atención. De todas maneras pues me tocó que ceder y que si yo le dijera esto a la fuerza
+pública, a la policía o al ejército lo primero que iba a estar era vigilado por ellos, que me iban
+a matar a mis hijos, que yo tenía que tener esa reserva de por vida, hasta cuando ellos ya
+dejaran de utilizarme directamente a mí. Y así pasaron muchos años y semanalmente, pues
+yo seguí dándole a ellos, después el ejército me cogió por versión de la gente que me veían
+
+en el campo, pero la gente no sabía. Me cogió un GRADO1 DEL EJERCITO [voz entrecortada]
+donde me...
+ENT: Tranquilo.
+[SIL: 04:09 04:23]
+TEST: Donde me encontraba me decía que camarada, me decía: "Camarada, ¿dónde están
+los suyos?". Yo le decía: "¿Cuáles suyos?". Me decía: "Los de arriba". Yo tuve deseos de
+contarle pero no, no me atrevía por la seguridad de mis hijos [voz entrecortada]. Yo
+solamente fui una vez a la ORGANIZACIÓN PÚBLICA2 de LUGAR8 y les dije que me estaba
+acosando mucho el GRADO1 DEL EJERCITO. En ese tiempo me parece que el GRADO1 DEL
+EJERCITO, [INAD: 05:05], no estoy bien seguro, pero me parece que era él. Y la Personera
+en ese tiempo pues me colaboró, la personera, me ayudó. Pero él nunca llegaba y se
+presentaba allá, el GRADO1 DEL EJERCITO ese no iba. Entonces, de todas maneras pues yo
+continué con eso, todas las veces que yo llevaba baterías pa los radios, baterías de motos,
+gasolina, estufa, botas las compraba en el almacén ORGANIZACIÓN PRIVADA1. [voz
+cortada] Hasta comida subía con mi esposa, entregar a esos sin vergüenzas todo [llanto].
+Después me cogieron los RANGO de escuadra, que fue RANGO4 DE LAS FARC, RANGO5 DE
+LAS FARC, también a pedirme, ya el RANGO que se encontraba arriba pues ya lo habían
+cambiado. En las charlas que ellos hacían cuando yo llegaba con las verduras se escuchaba
+que a un señor RANGO6 DE LAS FARC, estaba el RANGO2 DE LAS FARC, o sea, RANGO2 DE
+LAS FARC, famoso RANGO2 DE LAS FARC, no sé. Era uno de los más ladrones de LUGAR8, el
+tal RANGO6 DE LAS FARC, no tenía a dónde irme, cae muerto, ya andaba era con
+GUERRILLERO3 DE LAS FARCs finos, andaba con todo. Cuando me lo encontraba me trataba
+también con un perreo, en los testículos me pegaba, no vaya a aflojar la boca, porque lo
+mandaban a él para que vigilara también allá en LUGAR8, y yo pues aguantar, resistir
+porque primero estaban mis hijos y todo. Después, por el lado de LUGAR5, por los lados de
+LUGAR9, me tocó que llevar otra remesa de verduras, cogía un campero, le pagaba porque
+yo nunca les di nada de eso, lo llevaba, encontré a un señor, que ya falleció, que era
+CONOCIDO1, y lo escuché sacando de una maleta una pistola que le mandaba a regalar el
+doctor CONOCIDO2, que tenía una marranera en -------, en ese tiempo no lo distinguía, lo
+escuchaba. Después en sitio de LUGAR8, llevando unas botas pal lado de ----- también estaba
+el RANGO1 DE LAS FARC y escuché que esperaban unos dinero del alcalde, CONOCIDO3 en
+ese tiempo también, treinta millones de pesos ($30'000.000) y esos treinta millones nunca
+se subieron, se escuchaba, entonces decían ahí entre ellos mismos y el RANGO1 DE LAS
+FARC de la escuadra, que la única forma era matar a don CONOCIDO3. Y sucedió, sucedió.
+Mataron al alcalde, y esa plata se la enviaba era CONOCIDO4 a ellos, a la guerrilla, y al
+alcalde lo mataron fue porque no entregó la plata, lo único que hizo fue celebrarle los 15
+años a la hija. Lo echó todo por lo alto en LUGAR8, y yo le decía a la gente, este hombre no
+pensar en su vida, no pensar en nada, porque ya tenía una trayectoría larga. Después se
+escuchan muchas cosas de ellos, hasta la masacre esa de LUGAR8, del carro de basura frente
+a la policía.
+ENT: ¿Cómo fue?
+TEST: El RANGO1 DE LAS FARC en ese tiempo, RANGO1 DE LAS FARC, que era el segundo
+un santandereano, cuando me da a mí, que yo iba con la remesa, me decía: "A usted no le va
+
+a gustar lo que le pasó a la gente de LUGAR8. Siga trabajando, cumpliendo y a usted no le va
+a pasar nada. A los de allá, los heridos que estaban los rematábamos, nos divertíamos
+dándole plomo a ellos". O sea, escuchar una persona de esas es estar frente a un asesino, no
+sé si estará vivo, estará muerto. Después conocí al famoso "RANGO7 DE LAS FARC", no sé si
+estará vivo, conocí al RANGO8 DE LAS FARC, el cual una vez, el famoso RANGO8 DE LAS
+FARC me lo encontré en LUGAR3, me trató mal y lo desafié a que me matara públicamente.
+No lo hizo, mandó una persona, me mandó a decir que yo era objetivo militar, entonces yo le
+dije a la persona: "Dígale a él que venga por mí", porque yo ya estaba cansado, estaba
+agotado de tanta subidera, tanto darle a ellos. Andar por toda esa zona, doctora, toda la zona
+de LUGAR8, LUGAR5, LUGAR9, LUGAR10, LUGAR11, LUGAR12, todos los sitios que se diga
+dónde nos fue que estuve caminando pa poder llevarles a todos esos sin vergüenzas, y
+cuando me venía caminando miraba pa todo lado creyendo que por detrás iba a sentir yo un
+disparo [lágrimas] y pensaba en vivir, pensaba en mis hijos, en mi esposa... llegar a la casa
+agotado, y decirme mi esposa: "Mijo, ya no más. Ya no más, por favor". Le dije: "Mija, pero
+¿pa dónde nos vamos? Deme un tiempito, mija, que yo sé lo que voy a hacer" [lágrimas]. Y de
+repeso el municipio de LUGAR3 es una zona peligrosa; no hay que tener confianza con la
+gente. Hay gente que uno menos piensa, es la que más le entierra el GUERRILLERO2 DE LAS
+FARC a uno. Hubo un alcalde que se llamaba CONOCIDO5, y el secretario del Consejo era
+CONOCIDO6, y aventaron al frente 17 que yo estaba diciendo de que al alcalde lo iban a
+asesinar, como si la guerrilla a mí me hubiera dicho a quiénes van a matar. Y me citó la
+guerrilla a LUGAR12, era jurisdicción con LUGAR11, don CONOCIDO7, allá me estaba
+esperando un miliciano alias "GUERRILLERO2 DE LAS FARC" que tenía que llevarme a mí a
+pie hasta LUGAR13, sin coger vehículo, que si cogía vehículo que tenían orden de matarme a
+mí en el camino, como fuera. Y así fue, pusimos a caminar por toda esa montaña pa salir
+hasta LUGAR14, dimos la vuelta pa LUGAR13, nos encontramos con el RANGO4 DE LAS
+FARC, y yo le pregunté a él, porque él es de escuadra, que si sabía algo para qué me llamaba.
+Lo único que me decía: "Viejo, ta mal". El que me llevaba, le pregunté varias veces que para
+qué, si me iban a hacer algo. Nunca me iba a decir nada. Llegamos a la terminación de la
+carretera de LUGAR13, está el río, y de ahí para allá me vendaron los ojos y me llevaron por
+la orilla del río. Lo único que yo recordaba era lo que ellos hablaban. Llegaron a la mina, una
+mina que le decían ------------, y ya estaba cerca al campamento entre límites con LUGAR15 y
+el Huila. Cuando llegamos allá a una casa de madera ahí estaba todo el frente 17, todo
+reunido. Cuando salió el RANGO9 DE LAS FARC, y salió El RANGO7 DE LAS FARC, y me
+decían que si sabía yo para qué era que me llamaban ellos. Yo le dije que no. Entonces, me
+llevaron a la pieza que había ahí, me dijo "Usted va a estar en esta pieza, allá hay 3 personas
+más, no voltié a mirar. Va a estar quieto". Era unas tablas... y cerraron la puerta. Yo lo único
+que hacía era cerrar los ojos, porque tenía miedo que donde estuvieran mirando por las
+rendijas, o señas de los ojos... con los que estaba detenido eran unos secuestrados que
+tenían ellos ahí. Y así al otro día nos sacaban en calzoncillos, ropa interior, una caneca
+plástica y un chorro de agua fría pa podernos bañar ahí, y nos dan el desayuno y nunca veía
+yo así los duros, los comandantes, sino pura guerrilla alrededor, y volvía otra vez pa la pieza.
+Duré más o menos 8 días. A los 8 días cuando yo salí, me dijeron: "¿Va a desayunar?", le dije:
+"No, señora". Me dijo: "Sale porque lo necesita el comandante". Detrás de la casa, era un
+
+corral que había de madera. RANGO9 DE LAS FARC estaba ahí con la pistola en la mano, y yo
+me arrimé y le dije "Camarada, ¿para qué me necesita? ¿Qué pasa conmigo?". Me dijo: "Viejo,
+usted se la pasa diciendo en LUGAR3 de que vamos a matar al alcalde". Yo le decía
+"Camarada, eso es una mentira. Eso es mentira. Ante un Dios bendito, ¿cómo voy a saber yo
+si ustedes nunca me han dicho a mí a quiénes van a asesinar? Si antes ustedes me están
+sacando plata, me están sacando comida, me están sacando todo lo que ustedes necesitan:
+botas, buzos verdes, esqueletos". Le dije: "Usted sabe que pal comandante me pide hasta
+ropa Gino Pascali. Lo que no me pongo yo, se lo ponían ustedes. Yo qué voy a saber de eso".
+Y me cogieron como estilo militar, como hace el ejército o la policía cuando cogen a alguien,
+una hora con una repetidera total: "Usted lo hizo. Usted lo hizo. Y usted lo hizo".
+Y así me tuvieron más de 4 horas con la misma repetidera, cuando yo ya me cansé, yo ya le
+levanté la mano y le dije: "Camarada, pa que usted esté más tranquilo, sí yo hice, fui yo". Yo
+ya no tenía otro camino, sino que me asesinaran, que sabía que lo que me iban a matar era
+mentira. Le cogí las botas y se las besé, las botas de caucho. Después me levantó la mano, me
+cogió de la mano y me levantó y me dijo: "Deje tanto llorar". Dije: "No. Perdóneme,
+camarada, pero si me va a matar, máteme, máteme de una. No hay más de otra". Entonces
+me dijo: "Se va para LUGAR3". Y yo: "¿Cómo así que me voy pa LUGAR3?". Me dijo: "Se va pa
+LUGAR3 ya". Le dije: "¿Pero por dónde me voy? Yo no conozco dónde estoy". Dijo: "Usted
+sabrá por dónde se va". Yo, en ese momento, yo lo único que pensé fue que si no me mataba
+ahí me iban a matar a mí era en el camino, y eso era selva, frío. Yo lo único que hice fue irme
+por el primer camino que yo encontré. Y salí hasta la carretera, no supe a qué sitio llegué,
+pero sí sabía que era carretera era para el lado de LUGAR14. Y llegué a LUGAR14 y cogí una
+camioneta de las blancas que viene para LUGAR1. Me monté como fuera, me monté. No
+tenía plata, no pagué el pasaje. Le dije al señor llorando que me llevara, y me trajeron. En
+LUGAR3 también me recogieron.... llegué yo a la casa, le comenté a mi esposa, y ya haber
+pasado eso me dijo... Ah, perdóneme. El comandante me dijo que tenía que ir a la
+ORGANIZACIÓN PÚBLICA3 a hablar con el alcalde CONOCIDO5, porque él tenía un denuncio
+ante mí ante la ORGANIZACIÓN PÚBLICA4, que yo tenía conocimiento de la muerte que le
+iban a dar a él, entonces el comandante me dijo que tenía 3 minutos de entrada a la oficina y
+decirle que retirara la demanda, porque tomaba represalias ahí sí era contra él, que no me
+fueran a meter a mí a la cárcel. Yo cuando vi el alcalde a las 6:30 de la mañana que llegó, me
+trató mal, no me recibió. De todas maneras, pues yo le empujé la puerta, y entré y le dije: "Le
+manda a decir el comandante que retire la demanda, no más, que van a tomar represalias".
+Mi esposa ya le había llorado al alcalde, que retirara, que yo era inocente totalmente de
+todo. Yo lo único que le decía a mi esposa, que no comentara todo lo que sabía, porque el
+miedo era que nos fueran a asesinar. Después me llamó RANGO8 DE LAS FARC, que fuera a
+LUGAR16 [INC: Vereda de LUGAR17, Tolima], fui a LUGAR16, y en LUGAR16 la mayor parte
+de ese pueblo es creado por ellos. LUGAR16 es de la guerrilla. LUGAR16 es un pueblo creado
+de puras casas de madera, hay muy poca la que haya construida en material. La gente que
+llega a preguntar por la guerrilla tiene que cuidarse, el que no sabe pues ahí se muere,
+porque toda la gente es de ellos. Son gente de LUGAR18, de LUGAR19... Ahora, actualmente
+me dijeron, según lo que averigüé, son llaneros. Han cambiado el personal ya de las casas.
+Tiene propiedades el famoso 17 frente de las FARC, el "RANGO2 DE LAS FARC". Tienen una
+
+finca que es de la familia GRUPO FAMILIAR1, la mejor finca que hay en LUGAR16, en
+LUGAR4 se llama eso, lo más grande, eso es de las FARC, es de las FARC. Está la finca -----,
+que es en LUGAR6, una finca muy hermosa, un lago hermoso, esa era del señor CONOCIDO8,
+se la quitaron, el cual está en LUGAR20 el señor, y eso es de las FARC. Y yo he visto de los
+bienes que han cruzado y nunca mencionan, las propiedades que ellos tienen. El famoso,
+que escuchaba entre los campamentos cuando yo llegaba a entregarles ropas o las baterías
+de los radios, RANGO6 DE LAS FARC, la mano derecha del famoso RANGO2 DE LAS FARC, de
+RANGO2 DE LAS FARC, siempre la policía lo cogía, estuvo en la cárcel y nunca le
+comprobaban nada ¿pero cómo no le van a comprobar a una persona si tiene toda la plata
+de la guerrilla? Y el cual, pues ahorita último, compró una finca que se llama --------, en el
+Huila, no sé en qué parte de -------- la tiene, o se la habrán quitado, pero es nueva. Más de mil
+millones de pesos la finca.
+Deje de dar yo la vacuna, de darle suministro a ellos. Me mandaron a matar. Ahí si llegaron
+por mí a LUGAR3. Eso fue en --------, como del 2004. Estábamos sentados con mi esposa
+afuera como a las 7, 7:30 de la noche, cuando llegó una persona que venía con un buzo
+negro, largo, y le dije a mi esposa: "Mija, yo no lo conozco". Y me entró los nervios más
+tremendo. Dijo la esposa mía: "Mijo, pues párese, párese". Y me paré y me hice en la puerta,
+y en la sala estaban todos mis hijos, y la persona pasó de largo ahí como a 50 metros de la
+casa, en la parte de una alcantarilla. La única que estaba afuera era una persona que se
+llamaba CONOCIDA9, que es pegada actualmente a donde yo tengo la casa de mi suegra. El
+tipo sacó una mini, y realmente parece que se trabó pa entrarle el proveedor, y lo único que
+sí decía: "Le llegó la hora a este hijueputa". Yo salí corriendo por el -----, que era la seguridad
+mía primero ante todo. El tipo desapareció, según me decía mi esposa, que se había.. eso fue
+instantáneo, esto no fue nada atroz. El tipo se fue, al rato pues llegó la policía, llegaron
+todos, pero esos no sirven para nada. Un pueblo tan pequeño, como es LUGAR3, y no
+supieron nada. Después me dijeron a mí que tenía que irme, entonces yo en el 2004, en
+--------, tenía que esperar que mis hijos salieran para yo irme, porque yo no iba a esperar
+más. Cuando terminaron de estudiar el bachillerato mis hijos me vine para LUGAR1 por el
+motivo de haberle dado comida a la gente, de haberle ayudado a la gente campesina con
+derechos de petición que yo hacía gratis, que le hacía a la gente. Me eché de enemigo a todo
+el mundo, me valió la separación mía. [Llanto] Lo que más quería en mi vida, mi esposa, ella
+me dijo que tenía que desocupar y tenía que irme porque eso lo había buscado era yo. Que
+ella tanto me decía a mí que no le ayudara a esa gente, que no le ayudara más porque ese
+era el GUERRILLERO2 DE LAS FARC que me iba a enterrar, y fue preciso... ella tenía toda la
+razón. Un hombre muy terco, uno nunca hace caso y no. Y eso fue duro para mí. Y yo pensé
+que me iba a venir solo y no, mis hijos me acompañaron. Todos se vinieron conmigo, vine a
+LUGAR1, estuve en una pieza. Después una hermana tenía una casa, no la dejó, dormimos en
+el piso mientras que nos ayudaban a darnos algo, porque hicimos el proceso de las ayudas...
+eso que le dan a uno. Yo no quería, yo no quería nada de esas ayudas, yo quería era trabajar
+como fuera, para conseguirme lo de mis hijos; pero sí nos ayudaron con lo primero, lo
+primordial: colchones, unos calderos, y una ayuda para arriendo, pero eso lo que uno ha
+construido se perdió todo. Actualmente mi vida me la acabaron [llanto], no puedo trabajar,
+no puedo producir, vivo cambiándome todos los días, el único aliento que yo tengo en mi
+
+vida ahorita son los de la ONU [INC: Organización de Naciones Unidas] o los que me
+conceden eso en cabeza del doctor CONOCIDO10, que me ayudó mucho, mucho, con eso; es
+el que me da ánimo que me cuide, que me cuide, que actualmente lo mío es muy delicado, y
+esto no se lo deseo yo a nadie, y todavía las disidencias de las FARC me siguen molestando.
+Porque ellos creen que yo estoy... Yo fundé una Fundación que se llama ORGANIZACIÓN
+SOCIAL1, ORGANIZACIÓN SOCIAL1, el cual la montamos con don CONOCIDO11, el
+sobreviviente de la masacre de los concejales de LUGAR22, el secretario del Concejo.
+Sacamos esa fundación con el fin de descubrir los que no son desplazados y ayudar al que
+verdaderamente sí es desplazado, y el que necesita esa ayuda. La ORGANIZACIÓN
+PÚBLICA5, en ese tiempo, en cabeza de una doctora CONOCIDA12, nos ayudó mucho. El
+director también de la ORGANIZACIÓN PÚBLICA6 en ese tiempo, para colaborarle a la
+gente, y entre ellos empezamos a trabajar pa descubrir las personas. Las mesas temáticas
+departamental y municipal es un engaño.
+ENT: ¿La ORGANIZACIÓN PÚBLICA6?
+TEST: ORGANIZACIÓN PÚBLICA6. Eso es un engaño. No son verdaderamente desplazados.
+Aquí la gente busca sacarle provecho al estado, lo que más pueden sacarle, y todo el mundo
+hace sacando cooperativa, fundaciones y todo... todo es por sacar provecho. Nunca pertenecí
+a una mesa, porque fui llamado a las mesas temáticas departamentales y municipales.
+Estuvo en ese tiempo CONOCIDO13 y también la personera nos reunimos bastante tiempo,
+con ellos, para poder ayudar la gente. CONOCIDO13 es testigo, donde entré a un señor
+llamado CONOCIDO14, que trabajaba en la ORGANIZACIÓN PÚBLICA8 en la vaina de
+víctimas, y CONOCIDO13 lo trató mal, diciendo que era un pícaro, que ese no era víctima,
+que el único que sí podía dar testimonio era él, de los que estaba presente, porque él sí me
+distinguía a mí, y yo nunca le soltaba. Yo espero que la ORGANIZACIÓN PÚBLICA9 de usted,
+doctora, se llegue a buen término, porque pa nosotros los que estamos sufriendo, queremos
+la verdad, que se llegue a saber la verdad. Que esta gente, si es responsable, que pague todo
+lo que nos han hecho, y el gobierno no ha servido para nada. El gobierno actual, y todos los
+que han estado, no sirven para nada. Como líderes nosotros, como yo soy un líder, estoy
+abandonado por el país, abandonado por el gobierno, la ORGANIZACIÓN PÚBLICA10 [INC:
+ORGANIZACIÓN PÚBLICA10], yo tuve protección 2013-2014, me la quitaron por estar en
+proceso, estaban en negociación, estaban en diálogo, no lo quitaron. Pa poderme seguir
+dando un chaleco, una ayuda de subsidio de transporte, un celular, pa poderme continuar
+dando eso, tenían que pegarme primero un tiro, o matarme, pa luego sí hacerlo pública
+porque la ORGANIZACIÓN PÚBLICA10 tiene unos estudios que tiene que ser algo
+contundente pa poder nosotros tener protección, y en eso lo sabe muy bien la ONU, porque
+la ONU viene diciéndole al gobierno que sí hay disidencias, que sí hay guerrilla, y no quieren
+reconocerlo, pero como ellos son de otro país no pueden meterse en cosas internas,
+entonces en el diálogo que hemos tenido con él, esa es la verdad de lo que nos dicen.
+Entonces queremos doctora, pues hay muchas cosas, pero es un resumen de lo que yo hago
+directamente de todo lo que yo me ha sucedido. Y actualmente pues quedo a disposición de
+ustedes, pa lo que ustedes necesiten.
+ENT: ¿Usted actualmente está recibiendo amenazas?
+TEST: Actualmente sí, de las disidencias de las FARC. En el mes de -------------- del año
+
+pasado, iba para LUGAR22, detrás de ----------, allá en el conjuntico pequeño, ahí vive mi hijo
+con su esposa y mis adorados nietos, yo iba en el carro, en un Spark. No alcancé a bajarme
+del carro, cuando me llegaron en moto, me pusieron el revólver y me dijeron: "Perro
+hijueputa, sigue en lo mismo. Somos disidentes de las FARC". Yo lo único que yo dije "Yo ya
+no estoy en eso. Yo ya me retiré. Yo le dije a ustedes que yo cumplía mi palabra". Una cosa es
+estar usted contando y otra estar sentado cuando le ponen el revólver y lo tratan mal. Lo
+único que se descubrió fue sacando no más por dónde habla él, porque era viseras oscuras.
+Se fueron... eso fue segundos, eso fue cosa instantánea, rápido. Yo llegué, abrí el portón
+donde era el conjunto, fui a donde mi hija y me agarré fue a llorar porque no me controlaba
+los nervios... Mire, mire doctora, vea, cargo pastas pa poderme controlar, vea. Y este año, en
+---------- me llegaron 4 personas, 2 mujeres y 2 hombres en la casa donde yo vivo, la
+dirección ------------, barrio ----------, segunda etapa, diagonal a la ORGANIZACIÓN SOCIAL2.
+Un vecino, que está pegado a la casa que es de dos pisos, me comentó y me dijo: "Don TEST,
+habían dos personas en la red y estaban golpiando, y apenas vieron un carro parecido al
+suyo, que es el que tiene mi cuñado, que es policía de la UNIDAD MILITAR DE LA POLICÍA1
+[INC: UNIDAD MILITAR DE LA POLICÍA1], las personas apenas vieron el carro se
+dispersaron". Dijo: "Don TEST, tenga cuidado". Yo le dije: "Gracias vecino. Vecino, ¿será que
+yo, cuando instaure la demanda a la ORGANIZACIÓN PÚBLICA4 y a los de la ONU, cualquier
+cosa, usted puede dar testimonio?". Dijo: "Claro, vecino, usted sabe que yo estoy a la orden".
+Él tiene un hijo de la policía. Pero eso no ha llegado a ningún término doctora, eso está en lo
+mismo. Cámaras que tienen los vecinos, eso es una fachada que tienen seguro pa engañar al
+ladrón, engañar a todos, pero los de la UNIDAD MILITAR DE LA POLICÍA1 ya estuvieron allá.
+Protección de la policía, es una mentira. Van solamente una vez, van y me entregan un
+cartapaso de papeles, a veces van a tomarme fotos pero yo no me dejo tomar fotos, y se
+ponen bravos. Yo pasé ya un documento a los derechos humanos donde trabaja GRADO2 DE
+LA POLICÍA, de la Policía Nacional, que es GRADO2 DE LA POLICÍA, el GRADO2 DE LA
+POLICÍA, le entregué yo el papel donde le manifiesto que yo no me dejo tomar fotos, porque
+yo desconfío de la policía, y eso lo sabía también el doctor CONOCIDO10. Me decía: "Sí, don
+TEST, usted tiene que cuidarse es usted. Usted es el que tiene que cuidarse". La
+ORGANIZACIÓN PÚBLICA4 de la UNIDAD MILITAR DE LA POLICÍA2 [INC: UNIDAD MILITAR
+DE LA POLICÍA2] me dijo a mí que tenía que irme de la ---------. Pero me dijo: "Don TEST,
+pero es que usted está en la olla, usted está donde están todos los grupos, eso es una
+comuna brava, una comuna dura". Entonces, doctora, ¿qué hice yo? Yo no tengo pa dónde
+más irme. Hice y me fui pa LUGAR3 donde está la olla más berraca y más peligroso, como
+dice usted, estoy encerrado en la casa de mi suegra.
+ENT: ¿Está viviendo en LUGAR3?
+TEST: Estoy en LUGAR3 ahorita, --------------, esquina. Allá pueden ir, estoy encerrado. Todos
+los días encerrado [llanto]. Imagínese usted estar en una casa encerrado, con el deseo de
+poder uno salir. A veces entre semana puedo y yo digo "Me voy", ahí me prestan la moto que
+es de mi esposa. O a veces me vengo como pasajero, pero vengo con miedo porque es una
+carretera destapada, entonces uno nunca sabe que en el camino le salgan... CONOCIDO10 me
+decía que le avisara a la policía de LUGAR3 para que pasara revista... no, yo no quiero eso,
+eso es matarme a mí inmediatamente, yo no quiero llegar a LUGAR3 así. Ya, como dijo el
+
+doctor CONOCIDO10, entonces tengamos las cosas secretas, que usted esté allá y cuídese,
+cuídese mucho. Quedaron de ir los de la ORGANIZACIÓN PÚBLICA10, la doctora
+CONOCIDA15 quedó de ir por allá a investigar cómo está el orden público, y yo le dije que le
+agradecía mucho. Entonces ya va a empezar a hacerse una investigación, el analista ya está
+en eso. Pero si me van a dar el chaleco, el chaleco no me lo van a ofrecer a mí, el que me va a
+matar a mí sabe que tengo chaleco, me pegan es en la cabeza, un chaleco no sirve para nada.
+O sea que en este momento el estado me tiene desamparado. Todos los días escuchamos por
+noticias que están matando líderes, más en esa zona del Cauca, aquí están esperando es que
+reviente el Huila, y no lo quieren reconocer. Es que el gobierno no quiere reconocer que
+aquí hay. Y CONOCIDO10 me decía: "Don TEST, a usted no le van a dar protección, porque la
+ORGANIZACIÓN PÚBLICA10 lo único que hace es pedirle a la autoridad desde LUGAR1, a la
+policía y al ejército que cómo está la seguridad, ¿cómo está el orden público? Y le van a decir
+esto está muy bien, en el Huila... es un paraíso el Huila". Y resulta que es una mentira,
+¿entonces?
+ENT: ¿Y la persecución de ahora, ellos le han dicho por qué es?
+TEST: Sí. Le voy a decir doctora por qué fue que me tienen a mí perseguido. A base de la
+fundación descubrimos, tengo un documento acá que salió en la prensa, eso fue en el 2015,
+la muerte de unos policías en -----------, fueron asesinados, y el que los asesinaron fueron
+desplazados integrantes de las FARC. En eso estaba la señora CONOCIDA16, no me acuerdo
+el apellido. Tengo la firma de ella, todo lo que es para traer... perteneció al grupo de
+nosotros, a la fundación, como infiltrados. Ellos ya sabían, la guerrilla, que nosotros
+estábamos haciendo un trabajo era de descubrir verdaderamente los que no son
+desplazados. Es que de 8 millones y pico de desplazados, eso es una mentira grande.
+Verdaderamente le pongo el 45% y un 55% que no son desplazados. 55% se compone es de
+todos los grupos fuera del margen de la ley, son personas infiltradas. De los desplazados le
+voy a dar del 17, uno no más, CONOCIDA17, es el papá del famoso RESPONSABLE3 que
+asesinaron en ---------, que lo cogió el ejército y lo mató. Son desplazados, la mujer, los hijos
+y fueron 2 guerrilleros... 3 guerrilleros porque uno desertó y se entregó al ejército, ¿cómo
+van a ser desplazados? ¿Quién es el culpable de los desplazamientos, doctora? Son los
+personeros de los municipios, hable a la ORGANIZACIÓN SOCIAL11 que le mandan un
+listado, o miren ustedes que tiene derecho a eso, de los desplazados del municipio de
+LUGAR3 a quién encabeza primero: CONOCIDO19, ex alcalde del municipio de LUGAR3, y
+fue personero de LUGAR3. Y actualmente tengo un listado yo de desplazados, no traje la
+USB, como desplazado el señor, ¿cómo va a ser desplazado? La personera de hoy en día,
+hablamos una vez que fui no más, por conocerla, y me dijo ella: "Don TEST, eso es verdad. El
+culpable se llama CONOCIDO19, a mí la gente ya me ha contado acá. Entonces, ¿por qué no
+hace nada la ORGANIZACIÓN PÚBLICA5? Cuando en el tiempo que estaba la guerrilla, tanto
+desplazado en el municipio de LUGAR3, y vivían con la guerrilla, ahora llega la INSTITUCIÓN
+EDUCATIVA1, ¿de ---------- es que se llama, la de LUGAR23? La mejor, la Universidad que
+está por la ------------------, este.
+ENT: ¿La INSTITUCIÓN EDUCATIVA2?
+TEST: La INSTITUCIÓN EDUCATIVA2, perdone, INSTITUCIÓN EDUCATIVA1, la
+INSTITUCIÓN EDUCATIVA2, presentaron por INSTITUCIÓN PRIVADA2 [INC: Canal
+
+INSTITUCIÓN PRIVADA2] un documental sobre el asunto de LUGAR26 que hacían las
+ORGANIZACIÓN SOCIAL3 del municipio de LUGAR3, LUGAR3, y el primero que veo se llama
+CONOCIDO20, es el papá de uno de los comandantes del 17 frente de las FARC. Todos los
+que salen de ORGANIZACIÓN SOCIAL3 son milicianos, y hablan ellos de que se enfrentaron a
+la guerrilla para poder que no hubieran más masacres en el municipio de LUGAR3. Es una
+mentira. Todo el mundo sabemos quiénes son, y presentan una vaina, una fachada de
+personas que son milicianos directamente. Es que la guerrilla, totalmente la guerrilla que se
+entregó eso no es la totalidad, doctora. Eso es verdad y eso es sinceridad completa. La gente
+que nos conocen saben que es una mentira, es mucho más los milicianos que hay, mucha la
+gente de la guerrilla que quedó por fuera, que ellos no se entregaron.
+ENT: ¿Y qué dice de eso esa señora CONOCIDA21 que dice?
+TEST: ¿Quién?
+ENT: CONOCIDA21, la que es presidente de eso.
+TEST: ¿Departamental, la de acá? Eso sí que lo investigue la ORGANIZACIÓN PÚBLICA5.
+ENT: ¿Sí? ¿Ha tenido problemas con?
+TEST: Que la investigue la ORGANIZACIÓN PÚBLICA5. Eso es cosa que no, no puedo llegar
+hasta esos extremos. Por eso le digo yo, no creo. Ni en la mesa temática nacional, que la
+Unidad, que la encabeza desde ese tiempo la doctora CONOCIDA12, me pidió que
+descubriera los de la Mesa Nacional, y los descubrí, no son desplazados, eran de Chocó, eran
+de LUGAR24, eso... son gente infiltradas. Entonces ¿estamos en qué? Y ahorita, pa poder
+tener usted ayuda del estado tiene que ser una fundación. A mí la guerrilla me pidió fue que
+acabara con lo que yo estaba haciendo, era acabar con la fundación, que desintegráramos
+totalmente toda la fundación, y en eso ya está en liquidación porque nosotros no tenemos
+plata pa poder seguir luchando por eso. Y si seguimos luchando me matan. Ahí está la
+doctora CONOCIDA9, que es de la ORGANIZACIÓN PÚBLICA5, hoy actualmente, y la doctora
+CONOCIDA22 me dice, que me quieren y las adoro a ellas, "TEST retírese. La vida es una
+sola. No siga luchando por los demás, los demás no le van a agradecer nunca, TEST". Y eso sí
+es verdad [voz entrecortada], eso es cierto. La doctora CONOCIDA12 vino a LUGAR1, en el
+polideportivo ---------, para escuchar a los desplazados, que tengo fotos, le puedo dar, a
+razón de la verdad, puedo venir más tarde y le traigo fotos, se las regalo, pa que las tengan
+de recuerdo, donde está la doctora CONOCIDA12, y donde estoy yo con los manifestantes de
+gente, y no nos prestaron servicios de seguridad la policía. Ese día vinieron a tomar fotos pa
+poder matar la doctora y matarnos a nosotros. Entonces, ¿qué seguridad vamos a tener
+nosotros con la policía? Lo importante es que aquí se investiguen muchas cosas, doctora.
+Aquí hay mucha gente infiltrada. Mucha gente infiltrada.
+ENT: Claro.
+TEST: Y en eso sí es el temor que yo tengo.
+ENT: ¿Don TEST usted qué edad tenía, más o menos, cuando estaba siendo víctima de esas
+persecuciones?
+TEST: Tenía como cuarenta y... casi 42 años, 39 años.
+ENT: ¿Eso fue en el 2004 todo?
+TEST: Eso fue en el 2004 que yo salí.
+ENT: ¿Cuándo inició eso?
+
+TEST: Eso inició más o menos en 1989, 88, más o menos, 87. En ese trayecto cuando
+empezaron ya a sacarmen a mí, a ordeñarme, como dice el dicho.
+ENT: ¿Hace casi 30 años?
+TEST: Hace más o menos... pues hasta la fecha sí hace treinta y pico, pero hasta la fecha que
+me... hasta el 2004, que yo fue que ya me vine, yo dije "Yo no les doy más, ya me voy", fue
+cuando me declararon objetivo militar de una, y me buscaban como fuera pa cogerme. Ellos
+no me han querido asesinado de una sola, doctora, y le voy a decir por qué. Ellos quieren
+hacerme sufrir. Es que todo lo que yo le ayuda a esa gente que me ordeñaron, y lo que yo
+aguanté, ellos quieren matarme es a mi nieto [llorar]. A mí no, es a lo que más quiero en mi
+vida, que es la que tengo en LUGAR23 que está estudiando 11 ya. La ORGANIZACIÓN
+PÚBLICA5 no nos ayudó pa nada, tampoco. Ellos están por eso de ORGANIZACIÓN
+PÚBLICA12 [INC: ORGANIZACIÓN PÚBLICA12]. Mi hijo está en la ORGANIZACIÓN
+PÚBLICA5 trabajando, es psicólogo. En la ORGANIZACIÓN PÚBLICA10 un psicólogo que se
+llama CONOCIDO23, que ya no trabaja, cuando me pasaba a mí algo yo iba a la
+ORGANIZACIÓN PÚBLICA10 de aquí de LUGAR1, al --------, a decirle que me pasó esto, y
+apenas me veía me decía: "Don TEST, ¿todavía está vivo? Yo pensé que estaba muerto".
+Todo un psicólogo. Entonces yo llamaba a mi hijo y le comentaba, entonces el hijo me decía:
+"¿Cómo así, papi? ¿Todo un psicólogo y le va a decir eso? Eso es imposible que un
+profesional en eso le vaya a hacer eso". Yo no le contestaba nada, yo no contestaba, yo me
+quedaba callado, yo lo único que le pedía a mi Dios, haga su voluntad. Porque eso es una
+rosca, doctora, la ORGANIZACIÓN PÚBLICA10, todo el estado es una rosca. Aquí no hay
+médico, aquí no hay médico [lágrimas].
+ENT: ¿Don TEST su nieta está recibiendo amenazas últimamente?
+TEST: Aquí en LUGAR1 recibió... ella estudiaba en INSTITUCIÓN EDUCATIVA3, y estaba...
+tenía que ir a hacer unos cursos en... inició en LUGAR9 y tenía que coger colectivo de ahí
+hasta LUGAR22, y una persona siempre se montaba al colectivo, estaba pendiente de ella y
+le preguntaba: "Venga, ¿usted pa dónde va? Que tal cosa, que usted cómo se llama, que tal", y
+donde ella se quedaba en LUGAR22, siempre se bajaba. Y ella pues se quedaba en un lado
+donde había más gente para poderse llegar a la casa. Pero así la siguieron, más o menos,
+como unos 10 meses, 11 meses más o menos, seguro estaban esperando era el golpe para
+poderle dar a ella. Estaban haciendo un estudio previendo con ella, ¿dónde era que hacía el
+recorrido?, todo... entonces venían con todo. Yo comenté eso, y eso era de cuidado
+[INTERRUP].
+ENT: ¿Cuántos años tiene ella?
+TEST: [CONT] Ni la policía ni la ORGANIZACIÓN PÚBLICA4. Tenía la niña como unos 14
+años.
+ENT: ¿Hace cuánto fue?
+TEST: Fue hace 6 años, ya tiene 20 años, y eso no le hicieron nada. Mi hija mayor. Perdón, mi
+hija la segunda, se llama FAMILIAR1, ella se levantaba a las 5 de la mañana a levantar los
+niños, a levantar a mi nieta y al niño más grandecito para podérselo llevar al colegio. Y había
+una persona que le estaba haciendo seguimiento y le duró más de 15 días haciéndole
+seguimiento. Yo avisé a la policía de eso y nunca aparecieron. Que madrugaron, porque
+estaban haciendo seguramente pa matarlos o qué, que no sabíamos quiénes eran;
+
+simplemente mi hija me llamaba: "Papi, tal cosa. Y eso y esto". Entonces yo lo que hacía era
+coger el celular o el teléfono y llamaba, pero nunca nos prestaron nada, jamás. Mi hijo que
+trabaja en la ORGANIZACIÓN PÚBLICA5 también, también le hicieron un atentado en
+LUGAR25, iba conmigo, nos salvamos ese día de que mataran a mi hijo. Está allá gracias a mi
+Dios, por la doctora CONOCIDA12, que fue la que le dio la oportunidad de que se presentara
+a una convocatoria que hubo, pero tan por contrato. Uno por contrato se ganó y "Don TEST,
+su hijo con entra pero de ahí para allá que el se gane su puesto", y gracias a mi Dios mi hijo
+ha sido buen trabajador, buen funcionario, que nunca tuvo quejas en el tiempo que ha
+trabajado y, actualmente, ya lo ascendieron con la empresa... él es formador de la
+ORGANIZACIÓN PÚBLICA5, es formador de la ORGANIZACIÓN PÚBLICA5, entonces él está
+allá. Le conté que yo venía para acá. Me dijo: "Papi, Dios quiera que todo se aclare. Le deseo
+suerte, papi, que hasta al fin vamos a saber la verdad" [voz entrecortada], me dijo. Y yo le
+dije que sí, que yo iba a ir. Porque yo ¿a quién más voy? Yo no tengo más. No sé para dónde,
+no sé. Entonces yo sí le agradezco doctora. Me disculpa, me perdona eso sí.
+ENT: No, no. ¿Cómo se le ocurre? Don TEST, ¿usted a qué se dedicaba más o menos en ese
+tiempo?
+TEST: Yo tenía una empresa de tevecable en el municipio de LUGAR8. Entonces yo tenía el
+granero. Todo lo hice, yo mismo hice los estantes, compraba las tablas, las ligaba, porque no
+tenía plata para poder comprar metálicos ni nada. Viví en casa en arriendo de una señora
+llamada CONOCIDA24. Ahí duré 6 años, 10 años más o menos con la tienda ahí. Y lo que
+surtía, lo que me fiaban. En LUGAR1 me fiaban y yo llevaba eso para allá. Y lo que estos se
+jartaron durante casi 20 años, más o menos, que se comieron todo eso.
+ENT: ¿Con eso se le acabó el negocio?
+TEST: Se me acabó, totalmente. Me dejaron en la ruina.
+ENT: ¿Don TEST, usted en ese tiempo pertenecía a organizaciones sociales o desde afuerita?
+TEST: No, mire que como en todo pueblo, cuando una persona llega en elecciones para
+elegir alcalde, pues uno busca al que más le gusta, pa uno colaborarle, eso es lo que yo más o
+menos hacía.
+ENT: Política.
+TEST: Es política, y en LUGAR3 pues pertenecí como ------, o no me acuerdo... ni sé, pues de
+tantos años, de la ORGANIZACIÓN SOCIAL4 del centro; pero la mayor parte de integrantes
+eran de uno ya sabía, pero uno qué puede hacer, colaboradores de allá arriba
+[CORTE: 50:05]
+140-VI-00046 (12213)
+ENT: Don TEST, qué pena, sígame contando.
+TEST: ¿En qué?
+ENT: Estábamos en lo del granero.
+TEST: Ah sí. Tenía el granero totalmente rústico, me fiaban la mayor parte aquí en LUGAR1,
+los depósitos, y pagaba semanalmente, y de ahí mismo sacaba yo pues sacaba yo para
+poderle dar a esa gente, que a veces eran diferentes precios, a veces 150... pues toda la vida
+no era comida, porque también siempre me pedían buzos verdes, botas de caucho estilo
+ecuatoriano que compraba... el único sitio donde las vendía era donde ORGANIZACIÓN
+PRIVADA1, ahí en la esquina, que todavía está, ahí en la esquina todavía. Ahí las compraba. Y
+
+las baterías, eran unas baterías de esas de para motos, de esas grandes, un material [DUD:
+yubaza grande 00:44], que era para los radioteléfonos que ellos utilizaban. Entonces eso era
+lo que más me pedían. A veces me mandaban a decir: "Necesito diez paquetes de arroz
+chino, de maíz". Lo que no me como yo se lo comían ellos, y me decían a tales horas tenía
+que subir, y yo subía en el carro, pero que decirmen a mí tengan esto, tenga tal cosa, le
+vamos a reconocer esto no. Nunca me llegaron ellos a reconocer, el día que sí dejé de dar,
+ahí sí me dieron objetivo militar, ahí sí como dicen, vamos a pagar, donde más quiera.
+Entonces, el miedo de hoy en día doctora es que yo quisiera saber, que me ayuden, que me
+colaboren es saber y descubrir todo esto porque actualmente la vida mía no es la misma de
+antes.
+ENT: ¿Don TEST, recibió alguna vez apoyo de algún alcalde, de alguna administración, de
+LUGAR3?
+TEST: No, nunca. No, nunca, nunca, nunca porque yo salí callado.
+ENT: ¿No supieron?
+TEST: Sí, nunca. Y todavía estoy callado, porque a base de todo eso, doctora, de tantos años
+explotar esa gente, al subir usted al campo a llevarlos, sea en las ------- o sea en carro
+particular, ¿qué piensa la gente a verla a usted reunida a uno con la guerrilla? Que uno es
+guerrillero. Eso sí, y lo primero que quedé yo fue en el municipio de LUGAR3 como
+guerrillero, y yo le decía al comandante arriba, le decía: "Pero usted ya, todo el mundo dice
+que soy guerrillero", "¿Y usted no se siente feliz con eso? Dele gracias, que usted es de la
+revolución". Y yo: "¿Cuál revolución? Déjenme la vida tranquila y con mucho gusto ustedes
+no me vuelven a ver nunca más en mi vida". "No, y usted acá seguirá hasta que nosotros le
+avisemos". A ellos no les importa quemar las personas, únicamente que a veces tenía cartas,
+lleve tal carta a fulanos, que eso era pal alcalde de LUGAR8 en ese tiempo que era
+CONOCIDO25, existía. "Señor alcalde, lo necesitan arriba". "Ay no, yo no quiero". "La orden
+es que tiene que subir conmigo pero ya". Y yo que tenía que irme. Pues vámonos ya porque,
+si yo no lo llevo la represalia iba contra mí, y era para amenazas contra él también, entonces
+cómo queda uno: mal. El ejército recibía información de gente de que uno trabajaba con
+ellos y lo señalaban a uno que uno también era de allá, y cuando lo cogían a uno lo trataban
+mal. Varias veces estuve acá en el UNIDAD MILITAR DEL EJERCITO1 [INC: Antigua división
+del ejército colombiano] cuando en ese tiempo estaba la ORGANIZACIÓN PÚBLICA10, la
+Unión Patriótica.
+ENT: UP.
+TEST: Hizo una manifestación por asunto de los servicios de acueducto de las empresas
+públicas de LUGAR1, y apareció mi papá, y mi papá llegó y me dijo: "Mijito, vaya y haga el
+reclamo que el agua llegó cara". Y me fui a hacerle el reclamo y había, más o menos, unas
+300 personas en fila. Le dije... yo como muchacho, le dije: "¿Pero yo qué voy a hacer cola?".
+Me fui y entré primero hasta la ventanilla, entonces empezaron todo ese mundo a gritar que
+haga cola, que haga cola, y dije: "¿pero cómo quiere que haga cola si este señor es un
+empleado de ventanilla y no me va a resolver el problema?" Y que "¿qué vamos a hacer?" Le
+dije: "Pues cerremos las empresas públicas y saquemos al gerente para que nos atienda,
+porque acá no tenemos nada más que hacer". Salimos de allá, nos resolvieron viniendo para
+la ORGANIZACIÓN PÚBLICA8, me quitaron el megáfono y era uno de la guerrilla, "¡Viva
+
+CONOCIDO60 Marulanda!". ¿Entonces cómo queda usted también? Por pendejo, por sapo,
+por meterse en cosas cuando uno está de muchacho, y solamente por ir a hacer un reclamo.
+Entonces, así pasa cuando a uno le están sacando, y la gente los que lo piensan a uno dentro
+del campo que lo vea, el señor es guerrillero, pero con esa gente mire que usted oye muchas
+cosas, doctora. Hoy en día uno los ve y es berraco. Yo estuve en el INSTITUCIÓN
+EDUCATIVA4do, me entraron, por intermedio de una persona que es amiga de
+CONOCIDO26, les solicité que me ayudaran porque yo iba a hablar era con EX RANGO1 DE
+LAS FARC [INC: EXRANGO1 DE LAS FARC].
+ENT: Hace poco.
+TEST: Sí, no hace nada. Este año. Me conseguí prestado para irme por pasajes, y me fui. Y
+llegué a la oficina de CONOCIDO26, y por la misma cera de CONOCIDO26, ahí no más 2, 3
+locales, está en un rinconcito los de las FARC. Y me saludó el desgraciado ese del EXRANGO1
+DE ALS FARC, y los que estaban sentados... CONOCIDO27, no sé qué, también. Yo iba para
+allá a hablar con ellos, pero no, yo no sé, me dio un temor doctora de verlos como andan,
+como campantes, con mucho nivel, por su casa, felices, mientras que uno está acabado y yo
+iba a hablar era con ellos por eso. Y no pude, no pude, no pude hablar con ellos. Entonces me
+dijo el que me llevó: "¿Por qué no vamos a hablar con los otros?". Y le dije: "¡Peor! ¿Cómo me
+va usted a mandar a hablar con el doctor CONOCIDO28? Si ese es peor. Yo me voy".
+Entonces él me dijo: "Espere tantico que él quiere hablar con usted". Por allá fueron a
+decirle que yo tenía pruebas, que no sé qué, pa presentársela a la guerrilla, y dije no, esto no
+es conmigo, yo me voy. Me van es a utilizar. Entonces yo le dije: "Espere tantico voy a
+tomarme un tinto". Mentiras, yo salí y me fui. Me fui pa donde mi hija en el barrio ----------,
+que vivía. Llegué allá: "¿Papi cómo le fue?". "No, no. Yo no fui capaz. No fui capaz". "¿Por
+qué", me dijo. "No, me dio miedo. No fui capaz de hablar con ellos". Pero ya uno del
+desesperado uno ya. Y yo fui, antes de entregarse ellos, yo fui a LUGAR14.
+ENT: ¿Y habló con ellos?
+TEST: Fui con mi hija, y ahí estaba RANGO8 DE LAS FARC, y estaba el comandante de
+RANGO10 DE LAS FARC, que apenas me vio me dijo... ya lo asesinaron a él, ya lo mataron, en
+una emboscada. "Váyase viejito, por acá está el RANGO8 DE LAS FARC". Y yo: "De aquí no
+me voy. Yo quiero que me diga la verdad. Por qué, cuando me convirtieron en objetivo
+militar". No. La única razón que dijo fue: "Tiene dos horas pa que desocupe o si no lo
+matamos". Entonces la gente de LUGAR14, todo el mundo salió y me favorecieron a mí, no
+me dejaron que me hicieran nada.
+ENT: ¿Eso hace cuánto fue?
+TEST: Eso ya hace... eso fue como en el dos mil... yo ya había salido, como en el 2007, 2008,
+más o menos, estaban ellos ahí. Y habían asesinado ya... al poco tiempo mataron a RANGO8
+DE LAS FARC, como en el 2010. Y me dijeron: "Don TEST, mataron a RANGO8 DE LAS
+FARC". Y dije: "Ay, Dios quiera que esté en el infierno, si es verdad". "Sí, ya lo mataron. Don
+TEST ya uno menos, pa que usted esté tranquilo, me decía". No, pero eso no. Ellos queda... el
+nombre de uno, según decían ellos, que uno siempre lo meten al computador, no sé, que
+ellos manejan ese sistema. Porque los que me cogieron de acá, cuando vinieron de
+disidencias de las FARC y me molestaron y mucho, ellos son de la Teófilo Forero, todo es de
+la Teófilo Forero, más o menos, todo es de la Teófilo Forero. Entonces, porque si yo nunca
+
+ha estado por acá. ¿Y por qué el nombre mío? No sé. De los mismo integrantes, seguro, de
+los que estuvieron de la fundación que se sienten afectados, que estamos descubriendo ya
+poco a poco, entonces seguro se sentían ellos pues acorralados, alguna cosa, de que ya los
+habíamos descubierto, entonces por eso seguro eran personas que nos dan. Cuando trabajé
+yo en el censo, hace ya... en el primer censo, no en este, cuando mataron a CONOCIDO27, del
+Huila. ¿Cuánto hace? No sé doctora, qué fecha fue. Nosotros andábamos en... yo manejaba un
+Suzuki CJ 410, como chófer, y andaba con la gente de los del ORGANIZACIÓN PÚBLICA13
+[INC: ORGANIZACIÓN PÚBLICA13]. Tocó que ir a censar a LUGAR15, o sea, límite de -------, y
+antes de llegar a ------- había un caserío que lo paró la guerrilla, los de la Teófilo Forero,
+entonces yo me bajé del carro, y el jefe del ORGANIZACIÓN PÚBLICA13 se fue a hablar con
+ellos pa que les diera permiso, porque tenían que pagar pa poder dejar pasar la gente a
+trabajar. Yo no sé cuánto pagarían, no sé, pero eso pagaban. Entonces, conocí un guerrillero
+que estaba ahí al pie, que era el hermano del GUERRILLERO3 DE LAS FARC, no sé... Y le dije
+yo a él: "¿Hermano, y ustedes por qué cobran?". Entonces llegó y me dijo: "No es que a todos
+esos hay que cobrarles. Dijo a ese perro que vamos que vamos a dar, usted no van a dar
+cuenta de la noticia porque vamos a matar a un perro". Le dije: "¿Cuál perro?". Dijo:
+"CONOCIDO27". Yo le dije: "¿Cuándo?". Dijo: "Hoy". Eso fue por la mañana, y ya por la tarde,
+por la noche lo mataron a él, al señor ese. Y yo quise hablar con CONOCIDO29, el hijo, no me
+quiso recibir. Yo le dije: "Mire, yo más o menos sé quién fue el que mató a su papá, que yo lo
+escuché. Y sabía". Y yo alcancé con un hermano mío al UNIDAD MILITAR DEL EJERCITO1, al
+ejército, para avisarle que por favor, ese día yo pedí permiso que estaba enfermo, entonces
+me dijo el del ORGANIZACIÓN PÚBLICA13 váyase, estaban en la finca de GRUPO
+FAMILIAR2, todos dieron posada en la finca de GRUPO FAMILIAR2, entonces yo salí y me
+vine con ese fin, pues a ver si evitaba la muerte de ese señor, y vine y entré al UNIDAD
+MILITAR DEL EJERCITO1 por la entrada antigua del batallón con mi hermano. Entonces
+llegó y me dijo: "Dej que maten a ese jijueputa", me dijo el coronel, "deje que maten a ese".
+Yo no me acuerdo si fue GRADO1 DEL EJERCITO también, o fue pera, no sé que estaba en
+ese tiempo, pero eso es fácil... el tiempo que mataron a ese, hay que saber quién estaba en
+ese día en el UNIDAD MILITAR DEL EJERCITO1. Salí yo y me fui pa la casa. Le dije a mi
+hermano: "vámonos porque nos van a matar aquí porque no quisieron saber nada". Y
+cuando lo mataron, ahí mismo mandaron a todos los del UNIDAD MILITAR DEL EJERCITO1
+a cogerme a mí en mi casa del ----------, y me trajeron de una para el UNIDAD MILITAR DEL
+EJERCITO1, y me sentenció de una el coronel. Usted no sabe nada, y usted no va a decir
+nada, porque a usted lo hago desaparecer. Le dije: "pero yo le dije a usted, y usted no hizo
+caso. Antes me dijo que mataran a ese perro". O sea, como era el único que vino acá y sabía
+la verdad, era yo. Y ahorita como 3 años fui a buscar a CONOCIDO29, y le dije:
+"CONOCIDO29, venga necesito saber pa que usted demande al ejército, demande a tal". No.
+Eso no le importó el nombre del papá, no sabe nada... no quiere saber nada.
+ENT: No dijo nada.
+TEST: No, nada. O sea, que ahí es donde me doy cuenta que los que no han querido decir la
+verdad, no han querido hablar. ¿Por qué no si es la muerte del papá, lo que más quiere uno
+en la vida? A ellos no les importa nada, ni la mamá. Entonces yo me quedé callado con todo
+eso, o sea, debería saber ellos seguro, no sé. Mi Dios sabrá y mi Dios los juzgara a ellos.
+
+ENT: ¿Y quién fue el que le dijo a usted que iban a matar a...?
+TEST: El hermano de GUERRILLERO3 DE LAS FARC, de la Teófilo Forero. Ese fue el que me
+lo dijo a mí. Que ya lo asesinaron también a él, ellos también fueron asesinados, que yo sabía
+en ese tiempo... el GUERRILLERO4 DE LAS FARC. Fue el GUERRILLERO4 DE LAS FARC, ese
+no lo conoce.
+ENT: ¿Y la persecusión por parte del GRADO1 DEL EJERCITO siguió?
+TEST: No. No. Con ellos no me dijeron nada más, ellos quedaron quietos porque dirán que
+como yo nunca dije nada, y hubiera dicho algo, eso estaría una bomba.
+ENT: Y usted me dice que allá en LUGAR8 cuando él lo perseguía les...
+TEST: Ah sí, yo lo hice llamar al Personero, pero él nunca fue. Nunca. Ni más lo volví
+tampoco a ver ni nada. Ni más lo volví yo a ver.
+ENT: ¿Don TEST, usted se sintió discriminado dentro de la población, dentro de la
+comunidad?
+TEST: ¿De la población?
+ENT: De LUGAR3, LUGAR8.
+TEST: Pues de todos, muchas de las cosas fueron casi que no hubieran mucho conocimiento
+de la población, porque la casa mía también me la intentaron a quemar, hasta ahogar, me
+metieron candela por debajo de la puerta, apagaron las luces del pueblo, que era fácil de la
+entrada, era una cuchilla bajarla. La policía apareció después de que pusieron la luz. Mejor
+dicho, hay muchas cosas involucradas dentro de la misma policía en ese tiempo, porque a
+mí casi ya no me querían. Yo recién llegado al pueblo, me dieron 72 horas de desocupar el
+pueblo, porque la única que era del pueblo era mi esposa, fueron la familia GRUPO
+FAMILIAR3, fueron CONOCIDO30, RESPONSABLE1, una moto LX 500 Yamaha grande.
+Fueron armados y me dijeron: "Tiene que [INAD: 13:40]. Usted no es visto aquí". Acababa
+de llegar con mi esposa y mi hijo, no sé por qué. Pues hoy en día me saludan, hoy en día pero
+como mi Dios es tan grande y poderoso, yo lo únicamente que digo, que las personas que
+hagan daño uno nunca debe de odiarlas ni nada, sino buscar el perdón, ¿sí? Entonces yo
+busco el perdón y la confianza en mi Dios de que hay que perdonarlos. Algún día le llegara
+también el castigo a cada uno de los que le hagan daño a los demás. En esto estoy de
+acuerdo con LUGAR26, y es verdad, ¿cómo vamos a volver otra vez al tiempo de antes con
+violencia? Y hoy en día yo me pongo a ver... lo único que yo sé es que hay muchos enemigos
+de LUGAR26, demasiados enemigos de LUGAR26, doctora, y si la gente... la gente está a
+favor de las personas que están en el lío de LUGAR26, ¿sabe por qué es? Porque no han
+sufrido la violencia, doctora, no saben qué se está usted sufriendo cuando a usted lo tienen
+pa matarlo, lo que sea que es vivir, lo que es sufrir, lo que es estar uno amarrado. Los que
+han estado secuestrados, que han durado tanto tiempo, saben qué es sufrir eso. ¿Entonces,
+por qué van a estar de enemigos de la misma paz? Démosle gracias a Dios que se acabó, y si
+quedó una disidencia no importa, pero es un grupo menos que tarde o temprano tienen que
+acabarlos, que si tenemos que hablar harto en la vida, y nos tocó, listo; pero evitamos de que
+no nos la vayan a quitar, pero no hay que estar tampoco en contra de LUGAR26. Entonces sí,
+yo en eso sí no comparto que estén en contra sino a favor de LUGAR26, que los demás
+grupos se entreguen, que se entreguen, que negocien, que hagan paz, porque... no sé, hay
+mucha magnitud que estoy aterrado que están hasta en contra, entonces no sé.
+
+ENT: ¿En 2004, en LUGAR3, seguía siendo alcalde ese señor CONOCIDO5, no?
+TEST: No, no. Ya no. Ya me parece que ya había salido.
+ENT: ¿Sí? ¿Quién era el alcalde en esa época?
+TEST: No, él estaba... eso fue antes. No sé si fue CONOCIDO31, no CONOCIDO31 no fue... eso
+fue este señor de ---------, CONOCIDO32, no me acuerdo. No me acuerdo muy bien doctora.
+Lo que pasa es que mire, los alcaldes... Le voy a contar la historia de los alcaldes, ¿sí? Son
+cómplices de la guerrilla, todos, y no hay ningún alcalde que diga que no. Hoy en día, el del
+municipio de LUGAR3, alcalde que está actualmente hoy, él era miliciano. El papá, la mano
+derecha del 17 frente de las FARC. Concejales... vamos a ver un concejal que se llama
+CONOCIDO33, que desplazado de --------- LUGAR3, ¿cómo que desplazado de qué? Si nunca
+la guerrilla lo sacó a ellos, lo pulsaron. Usted haga una investigación, doctora, del municipio
+de LUGAR3, si a los concejales los han amenazado de muerte. A ninguno, ni a ningún alcalde,
+entonces ¿por qué desplazado? ¿Desplazado de qué? De la misma complicidad políticas de
+ellos mismos que han salido como desplazados, pa poder sacar qué: provecho al estado.
+Sacarle todos los beneficios, y los que sí verdaderamente estuvieron allá, que tuvieron sus
+hijos en el ejército, que sí los sacó la guerrilla, ellos sí son desplazados, pero otros que son
+sin vergüenzas no más, por sacar un provecho. Y hoy en día tenemos a CONOCIDO19 como
+alcalde y fue cómplice de desplazamiento, de darle el aval cuando fue Personero. No sé
+doctora, no.
+ENT: ¿Don TEST, usted que recuerde, hace cuánto estaba presente el grupo en la zona? ¿Las
+FARC en la zona?
+TEST: Actualmente todavía está.
+ENT: ¿Y hace cuánto estaba, desde que usted se acuerde?
+TEST: Ellos estuvieron porque no conocí yo al RANGO11 DE LAS FARC que se fue, el tal
+famoso RANGO11 DE LAS FARC, que me pidió a mí el doctor CONOCIDO10 que le ayudara a
+investigar... RANGO11 DE LAS FARC sí estuvo por allá ahorita cuando estuvo en la zona
+veredal, y él se salió, él estuvo allá. Los integrantes que hay del 17 frente ahorita son del 40.
+40 frente de las FARC y hay gente integrantes del 17 que están con ellos, y andan vestidos
+totalmente de negro, porque la gente ya me lo confirmó.
+ENT: ¿De negro?
+TEST: De negro, pero con el brazalete FARC.
+ENT: ¿Y hace cuánto están?
+TEST: Eso hace más o menos 6 meses, 7 meses.
+ENT: ¿Y cuántas personas hay que hayan visto?
+TEST: Pues me dijeron que, más o menos, unas 300, 400 personas. Son harticas. Esas no son
+cualquier cosita. Entonces, hace un mes y medio, un lotero de LUGAR3, se llama
+CONOCIDO34, CONOCIDO35, la hermana, la cuñada tiene casa diagonal a donde mi suegra,
+él va y habla mucho conmigo, sigue hablando como una lora, me dijo, sin preguntarle nada,
+me dijo: "Don TEST, yo voy a --------- y mire que hay gente extraña, hay gente que de la chiva
+se baja gente con estilo paisas, con maleta, y hay carros esperándolos y se van para la
+montaña". Le dije "No será de eso...". Dijo: "Claro". Y dijo: "¿sabe qué? Que ya les avisaron
+hasta a la policía de LUGAR3". Que la policía tiene conocimiento que sí hay guerrilla, pero no
+hacen nada. Yo estoy averiguando hasta con unos de la UNIDAD MILITAR DE LA POLICÍA1
+
+que van al campo, que se hacen pasar, yo tengo los números de ellos, que yo les pedía que
+me averiguaran, que me investigaran, que me colaboraran... me decían: "TEST, nosotros
+informamos pero el comandante no". O sea, dice que no va ahí. ¿Por qué? Porque no se han,
+esto, demostrado ahora actualmente de la actividad de ellos, sino que ellos apenas están es
+reagrupando para luego sí dar totalmente el golpe total. RANGO2 DE LAS FARC, RANGO2 DE
+LAS FARC, él está subiendo. Él está ya como persona que entró a la negociación de paz, ¿sí?
+Está presentando sus proyectos y todo, pero se ve con ellos. Él sabe por qué lado va, porque
+RANGO2 DE LAS FARC el año pasado estuvo en Las -----, gente de las ----- de LUGAR8,
+municipio de LUGAR8, me contaron a mí, y tengo señor testimonio, también de otro señor
+de LUGAR19, que se llama CONOCIDO36, me contaba él y otro señor que estuvieron en Las
+-----, RANGO2 DE LAS FARC reunió al pueblo de la vereda, y les dijo: "Nunca hemos
+abandonado nosotros la guerrilla, nosotros siempre estamos con ustedes. Nosotros nunca
+vamos a dejar de estar... dejarlos abandonados a ustedes, siempre estaremos con ustedes". Y
+que en ese tiempo estuvo también RANGO11 DE LAS FARC con él. Entonces, ellos disimulan
+mucho las cosas, ellos saben hacer las cosas, y se hacen que no tienen plata, y tienen mucha
+plata. RANGO2 DE LAS FARC tiene mucha plata, pero harta.
+ENT: ¿El narcotráfico?
+TEST: Uff. Mire que a la parte del narcotráfico por LUGAR3 no lo había... sí lo había pero era
+la amapola. En el tiempo que a mí me ordeñaron y me sacaron plata, era mucha la mancha,
+la amapola.
+ENT: ¿Y quiénes la manejaban?
+TEST: La manejaba la guerrilla. El 17 frente le compraban a los que cultivaban la mancha y
+donde el sitio la compraban era LUGAR14, o en LUGAR16 o en LUGAR6, era los sitios que
+usted llegaba, yo llegaba con remesa ahí, y ahí estaban los compradores comprando.
+ENT: ¿Y ahí lo cultivaban, no?
+TEST: No, ellos no cultivaban, ellos le compraban a los... le prestaban el servicio a los que
+cultivaban, y le dejaban tiempo para que limpiaran monte, selva virgen, pa que sembraran
+amapola, eso sí es una realidad.
+ENT: ¿Y los compradores llegaban allá?
+TEST: Ellos mismos, exacto. Ellos mismos le vendían y ellos mismos les compraban, eso sí...
+que mienten esos son unos desgraciados, pero lo que le digo yo a usted, ellos que van a
+decirle a uno si me van a matar, ellos no van a decir al verdad, porque como saben que
+tienen que pagar alguna cosa de cárcel o, pero eso no es mentira, pero lo que dice usted o lo
+que le digo yo eso sí es una realidad, esa es una verdad. Ese es el que le digo yo que RANGO2
+DE LAS FARC, la plata la tiene RANGO6 DE LAS FARC, RANGO6 DE LAS FARC. A un señor
+que murió que se llama CONOCIDO37, le decían CONOCIDO37, de LUGAR5, a mí cuando me
+sacaban y me decían: "Tiene que ir a recoger a CONOCIDO37 al 17, a LUGAR5, vaya y me lo
+recoge", yo lo recogía y lo traía a la 4 al edificio de CONOCIDO38... el señor CONOCIDO38,
+que es un edificio grande ahí por la cuarta. Él le entregaba 30 millones de pesos cada año,
+por orden de RANGO2 DE LAS FARC, que él era el RANGO2 DE LAS FARC en la
+CONOCIDO60ita Saenz. Cuando RANGO2 DE LAS FARC permanecía en el 17, no era que
+pertenecía al 17, él estaba era fiscalizando a la gente del 17 y recogiendo lo que el 17 tenía
+que hacer, porque era el jefe de finanza. Yo lo acompañé una vez a él, y yo le dije: "¿A dónde
+
+van a dejar esa plata?". Dijo: "Camine me acompaña" al famoso ORGANIZACIÓN PRIVADA3,
+la ferretería. Era al hijo del señor. Antes de la ferretería hay una puertica, al segundo piso, yo
+me quedaba ahí afuera, y él decía "No, tranquilo, espéreme tantico y ahorita hablamos. Pa
+que nos vamos ya, listo pa LUGAR5, pa que me lleve". Listo. Subía y dejaba la plata y salía. Le
+dije: "¿A quién se la entregó?" "Pues al hijo, al muchacho". Él era el que manejaba la plata, y
+era por orden RANGO2 DE LAS FARC, RANGO2 DE LAS FARC, el que tenía que dejar la plata
+era ahí. Entonces... Y usted lo ve hoy en día, doctora, que no tiene ni pal bus. Era mentira, era
+mentira. Ellos saben hacer las cosas, y el único es que cogieran a ese señor y le quitaran todo
+lo que tiene, RANGO6 DE LAS FARC. Es que la guerrilla le ha mentido mucho al estado, los
+bienes que han entregado no son todos los bienes, ellos no van a entregar todo porque ¿con
+qué van a vivir? Ellos no van a estar aquí que se entregaron 30 y 40 años de lucha, ¿y van a
+empezar en qué? Es una mentira, ellos tienen sus terceros, cuartas personas que tienen sus
+bienes.
+ENT: ¿Don TEST, otros grupos que hayan estado en la zona de LUGAR3, LUGAR8?
+TEST: Las autodefensas, grupo Calima. Hicieron una masacre, eso fue como en 1997 o 98,
+más o menos, estuvieron ellos. No me acuerdo qué año fue, pero mataron un poco de gente
+ladrona. Mataron hasta como unas 6, 8 personas. Entre esos, me acuerdo yo que me llegó a
+mí, cuando me estaban explotando, había un grupo de autodefensas en ------------------, era el
+famoso RANGO1 DE LOS PARAMILITARES, uno negro. En ese tiempo, hacía como unos...
+actualmente unos 30 y pico de años, estuvieron ellos allá. Decían que eran contratados por
+RESPONSABLE2, el de LUGAR26, que era el que quería que hicieran limpieza de tanto
+ladrones que le estaban robando en la finca, y ellos querían que por la madre de Dios, en el
+pueblo, muy servicial. Yo don RESPONSABLE2 lo respeto, lo admiro, porque es una persona
+honesta, nunca decir de que fue guerrillero, no, antes el pueblo es testigo que varias veces le
+hicieron atentado la guerrilla pa poderselo llevar y después ahí fue que era integrante de la
+guerrilla, entonces son cosas del destino, no sé, pero ese señor sí muy buena gente con el
+pueblo. Hasta yo mismo fui uno de los que pedía, cuando era de la junta, pedirle el regalo pa
+los niños, daba 300, 600 regalos que sé que eso era desde cuna la plata de ellos, porque
+¿quién no conoce esa familia? Llegó un muchacho EX POLICÍA1, ex policía, llegó a mi casa, y
+me dijo: "Don TEST, no me vaya a meter en problemas, pero yo sé que usted es guerrillero",
+cuando me estaban explotando. Le dije: "¿Por qué? ¿Qué me va a decir usted a mí?". Me dijo:
+"No, le manda a decir el RANGO1 DE LOS PARAMILITARES de las Autodefensas que tiene 72
+horas pa que desocupe el pueblo o si no le masacran la familia ahí". Oiga, pero yo si he
+estado de buenas, me dan por uno y vienen por el otro, entonces ¿cómo así? Dijo, el RANGO1
+DE LOS PARAMILITARES. Yo no me quedé callado, él salió y se fue, yo cogí el carrito, me fui
+por los lados de LUGAR27 pa irme por el cruce de LUGAR28 a buscarlos, y yo me voy, es que
+no le conozco, no le debo a él y por qué me van a decir a mí que 72 horas. Entonces,
+encontré un Mitsubishi, con vidrios polarizados en el cruce de LUGAR28, y me pararon a mí
+ahí, y me dijo: "Venga señor pa'cá ¿Usted de dónde viene?". Yo le dije: "Yo vengo de
+LUGAR3". Dijo: "Dígame una cosa, ¿usted ha visto una gente haciéndose pasar como
+autodefensa?". Le dije: "¿Cómo así?", "Yo voy a buscarlos a ellos, no ve que nosotros somos
+autodefensas. Nosotros somos del grupo Calima". Ellos sí se identificaron.
+ENT: Sí.
+
+TEST: Le dije: "Yo vengo en busca de ustedes, pero vengo en busca de un RANGO1 DE LOS
+PARAMILITARES que está en LUGAR28". Me dijo: "No vaya señor". Le dije: "¿Por qué?". Dijo:
+"Ese jijueputa estamos buscando nosotros pa matarlo, porque ellos están haciéndose pasar
+como autodefensas y fueron los que masacraron la gente de LUGAR3, los ladrones". O sea,
+que no eran legítimamente autodefensa, entonces sacó un cassete y me dijo: "Mire, ¿tiene
+pasacinta acá?". Le dije: "Sí señor, pero necesito cuatro". Dijo: "Tenga le regalo este, que es
+de nuestro RANGO2 DE LOS PARAMILITARES" y estaba con el sombrero, el sombrero en la
+foto de RANGO2 DE LOS PARAMILITARES. Yo le dije: "Claro, con mucho gusto yo lo recibo y
+me lo pongo". Ahí si estaba [DUD: Leopol]28:17, me dijo: "Señor, no le ponga a creerle,
+tranquilo, devuélvase pa su casa. Y gracias a Dios que usted no está diciendo a nosotros
+dónde vive". Le dije: "Sí señor, ¿usted me está preguntando? Pa yo ir a buscarlos al tal
+famoso RANGO1 DE LOS PARAMILITARES", me dijo, "No vaya, déjelo que nosotros vamos
+en busca de ellos, venimos a acabarlos". Y pasaron por---------, pasaron por todo y por qué
+no producían hechos ahí. Iban armados y uniformados de camuflado. Entonces uno no
+entiende, porque yo apenas los vi yo creía que era el ejército.
+ENT: ¿Entonces ellos entraron buscando proteger a alguien? o sea, ¿alguien los llevó a
+LUGAR3?
+TEST: Ellos yo creo que seguro sí fue alguien que los tuvo que haber llevado.
+ENT: ¿No supo quién?
+TEST: No supe. No, doctora, eso sí me quedó. El rumor, el chisme, era metiéndole la culpa a
+don RESPONSABLE2, que él era que lo había hecho por seguridad, no sé; pero es que ese
+señor tuvo un atentado aquí en ---------, acá. Le mataron como 7 escoltas, que se lo iba a
+llevar la Teófilo, entonces yo no entiendo por qué ese señor, no sé. La justicia sabrá, ¿no?
+Porque como hoy en día hay gente que se han volado, y hay gente que llegan y empieza, y la
+juzgan a usted de una, o lo juzgan a uno de una, y juran por acabarlo de matar a uno, porque
+es que allá la guerrilla sí lo escucha mucho. Me decía: "Don TEST, no vaya intentar
+convertirse en sapo" cuando me estaban ordeñando, "nosotros tenemos infiltrados dentro
+del ejército. Lo que el ejército haga nosotros lo sabemos". Le dije: "Pero dicen que el ejército
+también tiene allá personas que saben de usted". Me dijo: "Pues ahí nos damos entre todos,
+pero allá hay mucho asesino, mucho asesino. Uy. Estaba el famoso RESPONSABLE3, ¿cómo
+se llamaba? Ese era RESPONSABLE3, era una asesino bravo, era de LUGAR8, amigo
+dRANGO2 DE LAS FARC, él era feliz colgando las personas y con un bisturí despedazándolas,
+o sea, para estudiar ¿cómo se llama?
+ENT: Anatomía.
+TEST: Anatomía, exactamente, del cuerpo humano. Con él también yo me enfrenté. Yo me le
+enfrenté porque dijo que me iba a asesinar y yo en LUGAR16 me enfrenté con él.
+ENT: ¿Qué dijo?
+TEST: Lo traté de lo peor, le dije yo: "Hágale, sáquelo, máteme. Ustedes son una parranda de
+hijueputas", les decía yo así. "Ustedes no son del pueblo", les decía yo. "Usted dice NP,
+Ustedes no son del pueblo. El pueblo es el ejército" y más pa'llá estaba con una pistola
+grandísima, amarrada con esparadrapo a los profesores, y gritándome en la carretera, y yo
+me metí a la carretera también. Yo decía: "¡Máteme!", yo ahí recostado en el carrito.
+Entonces el presidente de la junta, que era don CONOCIDO8, la que le digo yo que le
+
+quitaron la finca, llegó y le dijo: "Hermano, deje al viejo tranquilo, mano. Ya el viejo le está
+sacando a usted, mano, ¿cuál es el problema con él, hermano? Ya. ¿O quiere que le
+informe?", como las ORGANIZACIÓN SOCIAL4 son los que le informan, son los que miran,
+son los que recolectan de las zonas veredales de la gente que están ordeñando para llevarles
+a la guerrilla eran las ORGANIZACIÓN SOCIAL4, eso no hay nadie decirle que es una
+mentira. No, son ellos. Ellos son los que hay que hablar para pedirle permiso pa entrar,
+todos son las ORGANIZACIÓN SOCIAL4. Eso ya lo sabemos que ellos son cómplices también.
+Y son personas que viven felices de ser auxiliares de la guerrilla. Me decía un señor del
+[DUD: --------- 31:47], ahorita el año pasado, que habían llegado las disidencias porque
+estaban robando mucho, y que... ese señor compra banano en la zona de --------- y el ---------,
+entonces me dijo: "Don TEST, yo estoy dando. Yo le entrego a la junta dos millones
+quinientos ($2'500.000). Prefiero... es en el año que me daban... prefiero pagar y estar
+tranquilo y ya no nos vuelven a atracar". O sea, que sí ya están pidiendo plata.
+ENT: ¿Otra vez?
+TEST: Sí están pidiendo otra vez plata las disidencias. Dijeron sí, ya está confirmado y eso
+me lo dijo. Y eso también se lo comenté también, y CONOCIDO10 ya había recopilado
+también y me dijo: "Don TEST, tiene toda la razón". Yo quisiera, no sé, no puedo porque
+tengo unas grabaciones ahí que son del....
+ENT: Si quiere ahorita me las muestra. Don TEST, ¿usted cree que por esos hechos que le
+sucedieron a usted alguien más se benefició a parte del grupo?
+TEST: ¿De la guerrilla?
+ENT: Políticos, económicos... O de esos hechos, que usted haya conocido, no solo contra
+usted, sino contra alguien más, ¿se beneficiaron algunos políticos, algunos?
+TEST: De los políticos que dieron plata allá eran directamente los que sí estaban dando allá,
+y eran amigos de ellos: CONOCIDO4, y CONOCIDO2.
+ENT: ¿Y ellos recibían algún beneficio de las FARC?
+TEST: El beneficio, pues para el asunto de las campañas, que era que la gente votara
+directamente por ellos en la zona.
+ENT: ¿Los obligaban?
+TEST: No. No era obligación, ellos eran amigos. Por eso a mí se me hizo extraño el secuestro
+del avión, de llevarse a CONOCIDO4, si CONOCIDO4 era la mano derecha, y yo no sé por qué
+la Teófilo hizo eso, seguro le faltó que el 17 informara que ellos eran amigos de ellos, porque
+CONOCIDO2 subió bastante, bastante. Cuando yo entregaba las remesas, yo lo veía cuando
+él llegaba. Y era atendido con sancocho de gallina, y yo creo que si a mí me están sacando
+plata a mí no me van a dar sancocho de gallina.
+ENT: Y digamos, cuando este señor CONOCIDO2 y CONOCIDO4 estaban en campaña, ¿las
+FARC obligaba a la gente a votar por ellos?
+TEST: Claro, llamaba, que tenían que apoyar porque eso lo hacían en coordinaciones con las
+ORGANIZACIÓN SOCIAL4. Es que yo no sé por qué los secuestraron a ellos. Yo dije, pero
+cómo siendo... si ellos son mano derecha. Pues CONOCIDO4, le había pasado a CONOCIDO3
+lo de los 30 millones de pesos, que era la cuota que le mandaba directamente CONOCIDO4
+de un agradecimiento a los de las FARC, y eso se lo mandaban, según decían, que se lo
+mandaban a RANGO2 DE LAS FARC, RANGO2 DE LAS FARC. Entonces, este señor pues no le
+
+dio pereza no mandarla, sino que se lo gastó, hizo una fiesta la berrionda, invitó políticos,
+gobernador, eso era con esmoquin la celebración de los 15 años de la hija, y vea a los 8 días
+fue cuando lo mataron en su propia casa. Entonces...
+ENT: ¿Entonces usted qué piensa del secuestro de ellos?
+TEST: Yo no sé. Yo no sé ahí qué... por qué fue que lo hicieron, no sé. O fue una fachada, o fue
+una mentira, o fue falso. Pero yo a CONOCIDO4 no le creo nada. Mire, CONOCIDO4.... yo fui a
+donde CONOCIDO4, trabajé en las empresas públicas como revisor fiscal, investigué el robo
+de las empresas públicas de los 500 millones de pesos de alcantarillado, y yo como revisor
+fiscal me fui a a donde CONOCIDO4 27 boletas de un vehículo, en ese tiempo valían cada
+boleta 100 mil pesos ($100.000) y el sueldo era $28.300 como revisor fiscal sexto grado de
+la ORGANIZACIÓN PÚBLICA14, y me decía CONOCIDO4, "usted las paga". Y yo dije: "¿Pero
+cómo voy a pagar si el sueldo mío son 28 mil y pico?". "Usted verá. Aprenda como todo el
+mundo a robar. Aprenda a ordeñar a los proveedores". Eso me lo decía CONOCIDO4, y yo no
+le pagué las boletas, porque qué iba a pagar yo, no tenía nada. Entonces, ahora, CONOCIDO2,
+para pagarles a los de la ORGANIZACIÓN SOCIAL4, ¿sabe qué hacía? Nunca la conocí, yo
+nunca, pero como es lo decía la guerrilla cuando yo subía, una marranera grandísima,
+criadero de marranos LUGAR18, no sé en qué parte sería, y todos los amperos, eran 5 o 10
+marranos pu'allá sola, pa que celebraran el día de --------- [INC: -- de --------]. Entonces, yo
+me pongo a ver y eso era, era feliz, feliz, y ahora otra de las manos derecha que era del
+pueblo, que fue condenado y tuvieron 5 años de cárcel, le dieron fue la plata del estado, y
+eran milicianos, el famoso GUERRILLERO5, que le dicen, el viejo GUERRILLERO5. Le dieron
+como mil millones o quinientos millones, y ese era el que le llevaba a CONOCIDO2 todo y lo
+subía y lo llevaba y lo traía, entonces yo no entiendo por qué la Teófilo se lo llevó, no sé.
+Entonces, pero que son políticos falso, esos dos son mentirosos, eso sí mi Dios debe
+descubrirse un día toda la verdad.
+ENT: Claro. Don TEST, esto que usted me cuenta que le sucedió, ¿le había pasado a más
+personas de la zona que usted conociera?
+TEST: ¿De quién, de los políticos?
+ENT: No, por ejemplo, la persecución que tenían contra usted, y las amenazas, ¿también le
+pasaba a otros comerciantes?
+TEST: No, ellos intentaron a ordeñar fue a un primo hermano de mi esposa, en LUGAR3, el
+17 frente, que es este GUERRILLERO5, que sí me lo dijeron a mí que le llevara yo una boleta,
+y yo: "Un momentico, yo no voy a aceptar de que ustedes me vayan a sacar plata, porque
+para eso me están sacando ustedes a mí. Le están sacando comida a un señor que apenas
+está trabajando y está iniciando, y le van a sacar plata... entonces no le sacan". Yo fui y hablé
+con él y le dije: "don GUERRILLERO5, le van a sacar plata", y dijo: "Primero me matan,
+primero yo muerto que darle a esos señores". No sé si él daría después. No sé. Yo cumplí con
+decirle a él, yo hablé allá con usted, pero a usted lo van a ordeñar, pilas con eso. Pero yo
+nunca le dije que a mí me estaban ordeñando, porque como yo tenía era la ley del silencia de
+ellos, que si yo comentaba alguna cosa pues primero estaban era mis hijos y mi esposa, que
+me iban a asesinar, entonces yo no podía decir nada. Simplemente le comentaba como para
+que se cuidara, y que no me fueran a mí tampoco a utilizar a que... que tal que me dijo, pilas
+con eso, y me decía: "No, traquilo TEST, yo le agradezco mucho". Entonces, pero ya los
+
+alcaldes todos de la zona de ahí, ellos sacaban hasta los mismos comandantes. CONOCIDO40
+que estaba cuando fue gobernador CONOCIDO41, prestó los carros pa sacarlos a ellos. Le
+pintaban el cabello, le pintaban todo pa salir, y eran carros blindados de la ORGANIZACIÓN
+PÚBLICA8. RANGO2 DE LAS FARC varias veces anduvo con CONOCIDO40.
+ENT: ¿Sí?
+TEST: Claro.
+ENT: ¿Qué otros alcaldes tuvieron que ver ahí?
+TEST: Todos los alcaldes de LUGAR3, CONOCIDO31, CONOCIDO32, CONOCIDO42,
+CONOCIDO5, todos manos derecha. Los de LUGAR8.
+ENT: ¿Y qué ayuda les prestaban?
+TEST: Ellos daban plata.
+ENT: ¿Plata?
+TEST: Plata. La plata se la daban donde no construían puentes, esa plata... [INTERRUP].
+ENT: ¿Ellos eran amenazados para eso o era voluntariamente?
+TEST: [CONT] No, no era amenazado, era ayuda a la causa. Ellos le daban porque eran
+amigos. Es que nunca fueron a mirar ningún integrante de la ORGANIZACIÓN PÚBLICA3
+fueron amenazados, nunca. Ellos se hacen los amenazados, y ante el estado son desplazados,
+eso es una fachada. Entonces una mentira, y eso es lo que tiene que descubrir el estado, y
+esto me gusta, lo de la ORGANIZACIÓN PÚBLICA9, para que se descubran muchas cosas.
+Muchas cosas.
+ENT: Sí señor, muchas verdades que no se han dicho.
+TEST: Uy, eso es muchas mentiras que hay.
+ENT: Don TEST, esto es muy valioso para nosotros y estamos muy agradecidos también con
+usted, yo quería preguntarle ¿qué pasó después con... usted tenía casa allá en LUGAR3?
+TEST: Yo tenía casa. La casa se vendió.
+ENT: ¿Tuvo fincas allá?
+TEST: No, fincas sí no alcancé a llegar.
+ENT: ¿El negocio, qué pasó con el negocio cuando usted fue desplazado?
+TEST: El negocio se acabó. Se acabó y me fui a trabajar con una empresa de cable que se
+llama ORGANIZACIÓN PÚBLICA15, a vender boletas de carros. Y la casa se vendió para
+poder yo darles estudio, también terminarle a mi hija.
+ENT: ¿Qué pasó con esas boletas que le dio CONOCIDO4?
+TEST: Yo las entregué.
+ENT: ¿A él?
+TEST: Yo se las entregué porque ¿con qué iba a pagarle? Si imagínese, 28 mil y pico no más
+el sueldo mío, pa poderle yo pagar a él una cantidad de boletas que tenía. Esa es la
+obligación que ellos tienen, ellos la escolta y los empleados, que eran hartos y ganaban buen
+billete, también da lo mismo. Eso es pago.
+ENT: ¿Don TEST, usted cree que por usted no colaborar a CONOCIDO4 o a estos políticos,
+fue la represalia de las FARC?
+TEST: Puede ser que hasta a lo mejor. Puede ser que hasta lo mejor, porque ellos me vieron
+varias veces. Varias veces me vieron, sino que yo no sabía si los veía, pues ellos verían algo.
+ENT: ¿No les decían nada?
+
+TEST: No, nada. Ellos apenas los carros, pero en los carros... como me veían apenas en los
+carros pues que ya... entonces yo obviamente, para que la policía me dejara tranquilo y me
+ganara, yo le metía al carro plátanos, o sino tomate de árbol, y decía... porque a cada nada
+era pregunte la policía: "¿Usted qué hace allá?".
+ENT: Claro.
+TEST: "¿Qué va a hacer allá? Si esto está minado de guerrilla". Le dije yo: "Sí señor, ta
+minado de guerrilla". "¿Pero usted qué hace allá?". Le dije: "No, pues yo voy y compro. Mire,
+compro mi platanito, compro eso... llevo el carro llenito, pero es de mi bolsillo, ellos no me
+dan nada". Entonces me decía: "¿Usted vio a la guerrilla?". Y le dije: "Sí señor, yo los vi. Allá
+están, están todos bien". A veces, doctora, otra cosa que no le conté, fue que [INTERRUP].
+ENT: ENT...
+TEST: Doctora ENT.
+ENT: Dígame solo ENT, tranquilo.
+TEST: [CONT] Traerme yo la mujer del RANGO3 DE LAS FARC, del RANGO3 DE LAS FARC, la
+mujer; y la mujer del RANGO1 DE LAS FARC, la esposa, las traje pa pasar por el retén, y yo
+me decían: "Tiene que llevárselas pa la casa de la mamá de RANGO12 DE LAS FARC".
+"¿Cómo así, a dónde?". Dijo: "Es que la mamá de RANGO12 DE LAS FARC vive en LUGAR1". Y
+yo "¿Cómo así?". "Vive en el barrio -------------". "¿Cómo así?". Dijo: "Sí, usted va y las lleva
+porque ellas tienen que estar donde el médico". Yo llegué y pasé el retén y la policía me
+decía: "Quibo, viejo, ¿cómo está? ¿Si ha visto a la guerrilla?". Y yo le decía: "Uy eso está
+minado, sí". Y eran dos guerrilleros, y esas chinas bonitas, las chinas llevaban ya su pistolita
+pequeñita dentro de la vagina; o sea, en caso de cualquier cosa yo le decía: "Ay, por favor, no
+vayan a hacer nada...". Yo asustado, y por favor, aquí nos matan. "Tranquilo, tranquilo.
+Usted, nosotros somos serenas y no formamos problema, usted controle sus nervios y no
+hay problema". Entonces me tocaba que estarme yo tranquilo, y ahí... "Son mis primas".
+"Oiga, viejo, salude a su prima. Están muy bonitas". Y eran de la guerrilla. Entonces, cuando
+llegamos aquí a LUGAR1, subíamos a -------------, pero nunca me dejaban presentar dónde
+era la casa de RANGO12 DE LAS FARC, yo quería conocerla. Entonces siempre era una
+cuadra y media, los dejaba en una esquina y ahí quedaban y me decían: "Viejo, devuélvase",
+pero ya había información de que llegaban las mujeres de los comandantes del 17 frente ahí
+porque yo vi mucho ejército cuando yo iba a entrar. Pero lo que no decían era en qué carro
+iban. Donde fueran en carro, me cogen a mí. Y no, gracias a mi Dios no, y cuando yo llegaba a
+la casa escuchaba operativos de helicópteros por el barrio de allá, es que seguro los
+comandantes no sé qué están en -------------, y allá donde yo llegué a saber fue que la mamá y
+la familia de RANGO12 DE LAS FARC vivía aquí en LUGAR1.
+ENT: Claro. ¿Don TEST usted sospechaba que esto iba a ocurrir en algún momento?
+TEST: No, doctora. Yo siempre le ayudé a la forma de... la explotación mía fue por ayudarle a
+la gente del campo. Como líder, que yo en ese tiempo pertenecía a la junta, yo llegaba y hacía
+derechos de petición, me decían: "TEST mire que me están debiendo tal cosa, por favor,
+¿será que usted me puede ayudar con un memorial pal juzgado?". Yo le hacía, ¿y cuánto
+valía? No nada". Entonces ellos me decían: "Yo le mando en estos días el joto". Y yo, "¿pero
+cuál joto?". El joto es una mochila lleno de yuca, de plátano, de lo que quiera, y eso es lo que
+me mandaban.
+
+ENT: Claro, usted era líder en la comunidad.
+TEST: Sí señora. Entonces, según parece, que cuando dejé uno a alguien por ahí... es que
+tanta gente que yo le ayudé, a lo mejor a alguien no le gustó lo que yo hice, o le salió las
+cosas mal, entonces esos fue los que me aventaron y fue cuando mataron a alias
+GUERRILLERO1 DE LAS FARC, al llegarme a mi casa pa subirme, porque yo no conocía ni
+---------, no conocía -------------, no conocía ---------, no conocía ni -------------, ahí fue donde yo
+empecé ya cuando me llevaron para allá, a lo que yo comenté al principio, entonces yo creo
+que ahí empezó la...
+ENT: ¿Y la gente cómo empezó a conocerle que usted hacía derechos de petición?
+TEST: Por la misma ORGANIZACIÓN SOCIAL4, que yo llegaba y hablaba con la gente. Yo salía
+en la ORGANIZACIÓN PÚBLICA3, iba al consejo a los debates, me sentaba allá con la gente
+del campo: "Don TEST, mire que no nos gusta por esto y esto, apoyemos que necesitamos
+una carretera que nos lleve a tal parte". Entonces yo pedía cuando había la libertad de poder
+hablar los del público, entonces nosotros hablábamos, y yo hablaba, y yo me estaba con
+ellos. Hasta yo me lancé, fui candidato al concejo de LUGAR3, pero desgraciadamente saqué
+como 38 votos [risa]. Eso fue una vergüenza, pero... o sea, no hubo apoyo, no.. porque como
+uno no es del pueblo la gente no le gustaba apoyarlo a uno, pero yo creo que desde ahí fue
+porque ¿por qué la mujer se separó de mí? ¿Por qué mi mujer me dejó? Si yo apenas estoy
+ahorita, estoy reconciliado apenas.
+ENT: Ah bueno, qué bueno. Me alegra.
+TEST: Gracias al señor, vine con mi esposa, lo más bello, que yo quiero y adoro.
+ENT: Me alegra, don TEST.
+TEST: Uy sí, mi felicidad linda. Y ella nunca me jugó sucio, ni nada.
+ENT: Qué bueno.
+TEST: La adoro, la adoro. Ella trabaja con la secretaría de educación, ella es bibliotecaria. El
+sindicato la ayudó mucho para entrar a LUGAR3, y ahí está en LUGAR3. Yo permanezco, yo
+soy el que le hago la alimentación a ella, y ella es la que me tiene a mí
+ENT: Qué bueno, don TEST. Entonces, ¿alguna vez el ejército o la policía, que usted me dice
+los retenes, lo presionó para que le contara información?
+TEST: Solamente ese señor.
+ENT: Solamente el GRADO3 DEL EJERCITO.
+TEST: El GRADO3 DEL EJERCITO no más que me trataba muy mal. Otro fue padre... que,
+perdone que no le he contado, fue el padre CONOCIDO43 . Los curas también están metidos
+en eso.
+ENT: ¿Sí? Cuénteme.
+TEST: Claro. El padre CONOCIDO43 , cuando fue sacerdote del municipio de LUGAR3, lo
+llamaba el 17 porque yo varias veces vine a llevarlo, que necesitaba ir a bautizar a un
+guerrillero, pa poderle dar una identificación la ORGANIZACIÓN PÚBLICA16. Entonces, en
+ese tiempo el registrador se llamaba, es CONOCIDA44, que ya está pensionado, a un
+RANGO13 DE GRUPO SIN ESPECIFICAR que llamaban RANGO13 DE GRUPO SIN
+ESPECIFICAR, de escuadra, un llanero, quedó RANGO13 DE GRUPO SIN ESPECIFICAR, y ese
+está bautizado como hijo de CONOCIDO45 de LUGAR3, que era socio de ORGANIZACIÓN
+PÚBLICA17, de -------, y CONOCIDA44, el registrador, subieron a la parte de antes de
+
+-------------, ahí hubo la fiesta del bautismo y todo para poder darle la cédula, entonces me
+entregaron la cédula, para poder salir, pa que no quedara que cuando la policía lo buscara lo
+encontrara era con otro nombre y apellido; o sea, los curas también tienen.... El padre
+CONOCIDO43 sabía que yo me la pasaba mucho arriba, porque yo no hablaba con él, porque
+yo a los curas también les tengo mucha desconfianza... me fue a buscar una vez a mí y me
+dijo: "Don TEST ¿será que podemos ir a LUGAR27, al desierto, a ------------?". Le dije: "¿Por
+qué?". Dijo: "Porque es que aquí hay un señor que es el mejor coplero del Huila, que es don
+CONOCIDO46, lo tiene amenazado la guerrilla, usted debe conocer la gente que está allá". Yo
+le dije: "Claro, yo he ido también a dejar remesa allá". Entonces yo le dije: "Allá está es
+CONOCIDO47 y CONOCIDO48, que es el -----------", le dije yo. Entonces dijo: "¿Será que
+podemos hablar con él pa ver cuál es la vaina que nos van a matar?" Le dije pues: "Padre, si
+usted me trae pues vamos, hacemos lo que podemos hacer. Yo. Pero yo creo que ellos no me
+van a hacer caso, porque para lo que me tratan a mí, no creo". Dijo: "Vamos". Entonces nos
+fuimos y nos fuimos con este señor electricista que ya murió en LUGAR3, y nos fuimos para
+----------, nos fuimos pa'llá, pal desierto, y el viejito también se fue con nosotros, don
+CONOCIDO46, él estaba donde la familia pues huyendo de la guerrilla, y nos fuimos para allá
+pal desierto, pa la finca de él. Tenía unas 200, 300 -------, hartas -------, ovejos, de todo. Lo
+primero que hizo el sacerdote, fue el padre... lo que es pícaro es pícaro, llegó y cogió y las
+tres ------- que iba agarrando el CONOCIDO46 fue lo primero que echó al carro, y me dijo:
+"Don TEST quédese usted acá". Le dije: "¿Pero por qué me va a dejar a mí, si ellos le creen
+más a un cura que a mí?". Dijo: "No, usted hable con ellos, no hay problema". El cura
+desgraciado cogió y se fue, y yo como para no hacer uno vulgar yo me quedé ahí, pero yo me
+quedé siempre pensando de que las cosas no iban a ser tan fácil.
+Le dije: "Don CONOCIDO46, dígame la verdad, cuénteme usted lo que le ha dicho al cura".
+Dijo: "No, es que mis hijos son cuatreros". Le dije: "Ah no. Vámonos, vámonos de acá. Usted
+tiene razón que lo van a matar a usted". O sea, si a sus hijos no han podido darle por la vaina
+que ellos formaron una banda y andan que armados, bien armados, y eran los cuatreros, los
+que robaban ganado, y la guerrilla no había podido desmantelarlos a ellos, entonces pues
+lógico, descubrieron que tenían que darle primero era al papá de ellos. Dije: "Don
+CONOCIDO46, a usted lo van a matar". Entonces, como yo fumaba cigarrillo, yo era
+desesperado fumando cigarrillo, y le dije a una de las hijas del señor, le dije yo: "¿Será que
+me puede traer un paquete de cigarrillos por acá". Y dijo: "Uy, don TEST, está como a 40
+minutos de aquí a pie, mire... ¿ve ese remuchico? Y es por allá arriba". Entonces yo: "Voy a
+ir". Le dije: "Vaya mamita". Entonces don CONOCIDO46 dijo: "¿Usted quiere comer RANGO2
+DE LAS FARC mamó?". Yo no sé, ahí pal desayuno. Entonces lo mató el viejito y toda esa
+vaina. Me dio el desayuno, y nos sentamos en el corredor, nos sentamos ahí. Cuando llegó la
+hija, y me dijo: "Don TEST, saludos le mandan. Que sí lo conocen, ahí está CONOCIDO47 y
+está la mujer. Que se vaya, que usted no tiene nada que hacer aquí". Esa fue las palabras que
+me dijo. Le dije yo: "¿Cómo así?". Me dijo: "Sí, esto está minado. Hay como unos 20, 25 allá.
+Que se vaya, don TEST, que ahí no hay nada que ver". Le dije yo: "No, pues yo de aquí no me
+voy hasta que no haga, pero yo haciéndole caso al cura y el desgraciado se había ido. Yo
+estaba prendiendo un cigarrillo, ya había desayunado, y nos sentamos en el corredor, a
+orilla del corredor así, mirando ahí, y el viejito se quitó los zapatos... unos zapatos parecido
+
+a esos Brhama, de esos amarillo. Cuando yo fue que venía uno con una ruana, y traía la
+mano aquí en la ruana. Dijo: "Don CONOCIDO46, lo van a matar. Si no lo matan a usted me
+matan a mí, vámonos porque mire, yo no me fui" y la china, la niña, llegó y se me arrimó y
+me dijo: "Don TEST lo van a matar. Váyase". Yo le dije: "No, mamita, mire..." yo le dije:
+"mamita"... yo tenía el revólver ahí entre la esa. Y en el corredor, en un rinconcito tenía una
+tinajita de agua. Entonces llegó el comandante y me dijo: "Que se vaya usted que con usted
+no tengo nada que ver", me dijo. No era comandate, era guerrillero el que venía a hacer el
+trabajo. Entonces fue y tomó agua, y le dijo: "Don CONOCIDO46, ¿me permite un
+momentico?", yo sentado ahí. Apenas se paró don CONOCIDO46, pim, pim, pim en la cabeza.
+Delante de mí y me cayó el cuerpo al pie. Me dijo: "¡Lárguese hijueputa de acá, que yo con
+usted nada!". ¿Y yo cómo me iba a parar si yo estaba paralizado de los truenos de las balas,
+que me mataron a don CONOCIDO46, y cogió sacó el proveedor, volvió y metió el proveedor,
+y pim, pim, pim, pim, pim, eso lo bañó todo el cuerpo completo de bala. Entonces la
+muchacha me cogió, yo me fui de pa'trás de pa'trás pa meterme en la pieza, y él salió,
+cuando ya venía todo el resto, el comandante y los otros, por detrás de la casa, pero por lado
+y lado de allá, entonces se fue él y yo me paré y me ayudó a parar las hijas y el hijo, y las
+niñas gritaban: "mataron a mi papá, hijueputas. Me mataron a mi papá. Asesino". Y yo quedé
+paralizado de que nunca había visto matar a alguien, que lo matara la guerrilla. Y mire que
+salí yo, y me fui y me dijo: "Don TEST, váyase".
+Entonces yo llegué y me fui caminando, y cuando iba caminando por ahí unos 2 kilómetros
+cuando me alcanzó fue el hijo. Le dije: "¿Qué pasó mijito?". Dijo: "Que el ejército viene por
+acá, don TEST". Le dije: "¿Por qué el ejército no apareció en el momento que era para
+aparecerse ahí, entonces venía un camión que decían de don CONOCIDO47... eh, los chulos,
+venía con algodón, y yo estaba todo lavado totalmente de sangre, porque eso chispió y me
+monté ahí y le dije: "Hermano, lléveme pa LUGAR8, ¿va pa LUGAR8?". Me dijo: "Sí". Le dije:
+"Pero hágale rápido, hermano". Llegó y me dijo: "¿Qué pasó?". Le dije: "Mataron a don
+CONOCIDO46". Dijo: "¿Al coplero?". Le dije yo: "Sí. Lo acaban de matar". Y yo no sé por qué
+en LUGAR8 ya la policía sabía, y el único que supo era yo, ¿por qué llegó la noticia?.
+Entonces imagínese cómo llegó el rumor tan tremendo, y yo llegué a LUGAR8 y me dijo la
+policía: "¿Qué pasó?". Le dije yo: "No sé. Llegó un muchacho ahí, yo no sé, encapuchado", yo
+le dije que nada porque me ponían a mí a investigar, le dije yo: "Y disparó y mató al señor".
+[INAD: 54:13]. Entonces yo salí y me fui y cogí un carro y me llevaron pa LUGAR3 y ya la
+casa curla estaba llena. Todos con el chisme, ya sabían. Y llegué y le dije al padre
+CONOCIDO43: "Padre CONOCIDO43, gracias por usted... mataron a CONOCIDO46 gracias
+por usted. A usted le importó más las ------- y las ovejas que le regaló y dejarmen a mí solo,
+mire como vengo". Y no me contestó nada, entonces me cogió mi esposa, me abrazó y se fue
+pa la casa. Yo llegué, me bañé, todo. Al otro día yo todo con la cabeza, yo no quise comer
+nada porque me sonaba la cabeza todos los disparos. Entonces fue cuando me dijo la mujer:
+"Mijo, camine vamos al granero a comprar algo". Yo ya había acabado la esa. Entonces nos
+fuimos pa'llá pa donde íbamos pal parque, y yo: "Mija, devolvámonos". "¿Qué pasó?".
+"Devolvámonos, mija". "¿Y qué pasó?, entonces me acerqué y le dije: [susurro] "Ahí está el
+que mató a don CONOCIDO46": Entonces, se había venido al pueblo a ver si yo había soltado
+la lengua, si yo le había dicho a la policía quién había sido, y si estaba. El tipo era muy
+
+conocido porque tenía una cicatriz en la ceja derecha, todo esto cubierto muy fue, mejor
+dicho, es que la cara lo detectaba totalmente todo. Entonces yo llegué y me encerré, yo no
+volví a salir; o sea, no sé qué puso ni nada, pero ellos estuvieron hasta en el entierro del
+finado. Y yo no sé, esa muerte quedó así no más, no hicieron nada más del reparto de eso.
+ENT: ¿Don TEST usted después de que pasó el tiempo, ahora, ha contado eso a la
+ORGANIZACIÓN PÚBLICA4, a la Policía, a alguien?
+TEST: No, todo eso no. No me creen. No me creen y no investigan. Ellos, cuando llegó un
+emisario del RANGO14 GRUPO SIN ESPECIFICAR a mi casa, uno en moto, y sabía mis datos,
+mi nombre, en lo que trabajaba en la fundación, todo. Que RANGO14 GRUPO SIN
+ESPECIFICAR me necesitaba. Yo le dije que para qué. Me dijo no, que me necesitaba. Dijo, y
+había un comandante negro con RANGO14 GRUPO SIN ESPECIFICAR, cuando escuchó que
+TEST -------- dijo: "Traíganmelo que yo lo cuelgo y lo destrozo", me lo dijo el mismo señor
+que había llegado en nombre de RANGO14 GRUPO SIN ESPECIFICAR. ¿Usted sabe qué hizo
+la famosa ORGANIZACIÓN PÚBLICA4? Yo puse el denuncio, puse todo, archivaron ese
+proceso y no investigaron. Al tiempo me llamaron que para una audiencia pública de un
+denuncio que yo había puesto, ahora le muestro los papeles. Llegó la ORGANIZACIÓN
+SOCIAL11 delegada, la que es cuando hace una audiencia de la ORGANIZACIÓN PÚBLICA4,
+llegó y me dijo: "Don TEST, ¿usted conoce a RANGO14 GRUPO SIN ESPECIFICAR?". Le dije:
+"No, yo no". "Ah, usted puso un denuncio contra RANGO14 GRUPO SIN ESPECIFICAR". Le
+dije: "Sí, un emisario que llegaron, pero yo no lo conozco". Yo le dije: "¿Qué pasó?". Me dijo:
+¿Usted vine con abogado?". Le dije: "No, yo no tengo abogado, doctor". Pues me puse al
+estrado público, me entraron allá a la audiencia, y al que tenía yo al frente era el propio
+RANGO14 GRUPO SIN ESPECIFICAR, que estaba preso en el ---------, en ---------, lo trajeron
+pa que tuviera un careo conmigo frente a frente y yo en el denuncio nunca decía que yo lo
+conocía. Que llegaron unos emisarios de parte de él que me buscaban a mí, entonces el juez
+me dijo a mí "¿Conoce a este señor?". "No, yo no lo conozco porque nunca lo he visto", como
+era verdad. Pero yo también echo culpa de eso, doctora, que puede ser que de ahí también
+lleguen también las amenazas de las disidencias contra mi actualmente. Pero... y por eso no
+me han asesinado actualmente de una, porque me quieren hacer es sufrir, porque yo al
+señor no lo vi, no hubo nada malo, y a él se lo llevaron, ahí tengo el propio nombre de él y la
+boleta de la policía, y la boleta del juzgado que lo mandó, ¿Cómo van a hacer eso contra mí?
+Si soy una persona amenazada, y me van a poner a mí contra la persona que es de la
+guerrilla, eso sí es lo peor que hay en la vida. Entonces, ORGANIZACIÓN PÚBLICA4 no ha
+hecho nada. No creo en la justicia colombiana, doctora, en Colombia no hay justicia.
+Nosotros tamos ahí no más, y eso es lo que a mí me mata a mí, es que no hay justicia, aquí no
+hay culpables para poder que sean juzgados, que sean condenados. Aquí el que tenga plata
+es el que se favorece, y el que no tiene plata es el que tiene que pagar todo. Entonces, aquí
+estamos mal, doctora. Estamos mal, mal, mal.
+ENT: Usted en esa audiencia pública ¿no le dieron un abogado, no lo asesoraron?
+TEST: No, nada doctora. Nada.
+ENT: Don TEST, en otros temas, ¿usted me puede contar algo sobre la historia de la región?
+¿Cómo era en ese tiempo?
+TEST: ¿LUGAR3? LUGAR3 siempre, desde que existía la guerrilla, siempre existía asesinato
+
+por parte de ellos. Mucha gente asesinaron, gente por la misma culpa de la ciudadanía del
+municipio de LUGAR3. Si a mí me caía mal un vecino yo iba y lo aventaba que el vecino dijo
+tal cosa, entonces lo ponía al estrado público contra ellos, y ellos mandaban entonces y lo
+asesinaban. Porque la guerrilla siempre cuando asesina es en la cabeza. Y fue mucha la
+gente, LUGAR3 nunca ha sido un pueblo tranquilo, doctora. Nunca, nunca, nunca. Mucha
+guerrilla, mucha guerrilla. Allá es la ley del silencio, y todavía hay que quedarse callado.
+Guerrilla que yo ni siquiera sabía de la bomba que pusieron, un carro bomba que pusieron
+en el ------------, que hubo una masacre ahí también, y cuando supe quién había sido, le dije a
+la mujer yo: "Mija", hoy en día que me hablo con ella, digo yo: "Mija, pero yo nunca sabía que
+esos de la fábrica de chocolates eran guerrilleros". Dijo: "Pa que se de cuenta". "Y que el hijo
+del Matarife, que era también guerrillero y fueron los que pusieron la bomba", dije yo. ¿Se
+da cuenta? Y el guerrillero era Chuco, o sea, yo. A lo que me tenía, le dije: "Mija, pero como
+así anden". Esa es la justicia que hay, y hoy en día todavía hay gente que cree que yo soy
+guerrillero todavía. Ellos me acabaron. Andar usted por una calle y que le digan todavía, y se
+ríen de usted, creyendo que todavía usted es de allá. [llanto] ¿Cómo se siente uno, doctora?
+Mal, mal, mal. Que lo enuncien a usted de cosas que usted nunca ha sido. Eso no hay que
+hablar bien del pueblo. Puede ser muy poquita la gente que realmente sea gente sana, sea
+gente trabajadora, gente honesta. Mire, ¿cómo será que hay personas que estando la
+guerrilla allá figuraban desplazado y vivían con ellos? En proyectos productivos, el
+departamento de seguridad social de la EPS, dándole proyecto a la gente donde vivía con la
+guerrilla, pal asunto del banano. Yo tengo los papeles de... me parece que yo tengo la carta,
+que le voy a dejar documento, donde le daban a ellos. Y yo presentaba proyectos a la
+ORGANIZACIÓN PÚBLICA18 [INC: ORGANIZACIÓN PÚBLICA18] cuando era aquí de la
+ORGANIZACIÓN PÚBLICA8. ¿Sabe qué me decían los de la ORGANIZACIÓN PÚBLICA18?
+ENT: ¿Qué?
+TEST: Don TEST, usted tiene plata, usted no necesita. Y yo estaba trabajando con el nuevo
+ambiente para hacer eso, reciclaje, formar una empresa, formar gente que realmente era
+desplazada, que trabaje pa poderse llevar alguna plata, y que nos ayudara la
+ORGANIZACIÓN PÚBLICA18 con ese proyecto, y nunca nos ayudaron en nada. Ayudaban a
+gente de otras fundaciones, que ya investigaban que no eran desplazados. Entonces aquí es
+una rosca... es que es difícil.
+ENT: Don TEST, en términos económicos, ¿cómo era la economía en LUGAR3? ¿Hubo un
+momento en que se debilitó?
+TEST: Buena, buena, buena, buena, para qué. Mucho café, harto banano, la gente bajaba al
+pueblo a comprar, había una galería muy bonita, esa galería sacaba mucho producto. Ahí
+mismo mataban res, ahí había un tal matadero. ¿Para qué? Muy buena, muy buena. Nunca....
+peleas sí cuando los fines de semana en galleras, lo que sea. Normal lo de un pueblo.
+ENT: ¿Y hubo un momento en que se debilitó la economía?
+TEST: Sí, se debilitó totalmente, ahora sí ya no hay dónde ahorita, hay mucho ladrón, mucha
+delincuencia.
+ENT: ¿Sí? ¿Eso hace cuánto, más o menos?
+TEST: Se ha disparado harto... esto ya está disparado ahorita. La delincuencia en LUGAR3
+está disparada, que eso lo pueden averiguar. Menos mal que la ORGANIZACIÓN PÚBLICA10
+
+va a investigar eso, y eso sí está disparado totalmente eso. Hay una inseguridad dura,
+bastante. La ONU sabe que no es una zona fácil la zona norte del Huila, por eso yo le decía
+que me van a matar. Entonces, son cosas que no se han mejorado. No es fácil, es difícil. El
+comercio no se ha arreglado, no hay fuentes de trabajo, no hay de que la gente ingrese, si la
+gente no coge café, o si la gente coge mechudo, no hay más que trabajar. O el que tenga
+platica o es pensionado, o el que tenga un negocito para poder sobrevivir, pero de resto es el
+desempleo, allá no hay más entrada. Antiguamente... todo depende de la política, de que a
+usted la vinculen es a trabajar, o lo vinculen a uno en la ORGANIZACIÓN PÚBLICA3, es el
+único puesto, el resto mucha gente moto, mototaxis... en LUGAR1. Pero eso es culpa del
+mismo gobierno que es culpable. Yo siempre venía criticando a los alcaldes, y siempre
+luchaba... mi lucha mía de LUGAR3 era que trabajara con la gente que tiene solares grandes,
+con las huertas caseras, que produciera y que canalizáramos ese producto que ellos hacen,
+que ellos producen, para vender al supermercado de acá de LUGAR1; pero no que
+produzcan... porque van a producir una arroba de cilantro y ¿a quién se lavan a vender, se la
+van a comer? Eso hacían los alcaldes. Un pueblo artesanal, doctora, ahora muy reconocido
+por la uva, muy sabrosa, muy rica, ahí está todavía. Nadie le ha interesado de no ir que no se
+vaya a acabar esa producción. Nadie le interesa, cuando las artesanías empezaron en el
+tiempo de CONOCIDO31, que fue alcalde.
+ENT: ¿En qué año?
+TEST: Eso fue ya como unos 20 años, 16 años, 18 años, más o menos, ver usted artesanos en
+LUGAR1, bonitas unas canastillas de guadua, bien trabajada, vendiéndolas a 2 mil pesos
+($2.000) pa poder conseguir pal pasaje pa regresarse pa'rriba. Nunca fue capaz un
+gobernante de decirle vamos a canalizarlo por medio del ORGANIZACIÓN PÚBLICA19,
+abrirle mercado a nivel nacional, al producto, no, no. Es que eso es lo que vienen haciendo
+los alcaldes de todos los departamentos, de todo el país. Entonces, por eso es el desempleo,
+es la guerra, es... mejor dicho es que la violencia es difícil de que se vaya a acabar. Entonces,
+el culpable son los gobernantes, les interesa más llenarse los bolsillos.
+ENT: ¿Usted recibió presiones por parte de los alcaldes por mediar en esta situación?
+TEST: No. Me estrellaba con ellos sí, porque venía la gente que realmente sufría y ellos nos
+les gustaba mucho que yo los presionara porque me decían que no me metiera. A mí nunca,
+el único contrato que me dio CONOCIDO31 fue que me dijo que si sabía yo construcción, y
+yo: "Claro, yo sé construcción, yo también hago todo lo que sea. Yo por conseguir comida a
+mis hijos, yo lo hago". Fue a hacer unas galerías en -----------, en la zona guerrillera, cuando
+yo estaba don CONOCIDO49, yo tenía la tierra todavía, entonces me dijo: "Es que el único
+que puede entrar allá es usted, me dijeron que el contrato era pa usted", que fue el 17 frente.
+En ese tiempo estaba, este, ¿cómo es que se llama? Bueno, se me olvidó... estaba el
+comandante y yo subí con el alcalde, pa presentármele. Entonces apenas me vio se puso fue
+a reírse el camarada porque yo le entregaba la remesa. Entonces me dijo: "No, aquí vamos a
+estar más cerca. Tranquilo. Con usted sí vamos a trabajar, usted puede trabajar acá y traiga
+su maestro, pero me dice el nombre y me trae la fotocopia de la cédula del maestro que
+usted vaya a entrar a trabajar porque la comunidad es la que le va a ayudar". Entonces, sí
+claro, lógico, pues ellos sabían que les daban parte del contrato, que era el 10% de lo que... y
+le dije: "Mire, si me va a pedir usted el 10%, dígale al alcalde que le suba al contrato el 10%
+
+pa podérselo dar a usted, porque usted me lo va a pedir a mí, y ¿yo qué me voy a ganar? Si
+yo no sé si verdaderamente me va a alcanzar la plata o no me va a alcanzar". Fue lo único en
+toda mi vida que me dieron los alcaldes de LUGAR3, solamente eso. Pero los demás no. Los
+demás luchaban pero por acabar con... por ejemplo, entró mi hija con CONOCIDO31 a
+trabajar como enfermera, fue tan desgraciado el alcalde que lo mandó para CONOCIDO50,
+que el sueldo en ese tiempo eran 400 y pico, no sé....
+ENT: ¿CONOCIDO31?
+TEST: Sí, y la mandó a que ganara 200, y le dijo: "Si quiere puesto de enfermera en
+CONOCIDO50 por 220 mil pesos y si no, pues no se vaya". Entonces mi hija: "No, papi yo me
+voy con eso". Entonces, ella se iba y la llevaban, los amigos así en moto, lo que fuera, la
+llevaban. Y la platica que ella ganaba pues se la daba a la mamá, para poder que asimismo le
+comprara la ropa a ella y toda esa vaina. La vida mía ha sido muy dura, con mis hijos muy
+dura.
+ENT: Don TEST, cuénteme de sus papás. ¿En qué trabajan sus papás?
+TEST: Mis papás están muertos. Mi mamá y mi papá. Ella era lavandera en ------------------ en
+la ---------. Mi mamá lavaba ropa ajena cuando estábamos nosotros pequeñitos pa darnos
+estudio. Antes de irnos pa ---------------- vivíamos frente a -------------y --------. y ella le lavaba
+la ropa a los vecinos. Mi papá trabajaba en construcción. A veces había pa la comida, a veces
+no había. Eso es otra cosa que me duele mucho [voz entrecortada], que fue la primera
+comunión. Yo fui a la iglesia, mi papá no supo ni mi mamá, yo fui y la hice. Cuando salí de la
+iglesia me dijo: "¿De dónde viene?". "Ya hice la primera comunión". Los otros niños bien
+bonitos, todo, y yo en pantalonetica en la iglesia. La situación fue dura, precaria... una
+pobreza bastante, y eso no quería con mis hijos, porque mis hijos...
+ENT: ¿Y su esposa es de LUGAR3?
+TEST: Sí. Ella es de LUGAR3.
+ENT: ¿La conoció ahí?
+TEST: Ella es la única, sí. La conocí en LUGAR1, estudiando en el INSTITUCIÓN
+EDUCATIVA4, estaba estudiando secretaría... auxiliar contable, y terminó ella ahí, por
+intermedio de la política le ayudé a conseguir en la ORGANIZACIÓN PÚBLICA16 por
+contrato, ella entró a trabajar y la tenían en cuenta siempre así. Y almacenes, que ella
+buscaba y ella trabajaba común y corriente, pero siempre me ayudó. Ella se casó de 19
+añitos, yo tenía 21 años cuando nos casamos. No nos habíamos, como dice el dicho,
+registrado en la notaría y por oratoria.
+ENT: ¿Y sus hijos son de LUGAR3?
+TEST: Sí... No, ella quedaba embarazada allá, pero íbamos y los teníamos era acá, sí acá los
+registrábamos. El único que... el mayor sí tiene 42 años, él es mototaxista... él es chef, pero
+no ha podido conseguir por la edad. No ha conseguido. Si trabaja le dan por ahí un mes de
+trabajo de chef; de resto está en mototaxi. Ta duro, ta duro. El estado me dio un
+aparamento.
+ENT: ¿Sí? ¿Aquí en LUGAR1 o allá?
+TEST: Sí, aquí en LUGAR1 en ------------------, pero en ------------------ vinieron a buscarme pa
+matarme. Yo tengo la grabación de una señora también que me decía "Don TEST, lo están
+buscando". Eso también lo presenté a la ORGANIZACIÓN PÚBLICA4, tampoco ha
+
+investigado, ni llamaron a la señora pa escucharla. Entonces, hay muchas cosas dentro de
+este ámbito de lo mío que no les importa nada, les importa seguramente que se acabe
+rápido Colombia, porque no es más; pero será muy duro porque papaya no les voy a dar... y
+allá tengo viviendo a mi hijo, el mayor. Mi hija, pues ella es enfermera, la que yo le decía, ella
+se casó por lo civil con un muchacho que trabajaba en la clínica de fracturas, radiólogo, y
+ella terminó y el esposo a estudiar en la [DUD: MAR1:11:31] y terminó radiología, entonces
+ya ella trabaja en la ORGANIZACIÓN PRIVADA4 por contrato, y trabaja en Urología en otra
+empresa aparte, de rayos X y toda esa vaina, ella trabaja allá en dos partes. Y la niña, pues es
+la de mi hija, la que está en LUGAR23, la que sacamos para acá. Ellos si no quisieron irse de
+acá, ellos sí. Tengo a mis dos nietos, que es lo que yo le tengo miedo... Anoche me quedé acá
+con ellos. Me quedé donde ellos allá, cuidando, y no salgo, me encierro, allá con el niño a
+jugar, a hacer otra vez papel de niño, porque uno termina de criar uno los hijos y sigue con
+los nietos, pero son la adoración de uno, la adoración y la felicidad.
+ENT: ¿Don TEST, desde que usted se acuerde, quién controlaba LUGAR3, la zona?
+TEST: La zona en ese tiempo lo controlaba RANGO3 DE LAS FARC, el más viejo de las FARC,
+antiguamente, que está en la zona veredal de -----------, porque yo escuché por el radio, por
+la televisión, que lo entrevistaron a él, que era el más viejo de las FARC que era RANGO3 DE
+LAS FARC. Lo dieron por muerto varias veces, pero el cucho nunca; o sea, él cuando me
+sentenció de todas las cosas para yo seguir dando, me decía él después: "Tenga cuidado con
+los de escuadra". Yo le decía: "¿Por qué?". Dijo: "Porque es que los de escuadra aquí se le
+salen a uno de las manos. Ellos hacen lo que ellos quieren". Y así fue mucho, mucho, porque
+a mí me ordeñaron la mayor parte fueron de escuadra y segundos al mando, pero el duro
+nunca llegaba a tener conocimiento de lo que me estaban haciendo. Y yo pedía audiencia pa
+hablar con él y no me la daban, no me dejaban pasar allá. Cuando estaban reunidos la plana,
+y yo pensaba que él estaba, no estaba. Y estaban ahí. Y uno de ellos, que fue RANGO2 DE LAS
+FARC, me dijo una vez... me dijo, eso fue en LUGAR6, me dijo: "TEST, ¿usted qué haría si le
+matamos a su mamá?". Así de frente. Y le dije: "Buena pregunta, camarada. ¿Usted qué haría
+si yo llegara y mandara a matar a su mamá también? ¿Usted qué me contesta?". Jum. Eso se
+pegó una enchichada, pero mejor dicho, y sacó el revolver y yo le dije: "Pues entonces hágale
+mano, máteme. Estoy aburrido ya de la vida. Yo ya no me los aguanto a ustedes, pues
+entonces hágale". Así, yo era con los brazos abiertos. Hágale. Estaba El RANGO7 DE LAS
+FARC, estaba RANGO15 DE LAS FARC, RANGO9 DE LAS FARC, RANGO8 DE LAS FARC, toda
+la plana ahí, el único que faltaba era los duros que llegara que era RANGO3 DE LAS FARC
+que llegara, porque estaban haciendo cambio de mando, haciendo cambio y no llegaba, pa
+yo decir lo que estaban haciendo y lo que estaban ordeñando. Yo quería era hablar con él,
+decirle lo que usted me dejó, me siguieron ordeñando.
+ENT: Claro.
+TEST: Entonces, ahí no hay mando, hay el que más hace plata es el bolsillo. Y lo del
+narcotráfico es lo que más hacen ellos. Más plata y el mando nada, el que tenga un mando
+que tenga eso, tiene que controlarlo; pero ellos tiene temor, ellos viven siempre con miedo
+de tener porque dense cuenta que hasta los mismos se le revelaban a unos escoltas de ellos,
+al tipo lo mataban. Porque ahí mismo en el 17 mataron también a uno, un guerrero mató a
+otro comandante de escuadra, que fue en LUGAR10, me parece que fue que yo escuché por
+
+las noticias, que lo mataron a él. Entonces, o sea, siempre vivía una discordia entre ellos
+mismos, pero gente dura, pongámole, un ex alcalde de LUGAR3, [DUD: CONOCIDO51
+1:15:06], ese era muy amigo de ellos, y ese cuando me veía a mí que yo pasaba por ahí que
+me decía: "Entonces sí, mucho hijueputa ¿no lo han matado?", así me decía. Y yo me
+aguantaba todos los madrazos, todo, y era mano de allá. Pero todo a base del silencio que
+me tocaba, y yo con ganas de contestarle, pero yo dije, yo contesto y mañana van a ir a
+avisar, me hacen subir, y me van es a matar, ¿entonces yo qué podía hacer? Entonces, son
+cosas que... una estrategia que ellos tienen para buscar la manera de poder silenciar y
+acabar con las personas, pero es mucha plata la que cogen ellos.
+ENT: ¿Don TEST y existían reglas de comportamiento en la zona? ¿Manuales de
+convivencia?
+TEST: No. No tanto eso, no me pedían sino, no.
+ENT: ¿Y usted que conociera, ellos tenían manuales?
+TEST: ¿Cómo?
+ENT: ¿Ellos repartían manuales para la gente?
+TEST: Sí claro. Claro. Para las ORGANIZACIÓN SOCIAL4.
+ENT: ¿Cómo funcionaba eso?
+TEST: La... como los paros que hacían en LUGAR3, campesinos, la orden de la guerrilla era...
+si usted tiene 5 en el grupo familiar se van dos a participar al paro y el resto se quedan en la
+casa, pa cuando esos 2 suban, entonces bajan otros dos. La guerrilla aportaba plata para el
+medio de transporte de las -------, para bajar la gente, los que les tocaba en esa zona mandar
+a paros campesinos, porque es que aquí ta metida en la misma guerrilla la ORGANIZACIÓN
+SOCIAL5 [INC: ORGANIZACIÓN SOCIAL5], la ORGANIZACIÓN SOCIAL5 son culpables, son los
+duros, son la mano derecha. Es que no me acuerdo cómo se llamaba el presidente del
+sindicato acá, de la ORGANIZACIÓN SOCIAL5, lo vi varias veces en LUGAR6 y en LUGAR16,
+en la escuela, dando conferencia a la misma guerrilla. Entonces yo dije, ¿en qué estamos? O
+sea, que la ORGANIZACIÓN SOCIAL5, están metidos. Es que todos esos sindicatos que hay en
+el país, no van a creer que están luchando contra... No, son de ellos, ellos son comunistas,
+son personas que están a favor de la misma guerrilla. Entonces, eso está a mando de ellos,
+entonces allí las convivencias que mandaban ellos eran por intermedio de las
+ORGANIZACIÓN SOCIAL4 las cartillas, que para poder subir tenía que ser por intermedio de
+las ORGANIZACIÓN SOCIAL4, que tenía que ser una persona conocida, que si no era
+conocida y llegara a subir era asesinada. O sea, las cosas no eran tampoco fácil, siempre la
+guerrilla es un control totalmente en el municipio, porque ellos también tenían mucha gente
+civil dentro del municipio. Es que la mayor parte de integrantes del 17 eran de LUGAR3, lo
+mismo que de LUGAR8, claro. Del casco urbano, gente toda la mayor parte... que digan que
+los hijos fueron arrancados del hogar, mentira. Se iban voluntariamente los muchachos,
+porque amaban tener un fúsil y un uniforme .
+ENT: Claro.
+TEST: Pero que digan que sea... Mire, a mi me mandaron, cuando dejé una remesa ¿dónde
+fue? En LUGAR6, me tocó que irme por LUGAR11, el mismo RANGO3 DE LAS FARC en ese
+tiempo me dijo, que le llevaba la primera remesa al viejito, se la llevé yo, que fueron 120 mil
+pesos ($120.000), me dijo: "Necesito que se encargue de una guerrera". Le dije: "¿Cómo así?
+
+No me vaya a poner usted en eso". Me dijo: "Es que ella está pa caer a cama. Usted la va a
+tener en su casa". Le dije: "No". "Preséntela como familiar suya, tranquilo, no va a pasar
+nada, pero ayúdela". Y le dije yo: "¿Pero yo qué hago con el niño? Después de que pase eso
+que ella va a tener niño, ¿qué lo hago?". "Ah no, yo le digo a qué parte tiene que entregarlo".
+"¿Pero dónde lo voy a entregar?". Dijo: "Se lo va a entregar a la hermana de ella. No hay
+problema. Pero el único responsable es usted, si ella se vuela ahí sí doy la orden pa acabar
+con todo".
+ENT: ¿Y usted se la llevó?
+TEST: Me tocó, entonces me dio 2 millones de pesos ($2'000.000) en ese tiempo, pa la vaina
+de lo de ella, lo que iba a necesitar, pa pagarle el médico, pa darle todo y me lo llevé pa
+LUGAR3, pa la casa, tenía yo el granero. Eso es más floja que... la verraca no salía de la mesa
+de mesedora, eso no cogía ni... era una sin vergüenza, una guerrillera sin vergüenza. La tuve
+en el puesto de salud, tuvo un niño. Entonces, ella se puso a llorar porque yo le dije: "El niño
+me lo va a entregar porque es la orden. Usted sabe que si no me van a matar y me van a
+matar a mis hijos". Entonces ella se puso a llorar y dijo: "No, por favor, no me lo quite". Y yo:
+"¿Pero yo qué hago? Yo se lo voy a entregar a su hermana. Yo se la doy a su hermana. O si
+quiere váyase conmigo. Yo tengo plata acá, yo le puedo comprar ropa. Le compré una
+sudadera, le compré ropa a ella", y ella llore "Por favor déjeme que yo me muero, yo no
+quiero subirme más allá". Ella estaba desesperada, ella no quería, ella no quería regresarse,
+yo le dije: "Mamita, usted me va a hacer la cagada. Usted tiene que regresar conmigo, si yo a
+usted no la llevo, me matan". Eso llore, eso ella llorando muchacha, pobrecita, yo tenía el
+desecho de... pero si hablo el ejército, hablo la policía, ¿para dónde me van? La policía me va
+a decir a mí: "Tranquilo, nosotros le vamos a prestar seguridad". Pura mentira, me mandan
+a matar más rápido. Y yo tenía que estarme asegurando, entonces me fui pa LUGAR5, yendo
+pa LUGAR11, ahí en --------------------- miró a la hermana, CONOCIDA52 se llamaba la
+hermana. Entonces yo llegué y se la entregué, el bebé a ella, y se despidió de la hermana, y
+lloró, y le dije camine. Y se la entregué allá al comandante, se la entregué saliendo de
+LUGAR14, estaban ellos ahí y le dije: "Mire comandante, aquí traiga a la compañera". "¿Qué
+tuvo?". Le dije: "Niño". Dijo: "¿Bonito?". Le dije yo: "Sí, bien bonito el niño. Muy hermoso".
+Entonces le dijo a ella... dijo ella: "Ay, yo quiero seguirla viendo". Dijo: "No, tranquilo. Usted
+la va a seguir viendo, cada mes, cada dos meses, va a LUGAR5 con los de escuadra, ve a su
+hijo pa que lo pueda amamantar y esté pendiente. O sea, nunca le negó, ni le quito, no. tenía
+derecho. Y yo le pregunté a ella que si las demás también hacían lo mismo: "Sí, acá nunca no.
+Los niños no nos los quitan, ni los regalan, no. Siempre es la familia de nosotros, porque
+siempre estamos pendientes, sino que yo estoy aburrido ya de la lucha". Y una china de
+Colombia que se llamaba CONOCIDA53, una monita, que ella me pedía que le llevara, esto,
+Kotex, que le llevara, que le regalara, entonces yo le llevaba a ella, y me decía: "Viejito,
+ayúdeme, sáqueme". Y yo: "No, mamita, no puedo. No puedo porque me matan". "Yo me
+muero con usted". Y yo: "No, no es fácil. A usted la van a buscar, a mí me van a buscar, la van
+a matar a usted, me matan a mí". O sea, sí había mucha gente que estaba aburrida dentro de
+la guerrilla, que querían volarse entre ellos mismo.
+ENT: Don TEST en esa parte hacía arriba, hacia LUGAR4, ¿usted supo de capturas masivas?
+TEST: Me acuerdo que allá en LUGAR4, en la punta de LUGAR4, todavía existe la señora, le
+
+dicen CONOCIDA54, es la mamá de 6 guerrilleros. Ella se llama doña CONOCIDA54. La hija
+de ella es profesora en... antes de llegar al hotel, en LUGAR8, en la inspección, ella es
+profesora y fue la mujer de un comandante también. CONOCIDA55 se llama la muchacha, la
+hija de doña CONOCIDA54, la que estuvo fue mujer de RANGO3 DE LAS FARC... de RANGO3
+DE LAS FARC no, de RANGO6 DE LAS FARC, RANGO6 DE LAS FARCque mataron, ese es otro
+asesino bravo, bravo. Es que hay todo, todo, todo. Eso es mucha gente, no ve lo que decían,
+que decían que 200 personas. Eso era mentira, el estado qué va a saber, qué va a contar
+cuántos guerrilleros era, si ellos mismo se encargaban, y yo miraba, cuando llegaba yo con la
+remesa, los hombres de escuadra andaban con 30, 40, 50 personas, ¿ahora imagínese cómo
+será? Y otra cosa, ellos no se conocen. Los de escuadra no se conocen con otros de escuadra
+que están en otra zona, porque eso habían hasta enfrentamientos entre ellos, porque nunca
+había un acuerdo entre ellos mismos, y era mucha la guerrilla, pero harta, harta, gente ya de
+edad, gente de 60 años, gente de 50 años. Aquí en LUGAR1 hay uno que nunca se entregó,
+pero él se voló, se voló con la mujer y se voló con sus hijos, viven en El ---------------, en la
+---------. Era el mejor tirador que tuvo el 17 frente de las FARC.
+ENT: ¿Y vivió ahí?
+TEST: Y todavía vive.
+ENT: ¿Sabe cómo se llama?
+TEST: ¿Ah?
+ENT: ¿Sabe cómo se llama?
+TEST: El alias era RANGO16 DE LAS FARC, el RANGO16 DE LAS FARC. Sé que trabaja con
+una empresa de gas. O sea, de esas de meter tubería, pero que él ya se rehabilitó... o sea, he
+averiguado, porque él sabía que me iban a asesinar, y yo estuve averiguando mucho con él, y
+nunca me llegó. Lo único que me decía la mujer era... la mujer me decía: "Don TEST, lo van a
+matar, lo van a matar". O sea, ya la vaina ya estaba el rumor allá, sino que estaban
+esperando seguro el día de yo no sé, cuando me encontraran por ahí solo para matarme, lo
+que pasa es que ellos asesinan y el gobierno siempre dice: "Fueron personas desconocidas"
+o "Son delincuencia". No conoce que digan fue guerrilla. Y las muertes siempre quedan
+impunes. Yo conocí un señor LUGAR3, no me acuerdo cómo es el apellido de él, un
+comerciante, desapareció. Por el famoso GUERRILLERO5 llevamos nosotros 30 millones de
+pesos que llevaba GUERRILLERO5, y a mi me pusieron de chófer, y la señora vivía aquí en el
+--------, y vivía aquí por el lado de ---------- en una casa bonita, una mansión. Y me decía:
+"Vecino, ayúdeme a buscar a mi esposo, que él dice que está vivo". Yo le dije: "Tranquila que
+yo le averiguo".
+ENT: ¿Lo tenían secuestrado?
+TEST: Sí, lo tenían secuestrado. Que le daban más a ella.
+ENT: ¿Sabe cómo se llamaba?
+TEST: No me acuerdo. Pero antes de ---------, lo mataron allá. La señora, la esposa de él fue
+secretaría de educación, la hermana... como que era CONOCIDA56, me parece que era, de
+GRUPO FAMILIAR4, que hasta la fecha no supe, ni sabe la viuda, si dónde está el cadáver, ni
+nadie dio razón tampoco ni nada. Cuando subieron la plata, al alto oriente... al alto oriente
+estaba RANGO3 DE LAS FARC, a mí no me dejaron bajar, bajó fue el famoso que llevaba la
+plata, a mí no me dejaron bajar porque pa hablar uno con ellos era muy difícil. No más la
+
+primera que me dio la orden, y ahí no fue más. Esto, hablé con otro, una muchacha de ahí de
+ellos, y le comenté de él, le dije: "¿A quién es el que tienen atado ahí?", me dijo: "A un
+viejito".
+ENT: ¿Muerto?
+TEST: "Ya está muerto. Como que se reveló y no quiso comer ni nada, entonces ya está muy
+flaco, entonces tuvieron que darle un tiro de gracia". [INAD: 1:26:34], dijo: "No, yo no sé". Y
+yo: "Pero usted sabe". Dijo: "No, yo no sé pero me contaron aquí el rumor que entre
+nosotros mismos nos cuentan, pero nunca preguntaron dónde, porque si usted pregunta
+dónde, entonces por qué está preguntando". [CORTE: 1:26:53]. Le dije: "Está muerto, a mí
+me confirmó una guerrillera". La señora cómo lloraba, eso era... le levantaron plata y
+muerto. Esa gente es viva, es muy asesina. Mataron también el 17 mató a este señor
+presidente de la junta, CONOCIDO57. Lo asesinaron como con 20 tiros de fusil, ahí en
+--------- LUGAR3, que él decía, públicamente les decía a ellos, "Voy a traer la policía aquí". Y
+cuando sacaron la policía de allá, él quería volver a comenzar, y por eso lo asesinaro.
+CONOCIDO57.
+ENT: Don TEST, en cuanto a eso, ¿usted sabe cómo se resolvían los conflictos? Por ejemplo,
+¿las FARC intermediaban en los conflictos?
+TEST: En los conflictos familiares que habían allá, que la gente chismosa le hundía
+GUERRILLERO2 DE LAS FARC al otro, ellos los arreglaban. Les decía, un ejemplo, si usted X
+persona debe tanto a un tendero que le fiaba la remesa, entonces... y no pagaba, entonces lo
+hacían subir y le daban 24 horas pa ponerse al día, o si no desocupaban y le quitaban la
+finca. Tenían que irse de la región. Así era la cosa para que pagaran. Cuando habían
+problemas de hogares, también ellos los cuadraban por intermedio de la UNIDAD MILITAR
+DE LA POLICÍA4, o el Inspector de Policía, mandaban llamar, y arreglaban esos problemas la
+guerrilla sobre eso. Eso es lo que hacía. Cuando no había que la ORGANIZACIÓN PÚBLICA3
+mandaba maquinarías pa la carretera, que hacían falta abrirlas, ellos cogían la maquinaría
+de los municipios y abrían las carreteras. Digamos, la carretera que está de Las -----, que da
+la vuelta por LUGAR4, todo eso es hecho por ellos, por la guerrilla. De LUGAR14 para allá,
+eso no existía carretera pa LUGAR6, pa -----------, eso fue hecho por la guerrilla. Todas esas
+carreteras, nunca el estado... porque esos son baldíos, todas esas tierras son baldías. Eso era
+de un duro de acá que ya murió, don CONOCIDO58, ¿cómo se llamaba este señor?
+CONOCIDO58... mejor dicho, era muy reconocido el viejo, él murió. Todavía hay una
+maquinaría abandonada en ¿cómo es que se llama un aparte de LUGAR8? En ---------, que es
+de los hijos, que llegó hasta los paracos a enfrentársele a la guerrilla.
+ENT: ¿Ellos llevaron paramilitares allá?
+TEST: Sí, llevó paramilitares el chino.
+ENT: ¿En qué época?
+TEST: Ya... En ---------, eso ya hace como unos 15 años, 12 años, llevó paramilitares a
+enfrentársele a la guerrilla. Y el chino está pobre, ya es vicioso, marihuanero, acabó con todo
+lo que el papá le dejó. Ah pues era el señor, yo no sé si usted habrá escuchado, hay un
+sargento [INAD: 1:30:01], pero sí tenía que haber recopilado cosas, que se le entró una
+guerrillera que entró a hablar con él, entró a su casa, se hizo amigo de él, y lo mataron. Ese
+es el dueño de todas esas tierras. Allá nadie tiene escritura. Todo eso es propiedad de... tiene
+
+es papel firmado, pero eso el momento es la guerrilla, eso es la guerrilla. Es una zona muy
+bonita, muy hermosa, fría, rico, pero es con límites del --------- y límites del Caquetá, es una
+zona predilecta de la guerrilla para cruzar de ellos y no tirarse... por eso es que la zona del
+17 nunca se la tiraron ellos. ¿Por qué? Porque si se la tiraban había una invasión totalmente
+de militares. Entonces ¿por qué? Porque era el paso directamente de narcos, de todo lo que
+ellos pasaban de Caquetá, el llano, por complicidad de la misma gente de la zona. Son gente
+que ellos mismos seleccionaban, gente que tiene aquí que tal, con el que usted trabaja, de
+resto usted trabajaba. Por eso es que no le enseñaban, y usted preguntaba: "¿Vecino, cómo
+está? ¿Por acá está el comandante fulano de tal?". "No. Yo no he visto nada", porque usted
+está hablando con al guerrilla. Entonces, a penas se iba entonces se subía. Así hicieron una
+vez cuando me hicieron subir el mercado, yo llegué a donde la CONOCIDA54, a donde doña
+CONOCIDA54, yo no sabía. Yo llegué con las dos estopas y le dije: "¿Qué más doña
+CONOCIDA54? ¿Doña CONOCIDA54, cómo está?". "¿Qué más viejito, cómo está?". Le dije:
+"Doña CONOCIDA54, ¿usted ha visto acá la guerrilla?". Y dijo: "Yo hace mucho tiempo que no
+los veo, don TEST. Mucho tiempo". Le dije: "Pues yo vengo aquí a quedarme, porque yo no
+puedo. Tengo que entregar esto". Dijo: "Pues quédese esta noche, don TEST, no hay
+problema". Entonces me dejó una habitación, como la casa es de tabla, frío. A la 1 de la
+mañana llegaron. Ella misma fue la que...
+ENT: Les dijo.
+TEST: Y el lado, y el lado. Y a la 1 me levantaron y me recibieron eso, y me dijo con quién, y
+yo iba con mi hermano. Y al hermano lo iban a matar, porque como tenía peluqiado de
+militar y él había sido soldado profesional, sino que él ya se había retirado, y duró como 3
+años no más de Panchi y se retiró porque no le gustó, muchas cosas secretas dentro del
+mismo ejército. Él es desplazado. Entonces, me dijeron: "Se me va ya". Le dije: "Pero déjeme
+amanecer, hermano, porque yo vine a dejarle esto al comandante para que él te reciba esto".
+"Que se vaya ya de acá. Váyase a pie tranquilo que no le pasa nada". Le dije: "¿Pero me van a
+matar?". Dijo: "No tranquilo. Cuando usted escuche el sonido de un búho, son ellos. Ellos
+saben que usted va a pasar. Tranquilo no importa. Vaya para LUGAR16". Y yo estaba como a
+4, 5 horas a pie, y a esa a la 1 de la mañana no pude dormir nada, y los dos, nosotros con mi
+hermano, dele a pata pa'llá. Llevé no más una botella fue de agua no más que llené y hágale a
+pie. Cuando sentíamos éramos los búhos, eran ellos, centinelas de la guerrilla. Y llegamos
+allá a donde cogimos el carro, un campero, y nos sacaron como a las 7 de la mañana que
+llegaron; pero eso es una caminada muy tremenda, yo cada nada descansaba y yo decía, por
+aquí no más nos van a matar, y mi hermano llore, nos van a asesinar. Y yo: "No, tranquilo,
+tranquilo, esperemos a ver". Es muy duro.
+ENT: ¿Don TEST, usted volvió a subir por allá?
+TEST: No señora. No me ha dejado la ONU.
+ENT: No [risas].
+TEST: Me dice que no vaya por allá, que me van a matar.
+ENT: ¿Nunca volvió?
+TEST: No volví nunca más. Nunca más. Voy a la ---------, donde para la chiva que es de
+ORGANIZACIÓN PÚBLICA1, a ver si veo gente conocida y no, ya no hay nadie conocido,
+seguramente cambiaron toda la gente de la zona, pero es que la guerrilla... yo a la guerrilla le
+
+ponía más de 100 mil hombres, dizque solamente 13 mil, eso es una mentira.
+ENT: Sí.
+TEST: Mucha gente de civil, hay mucha gente miliciana que hay bastante.
+ENT: Don TEST, usted ya me había contado varias cosas de su caso, su contexto, todo muy
+valioso. Ratificarle pues toda la admiración que tenemos por usted. Don TEST, yo le quisiera
+preguntar ahora, ¿estos hechos cómo le han afectado a usted después como persona, esos
+impactos?
+TEST: Me acabo mi vida. Ya llevo, desde que me sentenciaron ellos y empecé yo a huir con
+mis hijos, no he trabajado.
+ENT: ¿No?
+TEST: Nunca vi un solo peso. Mi Dios me da más. Y es dura decirle a ella, decirle regáleme 5
+mil o mientras tu. Mi hijo, el que está en LUGAR23, lo que el paga en ---------- es un millón de
+pesos de arriendo, más los servicios, él me manda 70, 80 mensuales por ahí, lo que más o
+menos pueda levantarse. Me decía: "Papi, yo estoy ascendiendo y si algo yo me lo traigo a
+vivir conmigo acá". Y yo [llanto] a ese niño lo quiero mucho. [INAD: 1:35:08 1:35:13]. Mi hija
+también, ella también me ha ayudado un poco. Sin usted producir.
+ENT: Pues qué bueno que sus hijos le ayuden.
+TEST: Sin usted producir, no ayudar en la casa, donde no faltaba comida, donde teníamos
+todo, donde siempre --------- para mí eran 2, 3 millones de pesos pal estreno de mis hijos.
+ENT: ¿Cuántos hijos tiene?
+TEST: Tengo 4. 4 con ellos y mis nietos. A mi me volvieron así la disidencia de aquí, pa'cá pa
+---------.
+ENT: ¿Por qué?
+TEST: No, yo hablé con ACNUR [INC: Alto Comisionado de las Naciones Unidas para los
+Refugiados], pregunté en la vida cómo era, y eso no era fácil. Eso hicieron una reunión sí. O
+exiliado, no es vida, eso que dicen que llevan al extranjero y que van a hacer plata, eso es
+mentira, una mentira. Yo dije: "Yo me quedo en Colombia y moriré en Colombia". Hasta ayer
+un yerno mío me dijo: "Don TEST, ¿por qué no se va?". Le dije: "No, yo no me voy. Si quiere
+CONOCIDO47 por usted pa que se vaya, pero yo me quiero morir acá". Me dijo: "Vámonos,
+vámonos", porque él también siente miedo, porque yo también lo metí a él en toda la parte
+de la Unidad, y vive con temor, ¿sí? Pero no. Y ellos son los que me sacan, son los que vienen
+en el carro, van así a piscina, me llevan, para poder yo desaburrirme. Yo no tomo. Yo ya
+nada. Yo me dice: "¿Papi, qué quiere de comer?" o llegan y me dicen: "¿Qué quiere comer,
+qué le traigo?". A veces le digo: "No, hágame una parrillita en la casa, asar su carne" y ellos
+toman... pero siempre yo en la silla ahí, concentrado, y entonces van y me soban la cabeza,
+me dicen qué piensa; o sea, [INAD: 1:37:23 1:37:37] [SONIDO CELULAR: 1:37:37 1:37:40]
+[CORTE: 1:37:40]
+TEST: Ese tiene horas.
+ENT: Qué lindo.
+TEST: Ahí me llamó papá, "Abuelito, ¿cómo estás?".
+ENT: ¿Vive en LUGAR23?
+TEST: Abuelito... ya tiene 20 años. Me dice: "Abuelito, soñé que a sumercé lo mataban". "No,
+mijita, tranquila que yo estoy vivo". O sea, todos ellos piensan que seguro, cuando no estoy
+
+en la casa, piensan que seguro me han cogido por ahí, pero el miedo mío es ese, dejar mis
+hijos, pero en la parte psicológica me han dicho muchas cosas, y las cosas hay que asumirlas,
+hay que asumirlas y hay que aceptarlas.
+ENT: ¿Don TEST, ha tenido problema de salud por el hecho?
+TEST: Pues he estado hipertenso por eso.
+ENT: ¿Sí?
+TEST: Y obesidad porque no puedo... y eso que yo sin dulce, sin sal. No puedo, no puedo.
+Hago ejercicio en la casa, camino porque dentro de la casa camino 20, 30 minutos todos los
+días, dentro de la misma casa; pero no, no he podido, muchas cosas no he podido. Entonces
+a mi me dicen los médicos que es el estrés. "No, don TEST, es el estrés. El estrés antes lo
+hace engordar más a usted, y es algo que tiene que controlar". La doctora, así... pero yo me
+he controlado harto... la doctora CONOCIDA15 me dijo antier en la ORGANIZACIÓN
+PÚBLICA10: "Don TEST, le pido que se controle", porque como ya tuve dos preinfartos. Me
+dijo: "Contrólese". Le dije: "Doctora, yo tengo miedo y recordar es mucho". Le dije:
+"Recordar es muy duro", y me dijo: "No, don TEST, contrólelo. Lo único que le pido a usted
+es que se controle. Contrólese bien, lleve sus pastas". Y yo las cargo, entonces yo de resto así,
+yo no quiero a veces ni recordar porque esto es muy verraco.
+ENT: Claro. ¿Qué sentimiento le han generado el hecho violento? ¿Miedo, ansiedad?
+TEST: Mucho miedo.
+ENT: ¿Sí? ¿Depresión?
+TEST: Bastante miedo, y no entiendo, por último lo más de uno trabajar honradamente y
+llegar a los extremos de darle a los otros, que ni siquiera se la consiguen fácil... entonces no
+es fácil, que la comida de los otros, eso si no.
+ENT: Don TEST, ¿ha tenido ideas de venganza, tal vez?
+TEST: No. Eso si no, cuando ya firmaron LUGAR26 me sentí contento. Que andar yo
+tranquilo y andar felicidad que hay un país tranquilo, sin guerra y sin nada; que todo el
+mundo nos miremos, nos saludemos, nos abracemos, nos saludamos en un país hermoso
+como Colombia, es muy hermoso. Pero buscar que guerra, no. Que hay que perdonar, hay
+que saber perdonar y eso yo quiero inculcarlo y derecho a mis hijos, hay que perdonar,
+tenemos que perdonar a todos. Mi Dios nos quiere perdonar, pero nunca olvida. Uno
+perdona, pero nunca va a olvidar.
+ENT: ¿Cambiaron sus relaciones con sus amigos, con su comunidad?
+TEST: Todo se acabó.
+ENT: ¿Sí?
+TEST: Todo se acabó. Que yo no puedo estar con ella, porque van a preguntar algo, porque
+todo lo mío sí es muy secreto, ha sido bastante secreto y evita muchas cosas de.... el único
+que me seguía de esto era el doctor... Me decía: "Salga adelante, don TEST, yo le ayudo, yo le
+voy a ayudar. Hágale". Le dije: "Sí, yo quiero desahogame". Yo quería era esto, desahogarme,
+descansar, no le pido nada a nadie más.
+ENT: Don TEST, ¿ideas de suicidio ha tenido?
+TEST: Sí.
+ENT: ¿Sí?
+TEST: Pa qué voy a negar.
+
+ENT: ¿Hace ya rato o hace poco?
+TEST: Sí, ya hace uff. Ya hace como unos 8 años, 10 años, sí tuve; pero miraba yo a mis...
+¿Cómo era suicidarme? Buscarlos pa que me mataran. Salir de eso de una. Pero quitarme yo
+la vida yo solo, no. Buscar cómo matarme. Yo sabía que yo llegaba allá y me mataban de una,
+o me torturaban, o me colgaban, o me despedazaban, y lo pensaba; pero yo miraba a mis
+hijos, miraba a mi esposa y los hijos: "¿Papi qué piensa?". "No, nada. Nada". O sea, no decirle
+nada a ellos, nada. Yo decía: "Ay, dónde me levanto 100 mil pesos pa yo ir de paso y tanto, y
+yo dejo un celular, no me llevo nada, nada más con la cédula, que no sepan los hijos ni la
+mujer para dónde voy, que no sepan cuando me mataron, que N.N., que no saben nada. Eso
+sí era. Porque no hay una vida normal, no hay una vida que yo pudiera salir tranquila,
+sentarme a tomarme un jugo en una esquina, en una heladería, pero salgo y me siento con
+mi esposa, con mis hijos y lo primero que estoy haciendo es así. Los hijos me critican: "Papi,
+por favor, concéntrese en lo que estamos, estamos reunidos". "No, tranquila. Aquí estoy
+mirando, uno nunca sabe". "Ya, papi, nosotros estamos pendientes". "No, yo estoy es
+pendiente de lo mío, nunca sabe".
+ENT: Sí señor.
+TEST: Que cuando viene alguien en moto es instantáneo, es rápido y se acabó.
+ENT: Sí. Pero tiene que estar tranquilo también... pues para su salud, la de sus hijos. ¿Usted
+pudo hablar eso que sucedió con su familia, tranquilamente?
+TEST: ¿Con quién?
+ENT: ¿Con sus hijos, con sus hermanos, tal vez?
+TEST: No. Mi hermano sí sabía, el que fue soldado profesional, sí sabía. Los demás también
+supieron ya después, pero como con ellos no tengo mucha charla. Sí, nos reunimos. Nos
+reunimos pero no tratamos del tema nada, porque ellos ya han sabido que he tenido
+preinfartos, entonces ellos nunca cogen el tema ese de tocar cuando estamos reunidos,
+tratamos de otras cosas. Pero yo sí a veces no quiero pensa nada, estoy concentrado en lo
+que estamos hablando, me pongo a jugar con los nietos, o voy y abrazo a mi hija por detrás,
+la abrazo, le doy pico, ella viene y se me sienta en las piernas, entonces se pone a abrazarme,
+papi yo a usted lo quiero mucho, no quiero que le llegue a pasar nada; papá bueno como
+usted no tengo en la vida, mejor dicho, no queremos que usted nos vaya a faltar. "No,
+tranquila". La mayor parte, dentro de 8 días ya estoy otra vez donde ella. "¿Papi va a venir?".
+"Sí mamita, yo vengo". Dijo: "Ah bueno, papi, entonces véngase por la mañana pa estar aquí
+en la casa". Y yo estoy en la casa y amanezco allá donde ellos; o sea, todo eso de estar con los
+niños pa estar despejando la mente.
+ENT: ¿Qué hizo usted para enfrentar los hechos?
+TEST: ¿Ah?
+ENT: ¿Cómo hizo para enfrentar esta situación?
+TEST: Tener tranquilidad, tener fuerza de voluntad, fuerza de voluntad y al ver que todo lo
+que usted tenía se acabó, y empezar de cero... Mi ilusión era muchas cosas, yo quería que mi
+hijo, el menor, fuera médico. El sueño mío era eso, que fuera médico. Cuando se presentó
+aquí en la INSTITUCIÓN EDUCATIVA5 [INC: INSTITUCIÓN EDUCATIVA5], perdió por un
+punto no más pa medicina, entonces "papi, que me sirve pa psicología". Le dije: "Papi,
+métase a psicología. Y yo con los amigos, influencias que tengo, tengo decanos amigos".
+
+Entonces hablé con ellos y me dijeron, no venga que entre a psicología y nosotros miramos
+para cambiarlo de ahí y que pase a medicina. Se burlaron de mí. Entonces cuando empezó lo
+tremendo de él, que tocó mandarlo pa LUGAR23, que perdió aquí 7 semestres, y entró a la
+INSTITUCIÓN EDUCATIVA6, haciendo todos los trámites por ORGANIZACIÓN PÚBLICA12,
+[INAD: 1:46:14], y entonces dentró allá, pero se metió en psicología, tocó que volver otra
+vez a empezar. Y terminó gracias a Dios. Hizo un seminario por allá en --------, que la mamá
+fue la que le ayudó. La mamá es la que ha estado pendiente más de lo de... ella es la que le ha
+dado más a él, y yo casi no. Que me duele sí no darles, porque ellos saben que cuando yo he
+tenido mi trabajo y mis entradas, nunca les ha faltado nada, pero ahorita sí tremendo. Mi
+viejita también se... es verraco, una sola golondrina pa la casa.
+ENT: Claro. Don TEST, ¿qué entidades a ustedes lo han ayudado en ese sentido?
+TEST: Solamente al principio me ayudó la ORGANIZACIÓN PÚBLICA5. Solamente lo que fue
+lo esencial.
+ENT: ¿Tuvo apoyo psicológico?
+TEST: Sí, estuve dos años con la doctora CONOCIDA59... doctora CONOCIDA59.
+ENT: ¿Y le sirvió?
+TEST: Uy, bastante. Uy bastantes. Todos los días me han atacado, todos los días la atacan. Y
+ahí donde uno, vi la muerte, vi que las cosa hay que cogerlas por el lado positivo, como
+dicen, bueno, y llevar las cosas con calma. Eso es un control para mí bueno, muy bueno, me
+ayudó bastante, me di cuenta que es la realidad, que hay que estar en una realidad en las
+cosas que están y así la he llevado suave ya, gracias a mi Dios.
+ENT: ¿Sí?
+TEST: Que dejé de un tiempo, de que las amenazas eran más fuertes que ahora, más fuertes,
+que yo tengo todo por escrito y se la pasé a Millón, pero la justicia no le servía para nada. Yo
+radicaba todo en la ORGANIZACIÓN PÚBLICA4 y con todo eso y no sé si la archivaban.
+Simplemente me llamaban a mí y me decían "Don TEST el proceso ya está archivado".
+Entonces, dejé de volver a denunciar hasta cuando ya ahorita último, el año pasado, le dije a
+la mujer: "Mija, ya estoy desesperado. Venga le cuento la verdad yo qué voy a hacer". Le dije:
+"Quiero irme pa una zona veredal a acabar con esta vida. Enfrentarme con los que estén allá;
+pero donde están los 17. Necesito que de una sola le digo. ¿Qué es lo que pasa?". Me dijo:
+"No, mijo, no, no. No lo vaya a hacer". Le dije: "Yo no aguanto más. Usted sabe que están
+archivando todo". ¿Entonces para qué me piden a mí? Ahora la ORGANIZACIÓN PÚBLICA5
+me dice a mí, declare sus nuevos hechos, y los declaro y salga desaparecen los documentos
+como desplazados y me dicen rechazado como desplazado.
+ENT: ¿No le han dado a usted indemnización?
+TEST: No, nada. Nada, nada, nada. Entonces, la ORGANIZACIÓN PÚBLICA2 es la que me ha
+ayudado.
+ENT: ¿De LUGAR3?
+TEST: No, la de aquí en LUGAR1. La de LUGAR1 mismo. No, la de LUGAR3 no.... yo no le creo
+mucho a la de LUGAR3 porque charlar no más, escuchar lo de CONOCIDO60 que... La
+ORGANIZACIÓN PÚBLICA2 me ha ayudado acá en el asunto de las demandas contra la
+ORGANIZACIÓN PÚBLICA5. Pero hasta que aparecieron los documentos, ahora figuro ya
+como desplazado, tengo acá... volvió otra vez la ruta de reparación porque no me la tenían,
+
+tenían era pa sacarme como sea; o sea, el estado a mí me ha tenido abandonado, solamente
+fue la vivienda y porque entré a un concurso, y la logré gracias a Dios, porque [INTERRUP].
+ENT: ¿Y en la ORGANIZACIÓN PÚBLICA20 se ha acercado?
+TEST: La ORGANIZACIÓN PÚBLICA20 nunca me ayudó.
+ENT: ¿No?
+TEST: Nunca, nunca y también presenté copias de todo lo que nos dieron y nunca, nunca...
+tuve problema con la defensora del pueblo acá que era la esposa de uno que fue alcalde de
+ahí en las elecciones pasadas, y en un enfrentamiento de frente me demandó. Me demandó
+porque estaba hablando de mis derechos con la misma Defensora, porque le dije que ella
+era politiquera, que ella no le importaba la vida de las personas que estaban sufriendo y
+viviendo la violencia, y le mandé una nota pero brava, que yo la denunciaba. Entonces se me
+estrelló y me mandó un derecho de petición, me tocó poner abogado, porque ahí sí yo no
+podía contestarle, entonces le contesté y quedó quieta. Aquí no ha servido para nada, aquí
+es política.
+ENT: Claro. ¿De quién más ha sentido acompañamiento?
+TEST: Mire, como será que la ORGANIZACIÓN PÚBLICA18, vine con la doctora CONOCIDA12
+cuando le conté, fuimos y le dije yo... la doctora CONOCIDA61 entró conmigo y le dijo a la
+directora "Hágame el favor y me atienden a don TEST todo lo que viene haciendo por la
+comunidad, viene denunciando que lo están explotando a los desplazados, él viene luchando
+con nosotros por eso". Dijo: "Sí, tranquila doctora, no hay problema". mentira, esa vieja me
+cerró las puertas, y ella solamente atendía a los que explotaban a los desplazados; o sea, a
+los que tenían oficina de los comuneros, que por una nota de derecho de petición, o por
+sacarle una prórroga, tenían ya cómplices los mismos funcionarios de la ORGANIZACIÓN
+PÚBLICA5 que le pasaban informe: "Mire a fulano de tal le va a llegar tanto", entonces ya le
+caían a esa persona, nosotros le ayudamos, entonces nos da el 10%. Entonces le mandaban
+la persona al ORGANIZACIÓN PÚBLICA21 para que le entregaba la coima con... el ordeño,
+como dicen... entonces nosotros veníamos denunciando todo eso, y ella nunca nos hizo nada.
+Es que aquí es difícil uno... es mejor estar callado y no ponerse uno a denunciar porque yo
+creo que tantas cosas que uno ha denunciado, hasta amenaza de ellos mismos puede ser que
+le hayan hecho a uno, pero gracias a Dios que las amenazas que me llegan a mí se
+identifican, ¿no? O puede ser que no sean de ellos, pero sean del tipo como guerrilla, para
+que él sepa que es la guerrilla; pero de todas maneras siempre es bueno que las cosas se
+aclararan, que se investigaran, que dijeran "Bueno, mire, esto está pasando por esto, y esto,
+y esto", pero no, no, aquí no.
+ENT: ¿Y acompañamiento de quién más ha tenido?
+TEST: No, acompañamiento solamente ofrece la ORGANIZACIÓN PÚBLICA4 rondas
+policíacas por dos meses, no más, y esos dos meses van solamente 3 veces y de resto no
+vuelve. Yo tenía un libro que... una minuta, autorizada por la policía para que firmaran ellos,
+y nunca volvieron. Yo el libro lo tengo de reliquia, porque nadie lo firmó más. Ahí lo tengo, y
+ahí está la firma de ellos, y los días que no van y yo estoy... Yo todo eso, yo qué es lo que no
+hice denunciando... ahora la ORGANIZACIÓN SOCIAL11... no se puede demandar la
+ORGANIZACIÓN SOCIAL11, la ORGANIZACIÓN SOCIAL11 cuando demandé yo a esta señora
+que está aquí en el periódico, de la masacre de ----------- de la Policía, son integrantes de las
+
+FARC, uno mismo de los procuradores, por ahí tengo el nombre reservado por allá, me
+decía: "Es que usted se metió en la jeta del lobo. ¿Usted pa qué tenía que hacer eso? Usted
+cállese la boca, vea lo que vea no diga nada". Entonces...
+ENT: Claro, Don TEST hay muchos daños que son irreparables, pero ¿para usted qué sería
+reparador?
+TEST: ¿Que qué ha sido reparado para mí?
+ENT: ¿Qué sería reparador?
+TEST: La tranquilidad. Necesito la tranquilidad, la normalidad de mi vida que es muy difícil.
+Dijo con sus palabras proféticas del doctor CONOCIDO10 de la ONU: "Don TEST, la vida suya
+ya no vuelve a ser la misma". Es muy duro, y me duele decírselo a usted, porque estamos en
+un país donde no podemos decir nada a favor de la gente, porque aquí el gobierno
+desconoce lo que estamos diciendo, que antes nos estamos metiendo en cosas internas del
+país.
+ENT: Bueno, la ONU le ha ayudado.
+TEST: Sí, la ONU sí. En la parte psicológica, en la parte... Mejor dicho, ellos es lo que me han
+dado a mí más ánimo de poder llevar las cosas suave, las cosas. Pero me han hecho ver la
+realidad, me han hecho ver la verdad como la está viviendo el país. Lo que viene, esto va a
+volver a estallar, esto va a volver otra vez la violencia en el país, y esto es culpa del mismo
+estado, de la misma guerra que sabemos quiénes son las personas que quieren la guerra,
+que es el doctor CONOCIDO28, que quiere la guerra, quiere es una guerra total. Entonces,
+que Duque dice y habla por radio, es un falso. Dice: "Estamos ayudando a los líderes". Hoy
+escuché a la ministra sobre la vaina del asesinato de los 12 en el Cauca, que sí, que estamos
+en eso, estamos investigando, ya tenemos unas pruebas... es una mentira. La
+ORGANIZACIÓN PÚBLICA10 tiene sus propios reglamentos que es muy difícil que se le de
+protección a una persona. Y yo vengo calcando y le dijo aquí a la memoria aquí en la
+ORGANIZACIÓN PÚBLICA9, un chaleco no sirve pa salvarle la vida a una persona, nadie le va
+a disparar en el chaleco, le van a disparar a uno donde no haiga chaleco, que es la cabeza, a
+uno lo van a matar. Eso no es una vaina que no es de -----------. Si a mí me ponen a una
+persona, a mí, a que me vigile, a que ande conmigo, pues nos van a matar a los dos. Porque,
+¿cuántas veces ha sucedido que ni siquiera el escolta hace su trabajo? Es muy raro el escolta
+que realmente reacciona, que sí da la vida por uno. Pero es que aquí también hay que mirar
+los esquemas de seguridad, que yo lo puedo decir claramente aquí frente a la
+ORGANIZACIÓN PÚBLICA9, a mí hay personas que me decían a mí, que trabajaban con la
+ORGANIZACIÓN PÚBLICA10, o que trabajan con la ORGANIZACIÓN PÚBLICA10, me decían:
+"TEST, pa que a usted le den escolta, si quiere yo le mando a alguien pa que coja la casa a
+plomo, pa que sea rápido que en los estudios salga usted bien". "No, no, ¿cómo quiere? No,
+eso no lo hago nunca en la vida", y hay muchas personas que tienen hoy en día...
+desplazadas, que tienen sus esquemas de seguridad, sus carros, sus escoltas y todo, pero no
+sabemos quiénes son. Entonces son personas que realmente las respetan es a ellos, y andan
+con bastantes carros lujosos de seguridad, mientras que el que verdaderamente está
+trabajando, y está luchando por descubrir una cantidad de gente infiltrada, que el
+desplazamiento no son todos, ya nadie le cree a uno. Entonces estamos mal.
+ENT: Don TEST, ¿usted qué cambiaría para que eso no se repita en Colombia?
+
+TEST: Ay, que haya más violencia, que no haya más grupos armados, que este gobierno se
+piensa la verdad, que entre a negociar con los otros que faltan, con los elenos, que negoceen
+con ellos a ver si LUGAR26 llega totalmente a Colombia, aunque va a ser muy difícil. Va a ser
+muy difícil porque es que, según veo yo, las FARC le mintió al país en esta negociación. No
+han sido personas muy sinceras, muy honestas, no han dicho la verdad, no sostienen lo que
+han hecho ellos, decir "sí, nosotros lo hicimos"; pero no, ellos no lo aceptan. Entonces... y
+aquí las fuerzas militares también tienen que ver también eso. Hay muchas cosas que
+también ellos son culpables de mucha gente inocente también que han matado, entonces es
+muy duro. LUGAR26 es lo más importante.
+ENT: Don TEST, pues yo le agradezco mucho su testimonio. De verdad es muy, muy valioso
+para nosotros.
+TEST: Gracias, doctora.
+ENT: Lo admiramos demasiado.
+TEST: Disculpa todas las cosas, porque es que el estrés me ataca y no quería recordar.
+ENT: No, yo lo entiendo y al contrario pues le agradezco mucho porque yo sé que es una
+labor muy difícil pues recordar y todo...
+TEST: Si le mando unos vídeos que tengo. Vengo más tarde. Vengo hoy porque yo me voy
+otra vez pa LUGAR3 por la tarde.
+ENT: Bueno, sí señor.
+TEST: Voy a venir para que saquemos del computador los vídeos donde estoy yo en
+conferencias y estoy con los de [INAD: 1:58:04] ahí. Fotos también donde está la doctora
+que le digo yo que, gracias a Dios está trabajando allá, no por la ORGANIZACIÓN PÚBLICA5,
+sino ella como funcionaria buscó la forma de hablar con los contratistas para que la
+entrevistara y el hijo mío por ser buen funcionario. Entonces, pa que la conozcan y les
+muestro las fotos, para que tengan eso en la ORGANIZACIÓN PÚBLICA9.
+ENT: Don TEST, pues yo le agradezco, que sepa que cuenta con nosotros para que cuando
+quiera puede venir acá, podemos seguir hablando si tiene algo más que contar y pues acá
+estamos todo el equipo para lo que usted necesite.
+TEST: Yo le agradezco inmensamente.
+ENT: No sé si usted crea que nos haya faltado algo por mencionar.
+TEST: Que se llegue a toda la verdad, pa estar más tranquil. Y me gustaría que me estuvieran
+comunicando, que me estuvieran llamando o si algo me necesitan pues con mucho gusto
+estaré, cualquier cosa que necesiten de la zona norte más que yo conozca. Si hay algo de
+alguna persona, pues que en este momento se me pasa, que puede ser que al recordármelo
+ustedes pues le diré yo porque sí puedo decirle muchas cosas, porque llegué fue hacia ellos
+y estuve en contacto 19, 20 años sacándome ellos, explotándome, y escuchaba muchas
+cosas, pero bastante cosa, y los nombres siempre se me quedan a mí, y todavía no se me ha
+olvidado doctora. Hay muchas cosas, hay muchas vainas que pa la ORGANIZACIÓN
+PÚBLICA9 le puede servir, entonces, en este momento pues no me acuerdo, pero si llegan a
+saber algo, lo que necesiten con mucho gusto, aquí estaré.
+ENT: Bueno don TEST, yo le agradezco mucho y también usted lo que necesite pues me
+puede llamar. Usted tiene mi número o venir acá y nos comenta pues todo lo que necesite.
+TEST: Yo estaba convencido que era una... yo dije, ahorita que estaba sentado antes de llegar
+
+usted, yo dije ENT, ay señor, no vaya a ser la que fue la novia de mi hijo.
+ENT: [Risas].
+TEST: Porque ella es abogada.
+ENT: Sí, sí.
+TEST: Y pues yo dije, ay será... Como ella es política, así como usted, pequeña también lo
+mismo. Entonces yo dije, ay señor, se va a descubrir toda la verdad, yo que voy a hacer.
+[CORTE: 2:00:07]
+
+
