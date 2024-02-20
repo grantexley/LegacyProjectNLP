@@ -33,5 +33,7 @@ df.columns = columns
 
 print(df)
 
+df.to_pickle("man3dataframe.pkl")
+
     
 
