@@ -2,38 +2,69 @@
 
 import os
 import pandas as pd
+import pickle
 
-directory = "../corpus/"
 
-data_matrix = []
-columns = []
+def init_dataframe(file):
+    df = pd.read_csv(file)
 
-for file in os.listdir(directory):
-    #check to only modify interviews
-    if not file[0].isdigit():
-        continue
+    save_set = os.listdir("../entrevistas/")
 
-    path = directory + file
-    columns.append(file) #makes list of file names to use as columns in the dataframe
-
-    with open(path, 'r', encoding='utf-8') as in_file:
-        text = in_file.read()
-
-    tokens = text.split() #tokenizes file
-
-    #fixes all rows to be the same length (68786 is the length of longest file)
-    while len(tokens) != 68786:
-        tokens.append("")
-
-    data_matrix.append(tokens)
-
-df = pd.DataFrame(data_matrix)
-df = df.T
-df.columns = columns
-
-print(df)
-
-df.to_pickle("man3dataframe.pkl")
-
+    save_set = set([x[:-4] for x in save_set]) #removes .txt and makes it a set
     
+    filtered_df = df[df['código de la entrevista'].isin(save_set)]
 
+    df = filtered_df.copy()
+
+    df = df.iloc[:, :10]
+    df = df.sort_values(by=df.columns[0])
+
+    return df
+
+def add_emotions(df, dictionary, prefix):
+    emotion1 = []
+    emotion1weight = []
+    emotion2 = []
+    emotion2weight = []
+    emotion3 = []
+    emotion3weight = []
+
+    for key, value in dictionary.items():
+        if len(value) == 1:
+            value.append(('none', 0.0))
+        if len(value) == 2:
+            value.append(('none', 0.0))
+        emotion1.append(value[0][0])
+        emotion1weight.append(value[0][1])
+        emotion2.append(value[1][0])
+        emotion2weight.append(value[1][1])
+        emotion3.append(value[2][0])
+        emotion3weight.append(value[2][1])
+
+    df[ prefix + '-emotion1' ] = emotion1
+    df[ prefix + '-emotion1-weight' ] = emotion1weight
+    df[ prefix + '-emotion2' ] = emotion2
+    df[ prefix + '-emotion2-weight' ] = emotion2weight
+    df[ prefix + '-emotion3' ] = emotion3
+    df[ prefix + '-emotion3-weight' ] = emotion3weight
+
+def main():
+    df = init_dataframe('Relacion_Entrevistas_CEV_CSV.csv')
+
+    with open('emotions_from_doc_dict.pkl', 'rb') as f:
+        doc_dict = pickle.load(f)
+    
+    with open('emotions_from_transformer_dict.pkl', 'rb') as f:
+        transformer_dict = pickle.load(f)
+
+    add_emotions(df, transformer_dict, "spacy")
+    add_emotions(df, doc_dict, "tc")
+
+    print(df)
+
+    df.to_excel('man3_dataframe.xlsx', index=False)
+
+
+
+if __name__ == '__main__':
+    main()
