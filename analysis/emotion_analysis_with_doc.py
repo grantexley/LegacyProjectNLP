@@ -17,7 +17,11 @@ def get_dict():
                 count += 1
                 continue
 
+            if "oh, mierda " in line:
+                line = line[4:]
+
             text = line.strip().split(",")
+            text = [word.strip() for word in text]
             if text[0] in remove_set:
                 continue
             text = [unidecode(x).lower() for x in text if x]
@@ -49,17 +53,39 @@ def get_dict():
     return emotion_reference
 
 
-def normalize_and_sort_dict(dictionary):
-    dictionary["alegria"] /= 4
+def normalize_and_sort_dict(dictionary, emotion_counts):
+
+    total_count = sum([count for count in emotion_counts.values()])
+
+    for key, value in emotion_counts.items():
+        if key in dictionary:
+            dictionary[key] *= 1 / (emotion_counts[key] / total_count)
+
     total = sum([x for x in dictionary.values()])
     for key, value in dictionary.items():
         dictionary[key] = dictionary[key] / total
 
     return sorted(dictionary.items(), key=lambda item: item[1], reverse=True)
 
+def count_emotion_prevalence(emotion_reference):
+    count_dict = {"alegria": 0, "tristeza": 0, "enojo": 0, "sorpresa": 0, "miedo": 0, "confianza": 0, "repulsion": 0, "disgusto": 0, "expectativa": 0}
+
+    for key, value in emotion_reference.items():
+        for emotion in value:
+            if emotion in count_dict:
+                count_dict[emotion] += 1
+            else:
+                print(key, emotion)
+
+    return count_dict
+
+
 def main():
     
     emotion_reference = get_dict()
+
+    emotion_counts = count_emotion_prevalence(emotion_reference)
+
     
     path = "../corpus/"
 
@@ -77,7 +103,7 @@ def main():
                         doc_dict[emotion] += 1
                     else:
                         doc_dict[emotion] = 1
-        emotions_dict[key] = normalize_and_sort_dict(doc_dict)
+        emotions_dict[key] = normalize_and_sort_dict(doc_dict, emotion_counts)
     
     with open('emotions_from_doc_dict.pkl', 'wb') as f:
         pickle.dump(emotions_dict, f)
