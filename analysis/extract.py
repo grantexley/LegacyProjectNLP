@@ -4,8 +4,6 @@
 import os
 import pickle
 
-
-
 def extraction_words():
     word_list = []
 
@@ -13,10 +11,7 @@ def extraction_words():
         for line in f:
             word_list.append(line.strip())
 
-    return word_list
-
-    
-
+    return word_list    
 
 def main():
 

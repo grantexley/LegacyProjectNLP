@@ -72,9 +72,6 @@ def add_entity_extraction(df, dictionary):
 
 
 
-
-
-
 def main():
     df = init_dataframe('Relacion_Entrevistas_CEV_CSV.csv')
 
@@ -92,9 +89,11 @@ def main():
 
     add_entity_extraction(df, entity_extraction_dict)
 
+    df = df.iloc[:-39]
+
     print(df)
 
-    df.to_excel('man3_dataframe.xlsx', index=False)
+    df.to_excel('man3_dataframe_no_dups.xlsx', index=False)
 
 
 

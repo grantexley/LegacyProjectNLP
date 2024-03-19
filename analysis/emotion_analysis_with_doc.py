@@ -3,6 +3,7 @@
 from unidecode import unidecode
 import os
 import pickle
+import math
 
 def get_dict():
 
@@ -57,9 +58,12 @@ def normalize_and_sort_dict(dictionary, emotion_counts):
 
     total_count = sum([count for count in emotion_counts.values()])
 
+    if "expectativa" in dictionary:
+        del dictionary["expectativa"]
+
     for key, value in emotion_counts.items():
         if key in dictionary:
-            dictionary[key] *= 1 / (emotion_counts[key] / total_count)
+            dictionary[key] *= 1 / emotion_counts[key] / total_count
 
     total = sum([x for x in dictionary.values()])
     for key, value in dictionary.items():
@@ -103,6 +107,7 @@ def main():
                         doc_dict[emotion] += 1
                     else:
                         doc_dict[emotion] = 1
+
         emotions_dict[key] = normalize_and_sort_dict(doc_dict, emotion_counts)
     
     with open('emotions_from_doc_dict.pkl', 'wb') as f:
