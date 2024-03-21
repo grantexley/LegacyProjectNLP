@@ -1,0 +1,1 @@
+../../scripts/pdf_to_txt.py

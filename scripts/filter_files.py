@@ -4,7 +4,7 @@ import os
 
 man3 = {}
 #adds all the names of the files in mandate 3 into a dict
-with open("files_mandate3.txt", 'r') as file:
+with open("files_in_corpus.txt", 'r') as file:
     for line in file:
         man3[line.strip() + ".pdf"] = 0
 

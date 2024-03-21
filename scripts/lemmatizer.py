@@ -10,7 +10,7 @@ nlp = spacy.load("es_dep_news_trf")
 
 nlp = es_dep_news_trf.load()
 
-corpus = "../corpus/"
+corpus = os.getcwd() + "/../corpus/"
 
 #lemmatizes a string and returns a list of lemmatized words
 def lemmatize_doc(string: str) -> list[str]:

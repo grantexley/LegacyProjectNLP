@@ -3,7 +3,7 @@
 import os
 from spanish_nlp import preprocess
 
-directory = "../corpus/"
+directory = os.getcwd() + "/../corpus/"
 
 sp = preprocess.SpanishPreprocess(
         lower=False,
@@ -42,7 +42,7 @@ def additionall_filter(text, save_set, delete_set):
 
 def main():
     save_set = set()
-    with open("capital_keep.txt", 'r') as file:
+    with open(os.getcwd() + "/capital_keep.txt", 'r') as file:
         for word in file:
             save_set.add(word.strip())
 

@@ -14,7 +14,7 @@ def extract_entities_from_document(document):
     return entities
 
 def process_file(doc):
-    path = "../corpus/"
+    path = os.getcwd() + "/../corpus/"
     with open(path + doc, "r") as f:
         text = f.read()
 
@@ -27,7 +27,7 @@ def process_file(doc):
     print(f"Processed file: {doc}")
 
 def main():
-    path = "../corpus/"
+    path = os.getcwd() + "/../corpus/"
     ls = sorted(os.listdir(path))
 
     # Determine the number of processes to use
