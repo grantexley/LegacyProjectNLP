@@ -1,0 +1,758 @@
+[ENT]Entonces, recuérdeme su nombre completo por favor
+[TEST]
+Mi nombre es TEST soy ----------y tengo 54 años, vivo en la
+ciudad de ------y tengo de experiencia política en los movimientos sociales a
+partir de 1982, ya serian 37 años más o menos.
+[ENT]
+37 años de experiencia. Cuénteme ¿cómo inició su vinculación a los movimientos
+sociales?
+[TEST]
+El primer momento de acercamiento a los movimientos sociales se da en el
+colegio, cuando estudiamos en el colegio [INTERRUP]
+[ENT]
+¿En qué colegio estudió?
+[TEST]
+[CONT] En un colegio del municipio de ----------- estando en décimo grado nos
+acercamos un poco a una movilización que había en ------del magisterio,
+nosotros asistimos desde ese municipio como estudiantes y allí entramos en
+contacto directo con la ORGANIZACIÓN SOCIAL 1 que es la ORGANIZACIÓN SOCIAL 1, eso
+fue
+más o menos en --------- de 1982. Luego el primero de mayo de ese mismo año
+participamos en la movilización del primero de mayo que es la movilización de
+los trabajadores y vinimos una comisión de estudiantes a participar de esa
+movilización de ese municipio y a partir de ahí ya ingresamos a esa organización política
+que es
+la ORGANIZACIÓN SOCIAL 1
+[ENT]
+¿Y en ese momento como estudiante usted sentía que había algún tipo de
+afectación y a los movimientos de izquierda en -----------en este caso o en
+Nariño?
+[TEST]
+No, no los conocía a fondo pues por la temprana edad que teníamos pero en el
+colegio si algunas cosas pero muy coyunturales, es decir no de fondo, o sea no
+se conocía el problema social del departamento o de los sectores sociales pues
+por la temprana edad sobre todo…no se conocía.
+[ENT]
+Ya después de este primer momento en la ORGANIZACIÓN SOCIAL 1 ¿usted ingresa a la
+universidad acá en ------o…?
+[TEST]
+Si, ya en 1984 se ingresa a la INSTITUCION EDUCATIVA 1 en la facultad de economía
+y allí si se empieza a estudiar un poco el contexto del departamento y
+lógicamente desde la misma carrera a profundizar un poco en los temas de
+economía del país, etcétera, etcétera y entonces uno ya se va compenetrando y
+va entendiendo la situación y el contexto de la situación social de la región
+
+fundamentalmente.
+Para
+el mismo año en 1984, en mayo, se firma el primer acuerdo con el presidente
+Belisario Betancur, se llega a los acuerdos de La Uribe (Meta) entre la
+insurgencia de las FARC y el gobierno y surge de ahí entonces la propuesta de
+la Unión Patriótica y nosotros ingresamos pues a la -----------directamente y es allí donde se empieza a hacer un trabajo más político en la
+región, no solo en la universidad sino en la región y a conocer ya de fondo
+algunas regiones, algunos municipios que nos tocó ya empezar a hacer el trabajo
+político electoral de la -------------- a partir de mayo del 84. Acá la Unión
+Patriótica realiza la primera asamblea departamental de fundación de UP en
+------- del 84, entonces a partir de ahí ya se empieza otra dinámica política.
+[ENT]
+¿Cómo era el contexto social y político en ese momento en la universidad?
+[TEST]
+Bueno, en la universidad lo normal, es decir una universidad totalmente de
+provincia, se carecía de todo en el aspecto logístico, académico, es decir no
+había desarrollo para investigación, la misma infraestructura era totalmente
+rudimentaria, los laboratorios, etcétera, etcétera, es decir se carecía de
+todos los elementos para desarrollar la actividad académica.
+Entonces
+las primeras movilizaciones que se venían dando pues lógicamente desde antes
+pero ya para esa época se daban en torno al desarrollo de la infraestructura de
+la universidad, primero, y segundo la adecuación del pensum académico de todas
+las carreras a las necesidades de la región, entonces esos fueron como los
+primeros objetivos centrales de lo que era la movilización estudiantil. También
+ya se empezó a plantear la necesidad de que la universidad se abra hacia la
+región, es decir que salga y sea un actor protagónico en el desarrollo de la
+región, es decir que le aporte realmente al desarrollo industrial, al
+desarrollo agropecuario en todo ese sentido desde la academia, entonces era el
+tercer elemento que movilizaba no solo al sector de la universidad sino también
+al sector productivo, a las autoridades, es decir en una dinámica digamos de
+construcción colectiva, que de que la universidad se desdoble hacia las
+regiones, entonces ese era un elemento pues que aglutinaba y movilizaba a los
+estudiantes.
+También
+se comenzó a forjar a partir de esas épocas la solidaridad de los estudiantes,
+del movimiento estudiantil con las otras luchas que llevaban otros sectores,
+por ejemplo los sectores agrarios o los sectores del magisterio, etcétera,
+etcétera. Entonces los estudiantes ya empezaron a participar de esas otras
+movilizaciones, es decir en la misma dinámica de que la universidad se
+involucre más con todos los temas de la región, no solo el tema del desarrollo
+y el progreso sino también en lo que se venía configurando pues en el atraso,
+
+el abandono del departamento y los conflictos que habían como las tierras con
+los indígenas, etcétera, etcétera, entonces la universidad empezó a convertirse
+como en un actor digamos de apoyo a esos sectores.
+[ENT]
+En esta articulación con otros movimientos sociales ¿qué otras organizaciones
+recuerda… ha mencionado por ejemplo la lucha de tierras con campesinos…?
+[TEST]
+Sí, una de las referentes de esa solidaridad… digamos que hay dos que yo
+recuerde porque habrán otras ¿no?, una es la toma de una finca que se llevó a
+cabo en ----------que se llamaba --------- no tengo la fecha pero eso en los
+registros está, los indígenas se tomaron esa finca y hubo dos conflictos en ese
+territorio. Esa finca era una muy grande, una de las más grandes que había en
+esa época en ---------- entre ------------- y el otro municipio, una finca que
+producía 5.000 litros de leche diarios cuando estaba en manos de los
+particulares.
+El
+movimiento indígena de ------------------ y de esa región se tomaron la finca y entraron
+en conflicto no solo con los dueños de la finca, con las autoridades también, sino
+con los campesinos que también ellos querían parte de esa finca, les
+pertenecía, porque esa finca pertenece a otro municipio que se llama… bueno
+ahora nos acordamos; entonces hubo un conflicto entre indígenas y campesinos,
+conflicto de enfrentamiento y hubo heridos, todo eso está en registros
+periodísticos y lógicamente el Estado también intervino de dos formas, una de
+la forma de reacción del aparato militar-policial, hubo enfrentamiento con la
+policía y también hubo la negociación entre los indígenas y el gobierno para
+mirar a ver como daban solución a ese problema de la finca ----------En
+eso la universidad también participó de dos formas: una, apoyando en
+confrontación como tal, a los indígenas y otro al sector campesino, entonces
+ahí luego hubo un acuerdo de que pues se debería esa finca…no únicamente que se
+quede en manos de unos sino que había que mirar también que los campesinos
+participen, eso por un lado; y también la universidad hizo un llamado para que haya
+un acuerdo, una conciliación, una negociación, entre las comunidades tanto
+indígenas como campesinas con el gobierno tanto del municipio de allá, el
+departamental y nacional. Eso finalmente se logró, la finca finalmente el
+Estado la compró, en esa época el INCORA la compró y parceló, o sea legalizaron
+esa finca, pero ese es un hecho en el que la universidad también participa y ya
+empieza pues a involucrarse dentro de los conflictos sociales.
+Otro
+hecho así anecdótico es la construcción del puente que hay sobre el Río ----------aquí en
+------------ allí las comunidades de -----------y ----------se
+movilizaron exigiendo al gobierno departamental el puente sobre el ----------porque el que
+existía era un puente obsoleto de madera que no permitía el paso
+de transporte grande para la carga, para sacar todos los productos de la
+
+región, entonces llegaban hasta el lado de allá de -----------los carros y la
+carga había que pasarla al hombro al otro lado a ------------para poderla
+vender.
+Entonces
+las comunidades se organizaron y la universidad participó directamente en
+solidaridad con los campesinos que se habían tomado la panamericana ahí en ------------ no
+me acuerdo la fecha, eso también está en el Diario del Sur… y se
+logró digamos que la gobernadora en esa época si no estoy mal era la doctora
+Myriam Paredes llegara a un acuerdo para la construcción de ese puente y que
+finalmente ese puente se construya y hubo una comunicación directa entre la
+universidad y la región en este caso de la cordillera. Esas dos cosas así como
+anecdóticas pero pues están otros conflictos que se venían desarrollando ya en
+otras regiones.
+[ENT]
+Y un poco para entrar en la historia de la Unión Patriótica, ¿cómo se empieza a
+conformar a partir de los acuerdos que se hacen con la Guerrilla de las FARC?,
+se funda este partido y se toma la decisión ¿cuáles son las personas que
+integran en ese momento el partido acá?
+[TEST]
+Si, a raíz del acuerdo que se hizo con Belisario Betancur, las FARC decidieron
+que algunos de sus miembros, de sus comandantes, pasaran a la vida civil y
+organizaran o ayudaran a organizar el movimiento político que prepararía el
+terreno para que los otros guerrilleros se insertaren en la vida política
+civil, entonces fueron bastantes los comandantes que en todo el país se designaron
+para esa tarea.
+En
+Nariño la Unión Patriótica, como lo decía, realiza su primera asamblea en
+agosto del 84… 85… bueno ahí confirmemos el año, es después de la firma en La
+Uribe (Meta) que fue en mayo del 84 ¿no?... sí, entonces en agosto se desarrolla
+la primera asamblea de la Unión Patriótica aquí en ------y participan delegados
+de todos los municipios. Fundamentalmente los que ingresan a la Unión
+Patriótica y toman las banderas de la Unión Patriótica son los militantes del
+partido comunista, en esa época la dirección queda conformada por destacados
+dirigentes de acá de la región, entre ellos está CONOCIDO 1… CONOCIDO 1que era concejal
+aquí en la ciudad de ------por la izquierda, en esa época era
+profesor universitario de la facultad de derecho y era uno de los dirigentes de esa primera
+Unión
+Patriótica.
+También
+estaba en esa primera dirección el profesor CONOCIDO 2 que es conocido
+acá, todavía dirigente político del departamento, y varios otros profesores de
+la INSTITUCION EDUCATIVA 1 como el profesor CONOCIDO 3, dirigentes sindicales
+como el profesor CONOCIDO 4, que todavía son dirigentes sindicales, el
+
+profesor de la INSTITUCION EDUCATIVA 1 … CONOCIDO 5, bueno y son otros profesores
+que
+ya me voy acordando en el momento y ellos son los que empiezan a trabajar lo
+que es la Unión Patriótica y claro y nosotros como jóvenes entramos ahí con
+otras personas que todavía viven y otros que ya no están. Entre esos dirigentes
+que todavía viven también esta CONOCIDO 6 que fue diputado, el dirigente
+también de acá de------- CONOCIDO 7 que fue candidato a la alcaldía por la
+Unión Patriótica, el abogado penalista CONOCIDO 8 que todavía vive… ellos
+fueron los primeros dirigentes de la Unión Patriótica y en los municipios hay
+varios nombres por ahí que asistieron a esa reunión y comenzaron a conformar lo
+que eran las Juntas Patrióticas Municipales.
+En
+------sobre todo los dirigentes allá son CONOCIDO 9 [DUD: 00:16:15] que
+todavía vive, él fue Alcalde de -------, CONOCIDO 10 que también fue
+alcalde, él es profesor y todavía trabaja, CONOCIDO 11 que también fue
+alcalde por la Unión Patriótica, ellos fueron los dirigentes, también está
+CONOCIDO 12, ellos fueron los primeros dirigentes de la UP y otras personas
+que en el transcurso me voy a ir acordando y algunos que después si sufrieron
+digamos los rigores de la persecución del Estado que luego conversamos. Esos
+así a grandes rasgos, en el ------- asumió CONOCIDO 13, él fue alcalde también de
+---------dos veces, una vez por la UP, él es dirigente en este momento allá,
+luego estuvo la doctora CONOCIDA 14 también que fue concejal por la UP aquí
+en ------ ella también vive… entonces esos son los primeros dirigentes de la
+Unión Patriótica de esa época hasta el 85, 86, más o menos.
+[ENT]
+¿Dirigentes que logran ubicarse en cargos públicos cierto?
+[TEST]
+Sí, digamos que la primera tarea era la organización y luego si la
+participación político-electoral, de todos ellos los que han ocupado cargos de
+elección popular después del 86 que fue la reforma para la elección de alcaldes
+fundamentalmente están los tres de ------que le mencioné, CONOCIDO 9, CONOCIDO 11 y
+CONOCIDO 10, ellos fueron alcaldes, la doctora CONOCIDA 14 que fue concejal,
+CONOCIDO 6 que fue diputado, CONOCIDO 15 que también es un
+defensor de derechos humanos que también fue diputado por la Unión Patriótica,
+bueno y hay una serie de concejales en los municipios pues que difícil
+acordarse pero por ahí hay algunos registros. Entonces si se logró que hasta el
+88 más o menos ya empezamos a tener alguna participación, mi nombre también, yo
+fui -------- de mi pueblo, de -----------en el… bueno para esa época.
+Entonces
+en varios municipios ya empezamos a tener participación y en otros lados se
+hizo alianzas con otros candidatos, en ------- en -------- en varias regiones
+la UP ya empezó a surgir y hacer alianzas político-electorales con sectores
+democráticos, liberales, etcétera… perdón, también está un dirigente de La
+
+Unión, él vive todavía se llama CONOCIDO 16 fue diputado por la Unión
+Patriótica, el vive en --------- digamos eso como lo más importante que hubo en
+el momento pues ya de participación electoral.
+Para
+esa misma época, es decir después de la primera conferencia de la Unión
+Patriótica a la cual asistió como delegado de las FARC EX RANGO 1… él estuvo
+ahí en la primera, entonces ese si es un dato importante porque él era un
+miembro de las FARC pero fue designado para participar en esa primera asamblea.
+Después, cuando hicimos el primer acto público en el 85 más o menos ya en
+campaña electoral, participó un comandante de las FARC ya en la vida civil que
+se llama EX RANGO 2 , él estuvo en la administración de Angelino Garzón
+en el Valle, el vive allá, el como como ex-comandante participó y estuvo en un
+acto público en el --------------en representación de las FARC, la fecha si no
+me acuerdo pero fue en el 85, ese fue como el lanzamiento público de la Unión
+Patriótica
+[ENT]
+¿Estos comandantes que usted menciona como EX RANGO 1 y EX RANGO 2
+eran los comandantes que tenían presencia en Nariño?, ¿de los frentes que
+tenían presencia en Nariño de las FARC?
+[TEST]
+EX RANGO 1 sí, él ya venía designado por las FARC para hacer el trabajo
+político-militar y después de estar en la asamblea creo que asumió su trabajo
+como militante de las FARC en el tema militar. EX RANGO 2 era el
+encargado de la región, o sea del sur-occidente por la dirección nacional,
+entonces él estaba en -------- en -----y acá en ------y participaba era de los
+eventos grandes pero el no vivía acá en ------ de acá de la región el que sí
+participó en los primeros momentos fue EX RANGO 1 pero ya después cómo se
+acabaron los diálogos entonces el vuelve y asume la dirección de sus
+estructuras militares acá en Nariño.
+[ENT]
+¿Recuerda usted como fue esa entrada de las FARC en Nariño?
+[TEST]
+Bueno eso [risa tenue] digamos que… lo tenemos que tomar desde varios puntos de
+vista. Primero mirar el contexto de la situación política y también social de
+la región. Los diálogos con el presidente Belisario Betancur fracasan entonces
+se intensifica la guerra y nuevamente se vuelve a sentir en el país la
+confrontación armada, entonces las FARC deciden, pues en lo que uno ha leído en
+los documentos, deciden hacer un desdoblamiento de todo su trabajo
+político-militar, de todos sus frentes, de sus estructuras, y leyendo en los
+documentos que se empiezan a conocer ahora en esta última etapa de que ya las
+FARC no existen como ejército, ellos deciden que Nariño es un territorio
+supremamente importante, estratégico, para los planes político-militares que
+tienen las FARC por su cercanía con la frontera con el Ecuador, su cercanía con
+
+el Océano Pacifico y pues su topografía, entonces ellos deciden que Nariño…hace
+parte ya de su planteamiento estratégico político-militar.
+Pero
+por encima de eso está la situación social por la que atraviesa el departamento
+en esa época, es decir es un departamento totalmente abandonado
+fundamentalmente en las áreas rurales de la cordillera occidental, lo que es
+------ ---------- ----------- ---------- y todo el pie de monte donde el Estado
+no existe en ninguna de sus manifestaciones, menos hay infraestructura en vías,
+infraestructura para salud, educación, eso es nulo, es cero. Yendo de pronto a
+las administraciones, a las alcaldías de esos municipios debe haber información
+de cuándo es que se empezó a mirar realmente la presencia del Estado en
+inversión social, mientras tanto no lo había todo era a lomo de mula, todo era
+caminar horas y horas de un pueblo a otro, no había carreteras, entonces la
+gente vivía del pancoger, sobre todo en ------ ----------- ---------- ellos a
+duras penas cultivaban la comida, la yuca, etcétera, etcétera. En esos momentos
+también se empezó a ver que en otras regiones como en el Cauca se empezó a cultivar
+lo que es la marihuana y para la bota caucana ya se comenzó a cultivar la coca.
+[ENT]
+¿En los años ochenta…?
+[TEST]
+Sí, todo ese periodo a partir de los 80, 87 más o menos, entonces se empieza en
+------fundamentalmente, allí es donde se empieza a mirar los primeros cultivos
+de coca porque en el norte viejo lo que es la parte de --------hacia la parte
+de la frontera con el Huila, con el sur del Huila, allí ya se tenía noticias de
+cultivos de marihuana y también de algunos cultivos de amapola pero en mínima
+cantidad, es decir la coca entra digamos desde el Cauca, por el Cauca y entra
+por la cordillera occidental. Se podría decir que la coca entra antes que la
+guerrilla, eso sí podría decir porque eso los viejos de esas regiones pues
+darán mayor información, pero la coca entra antes que la guerrilla en Nariño,
+eso sí me parece que es algo bien importante para tener en cuenta y claro ya se
+comienza a configurar otro conflicto allí con la presencia de estos cultivos.
+El
+desarrollo de esas regiones se empieza a dar, pues valga decirlo, gracias a la
+presencia de la guerrilla porque la guerrilla en esas partes se convierte en el
+para-estado, es decir es el que administra la justicia, el que administra el
+medio ambiente, el que incluso celebra matrimonios, celebra divorcios, es decir
+la guerrilla es la autoridad y es el Estado en esas regiones. También empiezan
+a organizar a las comunidades y se empieza a desarrollar o a construir
+fundamentalmente las carreteras, la presencia de la energía eléctrica, los acueductos,
+colegios, es decir son ellos la guerrilla de las FARC las que asumen ese papel
+conjuntamente con la comunidad y con algunas administraciones tanto del nivel
+local como del departamental que ya empezaron a aportar para que se vea el
+desarrollo en infraestructura sobre todo de esas regiones.
+
+[ENT]
+Eso fundamentalmente en ------ desde el municipio de… [INTERR]
+[TEST]
+Sí, ------y -----------que son los dos municipios donde se configura todo ese
+contexto político social en donde ya hay la presencia de la guerrilla, no hay
+presencia del Estado y también ya se empieza a configurar la presencia de los
+cultivos de coca que eso pues conlleva a otras situaciones, entonces son esos
+dos municipios los que se configuran como el embrión para varias cosas ¿no?
+sobre todo para el conflicto que luego se desarrolla pero también para el
+desarrollo de esas regiones ¿no? porque ya con los años se mira que ha habido
+algunas cosas que han avanzado.
+[ENT]
+Y en ese momento un poco después de que fracasan la firma de los acuerdos y se
+da esta postura paralela entre la Unión patriótica y las FARC ¿existe algún
+tipo de vínculo entre el movimiento político y la insurgencia?
+[TEST]
+Digamos que en ciertos momentos sí porque el trabajo político-electoral de la
+Unión Patriótica se hacía en esas regiones agrarias en donde tenía presencia
+las FARC, igual cualquier partido político que quería hacer campaña electoral
+por decir algo en ---------- en ------o en -------------o en todas esas veredas
+allá de ------o en ----------- ---------- en --------- ----------, en todas esas
+comunidades, si nosotros íbamos a hacer campaña electoral para un candidato a
+la asamblea, etcétera, etcétera o cualquier otro político que vaya de cualquier
+tendencia, irremediablemente tenía que encontrarse con las FARC allí, entonces
+tenía dos opciones: o conversar con ellos o irse en contra de ellos, entonces
+no solo la Unión Patriótica sino los partidos tradicionales de esos municipios
+tuvieron que llegar a acuerdos con las FARC para poder participar en
+elecciones.
+Entonces
+se hacían reuniones en esas veredas y ahí estaba la guerrilla y muchas veces
+participaba y también convocaba a la gente porque los planteamientos políticos
+de la Unión Patriótica pues son los mismos porque la Unión Patriótica fue un
+planteamiento de las FARC entonces no habían cambiado. Entonces sí había esos
+encuentros en esas regiones y se llegaba muchas veces a acuerdos pero también
+en muchas otras regiones hubo desacuerdos con la guerrilla, entre UP y FARC,
+caso por ejemplo en ----------hubo unas dificultades pero también los partidos
+tradicionales por ejemplo en ------el partido ------- siempre estuvo en buen
+acuerdo con las FARC y participaron, entonces allá hubo alcaldes liberales
+donde la Unión Patriótica los apoyaba y era en común acuerdo con quien en ese
+momento ejercía la autoridad que eran las FARC.
+En
+-----------también, allá a varios alcaldes la Unión Patriótica los apoyó y
+también se tuvo que conversar con las FARC para que se pudieran hacer las
+
+campañas electorales y esos alcaldes sabían que cualquier propuesta que haya
+para esas regiones por ejemplo en ----------- para ----------- para ---------por allá, pues tenían que tener el visto bueno o al menos llegar a acuerdos con
+la guerrilla de las FARC, eso es innegable, eso es así, porque las FARC en esa
+época era un actor fundamental y era el que decidía en las zonas agrarias de
+todos esos municipios entonces no se podía desconocer.
+[ENT]
+¿Y qué tipo de acuerdos se llegaban a establecer?
+[TEST]
+Bueno los acuerdos programáticos… le estoy hablando de cuestiones electorales…
+es decir primero los acuerdos programáticos: qué tipo de propuesta hacia un
+candidato determinado para la región, es decir que desarrollo planteaba en
+educación, en salud, en medio ambiente, bueno, en el progreso para la gente,
+esos eran los acuerdos fundamentales y luego sí se llegaba acuerdos de que
+equis candidato iba a tener el apoyo de esas comunidades en votos concretos,
+esas dos cosas son fundamentales.
+Ya
+después decir que la guerrilla iba a participar como co-gobierno pues esas
+cosas si existieron o no existieron pues ya son del resorte de los que
+manejaban eso, pero lo que hasta nosotros llegamos a estar y mirar era que los
+acuerdos eran programáticos y también de formas de hacer política, entonces se
+llegaba al acuerdo de que nadie iba a comprar votos por ejemplo, de que nadie
+iba a irse en contra de otro candidato de formas violentas o formas corruptas,
+es decir se quería era que se haga un debate sano, si habían otros candidatos
+no importaba, siempre los hubo, del partido conservador… de otros partidos y
+con ellos también se llegaba a un acuerdo para que las elecciones sean lo más
+democráticas y lo más sanas posibles y así se hizo.
+Por
+ejemplo en ------las tres alcaldías de la Unión Patriótica fueron en acuerdo en
+el partido liberal y con unos sectores conservadores y ellos participaron de
+los gobiernos de la Unión Patriótica, y bueno el desarrollo de ese municipio se
+vio en esas tres alcaldías, se construyeron escuelas, colegios, carreteras,
+etcétera, etcétera y eso pues benefició a todo mundo. Entonces sí se miraba que
+se podía trabajar lógicamente con las precauciones porque eso no estaba dentro
+de la legalidad porque las FARC eran una organización ilegal, por fuera del
+estado, en contra del estado, entonces los que entraban a conversas con ellos
+lo hacían de forma reservada y los
+acuerdos pues digamos casi nunca quedaban escritos pero eran acuerdos políticos
+que se han hecho o se van a seguir haciendo con todos los que se muevan en las
+regiones.
+[ENT]
+En el caso particular de ----------que me contaba que no hubo una facilidad de
+establecer ese acuerdo, que hay un tipo de problema, ¿recuerda el caso concreto
+
+o no?
+[TEST]
+Bueno ----------es un municipio totalmente _sui
+generis_ en el análisis político, o sea para hacer un análisis de la
+situación de ---------- hay que
+profundizar mucho, en muchas cosas, es una región yo diría totalmente diferente
+a todas las regiones del departamento de Nariño, es decir desde lo cultural,
+desde la misma formación de ese territorio, desde la forma como la gente
+concibe la comunidad, el desarrollo, el progreso.
+----------es muy _sui generis_ entonces no se
+podría decir, yo por lo menos no tengo las condiciones para decir cuáles serían
+los contextos, las situaciones, pero si… es que… en ----------el conflicto
+siempre ha existido igual ahora porque se configuran muchas cosas ahí, primero
+porque es una de las regiones más estratégicas del departamento por su
+ubicación geográfica, es decir por su entrada al pacífico, su entrada a la
+cordillera, su entrada a la ciudad, es decir es una región demasiado rica en
+minerales, en biodiversidad, etcétera, etcétera, entonces ahí se configura toda
+una serie de conflictos y fundamentalmente los conflictos sociales y por eso
+hay presencia ya después de FARC, de ELN, el mismo EPL, y después bueno ahí se
+desarrolla todo el proyecto paramilitar del Estado, entonces ----------es de
+cuidado.
+Nosotros
+como Unión Patriótica participamos también ahí, logramos ahí llegar a unos
+acuerdos políticos de participación electoral, llegamos a tener concejales ahí
+y también acuerdos con algunos candidatos a la alcaldía… no me acuerdo los
+nombres… y siempre hemos tenido presencia, en este momento tenemos presencia
+allá, tenemos candidaturas a la alcaldía ahora ya en este año 2019 pero digamos
+que no es fácil hacer política en ---------- no es fácil, ni si quiera llegando
+a acuerdos con los actores armados que siempre han existido allá por esa misma
+configuración, entonces como de ----------es eso ¿no?...
+[ENT]
+Vale, me contaba un poco en este momento que se logró posicionar la Unión
+Patriótica en el departamento ¿cierto? Como a finales de los 80, no sé en qué
+momento se genera como la fractura o la ruptura del partido a partir de todas
+estas afectaciones que empieza a haber a sus líderes…
+[TEST]
+Bueno, por la participación electoral que tuvimos nosotros llegamos a acuerdos
+para apoyar a gobernadores acá, me acuerdo que en el 90 apoyamos la candidatura
+de CONOCIDO 17 y CONOCIDO 17 fue el gobernador que a la Unión
+Patriótica le dio un reconocimiento fundamental porque le entregó lo que se
+llamaba en esa época la Casa de la Cultura que era como una secretaría de
+cultura dentro del departamento. Esa se la entregó así a la Unión Patriótica en
+
+cabeza del profesor CONOCIDO 18 que es profesor de la de INSTITUCION EDUCATIVA 1 de
+la
+universidad, y digamos que fue la Unión Patriótica la que estuvo un largo
+periodo dirigiendo lo que se llamaba la Casa de la Cultura, entonces eso iba
+configurando, iba avanzando, permitiendo el avance de la Unión Patriótica ya
+haciendo presencia en la institucionalidad.
+Pero
+al mismo tiempo y a nivel nacional se configuró ya la estrategia del Estado de
+ir eliminando a los dirigentes de la Unión Patriótica, eso se dio apenas surgió
+la Unión Patriótica, es decir los primeros muertos empiezan en el 85 y a nivel
+nacional del 85 al 90 fue la gran matanza de la Unión Patriótica, todo el
+genocidio que se cometió, en algunas regiones fue más aguda la arremetida, en
+otra regiones fue menos, en Nariño digamos fue un poco menos la
+arremetida, no hubo esa cacería y toda
+esa masacre que hubo como en el Urabá o en el Meta o en otros lados, en Nariño
+fue menos pero si se sintió.
+Entonces
+digamos que para el año 91 la Unión Patriótica acá en el departamento empieza a
+sentir la masacre que se dio ya de la dirigencia nacional de la Unión
+Patriótica en el sentido de que eso estaba desarticulado a nivel nacional, ya
+la dirección nacional estaba desarticulada y los que en las regiones
+manteníamos la Unión Patriótica manteníamos en la zozobra y la misma población
+empezó a mirar a la Unión Patriótica como algo peligroso, no acercarse a la UP
+porque los mataban, entonces se fue perdiendo el caudal electoral y se fue
+perdiendo la dinámica que veníamos llevando acá en el departamento.
+Entonces
+en unas elecciones en el 90 si no estoy mal nosotros a duras penas sacamos unos
+poquitos concejales y ya no fue posible porque la dirigencia de la Unión
+Patriótica mucha se quedó quieta, es decir ya no entró a participar y salir a
+la plaza pública, era un reto bastante fuerte, otros dirigentes se fueron de la
+ciudad por diferentes motivos y en las regiones donde habíamos tenido presencia
+ya se empezó a sentir la presencia paramilitar como en ------y empezaron las
+amenazas, entonces a los ex-alcaldes, a la dirigencia allá la empezaron a
+amenazar y varios ya tuvieron que desplazarse a la ciudad.
+Por
+ejemplo CONOCIDO 10 que fue alcalde, luego era profesor, después era
+alcalde, él tuvo que desplazarse para la ciudad de [INAD:00:41:19 – 00:41:20]
+ya amenazado, CONOCIDO 11 también tuvo que desplazarse a -------por las amenazas de
+los paramilitares y hubo ya asesinatos en ------ allá hay unos registros de
+unos compañeros… no me acuerdo los nombres… y también en -----------se
+empezaron las amenazas a algunos dirigentes y a algunos aliados, por ejemplo ya
+lo amenazaron a un dirigente liberal de -----------que se llamaba CONOCIDO 19, él ya murió,
+a el lo apoyamos y fue amenazado por haber estado cerca
+
+de la Unión Patriótica, también fue amenazado el primer alcalde de ----------------------que se
+llama CONOCIDO 20, él vive acá es un dirigente conservador, con el
+trabajamos la primera campaña de Unión Patriótica siendo el conservador y fue
+alcalde y luego fue amenazado también y ya tuvo que abandonar la región y estar
+acá en la ciudad.
+En
+----------también fue amenazada la que fue concejal, bueno no me acuerdo el
+nombre, ella tuvo que salir de -----------y desplazarse hasta la ciudad de
+----- fue amenazado un dirigente de la Unión Patriótica en ----------de -----------que se llamaba
+CONOCIDO 21, él tuvo que salir de la ciudad y una
+dirigente, una mujer muy valiente ella de la vereda ------------------de ahí de ----------- ella
+vive, vive en ----- pero bueno no me acuerdo el nombre, ella
+también tuvo que salir del territorio por las amenazas ya de los paramilitares.
+En
+la ------- – Nariño donde también teníamos presencia, tuvimos concejal allá,
+también fueron amenazados los dirigentes… bueno no me acuerdo los tres
+dirigentes pues yo por ahí los tengo… y tuvieron que desplazarse, uno se fue
+para el Putumayo… CONOCIDO 22 bueno… y el otro un dirigente viviendista allá de --------también tuvo que desplazarse con su familia aquí a ------ el ya murió
+pero pues con la edad, eso más o menos lo que yo me acuerdo. Luego, eso le
+estoy hablando más o menos entre el 87 – 91 más o menos todo eso sucedió, eso
+es lo que yo me alcanzo así a acordar de nombres que es como lo más concreto.
+[ENT]
+Después de este año del 91, qué sucede con la Unión Patriótica, cuando baja un
+poco… [INTERRUP]
+[TEST]
+Sí, aquí en Nariño ya desaparece totalmente.
+[ENT]
+Ya desaparece…
+[TEST]
+Desaparece como dirección departamental, a pesar de que los viejos militantes
+estábamos ahí pero la mayoría hacíamos parte del partido --------- entonces nos
+quedamos dentro de las estructuras del partido -------, pero como Unión
+Patriótica ya dejó de existir como una estructura real, eso se dio más o menos
+desde el 95 hasta el año 99, desaparece totalmente la Unión Patriótica como
+estructura, como hacer presencia política, etcétera, etcétera.
+Ya
+en el 2000 nuevamente se empieza a replantear y se empieza a reorganizar un
+poco a pesar de que ya no teníamos la personería jurídica porque ya nos la
+habían quitado porque ya no teníamos representación parlamentaria pues a todos
+los parlamentarios los mataron, pero la Unión Patriótica a nivel nacional
+seguía existiendo como organización por varias razones, una porque se entabló
+la demanda contra el Estado en la Corte Interamericana y por lo tanto había que
+
+mantener la estructura, pues la Corte llamó al Estado y a la UP a una
+conciliación y claro ese era un tema que había que mantener la Unión Patriótica
+y sobre todo una organización de víctimas de la Unión Patriótica que se llama
+ORGANIZACIÓN SOCIAL 2.
+ORGANIZACIÓN SOCIAL 2
+fue como la que mantuvo digamos la Unión Patriótica ahí vigente, y segundo
+porque igual la Unión Patriótica seguía como decimos nosotros en el imaginario
+de muchas comunidades, de mucha gente y después de que la Corte Interamericana
+empieza a fallar a favor de la UP le ordena al Estado ya empezar a reconocer
+algunos derechos que le vulneraron a la Unión Patriótica con el genocidio,
+entonces uno de esos fue el reconocimiento de su personería jurídica que eso
+creo que fue en el 2013 sino estoy mal, entonces eso fue más o menos lo que
+pasó.
+[ENT]
+En este caso que se presenta a la Corte y el reconocimiento del genocidio ¿hay
+documentación de Nariño específicamente?
+[TEST]
+Si, eso lo maneja…digamos que el proceso de demanda lleva muchos años y la
+Unión Patriótica tuvo que recoger y documentar todo lo sucedido, eso existe, lo
+tiene ORGANIZACIÓN SOCIAL 2, lo tiene el Estado también porque pues es un proceso
+judicial
+y lo tiene la corte y también el Estado hizo una investigación si era cierto o
+no lo que estaba demandando ¿no?
+[ENT]
+Claro.
+[TEST]
+Entonces ellos vinieron hace muchos años, nos contactaron de parte del Estado,
+del equipo jurídico, a verificar si lo que nosotros habíamos colocado dentro de
+la demanda de la UP era cierto o era mentira, es decir eso sí está documentado,
+ahí hay algunos nombres que se lograron recoger, que están dentro del proceso
+dentro de la corte y que el Estado me imagino también pues tuvo que demostrar
+de que si eran de la Unión Patriótica y de que hubo una afectación por parte
+del Estado en algunos asesinatos de militantes de la Unión Patriótica y también
+las afectaciones políticas fundamentalmente.
+[ENT]
+Las amenazas, las personas que salieron, ¿eso sí está documentado? [INTERRUP]
+[TEST]
+Sí, eso está documentado, eso lo tiene ORGANIZACIÓN SOCIAL 2 y está en el proceso dentro
+de
+la Corte.
+[ENT]
+Un poco desde su experiencia ¿cómo se logró articular el paramilitarismo en
+Nariño? ¿cuál fue la posibilidad de entrada del paramilitarismo?
+
+[TEST]
+Bueno, lo primero hay que decir que el paramilitarismo es una política de
+Estado que siempre la ha ejecutado, eso es de vieja data, acuérdese de la
+violencia con los famosos “Pájaros”, eso es una política de Estado. Eso se ha
+ido implementando dependiendo de las condiciones y de los contextos, esta época
+del paramilitarismo última digámoslo así en Nariño se empieza a configurar
+cuando los indígenas en el --------- y ------------------ empiezan a movilizarse para
+recuperar las tierras, es allí donde se comienza a configurar el primer
+paramilitarismo porque los grandes hacendados en su lógica buscan la forma de
+proteger sus propiedades y de atacar el movimiento indígena, entonces el
+movimiento indígena tiene totalmente documentados todos los muertos de los
+dirigentes indígenas, pero es allí en esa región donde se empieza a generar los
+primeros brotes paramilitares y también acciones y amenazas.
+El
+caso por ejemplo de Carlos Castaño, hizo una reunión… los indígenas tienen la
+información más detallada… hizo una reunión en esas zonas para ya empezar a
+plantear la presencia efectiva de los grupos paramilitares. Cuando ya se
+configura realmente la presencia paramilitar es cuando el auge de la coca se da
+en la costa pacífica fundamentalmente, es allí… y en ----------también tiene
+que ver con la presencia de los paramilitares porque allí el movimiento social
+siempre ha sido fuerte y siempre ha habido presencia de organización política y
+de campesinos, entonces también ----------se convierte en el epicentro de
+empezar a formar las primeras estructuras de los paramilitares… y ya
+fundamentalmente después con la última década digámoslo así -------se convierte
+ya en epicentro del accionar paramilitar pues por las razones fundamentalmente
+políticas de control territorial y económicas por la presencia de los cultivos
+de coca que ya son a gran escala. Entonces ellos ya hacen la presencia más
+efectiva y en la ciudad de ------ en la ciudad de ------también es paralela al
+surgimiento de las comunidades indígenas, es aquí en la ciudad donde se
+empiezan a amenazar a la gente, panfletos, llamadas, seguimientos, etcétera,
+etcétera, y ya con presencia paramilitar hasta que después ya hay los
+asesinatos reconocidos incluso por los mismos paramilitares, entonces ya son
+asesinatos selectivos que se dan del movimiento político y del movimiento
+social.
+El
+movimiento indígena es el primer golpeado, ellos tienen ahí toda la
+documentación, y luego es en la ciudad de ------donde el paramilitarismo golpea
+sobre todo al movimiento estudiantil, matan a CONOCIDA 23 antes habían
+muerto a un dirigente que fue de la Unión Patriótica al profesor CONOCIDO 23y a otros dos
+profesores que los mataron en -------- matan a un trabajador,
+celador de la INSTITUCION EDUCATIVA 1 que también era de la Unión Patriótica:
+CONOCIDO 24, matan a CONOCIDO 25 como dirigente estudiantil, matan a CONOCIDO 26
+que era dirigente estudiantil, luego matan a…a… un dirigente estudiantil
+
+que incluso fue miembro del Consejo Superior Estudiantil que era de ------bueno, a él también lo asesinan…y… bueno esos hasta los que yo me acuerdo hasta
+el momento… y luego matan a otro militante de la Unión Patriótica a CONOCIDO 27 a él lo
+mataron en la calle aquí en la ciudad, lo mataron por ser hermano de un comandante de
+las FARC… eso es como lo que yo así me acuerdo… y los panfletos pues que
+amenazaban con nombres propios a los sindicalistas, a los defensores de
+derechos humanos, al comité permanente por la defensa de derechos humanos, hay
+detenciones arbitrarias como el caso del
+profesor CONOCIDO 28 del comité permanente, la detención de…de… muchos dirigentes,
+bueno que eso está documentado allá en la parte legal, pero ya la presencia
+paramilitar también se da y se empieza hablar de un control territorial. Estoy
+hablando más o menos de los años 97, 98, de un control territorial en la
+ciudad, es decir ya empiezan a aparecer muertos, indigentes, es decir se habla
+de limpieza social en los barrios periféricos, de amenazas a los consumidores,
+etcétera, etcétera y ya a nombre de los paramilitares y es cuando ya se
+conforman ellos como Bloques Libertadores del Sur y entonces ya asumen toda la dinámica
+del conflicto y de la guerra en contra de… fundamentalmente pues de las
+organizaciones sociales y políticas porque ya con la guerrilla pues la confrontación se daba
+y bueno pero
+esa era otra dinámica…pero fundamentalmente eso.
+En
+-------también se sintió y mataron a dos dirigentes de la Unión Patriótica, a
+uno lo mataron, a uno de los fundadores de la organización Unión Patriótica y
+líder de lo que se llamó ------------en esa época en los años 70 el CONOCIDO 29, a él lo
+mataron los paramilitares y luego atentan contra CONOCIDO 30 que era dirigente de la
+Unión Patriótica, él tuvo que salir… el salió vivo…
+tuvo que salir de la ciudad de -------y a los años, hace como dos años lo mataron en ------ allá
+lo fueron a buscar y lo mataron, y también ya con el tiempo mataron a un
+periodista que también fue de la Unión Patriótica que se llama… el apellido
+CONOCIDO 31 ahí en ------- eso es lo que así digamos de los viejos dirigentes de la
+Unión Patriótica que murieron a manos de los paramilitares.
+[ENT]
+Este genocidio de la Unión Patriótica ¿es básicamente generado por los
+paramilitares o se da desde antes…?
+[TEST]
+Pues ya está documentado ¿no?, es decir como le digo el paramilitarismo es una
+política de Estado pero los que ejecutaban eso, eso tiene que ver mucho el Estado, eso está
+documentado, eso se
+sabe, las investigaciones en alguna cosa han avanzado, el caso de CONOCIDA 23 está bien
+documentado, o sea como fueron los paramilitares y algunos ex–militares
+que fueron los que atentaron contra ella y también ese día que mataron a
+CONOCIDA 23 mataron al compañero de ella, el compañero de ella era un ex–combatiente
+de las FARC, era un comandante, él era miembro del frente urbano Manuel Cepeda,
+
+entonces digamos que ellos ahí sí mataron dos pájaros de un tiro: a la
+dirigente estudiantil que era CONOCIDA 23 y al comandante de la guerrilla que
+estaban juntos ese día en el parque.
+[ENT]
+Un poco frente a toda esta masacre al movimiento estudiantil y de la Unión
+Patriótica, ¿qué acciones de afrontamiento toma el movimiento político? ¿qué
+acciones genera esto?
+[TEST]
+Bueno, nosotros como ------- ------, digamos el primer momento fue de
+incertidumbre, es decir no saber qué hacer porque bueno parecía que la matanza
+era en otros departamentos, en otros lados y acá como que no nos tocaba, igual
+seguíamos en la lucha digámoslo así, pero llego un momento en el que tuvimos
+que parar y decir ¿qué hacemos? Porque ya la matanza esta cerca acá y empezaron
+las amenazas, a matar gente, entonces se tomó varias medidas.
+Una,
+pues varios compañeros que estaban totalmente ya amenazados, algunos salieron
+de la ciudad, tuvieron que cambiar de municipios, irse a vivir a otros lados
+pues algunos casos ya le mencioné, salir de----- para -----------------o hacer lo que se llama
+el desplazamiento interno, eso en primer lugar y lo que se hizo digamos ya casi
+por instinto de preservación de la vida mucha gente se quedó quieta, es decir
+ya no trabajaban con las comunidades, en las juntas comunales o los sindicatos,
+entonces mucha gente prefirió pues quedarse en casa porque peligraba la vida,
+eso fue lo que más se hizo, entonces la gente se quedó quieta como decimos
+nosotros y algunos, muy pocos, que ya miraban que no había ninguna otra opción
+tuvieron que irse del país, de ellos son muy poquitos que fueron dirigentes de
+la Unión Patriótica, está por ejemplo CONOCIDO 32 que era dirigente
+estudiantil de la Unión Patriótica, él tuvo que salir del país exiliado, todavía está exiliado, el
+vive en Suiza, esta
+CONOCIDO 33
+[ENT]
+¿ CONOCIDO 33?
+[TEST]
+CONOCIDO 33 que también fue de la Unión Patriótica y de la ORGANIZACIÓN SOCIAL 1,
+él también dirigente estudiantil y luego fue dirigente de un sindicato de
+desempleados me acuerdo y pues por su dinámica también fue amenazado y tuvo que
+salir del país y todavía está por fuera, digamos que esos 2 casos son los más
+emblemáticos como de Unión Patriótica porque de otras organizaciones tengo
+entendido que también tuvieron que salir, de las comunidades indígenas, de
+otros sectores también tuvieron que salir y muy pocos casos, sobre todo de
+jóvenes, que no miraban la posibilidad de exiliarse se fueron a defender al
+monte, es decir se enrolaron en filas guerrilleras y bueno todavía hay algunos
+que sobreviven, bueno ahora con la negociación están por ahí pero varios de
+ellos murieron en combate, que eran dirigentes estudiantiles y que también
+
+hacían parte de la Unión Patriótica, de esos está CONOCIDO 34, CONOCIDO 34 era dirigente
+de la ORGANIZACIÓN SOCIAL 1 y de la Unión Patriótica y era inminente su muerte acá
+entonces el decidió irse a la guerrilla y murió en combate, bueno de ellos es
+el más emblemático que murió alla y hay otros que estuvieron allá, son varios
+pero ellos está ya en la vida civil haciendo su trabajo normal ahora acá.
+[ENT]
+¿Se ha recibido algún tipo de reparación por estos casos?
+[TEST]
+Aquí en Nariño en el último periodo hemos sido… a raíz de la conciliación que
+hizo el Estado con la Corte, hay algunas cosas que la Corte le ha obligado al
+Estado, no solo el reconocimiento político con la personería jurídica sino
+algunos compromisos que el Estado asumió, en el gobierno sino estoy mal de
+Cesar Gaviria… de alguno de ellos… y que se han venido respetando en los
+distintos gobiernos, eso sí hay que reconocerlo.
+Uno
+de ellos es que hay que preservar la vida de los sobrevivientes de la Unión
+Patriótica, entonces en eso hay algunos programas de protección de los
+dirigentes, hay varios dirigentes y acá en el departamento tenemos unos casos
+de varios dirigentes de la UP que han sido amenazados, fueron amenazados y
+todavía siguen ejerciendo su labor política que tienen la protección del Estado
+con la UNP ¿es que se llama no? o sea con la Unidad de Protección, entonces
+tienen sus escoltas, escoltas que no son del Estado sino escoltas escogidos por
+el mismo personaje, entonces ahí tenemos creo que tres compañeros que son
+viejos militantes de UP que están ahí, eso hace parte de los acuerdos no tanto
+como reparación sino más bien de preservación; y dos, también hay unos auxilios
+en dinero para otros dirigentes, el Ministerio del Interior da un dinero para
+contratar unos carros, o sea para la movilización de los personales, es decir
+acá tenemos dos personas que el Estado le da un dinero para que pague un
+transporte, un chofer, y pueda desplazarse; y tres, también en el acuerdo está,
+en el desplazamiento de los dirigentes pues por el peligro que existe por
+tierra entonces el Estado da unos tiquetes aéreos, eso la da a la dirección
+nacional de la UP y cuando… pues eso es para eventos nacionales… entonces
+cuando de acá de la región hay que desplazarse entonces el Estado garantiza el
+desplazamiento aéreo, ellos lo pagan.
+Esas
+tres cosas son las así concretas las que hay del compromiso que cumple el
+Estado pero más no… pues el reconocimiento político es la personería pero en el
+momento estamos esperando que la Corte ya decida de fondo porque ya se agotó el
+trámite para que la Corte ya tome una determinación de fondo, entonces en el
+momento que la Corte… estamos seguros que va a declarar lo que paso con la UP
+como un genocidio político por parte del Estado… entonces ahí si entra ya a
+regir otras cosas de reparación, de no repetición, de pedir perdón, todas esas
+cosas pero eso hasta mientras tanto la Corte no decida no lo va a hacer el
+
+Estado pero en la conciliación esas son las cosas y si hemos recibido algún aporte
+allí.
+[ENT]
+¿Existen algunas experiencias de convivencia y paz que la Unión Patriótica haya
+promovido o que sus dirigentes en las regiones estén adelantando con
+organizaciones sociales independientes?
+[TEST]
+No, no lo hemos hecho, no ha sido posible digamos como identificar en concreto
+a los que amenazaron, a los que mataron, y en eso avanzar en un encuentro de
+perdón y todas esas cosas, no, aquí en Nariño no se ha hecho.
+[ENT]
+Bueno, pues muchas gracias, no sé qué se nos quedara, por ahora está [CORTE:
+1:05:39]
+
+

@@ -1,0 +1,563 @@
+453-VI-00022
+TEST: 1074
+ENT: ay no, no, espera, espera, espera que le estaba avisando a ---------- que ya estábamos
+con usted...074712264 y hoy es 23 ¿no?, ay, si, si ¿no? hoy es --- o ¿qué fecha?, ah sí, --- de
+------- del 2019 y acá ----...-------, aquí TEST, bueno y estas otras preguntas, ¿nos autorizas a
+que utilicemos tus datos, los comparemos y verifiquemos con otra información?
+TEST: [DUD:01:02]
+ENT: O sea lo que les contaba ahorita, entonces por ejemplo el señor de ayer bueno me
+contó que había estado en la cárcel, que había sido terrible, por ejemplo me contó que ehh
+adentro
+TEST: O sea la historia, como le fue a uno allá
+ENT: sí es eso
+TEST: ahh
+ENT: si señor...ah bueno otra vez como utilizar esos datos para la elaboración del informe
+final...ay no y si estás de acuerdo en publicar tu nombre en el informe final...a eso también
+puedes responder que no...listo entonces necesito tu firma aquí, ay tome su cédula vea, ya
+me la iba a coger, aquí en ese puntico y en el puntico de allá, ¿tú tienes alguna pregunta
+[DUD:02:03]? entonces ahorita te hago tu entrevista ¿listo?, muchas gracias, buuueno
+entonces ehh listo, bueno entonces sumercé me dijo que se llama -------- ¿no?
+TEST: mjm
+ENT: listo, su cédula ya me la dio, ¿en qué lugar nació sumercé?
+TEST: en [DUD:02:41]
+ENT: ¿aquí en la cabecera o en alguna vereda?
+TEST: aquí
+ENT: ¿sí? ah bueno, entonces acá, listo, ¿usted conoce a ------?
+TEST: no
+ENT: ¿ah no? él lo conoce
+TEST: tampoco
+ENT:¿no?
+TEST: no
+ENT: la persona que los convocó que quedó varado en una "panga", pobrecito ¿sí?, ay se
+quedó varado, pobrecito, bueno ¿te gustan las mujeres?
+TEST: Sí
+ENT: colombiano, sumercé es ¿casado o soltero?
+TEST: [DUD:03:35]
+ENT: ¿cómo?, unión libre
+TEST: unión libre pero no casado
+ENT: Ah bueno entonces unión libre, y ¿por qué se ríe?
+TEST: Me ha casado por la iglesia
+ENT: aja, todavía no, bueno ¿a qué se dedica usted?
+TEST: ahorita mismo a la agricultura
+ENT: agricultura, ¿y donde cultiva sumercé?
+TEST: en -----------.
+
+ENT: ¿eso a cuánto más o menos es de acá?
+TEST: como a do horitas
+ENT: dos horas....listo ¿sumercé trabaja en alguna organización?
+TEST: ahora mismo no
+ENT: líder, nada de eso
+TEST: no
+ENT: ¿y antes si o por qué dice que ahorita mismo que no?
+TEST: no
+ENT: tampoco, listo
+TEST: ¿organización como de qué?
+ENT: social o consejo comunitario, cosas de esas ¿no?
+TEST: como tenemo un año [DUD:04:47]
+ENT: ahh y ¿dónde estabas antes?
+TEST: ante estaba en Panamá
+ENT: ahhh ya, ya, ya, listo bueno entonces, cuénteme ehh ¿cuándo usted empieza a ver
+violencia aquí en ------?
+TEST: bueno eso, nosotros nos fuimos como en el 97, éramos [DU:05:06]
+ENT: ¿cuántos años tenías tú?
+TEST: yo tenía como 5 años
+ENT: uuy si eras un chiquitín
+TEST: si pero lo que uno sabe ehh escucho de sus papas de que
+ENT: claro ¿y con quién te fuiste?
+TEST: con mi mamá y mi [DUD:05:21]
+ENT: ¿solo los dos?
+TEST: y mi hermano
+ENT: bueno pero y antes del 97, ¿recuerdas algo de violencia?
+TEST: sí, que de lo grupo, o sea de los paramilitares que fue la violencia
+ENT: bueno listo, entonces que más te contaron tus papas, bueno ustedes se fueron allá ¿y
+que paso?
+TEST: bueno ahí nosotro llegamo y a lo primero era complicadito, porque era muy duro
+porque llegamo ehh como desplazado pue
+ENT: si
+TEST: refugiado entonce era muy duro, pero gracias a Dios más adelante nos amparó un
+ONPAR (Oficina Nacional para la Atención de Refugiados ) y ACNUR (Alto Comisionado de
+las Naciones Unidas para los Refugiados) esas organizaciones
+ENT: ¿cuáles?
+TEST: ONPAR Y ACNUR, esas lo ayudaron mucho ehh "vicariato" también
+ENT: ¿cuál, cuál?
+TEST: el "vicariato" de la, de las monjas
+ENT: ahh ¿y a qué zona llegaron ustedes?
+TEST: nosotros llegamos a una comunidad de -------, en -------, ------.
+ENT: ¿cómo se llama?
+TEST: --------.
+
+ENT: ¿-------?...¿y eso era una comunidad indígena?
+TEST: ehh mezclan
+ENT: ahh...listo bueno ¿y tus papas que te han contado sobre cómo fue ese desplazamiento?
+TEST: por la, o sea desde que se formó la violencia entraron pues esa, el desplazamiento
+ENT: ¿cuánto tiempo se demoraron más o menos ustedes de aquí a Panamá?
+TEST: mmm
+ENT: ¿cuánto tiempo, meses? no, semanas
+TEST: un poco e tiempo en eso, caminando, llevando hambre y casi como un mes nos
+aguantamo
+ENT: ¿un mes?
+TEST: si por ahí
+ENT: ¿y tú te acuerdas de algo?
+TEST: ehh
+ENT: o apenas o que te han contado
+TEST: si, o sea lo que uno se acuerda así, de lo que los papas le decían a uno, pero más o
+menos si yo sé que uno, éramos mucha familia
+ENT: ahh tú te fuiste con más familias
+TEST: aja
+ENT: ¿como cuántas familias se fueron?
+TEST: éramos...como...como ve, como veinte
+ENT: veinte familias...bueno ¿y cómo fue tu infancia allá entonces?
+TEST: bueno mi infancia nosotros de niño, gracias a Dios estudiamos
+ENT: mjm pudieron, allá en -----.
+TEST: en Panamá si
+ENT: y allá por ejemplo ¿llegaron grupos armados alguna vez o hubo violencia en -----?
+TEST: ehh grupos armados, ehh bueno hasta donde tengo entendido si ehh la única
+violencia que hubo fue que asesinaron [DUD:08:47]
+ENT: en ----- ¿y por qué lo mataron a él?
+TEST: no se
+ENT: ¿no te acuerdas? y más o menos ¿en qué año fue eso?
+TEST: eso fue como en el… ese mismo año
+ENT: ¿ahh si? en el 97...ay no y después de eso ¿cómo fue tu vida allá?
+TEST: bueno mi vida, nosotro crecimo y ehh vivimo muy comunitario con la comunidad,
+estudiamo gracias a Dios, nos portamos muy bien
+ENT: mjm ¿a qué se dedicaron tus papas allá?
+TEST: a la agricultura
+ENT: ahh
+TEST: cultivamos plátano, ñame, yuca, arroz
+ENT: y usted bueno ¿tus hermanos eran más grandes o más pequeños?
+TEST: yo era el niño
+ENT: el más chiquito
+TEST: mi hermana era más mayor
+ENT: ah solo eran dos
+
+TEST: no, eramo, somos 6
+ENT: eran un poco, eran 6 hermanos, ¿y cuántas mujeres o apenas solo hombres?
+TEST: dos mujeres
+ENT: dos mujeres...bueno y allá ¿cómo los trataron por ejemplo ehh los militares
+panameños?
+TEST: la ley muy duro, complicado
+ENT: ¿por qué?
+TEST: [INAUD:10:18 - 10:23] a lo primero era muy difícil, o sea, llegamo pero para poder
+salir de ahí, teníamo que estar con permiso, si no nosotros no podíamos salir, o sea
+salíamos, el permiso era en cuestión de enfermedade, cuando estábamos enfermos
+[INAUD:10:39] esa comunidad a otra comunidad pa ir al hospital
+ENT: ay no ... y si salían algo así y los encontraban los militares ¿los trataban mal?
+TEST: ehh hay unos que eran más jodidos
+ENT: ¿y que les decían?
+TEST: ellos ehh bueno nosotros, gracias a Dios nosotros no tuvimos casi problemas con ello,
+tu llegas nuevo y a lo primero te tratan mal, ya después cuando te van conociendo ya va
+rebajando la, el trato, la gente como va tratando, uno también, como los papas trataban la
+gente, nosotros también aprendimo a tratar la gente
+ENT: claro
+TEST: nos fuimos creciendo ahí en la misma comunidad
+ENT: ¿y la salud como era ahí, en esa comunidad?
+TEST: era, ahí no había salud
+ENT: no había hospital
+TEST: No
+ENT: O sea que ¿cómo hacían? les tocaba salir
+TEST: si entonces teníamo que ya sacar un permiso
+ENT: ¿y cuánto se demoraron en darles ese permiso?
+TEST: tenía que estar así como entre 4 días máximo que le dieran el permiso
+ENT: jumm
+TEST: pero duramos que, casi 19 años pa que le dieran la cédula extranjera
+ENT: o sea, tú tienes cédula panameña
+TEST: mjm nosotro duramos más de 20 años allá...imagínate que yo tengo 27
+ENT: ay claro
+TEST: si ve que 5 año
+ENT: ush claro 22 años duraste allá, bueno y ¿cómo fue?,¿tu esposa es de allá o de acá?
+TEST: no yo
+ENT: bueno compañera
+TEST: es de ahora
+ENT: ahh de ahorita de este año
+TEST: si hace que yo llegue
+ENT: y ¿allá tuviste alguien?
+TEST: no, yo solamente me dedicaba a estudiar
+ENT: ahh ¿y qué estudiaste?
+
+TEST: yo termine el bachillerato
+ENT: mjm
+TEST: pero ehh inicie un curso de enfermería pero no lo termine, no lo pude terminar
+ENT: allá en Panamá, y ¿dónde era el curso? ¿dónde te lo dictaban?
+TEST: eso era ahí mismo en una, teníamos que ir a -----------.
+ENT: ahh, ¿tenías que ir hasta -----------------?, era muy caro
+TEST: si era, el transporte y todo eso
+ENT: O sea que por eso tuviste que desistir del curso, y ¿hasta dónde lo completaste?
+TEST: ¿ah?
+ENT: ¿cuánto te faltó?
+TEST: no, me faltaba bastante
+ENT: ¿sí?
+TEST: ahí yo me dediqué, me fui para la capital a trabajar, yo trabajé en la capital, ya pero ya
+cuando me dieron los papeles, la cédula y eso, ¿cómo se dice?
+ENT: legal
+TEST: eso legal, tuvimo libertad
+ENT: claro
+TEST: maginate es como estar en una comunidad, como 19 años preso, uno sin pode
+moverse, se movía era con permiso y así era muy duro...pero también gracias a Dios, le
+damos gracias a mi padre que lo favorecieron mucho, siempre
+ENT: y entonces, en esa comunidad también habían otras familias colombianas
+TEST: si
+ENT: muchas
+TEST: ahí vivíamo todos, la que fueron de aquí vivían todos
+ENT: ahh todas las que se fueron al principio estaban allá todavía y tus padres ¿dónde
+están?
+TEST: mi papas siguen allá
+ENT: sigue estando en ----TEST: si
+ENT: ¿y tu mamá?
+TEST: también
+ENT: ahh viven juntos los dos todavía
+TEST: si
+ENT: bueno y ¿cómo fue esa decisión de devolverte acá?
+TEST: ahh yo, yo como vi que las cosas ya estaban como buenas acá, pasaban por ahí en las
+noticias, con el proceso de paz
+ENT: ¿ahh si?
+TEST: nosotros nos vinimos de nuevo pa sus tierritas
+ENT: ahh bueno eso te iba a preguntar, ¿ustedes dejaron tierras acá?
+TEST: si
+ENT: ¿en dónde?
+TEST: -------.
+
+ENT: en -----------, ¿cuántas hectáreas más o menos?
+TEST: un poco e tierra ahí...es como
+ENT: acuérdese, acuérdese
+TEST: como 80 hectáreas
+ENT: ahhh un montón
+TEST: sí, un pocotón de tierra
+ENT: ¿y las estas trabajando?
+TEST: bueno ahora mismo si estoy trabajando pero ehh estamos con más familia, o sea
+llegaron unos primos ahí
+ENT: ahh pero tuyos, familia tuya
+TEST: si familia mía... tenemo, es que tenemos dos fincas otra ahí y otra en -------, pero en
+------- sí no hay nadie, ta abandonada
+ENT: ahh en ------- es por -------- y eso
+TEST: no, ------- [DUD:15:40]
+ENT: ahh y ¿por qué?
+TEST: no hay nadie trabajado
+ENT: y ¿por qué?
+TEST: no se…
+ENT: ¿no pueden ir allá?
+TEST: ¿ah?
+ENT: ¿no pueden ir allá o qué?
+TEST: si si normal, pero es que está muy lejos
+ENT: ahh ya... en -------, bueno y entonces bueno usted me dijo que había visto las noticias y
+que lo del Acuerdo de paz y le pareció muy bueno y por eso se vinieron
+TEST: aja
+ENT: aja y bueno ¿ahí que paso?
+TEST: bueno ahora mismo habíamos llegado pero no habíamos tenido tropiezos con nadie
+gracias a Dios
+ENT: ahh bueno
+TEST: ya estamos [DUD:16:16]
+ENT: y sus tierras en ------------ estaban
+TEST: ellas tenían todo, tenían ganao, todo eso, dejo mi papá ganado y todo eso se perdió
+ENT: aaaa ¿y cuándo ustedes llegaron vieron algo?
+TEST: nada
+ENT: había, o no puro monte era ya
+TEST: ahora ya está lleno de otras cosas ahí
+ENT: pero de ustedes
+TEST: no
+ENT: por eso, cuénteme más de eso
+TEST: bueno la tierra, ahora que llegamos ya están los primos pero trabajando, o sea otras
+cosas de, como te digo, cosa de pase legal acá en Colombia, la coca
+ENT: cultivan coca
+TEST: ya no es como potrero
+
+ENT: y antes ehh no pero venga es que yo le tenía una pregunta, cuando ustedes llegan a las
+tierras a ------------ pues así de primeras ¿que ven ahí en sus tierras, había ganado o que
+había?
+TEST: nada
+ENT: había coca
+TEST: [DUD:17:23]
+ENT: ahh bueno y entonces ustedes llegan y que, y ¿les dicen que tienen que seguir
+cultivando la coca?
+TEST: ehh bueno en ese caso
+ENT: no se asuste, esto no va a salir en ninguna parte, o sea tiene que estar tranquilo por eso
+también lo hacemos así como los dos solos, o sea para que tampoco pues.
+TEST: no, bueno, como te digo en ese caso, nosotros como estábamos recién llegados. Pues,
+o sea, también queremos como ahorita, meterle pasto para un ganado pero estamos pasito
+por pasito, o sea paso por paso, como cuando uno llega a un lado, uno no puede decir no
+ENT: voy a quitar todo esto
+TEST: quiten todo esto, no, así no, usted tiene que ir con calma, con la gente también, uno no
+puede meterse así
+ENT: pero ahí si hay grupos armados, ahí si hay paramilitares
+TEST: ehh
+ENT: en -----------.
+TEST: bueno donde tamo nosotros no hay pero usted sabe que no hay que negar que esta
+ENT: lleno de paramilitares
+TEST: pero bueno gracias a Dios no, no es por nada eran [DUD:18:31]
+ENT: ahh bueno
+TEST: menos violencia no es como antes
+ENT: bueno y a ustedes ¿cuánto les dan por cultivar coca, cuánta plata le dan?
+TEST: bueno nosotros en esa cuestión queríamos cobrar bien, pero ahí estamos más o
+menos, ahí lo primo están así, pero más o menos
+ENT: no les pagan tan bien
+TEST: no no tan bien, entonces es como complicado, como pa decir que bueno ehh sálgase
+de la tierra
+ENT: claro, ellos no lo permiten digamos
+TEST: tienen sus cosas aseguradas, no pueden permitir eso, pero ahí vamos, estamos
+trabajando con ellos, nosotros tampoco tenemos problemas con ellos
+ENT: ay no que miedo, porque igual sumercé tiene la idea de tener sus vacas, cultivar otras
+cosas, pero no es posible en este momento
+TEST: ahora mismo no
+ENT: ay que miedo, tiene que tener mucho cuidado...bueno y ----------- es más cerca a la
+frontera o es más hacia acá
+TEST: más hacía acá
+ENT: ahh ya, o sea que ustedes se debieron demorar mucho cruzando esa frontera de
+verdad, ay pobrecita su mamá...bueno y ¿usted encontró acá lo que esperaba después de que
+vio en las noticias lo del acuerdo de paz o te desanimaste?
+
+TEST: bueno este ahora mismo gracias a Dios, nosotro no hemos tenido problema aquí. O
+sea trabajamos normal y no hemos tenido
+ENT: normal
+TEST: normal esa palabra como en para mi es bien
+ENT: aja ¿y tú todavía te hablas con tus padres?
+TEST: si
+ENT: ¿y que, ellos cómo están?
+TEST: ehh… yo le dije, bueno, aquí estamo bien gracias a Dios no hemo tenido problema con
+nadie, entonce ello que quieren venir también porque tenemos mucha familia acá en
+Colombia, también tenemo pa allá pa -------. Tenemo una familia allá Antioquia
+ENT: ahh en Antioquia
+TEST: mi papá y mi mamá, nosotros si somos nacidos de aquí mismo Chocó, pero mi papá
+tiene como 40 años que se fue a viví allá
+ENT: ja un montón o sea que ¿cuántos año tiene tu papá?
+TEST: uff mi papá ya está como en los 70
+ENT: ¿y tu mamá?
+TEST: mi mamá si esta como en 65 por ahí
+ENT: oye bueno y otra pregunta ¿cómo fue vivir en ----------------- o trabajar allá? ¿te
+discriminaron alguna vez por ser colombiano?
+TEST: claro siempre va a ver esa discriminación un poquito
+ENT: ¿y que te decían o que, como hacía?
+TEST: no teniamo lo mismos derechos, o sea los mismos derechos no los teníamos, los
+mismo derechos no
+ENT: ¿y en algún momento les dijeron a ustedes por ejemplo que eran guerrilleros o algo
+así?
+TEST: claro
+ENT: ¿sí?
+TEST: si
+ENT: ¿cuándo? al principio
+TEST: si en el principio eran guerrilleros, pero es como una costumbre siempre es y uno sin
+serlo. O sea campesinos trabajadores
+ENT: jmm
+TEST: pero es bueno yo no, ahora mismo ya la ley a cambiado mucho en ese país y está
+mejor un poquito
+ENT: ¿sí?
+TEST: pero antes era pesado, pesado
+ENT: ¿por qué? ¿por qué? cuente ¿por qué?
+TEST: no porque, o sea, como se dice, no todo el que llega aquí es tal cosa, también dice que
+es traficante
+ENT: ahh también les decían, de droga
+TEST: si
+ENT: ¿y aquí todavía están traficando con mucha droga?
+TEST: ¿en Colombia?
+
+ENT: aquí por -----TEST: no sé.
+ENT: ¿ni idea?
+TEST: eso sí no sé.
+ENT: ¿y con personas?
+TEST: ehhh bueno, nosotros no podemos, de esas cosas sí no
+ENT: ahh bueno si porque por ejemplo yo estuve ayer con una persona de ------- y por allá si,
+un montón, pero como acá es más chiquita la frontera de pronto sí
+TEST: de esas cosas si no, o sea nosotros siempre hemos estado tranquilos, nosotros del
+trabajo a su casa |
+ENT: ay no tiene que tener mucho cuidado
+TEST: si siempre esta portándose bien, no meterse en problemas con nadie
+ENT: todo juicioso
+TEST: ja eso todo me lo dijo mi papá y eso nosotros de niños hemos crecido con eso
+ENT: que bien me alegro, bueno ¿y su esposa? bueno su novia
+TEST: ella está allá en la casa
+ENT: y ella lo conoció a usted aquí
+TEST: aquí si
+ENT: y ella vive en ------------ contigo
+TEST: ahora acá en el pueblo pero también me ayuda [DUD:23:36]
+ENT: ahh ¿y tienes hijos?
+TEST: ehh supuestamente ahora está embarazada
+ENT: ¿sí? ahh bueno, no pero bien
+TEST: [DUD:23:48 - 23:50]
+ENT: ah bueno
+TEST: [DUD:23:51]
+ENT: no ¿por qué?
+TEST: solamente necesitaba trabajar, o sea yo estudié y entre a trabajar
+ENT: o sea que era un duro
+TEST: ¿ahh?
+ENT: era muy duro
+TEST: si
+ENT: bueno y ustedes emm ¿ustedes están como víctimas del conflicto?
+TEST: si ahora mismo si ehh de aquí fuimos como desplazados
+ENT: ah bueno y ¿cuánto dieron su declaración?
+TEST: bueno eso datos nosotros hemos tenido como allá eso lo tomamo demasiado foto,
+dato de todo y entonces yo no sé al final, no sé en qué quedaron
+ENT: ahh o sea no los han indemnizado ni nada
+TEST: no o sea no lo han dado nada, de que nos iban a dar ayuda y no nos dieron nada, usted
+sabe que estaban repartiendo disque un dinero para victimas también
+ENT: aja
+TEST: yo, ellos también nos dijeron allá, a nosotros no nos dieron nada
+ENT: ay no
+
+TEST: hay que ser sincero, no nos dieron nada
+ENT: ay no que tal, bueno y ¿allá todavía hay muchas familias panameñas ehh colombianas
+o apenas tu papas?
+TEST: bueno todavía hay familiares, o sea que son aquí nacidas en ------- y se criaron, tenían
+su finca allá en ------------ por allá pa arriba toda esa gente se fue, toda esa gente tenía su
+ganado, todo eso se perdió
+ENT: oye bueno y en -------, ¿por qué no van? o sea ¿no te gustaría allá o ya te queda muy
+lejos de aquí?
+TEST: ehh muy lejos
+ENT: ¿cómo cuanto queda -------?
+TEST: como 3 horas de ----------- pa allá
+ENT: o sea como a 4 horas de acá
+TEST: aja
+ENT: ¿pero ya has mirado esas tierras, ya saben cómo están o ni idea? no has pasado por
+allá
+TEST: digamos sí, no ese es montaña
+ENT: ¿sí?
+TEST: eso se volvieron montaña
+ENT: juemadre
+TEST: todo eso potrero
+ENT: ¿y tú dónde vivías en ----------- o en -------?
+TEST: en -----------.
+ENT: ahhh okey y esas tierras ¿cuándo las compraron o como fue eso?
+TEST: ese… mi papá hizo un negocio fue con, con el tío de él, pero ya falleció
+ENT: ahh
+TEST: él le compro la mitad el lio y ahí trabajaron, la de allá arriba si el la compró, la de
+------, pero y yo no sé, yo le pregunté como era la cuestión de esas tierras y que si una caja de
+hectáreas
+ENT: eso sí
+TEST: que buscaran esos papeles, él dijo que tenía unos papeles
+ENT: tiene que buscar eso porque imagínese que tal que esa tierra la esté trabajando otra
+persona
+TEST: ahh
+ENT: tiene que buscar eso, no súper bien, bueno y tu como crees, es decir, ¿cómo crees que
+cambió tu vida después de que te tuviste que ir a Panamá?
+TEST: ehh la situación ha cambiado mucho, ya nosotros crecimos allá, tuvimos las mismas
+culturas de allá
+ENT: mjm
+TEST: ehh a cambiado, lo cambió mucho o sea la violencia ya nosotros fuimos combinando
+la con el estudio, ya no pensábamos en que, vive uno asustado, uno niño asustados y
+entonces ya a juga también, uno niño jugando y ya sus estudios y sus trabajos, despué
+cuando ya fuimos jóvenes, ya lo dedicamo a estudiar y a trabajar, ayudarle a los papas de
+uno, a echa pa lante poque pa iniciamos de cero
+
+ENT: claro allá que
+TEST: yo tenía esta mesa aquí y usted ise pa allá y usted no tenía es nada de lo que tenía,
+mesa, no tenía la mesa, nada
+ENT: debió ser muy duro y ¿acá ustedes dejaron familia, acá en ------?
+TEST: en ------- si no dejamos
+ENT: o sea ustedes se fueron todos, ahh bueno menos mal
+TEST: gracias a Dios
+ENT: no que duro, bueno y tú ahorita ¿cómo te sientes respecto a eso, eres feliz? o digamos
+te hubiera gustado más haber vivido acá en tu infancia.
+TEST: si uno le, esa era la idea que uno viviera en su país, a nadie le gusta salir de su país así
+no
+ENT: jmm bueno mmm ¿tienes alguna enfermedad tú, ahorita?
+TEST: no ahorita no
+ENT: ¿tus papás? se enfermaron de algo después del desplazamiento
+TEST: mi mamá si vivió enferma
+ENT: ¿qué tiene ella?
+TEST: ella tiene o sea desde que la operaron la última vez que me vine pa acá, la habían
+operado disque del "quidroma" todavía dice que no se ha determinado a ciencia cierta
+ENT: ha estado muy enfermita, que mal, pero la han atendido allá ¿o qué?
+TEST: si la han atendido allá
+ENT: oye y bueno cuando tú ya te dan tu cédula pues ya hacer lo que quieras, o sea trabajar
+TEST: o sea ya cuando uno [INAUD:29:11] aquí en este sitio encerrado, o sea tienes libertad
+ENT: o sea antes era muy difícil salir del país
+TEST: si era difícil salir [DUD: 29:24] difícil salí de aquí y era muy duro
+ENT: uy
+TEST: con permiso o sea uno cada tiene que este pedir permiso
+ENT: ¿y los permisos se le pedían a quien, a ORGANIZACIÓN PÚBLICA 1?
+TEST: ehh a ONPAR
+ENT: ahh
+TEST: se le pedía ese permiso a ONPAR, ONPAR te daba la orden ehh daban papel entonces
+ya uno le mostraba eso papele a la guardia militar o sea a lo policías y entonces ellos decían
+bueno tiene permiso por tal día y si se le vencía el permiso ya tenía problema con ello
+ENT: Ay no
+TEST: Eso era duro
+ENT: Dios mío, ¿y tú, ustedes no escucharon casos como de que los militares hicieran cosas
+malas a los colombianos o algo así?
+TEST: si hubo maltrato, allá gente que camina, la golpeaban con cualquier cosa, le decían
+noo usted tal fulano, bueno y ese roce, pero tenía que aguantársela
+ENT: claro si no paila pues porque acá no había manera de volver
+TEST: aja era muy difícil
+ENT: y tú ehh bueno como era como tu relación o sea me parece muy raro que no hubieses
+estado con ninguna chica, ¿no te sentías triste?
+TEST: ahh
+
+ENT: por no haber podido relacionarte con nadie
+TEST: uno si tuvo sus noviecitas pero o sea que ajuntarse no
+ENT: ahh bueno nada serio pues digamos, ahh bueno, yo si dije pobrecito como así, bueno
+señor TEST.
+TEST: los otros pelaos a toda muchacha la enamoraban, muy bonitas
+ENT: ¿sí?
+TEST: demasiado
+ENT: indígena
+TEST: sí
+ENT: ahh
+TEST: pero ella no son como estas de aquí
+ENT: ¿no?
+TEST: nnn
+ENT: son diferentes
+TEST: son blanquitas
+ENT: ¿ah si?
+TEST: y todas son, como te digo, no son muy altas pero son hermosas, de cara, de todo
+ENT: bueno TEST, hemos terminado y ¿ustedes donde se van a quedar?
+TEST: bueno nosotros, yo aquí vivo ahora mismo ehh
+ENT: a con tu novia
+TEST: aja pero pagamos arriendo ahora mismo
+ENT: ah bueno bueno, y ¿cuánto les costó a ustedes el transporte de ----------- acá?
+TEST: nos cuesta, cobran 20 mil
+ENT: nada más la ida, a penas la ida
+TEST: la ida no más y la venida otros 20
+ENT: y el ¿tú sabes?, de ----------TEST: si ----------ENT: pero él no es familiar tuyo ¿o sí?
+TEST: él es, un hermano mío está casada con una hija de él
+ENT: ahh
+TEST: casi somos la misma familia
+ENT: ¿qué relación tendrán ahí?
+TEST: vinimos del mismo, de la misma comunidad
+ENT: ahh bueno, ahh listo perfecto, entonces mañana igual cuadramos eso, de los
+transportes de ustedes y pues la alimentación y todo lo que se hayan gastado pues
+TEST: bueno una
+ENT: dime
+TEST: como el señor ese que, a entonces como es la cuestión de la tierra así que si le, o sea
+por el desplazamiento será que él no la ayuda a terminar
+ENT: claro
+TEST: porque no nos ha llegado más
+
+ENT: claro ustedes pero es que necesito saber ustedes los, ustedes ya están en el registro
+único de víctimas, ya testificaron
+TEST: de aquí de Colombia no, o sea eso fue
+ENT: ahh lo hicieron en Panamá
+TEST: eso aja en Panamá, todos esos datos están allá en Panamá, de víctimas, allá fueron
+también de víctimas, tomaron entrevista a mi mamá pero acá si, acá nosotros llegamos y
+[DUD:33:09]
+ENT: bueno si quieres yo puedo averiguar eso pero lo podría averiguar por ahí la otra
+semana, que yo voy a Bogotá
+TEST: ahh
+ENT: porque ehh su… su, su testimonio ya debe estar en la unidad, ¿cuándo testificaron
+ustedes, en qué año?
+TEST: hace como.. de victima ya hace como 2 años atrás, allá en Panamá, decían que lo iban
+a da un dinero por esas tierras, que pero esa plata estaba en Colombia, que la tenían como
+congelada ahí y entonce decían que esa plata estaba congelada allá, que cuando nosotros
+viniéramos
+ENT: la reclamaban
+TEST: aja nosotros reclamábamos y otros decían que esa plata ya la habían mandao
+ENT: ay no
+TEST: pa sele sincero esa gente nos robó mucho a nosotros
+ENT: ay no, no diga eso ojala que no
+TEST: dizque de Colombia nos mandaban, mucha salude de po allá y no llegaba nada
+ENT: ay no
+TEST: eso si hay que se sincero
+ENT: a ustedes no les llego nada, absolutamente o sea prácticamente el gobierno
+colombiano nunca hizo nada por ustedes
+TEST: o sea sí hacía
+ENT: siempre fue el ACNUR y todos ellos
+TEST: pero ello eran los únicos que lo apoyaban un poquito, o sea no lo apoyaban que con
+dinero y esas cosas, no, nos apoyaban por ejemplo ello lo apoyaban con, al inicio, cuando
+estábamos con el permiso, era con la salida o sea que ello lo apoyaban con el transporte
+ENT: si
+TEST: y daban algo de dinero para pa pagar un [DUD:34:52], eso era lo único, pero así que
+por victimas a nosotros no nos dieron plata, ¿cuándo? yo soy sincero, ni al papá de nosotros,
+nada
+ENT: no claro ustedes tienes que, o sea tendrían que haberlos indemnizado
+TEST: aja eso es lo que dicen. Acá nosotros vinimos por los desplazados que estaban
+pagando, o sea que por el desplazamiento le daban plata a uno, a nosotros nos llegaba aquí
+que
+ENT: nada, bueno no listo, yo puedo, si quiere, no sé si quiera regalarme
+
+

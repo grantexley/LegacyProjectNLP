@@ -1,0 +1,715 @@
+TEST: [INAD:00:01-00:02]
+ENT: Listo, ya estoy grabando para que, para que sepas, entonces como te decía con lo
+primerísimo que vamos hacer es que te voy hacer unas preguntas, sobre el para para el tu
+consentimiento de que vamos hacer con la información, eh lo primero es que me digas tu
+nombre, tu nombre completo.
+TEST: Bueno mi nombre completo es -------- [INAD:00:31-00:41]
+ENT: Vale, el número de tu documento, tu documento de identidad.
+TEST: [INAD:00:50-00:51] cédula.
+ENT: Sí eh, ojalá, o el del pasaporte el que tu prefieras.
+TEST: Mi número de cédula es -------- [INAD:01:00-01:03]
+ENT: Vale, la falta de costumbre, de usarla.
+TEST: -------... dame un segundo.
+ENT: No te preocupes.
+TEST: [INAD:01:16-01:18] ya -------- [INAD:01:24] -----------, Nariño.
+ENT: ---------- ¿--- -----?
+TEST: --------.
+ENT: --- --- --- -----, listo, entonces lo primero que te voy a preguntas es si tu estás de
+acuerdo con que hagamos esta entrevista.
+TEST: [INAD:01:45-01:47] por el aclaramiento de [INAD:01:48-01:50] del sistema, conflicto
+armado [INAD:01:54-01-01:57] comunidad [DUD:01:58], sí.
+ENT: Listo, ¿estás de acuerdo con que yo grabe el audio, de esta entrevista?
+TEST: Sí estoy de acuerdo.
+ENT: ¿Y estás de acuerdo con que la información que tú me compartas en esta entrevista
+pueda ser utilizada en el informe final que debe hacer ORGANIZACIÓN PÚBLICA 1?
+TEST: Sí estoy de acuerdo, me interesa aclarar las cosas.
+ENT: Ahora vamos a preguntarte sobre el tipo de información que podemos utilizar sobre ti,
+entonces nosotras partimos de que hay información que son tus datos personales, tú puedes
+decidir si quieres que aparezcan o no, tus datos personales pueden ser em... tu nombre, eh el
+lugar donde tu vives y demás, y hay otra información que ya es más general que es por
+ejemplo, tu pertenencia étnica y demás que esos se llaman los datos sensibles, ¿entonces tu
+autorizarías?
+TEST: [INAD: 02:54-02:55] no, no, no me interesa [INAD: 02:57:02:59]
+ENT: Listo, entonces vamos a poner.
+TEST: [INAD:03:03-03:05] amenaza de los otros pueblos que [DUD:03:08] el país después
+viviendo en el extranjero, ahora me encuentro viviendo en México.
+ENT: Vale, pero entonces la idea sería poder decirte ¿si estás de acuerdo con o nos
+autorizarías para que la información de tus datos personales sean analizados comparados y
+contrastados con otros con otra información que pueda haber sobre ti en otras entidades o
+en otros lugares?
+TEST: [INAD:03:37-03-03:39] no aparezco en otros lugares pero... en un lugar en el de
+víctimas si aparezco entonces, eh.
+ENT: Puedes decir que si [INTERRUP]
+TEST: [INAD:03:48]
+
+ENT: [CONT] e [INTERRUP]
+TEST: [INAD:03:50-03:53]
+ENT: [CONT] exacto.
+TEST: [INAD:03:54-03:57]
+ENT: Listo entonces ¿la respuesta sería si?
+TEST: Sí.
+ENT: Y… y en el caso de tu información sensible, o sea por ejemplo pues es como lo que uno
+llena en un listado de asistencia que si soy víctima, si... pertenezco al Pueblo Rrom y demás,
+¿estarías dispuesto a que a que… a que lo comparemos lo analizamos y contrastemos?
+TEST: Sí, [INAD:04:23-04:04:25] de Colombia la comunidad, ahora por [DUD:04:28] pero
+mis ancestros este, mejor dicho [INAD:04:32-04:04:46]
+ENT: Perfecto, eh ¿estarías dispuesto a que utilicemos tu información, eh de datos sensibles
+y personales para eh la elaboración del informe?
+TEST: Sí mi nombre y también mi número de cédula [INAD:05:02-05:04]
+ENT: Listo y la última pregunta es si quieres que tu nombre aparezca en el informe final,
+puedes decir que sí o que prefieres que no aparezca.
+TEST: Pues si voy a dar un testimonio [INAD:05:15-05:21]
+ENT: ¿O sea si puede aparecer tu nombre así tal cual? ¿o preferirías que utilizáramos tu
+nombre identitario? porque la otra posibilidad es que en vez de que parezca como TEST
+puedes aparecer como [Nombre identitario de TEST].
+TEST: Bueno en mi [INAD: 05:35-05:43] mi nombre es ------ y ante la sociedad, colombiana
+pues mi nombre es TEST [DUD:05:48]
+ENT: Dale como el que tu prefieras que utilicemos ese es el que utilizaríamos, el que
+[INAD:05:57]
+TEST: [INAD:05:57-05:58] TEST como me conocen internacionalmente.
+ENT: Dale perfecto, mil gracias, ya con eso terminamos la parte así como de, de la
+[INAD:06:08-06:09].
+Entonces ahora si empezamos ya, [DUD:06:15] de pronto que me cuentes un poco, quien
+eres tú, cual ha sido todo el proceso que tú has llevado dentro de Pueblo Rrom.
+TEST: Mi nombre es ------ [DUD:06:26] pertenezco al grupo [DUD:06:28] eh siempre he sido
+representante de mi comunidad a nivel de, de compañas y… y a nivel de iglesias también
+porque ahora se estaba, actualizando un movimiento evangélico nacional e internacional en
+el… en el Pueblo Rrom de Colombia, como te dije este, gran fuerte de nuestra historia
+[INAD:06:49] acompaña y el acercamiento de nuevo campamento siempre fue en el
+[INAD:06:53-07:11] durante muchos años con el departamento de Nariño también, mi niñez
+la pasé, entre Nariño y el Valle del Cauca, estuvimos en comunidades con, ---------, ----------,
+pues nuestra vida itinerario, pertenecimos durante mucho tiempo a las compañas de --------y de --------.
+ENT: Sí. [audio: Mm mm] y después de esa compaña ¿por dónde itinerabas, que como cómo
+era la vida digamos en, en el Valle del Cauca?
+TEST: Bueno nuestra [DUD: 07:42-07:43] Valle del Cauca fue siempre movido por el
+comercio, fuimos una itinerancia este, vendíamos caballo, monturas, pailas de cobre, eh las
+mujeres gitanas siempre con su lectura de [INAD:07:57] y eso [INAD:07:58-08:11] 5 6 años
+
+que [DUD:08:12] trabajando, otro trabajo importante que se detectó de parte de nuestra
+comunidad fue para los [DUD:08:21].
+ENT: Sí. [audio: Mm mm]
+TEST: ORGANIZACIÓN PRIVADA 1, ORGANIZACIÓN PRIVADA 2, otro ingenio que colinda
+entre, entre... -------- y -------- también con ellos este, reparábamos lo que eran los sistemas
+hidráulicos, y también este, el tema del trabajo del bronce ¿no?, el cobre, todas esas
+[DUD:08:44-08:54] mucho tiempo y entonces [DUD:08:57-09:11] estábamos en --------, en
+--------, en --------, en... en -------- pues la itinerancia [DUD:09:22] nos llevaba a… a vivir y a
+sobrevivir de esta manera con el comercial.
+ENT: Te quería preguntar tú tuviste un rol muy importante, como en el proceso de
+reconocimiento del pueblo gitano, en el país también en el continente, entonces ¿cómo fue
+ese proceso?
+TEST: Bueno el proceso [INAD:09:43-09:45] este nosotros estábamos [DUD:09:48-09:49]
+unas 18 carpas en el Barrio --------------- en ----------, Nariño por donde está el, el estadio de
+futbol, este muchas familias conocen las [DUD:10:00] mis abuelos, mis tíos, la familia
+[DUD:10:03] está muy ilusionada, con nuestra familia porque, un tío mío se casó con, con
+una de… de las familias de… de… de [DUD:10:15] con la señora [DUD:10:16-10:21] y… y en
+el 1.999 [DUD:10:26-10:27] en el noticiero Caracol, una inclusión social que era permitido,
+porque siempre estábamos socialmente excluidos, no formábamos parte del, de los grupos
+étnicos de Colombia entonces se aprobó, por el gobierno [INAD:10:48] fueron, las primeras
+los primeros pasos, pues yo participé ese año, en ------, pero el que está más empapado de
+como fue el proceso de ese año es CONOCIDO 1, un sociólogo, antropólogo, de -------.
+ENT: Sí. [audio: Mm mm]
+TEST: Entonces este convenio de [INAD: 11:11-11:11:13] de nuestro pueblo, [DUD:11:1611:25] hacía algo por los gitanos, entonces el pequeño grupo que estaba ahí le dijo: ¨no
+sabemos y no nos interesa porque no sabían¨, entonces se hizo amigo con ellos y les dijo que
+pues que él era un buen sociólogo y, eso lo encaminó con que visitara a [INAD:11:4411:45]
+ENT: Sí. [audio: Mm mm] [DUD:11:47-11:48]
+TEST: [INAD:11:48] teníamos una estudiante de leyes que es este, de [DUD:11:53]
+[------------------- en la INSTITUCIÓN EDUCATIVA 1 ella estaba estudiando leyes, como tenía
+[INAD:12:01] entonces él le dijo que ¨¿qué tenía que ver el [12:05] con nuestro pueblo?¨
+entonces el empieza el pro ce so, son los... los primeros pasos que se dieron aparte teníamos
+a la… a CONOCIDA 2, dados que estaba trabajando en, en ------- y ella era una mujer
+bachillerata ella había alcanzado sus estudios y tenía un empleo creo que era en el tema en
+el municipio [INAD:12:29-12:31]
+ENT: Sí. [audio: Mm mm]
+TEST: [INAD: 12:32-12:35] don CONOCIDO 1 [INAD: 12:39-12:41] empezó el proceso
+administrativo de [INAD: 12:43] Colombia, actualmente reconocido como [DUD:12:47].
+ENT: Sí. [audio: Mm mm]
+TEST: Que continuo como yo estaba en co-fronteras de Ecuador y Colombia, vivía en ------, y
+[INAD:12:59] meses, del año 2.000 CONOCIDO 1 visitó el campamento de compaña de -----y habló conmigo me… me explicó todo el convenio y empezamos el segundo proceso, se
+
+empezó con el proceso de ORGANIZACIÓN SOCIAL 1, con un reconocimiento como
+asociación, no aprobado por… por el gobierno pero teníamos un exceso que existía la
+[DUD:13:34] la organización de pueblos indígenas en Ecuador mismo [DUD:13:38-13:39] y
+algunas agencias de derechos humanos, entonces sí se formó de continuo el mismo año en
+que yo me equivoco, por si fue en el 2.001, con el fallecimiento de CONOCIDA 3 en el palacio
+de Nariño, en una entrevista con el presidente de ese año falleció uno de los [DUD:14:01]
+religiosos.
+ENT: Sí. [audio: Mm mm]
+TEST: En base a eso ya se forman la tercera organización que es ORGANIZACIÓN SOCIAL 2,
+creo que la conoces también.
+ENT: Sí, sí.
+TEST: Entonces el enlace fue [DUD:14:15] eh a pasos pequeños hasta que el gobierno
+colombiano nos reconoció como una, una parte de Colombia y [DUD:14:25-14:26]
+constitución colombiana que somos parte y reconocidos por el gobierno de Colombia pero
+entonces ahí también en ese tiempo el Estado, nos reconocieron como parte de la nación
+colombiana.
+ENT: ¿Tú cómo llegaste a… a vivir a Ecuador?
+TEST: Bueno el tema de Ecuador, en vez de Latino América nosotros siempre hemos viajado
+los tiempo, de los años 85, viajamos desde, -------- a ----------, habían [INAD:15:01] 15
+familias que viajamos [INAD:15:04-15:07] a ---------- en un pueblo que se llama ---------.
+ENT: Sí. [audio: Mm mm]
+TEST: Otras 12 familias llegaron de... creo que era de ---------, [DUD:15:21] CONOCIDA 4, su
+esposo, y mis primos lo hermanos de CONOCIDA 4 de la familia de Antioquia, y… y Bolívar y
+Sucre habían un acercamiento ahí toda la vida vivieron en, en esas partes lo que es ----------,
+[DUD: 15:37], ---------, ---------, -------------, trayectorias antiguas de nuestro pueblo desde los
+años 30 35, cuando lo de Jorge Eliecer Gaitán, si no me equivoco, entonces siempre fue
+itinerante, el primer hallazgo o sea la primera [DUD:16:00] cuando sonó el… la… las sirenas
+de los bomberos en --------, siempre nos daban al [DUD:16:08] del medio día que era hora de
+almuerzo, si había ahogado o un incendio pero la sirena de los bomberos permanecía una
+sola resto como por 15 20 minutos y eso movió… movió… mucho al… al pueblito.
+ENT: Sí. [audio: Mm mm]
+TEST: No sabíamos que era, en un lapso de unos 45 minutos a 1 hora eh -------- estaba
+rodeado por el ejército, no sé si [DUD:16:36-16:37] o no, esa misma noche vinieron y
+rodearon nuestro campamento de hermanos que nos hicieron salir de las carpas e en el
+centro del campamento, hombres mujeres, mi abuelita estaba viva, mi abuelita [DUD:16:51]
+con más de 100 años.
+ENT: Sí. [audio: Mm mm]
+TEST: Lo que es la parte de los [DUD:16:57-16:58] -------------- en todo en frente del
+[DUD:17:00] de bomberos, y dijeron que éramos camboyeros [DUD:17:04-17:05] a las
+carpas que [INAD:17:07]
+ENT: Mm...
+TEST: [INAD:17:12-17:13] los primeros que nos confundían era el ejército, esa noche duro
+este tema con… con el… con el general y los capitanes de [DUD:17:24] y les explicamos, el
+
+arte el oficio y todo eso pero ellos dijeron que, ¨que [DUD:17:30] de 24 horas teníamos que
+tumbar el campamento y desplazarnos de él¨ porque estábamos en medio de un conflicto y
+en verdad en algunos minutos, había un enfrentamiento no sé si fue en el [DUD:17:43] o en
+[DUD:17:44] o en [DUD:17:45] rica.
+ENT: Sí. [audio: Mm mm]
+TEST: Y pues, en los [DUD:17:49] de -------- que conocía había una empresa eléctrica antigua
+ahí cerca del parque -------- de --------------- y nos ayudaron a quedarnos ahí en esta casa fue
+él el primer encuentro desagradable en el marco del [DUD:18:04] conflicto armado.
+ENT: ¿Qué año fue eso más o menos?
+TEST: Eso fue en el… en el 86.
+ENT: Sí. [audio: Mm mm]
+TEST: Quedamos como una semana en ese en ese casa y este pues si [DUD: 18:23-18:25]
+que nos estuvieron quietos para ver que es lo que estaba pasando porque no, no se entendía
+que… que es lo que pedía los de… de… de ese tiempo, creo que eran los del M-19 [INC:
+Movimiento 19 de abril] [INAD:18:38]
+ENT: Sí. [audio: Mm mm]
+TEST: Pero directamente no fue el enfrentamiento con ellos aunque algunos de ellos sí… sí
+me permitieron que no nos quedáramos entre… entre… entre ellos y el ejército que mejor
+nos retiráramos, fue ahí que fuimos a parar, a -------- frente de lo que es territorio bombero
+en este tiempo existía [DUD:19:05] y hermanos un campamento, automáticamente
+alrededor de unas 50 familias, como 7 [DUD:19:41] 170 personas nos establecimos en ------.
+ENT: Mm...
+TEST: Ya, eso fue en el 86, después de 8 9 meses, de estar viviendo en el sur de -------- nos
+desplazamos otra vez a Colombia hermanos [DUD:19:34-19:35] de los bomberos, y fuimos a
+parar a --------.
+ENT: Sí. [audio: Mm mm]
+TEST: En Pereira, en ------------- había un acercamiento alrededor de unas 200 o 300
+personas gitanas que vivían ahí en -------------, en ese tiempo que estuvimos [DUD:19:55] en
+-------- ya, siguieron los conflictos en el país salió una guerra interna que nosotros no
+teníamos nada que ver, no podíamos salir a vender.
+ENT: Sí. [audio: Mm mm]
+TEST: Ene se tiempo yo estaba comerciando con unas [DUD: 20:13] y, unos primos míos
+vivían en ---------- en Caquetá, estaban comerciando con bestias, con caballos, justo en el 87
+nos llegó la noticia, de que hubo una tragedia mataron a 2 primos míos ahí en ---------- en
+frente de mi mamá.
+ENT: ¿En el 87?
+TEST: 87 yo creo que fue eso.
+ENT: Sí. [audio: Mm mm]
+TEST: Eso fue en ------------------ un encuentro de del ejército con, con los del grupo
+subversivo que estaba en ese tiempo, el grupo armado.
+ENT: Sí. [audio: Mm mm]
+TEST: Salieron, los bomberos los gitanos que tengo yo conocimiento afectado por este
+conflicto armado.
+
+ENT: ¿Y sabes por qué los mataron?
+TEST: Pues estuvieron en medio de… de los enfrentamientos, estaban en el [DUD:21:06]
+ninguno entendía y como hubo más voceras pues los otros le dieron a los 2.
+ENT: Sí. [audio: Mm mm]
+TEST: Las primeras experiencias, otros primos no sé si fueron [DUD:21:19] --------------,
+también les quitaron todo su cargamento, entonces ¿qué pasa? en algunos lugares si
+teníamos acceso a vender nuestra merca [DUD:21:34] los [DUD:21:35] ni los compraban,
+depende de los grupos, o sea depende los líderes, que tenía su plan de acción pues no tengo
+[DUD:21:43] de ellos pero no nos involucraron porque sabían que éramos gente de -----[DUD:21:49] el gitano nunca estuvo metido en políticas ni en guerras, y en parte sabía gente
+que no tenía conocimiento que esos gitanos les quitaban los materiales, los amenazaban, los
+desplazaban de un lado a otro, ahora ¿en qué nos afectó?, y nos afecta hasta el día de hoy,
+este marco del conflicto armado, en primero lugar, nos obligaron a salir, de las carpas a vivir
+en casas, ahora una presión [DUD:22:21] de tener todo el tiempo la puerta cerrada, las
+ventas, salir a comerciar ya no podíamos, salir a vender tocó vender carros, tocó vender
+joyas, tocó vender, lo poco que se tenía o lo mucho [DUD:22:33-22:37] y nuestra vida
+itinerante se basaba en la subsistencia del comercio, el comercio se redujo a a buscar la liga
+para vender una montura un apero, entonces muchas veces también de, tuvimos que vender
+joyas tanto en ---------, que en ------------- también fue [DUD:23:01-23:02] empezar a vender
+para sobrevivir, en estos tiempos entre el 86 y el 87 hubo un desplazamiento, hacia Ecuador
+hacia Venezuela, algunos aquí a México y hoy por hoy [DUD:23:16-23:17]
+ENT: Sí. [audio: Mm mm] ¿y por qué decidió irse?
+TEST: Pues tuvimos que migrar del país por unos que [DUD: 23:25] desplazamiento nos dio
+muy duro, en si nosotros somos itinerantes pero libres, aquí nos hicieron desplazarnos
+inevitablemente.
+ENT: Sí. [audio: Mm mm]
+TEST: Entonces en este marco del conflicto armado, nos preguntaste ¨¿en qué nos afectaba?
+¨, pues moralmente nos afectó, económicamente nos dejó [DUD:23:46], nosotros sin
+recursos, todo este proceso desde que empezó el conflicto armado más los casos que habían
+en, ---------, los [DUD:23:57] de… de… de nuestros famoso Pablo Escobar, eso también afectó
+mucho a… a Colombia a los gitanos en ---------, en -------------, se migraba mucho pasa
+[INTERRUP]
+ENT: Y a ti personalmente, no dime, dime. Sigue, sigue [INTERRUP]
+TEST: [CONT] ¿perdón?
+ENT: [CONT] sigue.
+TEST: Entonces, nos afectó mucho cuando [DUD:24:19] ya no teníamos que comerciar un 40
+por ciento bajaba, o 60 más bien, entonces a la mayoría nos obligaron a salir, a a rebuscar
+espere, a rebuscar la vida en otros países como es en Ecuador Venezuela o Estados Unidos o
+México.
+ENT: Sí. [audio: Mm mm], te iba a preguntar ¿y ustedes por ejemplo a emigrar siguen en
+contacto con, con las familia que tienen acá en Colombia?, ¿o ese contacto se ha perdido?
+TEST: No nunca se pierde, es más, nosotros durante muchos siglos, hemos estado al margen
+de muchas cosas, sumergidos en… en la invisibilidad de gente de los de las comunidades
+
+mayo mayoritarias pero siempre alguna comunicación.
+ENT: Sí. [audio: Mm mm]
+TEST: Se hacía el [DUD:25:08] importante llamadas de teléfono y preguntando las
+[DUD:25:12], no se perdió, los rasgos familiares siempre ha habido comunicación, pues
+teníamos las telegramas de Telecom, cuando era [DUD:25:25], y cuando los accesos eran
+imposibles de mandar telegramas, si estábamos por decir en, en --------- y Caquetá y
+queríamos llamar a ----- o a --------, se iba a la policía o al centro de bomberos, y [DUD:25:41]
+hacíamos [DUD:25:43] gitanos y hablábamos con ellos siempre fue así.
+ENT: ¿Y los policías y los bomberos sabían que ustedes eran gitanos?
+TEST: Sí porque se decía en el campamento gitano por cuestión de, de [DUD:25:55] ----------,
+[DUD:25:57] los gitanos detales mandan a los gitanos de tal de -------- o de ----------.
+ENT: ¿Y cómo era la relación con la con por ejemplo eso, con la policía?, ¿era una relación
+bonita o era una relación en la que usted se sentía que igual tenían como que cuidarse de…
+de [INAD:26:13]?
+TEST: Como te expliqué desde un comienzo, cuando los campamentos existían, la
+[DUD:26:18-26:20] venían a ver como almorzábamos, desayunábamos, las enamoradas
+venían para hacerse secretos de amor, algunas pa la buena suerte pal romance, les gustaba
+mucho los vestidos floreados que usaban las mujeres, o las danzas, la música, siempre había
+ese, ese atractivo a lo extraño lo místico que es el pueblo gitano.
+ENT: Sí. [audio: Mm mm]
+TEST: Y [DUD:26:44] las autoridades [DUD:26:46] hasta cierto tiempo como te digo, hasta
+los años 80 y pico 86 fuimos libres.
+ENT: ¿Y después qué pasó?
+TEST: Ahí empezaron las… las de [DUD:26:59]
+ENT: Y ahí tuvieron por ejemplo que cambiarse ustedes a casas, ¿o o qué implicó digamos el
+cambio que tú empezaste a ver?
+TEST: Pues ya no podíamos viajar en los camiones y armar toldo en cualquier lugar, era
+peligroso, entonces obligatoriamente teníamos que tener una casa y [DUD:27:22] nosotros,
+a ayudar al negocio, tanto hombres como mujeres así las mujeres leía la mano, vendía un
+llavero o vendía, el hombre vendía sus monturas, su rejo, había negocio de bestias que
+llevábamos en camiones ya eso otro [DUD:27:40] sino las fabricaciones [DUD:27:43-27:44]
+con los sistemas hidráulicos [DUD:27:47] pues la sociedad no… no… no se vende más
+gitanos ya, pasó tiempo es tiempo y ahora tú dices gitano bien pueda gitano gitanos de
+España no [DUD:27:57]
+ENT: Sí. [audio: Mm mm], ¿o sea tú piensas que el Pueblo Rrom se volvió menos visible,
+después de que tú te viniste a vivir acá?
+TEST: Sí nos [DUD:28:05] en una [DUD:28:06] pues, tremenda [DUD:28:09]
+ENT: Y en el [INTERRUP]
+TEST: [DUD:28:13] comienzos esto no fue solamente un daño colateral sino emocional,
+económico, y representativo empezar otra vez después de tanto tiempo de persecución,
+volver otra vez al mismo tiempo [DUD:28:27-28:29] y escondidos de nuevo, imagínate, mi
+intención es esta si tu haces preguntas sobre las diferentes [DUD:28:38-29:39] cosas
+diferentes distintas.
+
+ENT: ¿Por qué?
+TEST: Y todo al margen del marco este del conflicto armado, historias ilesas porque
+depende de los, de los departamentos y las situaciones donde nos tocaron.
+ENT: Sí. [audio: Mm mm]
+TEST: Ahora, siempre fuimos personas de más [DUD:28:58] nunca le importó, la guerra la
+violencia, nos sumergimos a un mundo entero [INAD:29:05] y no hicimos las denuncias
+adecuadas porque [DUD:29:08] a represalias.
+ENT: ¿Y cómo hacían para mantenerse al margen de todo el conflicto?
+TEST: [DUD:29:17] el problema es este que siempre fuimos invisibles y no [DUD:29:2129:22] eventos electorales, temas políticos, eh en algunas reuniones a veces habían
+reuniones de alcaldes o de grupos, han intentado llevarse algunas personas y tratar de
+conformar [DUD:29:37] pero nosotros siempre estuvimos al margen, sobreprotegiendo
+nuestras familias, lo que estamos haciendo desde… desde épocas coloniales.
+ENT: Sí. [audio: Mm mm] ¿cómo es esa relación, de… de lo que [INTERRUP]
+TEST: En algunos casos, perdón que te interrumpa.
+ENT: [CONT] sigue, sigue.
+TEST: Hubieron casos, muchas veces donde nos tocó llegar [DUD:29:56-29:57]
+ENT: ¿Como por qué tenían que negar que eran gitanos?
+TEST: Para [DUD: 30:01] y tener [DUD: 30:02] con nadie.
+ENT: ¿Y por qué crees que podía haber contrariedad por eso?
+TEST: Por decir yo le rentaba una casa me decían [DUD:30:10] sus campamentos, o
+pensaban que los que no éramos [DUD:30:14-30:15] alguna brujería o atraer algo malo.
+ENT: Sí. [audio: Mm mm]
+TEST: ¡Supersticiones! ya sabes.
+ENT: ¿Y tú crees que en Colombia por ejemplo discriminaban a… a… a los a los gitanos?
+TEST: Sí hubieron tiempos de discriminación.
+ENT: ¿Y en relación con el conflicto?
+TEST: No te entendí.
+ENT: ¿Crees que los actores armados, eh también tenían discriminaban o o digamos o
+hacían cosas diferentes, contra los gitanos por el hecho de ser gitanos?
+TEST: Pues [DUD:30:49] redención de los [DUD:30:50] que estaba bajo las mismas
+costumbres porque la gitana es bruja, se va a comer al niño.
+ENT: Sí. [audio: Mm mm]
+TEST: O debió ser algún grupo de ellos, pero al llegar a topar lo de nosotros les fue [DUD:
+30:59] algunas personas que [DUD: 31:01] la moneda les iba bien o les decía [DUD: 31:04],
+pero otros pensaban que si se les [DUD:31:06] una gitana, era como que cruzara un gato
+negro.
+ENT: Sí. [audio: Mm mm]
+TEST: ¿Le explico?, entonces estos estos son los puntos clave y a favor, dentro de los gitanos,
+en parte un poquito respetados y en parte también descoordinado.
+ENT: Sí. [audio: Mm mm]
+TEST: [INAD: 31:29-31:32] entonces sí, el tema es esto, [DUD:31:35] los 86 de la
+[DUD:31:38] hay muchas historias, venga pero me atrevería a declararlo aunque lo que fue
+
+fue, eso [DUD:31:44-31:49]
+ENT: Sí. [audio: Mm mm] ¿nunca habías hablado de eso?
+TEST: No, no y yo creo que [DUD:31:55-31:56]
+ENT: ¿Y por qué? ¿por qué es tan difícil hablar sobre los muertos para el Pueblo Rrom?
+TEST: Por temas de seguridad de que no hayan represalias.
+ENT: ¿Y por y [INTERRUP]
+TEST: Por cosas del destino uno siempre tiene que volver a la ciudad de donde es
+[DUD:32:11-32:13] porque era nuestra vida, muchos tal vez no supieron pero [DUD:32:17]
+regresar a [DUD:32:18-32:22]
+ENT: ¿Y después crees que por ejemplo el eh con el tema del ejército nuevamente, cómo
+hacían para para los gitanos no tener que también eh prestar servicio militar o estar dentro
+del ejército?
+TEST: Bueno algunos de nuestros ancestros siempre han trabajado con el ejército
+arreglando las ollas esas de aluminio, las pailas, y siempre se hablaba con el comandante o
+con un jefe.
+ENT: Sí. [audio: Mm mm]
+TEST: Diciéndole que nosotros porque la cultura gitana [DUD: 32:55-32:56] a los 15 años, y
+a partir de esa edad ya estaba [DUD:33:00] responsable con las [DUD:33:01] pero no
+podíamos prestar servicio militar porque teníamos que mantener a nuestras familias,
+[DUD:33:11-33:12] 1 o 2, jóvenes que han prestado servicio militar pero eso fue voluntarios
+ellos, no porque los [DUD:33:19]
+ENT: Sí. [audio: Mm mm]
+TEST: Nunca en ninguna parte del planeta se vio que alguna vez [DUD: 33:25] bueno alguna
+vez en la antigüedad logró completar el servicio militar obligatorio, por el tema de la guerra
+y eso.
+ENT: Sí. [audio: Mm mm]
+TEST: Pues nosotros en Colombia [INAD: 33:38] todos los que estamos, que hayan prestado
+[DUD:33:43] gitanos servicios militares.
+ENT: Y en lo posible [INTERRUP]
+TEST: En la actualidad contamos con un decreto que nos aprueba de que nosotros no
+tenemos [DUD:33:53] en la actualidad si nosotros hemos reemplazado sino pues
+[DUD:33:56] permitir [DUD:33:57]
+ENT: [CONT] ¿y frente a los otros grupos del conflicto, frente a por ejemplo?
+TEST: ¿Cuál?
+ENT: Frente a otros grupos que también están en el marco del conflicto armado, ¿por qué no
+se ve que los gitanos estén, hagan parte de ninguno?
+TEST: Siempre siempre se publicó o se ha hecho, pongámosle en los periódicos siempre
+[DUD:34:16-34:23] problema de conflicto armado político, especialmente no estamos
+involucrados en este conflicto [DUD:34:28-34:30]
+ENT: Sí. [audio: Mm mm], lo otro que te quería preguntar es, eh ya dijimos también sobre,
+sobre lo que tu dijiste que se habían tenido que, cuando ustedes se desplazaron de -------- y
+se van a ------ ¿tú te quedaste en ------ o… o después regresas?, ¿y y como haces después para
+volver a Ecuador?
+
+TEST: Bueno nosotros estuvimos [DUD: 34:50-34:52] 87 llegamos a [DUD: 34:54] y ahí es
+donde falleció mi mamá, en --------.
+ENT: Sí. [audio: Mm mm]
+TEST: En -------- mi cuñado ya había comprado una casa, en el barrio [DUD:35:06] ya
+teníamos una [DUD:35:08] porque teníamos una trayectoria antigua, volvimos a --------, a
+los 3 o 4 meses que murió mi mamá y [DUD:35:16] -----, se viajó hasta México, durante 3
+años.
+ENT: Sí. [audio: Mm mm]
+TEST: A los 3 años regresamos, eso fue en el, 98 99, regresamos a, al -------, ------- y este
+[DUD:35:36] era el [DUD:35:37-35:38] que estábamos este, en el Barrio --------------[DUD:35:41]
+ENT: ¿Y por qué viajaron a México?
+TEST: Pues por el tema este por la, por la seguridad.
+ENT: Sí. [audio: Mm mm], ¿y… y qué fue lo que pasó que te hizo [INTERRUP]
+TEST: [DUD:35:54] de ------- [DUD:35:57] me dice que ------- [DUD:35:58]llegaron aquí a
+México [DUD:36:01-36:02] hace unos 25 años [DUD:36:04] Ángeles California.
+ENT: Sí. [audio: Mm mm], ¿y tú por qué tuviste [INTERRUP]
+TEST: [INAD:36:09-36:10] ------- se pasaron a Venezuela.
+ENT: ¿Y… y tú específicamente por qué te sentías que corría riesgo tu… tu… tu seguridad?
+TEST: Pues la misma vida itinerante y la vida del [DUD: 36:22] porque si no comerciábamos,
+como hacíamos para sobrevivir y siempre había algún [DUD:36:28] en medio de, del
+conflicto sino en el colegio fuera con nosotros [DUD:36:34].
+ENT: Sí. [audio: Mm mm]
+TEST: Siempre nos tocaba cada vez que se escuchaba una [DUD: 36:38-36:43]
+ENT: ¿Y por qué decidieron irse para México y no para otra parte en ese momento?
+TEST: Pues no te comento que estuvimos un espacio en [DUD: 36:50] --------.
+ENT: Sí. [audio: Mm mm]
+TEST: Y… y con… con la mira pues del del terror porque [DUD: 36:56-37:00] familias.
+ENT: ¿Y ya tenían ustedes familiares ya en México, que los estaban esperando ya conocían
+como iba a ser la cosa?
+TEST: No, sí tenemos familia en Estados Unidos, aquí, no te digo que teníamos [DUD:37:14].
+ENT: Todo el tiempo.
+TEST: [DUD:37:16] Estado Unidos en México en Brasil.
+ENT: ¿Y ellos fueron los que les dijeron que se fueran para allá?
+TEST: No, nosotros escogimos que ellos nos [DUD: 37:25-37:27]
+ENT: Muy bien, lo otro que te quería preguntar ya era bueno, sobre el proceso organizativo
+que tu llevabas en ------ y luego que tú me habías dicho que esto también se había vuelto,
+ustedes habían logrado eh armar una red, latino americana de… de [INAD: 37:41]
+TEST: En [DUD:37:43-37:44] hicimos en el marco del [DUD:37:46-37:48] se hizo la primera
+cumbre americana del pueblo Rrom, entonces con el apoyo de unas organizaciones,
+incluyendo la ONU [INC: Organización de Naciones Unidas], tuvimos 12 representantes
+[DUD:38:05-38:06] estuvo... estuvieron Estados Unidos representantes de [DUD:38:11]
+
+Colombia Ecuador, estuvieron de Chile los que hicieron la [DUD:38:16] gitano, por Colombia
+estuvo [DUD:38:19-38:20], por Ecuador estuve yo, [DUD:38:22-38:23] Argentina y
+lamentablemente [DUD:38:27] no pudo llegar pero también como, en presentación con ellos
+porque por distancia aprobaron, nosotros formamos una organización, que se llama
+[DUD:38:37].
+ENT: Sí. [audio: Mm mm]
+TEST: En ese en este, en este lapso y fue cuando reconocieron a [DUD:38:42], el ministerio
+de bienestar social los [DUD:38:46], Colombia [DUD:38:49] y todo y una orden de, de la
+asociación, reconocido.
+ENT: Y [INTERRUP]
+TEST: [DUD:38:56-38:57]
+ENT: [CONT] sí. [audio: Mm mm]
+TEST: Y en ese mismo marco de [DUD: 39:02] las américas sirvió de trampolín, porque en
+------ a CONOCIDA 2 fue una reunión de residentes de Chile, y el mismo año hubo una
+cumbre mundial en [DUD:39:14], el planeta entero sobre discriminación y
+recursos humanos y tuvimos representantes como CONOCIDA 2, CONOCIDO 1 y...
+CONOCIDA 3 [DUD: 39:25] de Argentina y 600 delegados [DUD: 39:28] de Asia de Europa,
+entonces este es el proceso organizativo de [DUD: 39:37] ORGANIZACIÓN SOCIAL 2 y de
+[DUD:39:40] en el mismo, [DUD:39:41-43] organización.
+ENT: Sí. [audio: Mm mm], y [INAD:39:47]
+TEST: Ese es el proceso de civilización de nuestro pueblo.
+ENT: ¿En el continente?
+TEST: Bueno en Sur América... ya teníamos unas organizaciones fuertes, en Brasil Argentina.
+ENT: Sí. [audio: Mm mm]
+TEST: Pero no estaban este, correlacionados con nosotros en el sistema jurídico.
+ENT: Ya.
+TEST: Entonces luego de esto cuando ya [DUD:40:15-40:16] tenían formados ya algunas
+organizaciones con [DUD:40:19], el gobierno de Brasil, ellos tienen reconocimiento
+[DUD:40:25] no sé qué fecha y celebran el día internacional del pueblo gitano en
+[DUD:40:29-40:30]
+ENT: Tú me decías que… que el haber conocido el convenio 169, fue muy importante para ti
+¿cómo fue ese cómo fue encontrarse con ese convenio? ¿por qué es tan importante?
+TEST: Yo lo entendía porque decía este, [DUD:40:47] independiente, para pueblos indígenas
+y [DUD:40:50], entonces no [DUD:40:52] para mí un [DUD:40:53] o indígena porque no
+somos ni… ni, [DUD:40:56] se nos conoce como gitanos es la palabra es la palabra
+[DUD:41:01] que [DUD:41:02] contenido, una visión más clara y más amplia desde que tenía
+derecho como lo tiene cualquier persona, en el mundo.
+ENT: Sí. [audio: Mm mm]
+TEST: O sea, si nos [DUD:41:14] implementar a los derechos humanos internacionales,
+siendo que los países independientes de los que yo ya me había criado, tenían este este
+reconocimiento, este artículo, como constitucional, no entendía el gobierno que era un
+artículo de la constitución, no entendían esas reglas porque el gobierno estaba [DUD:41:36].
+
+ENT: Sí. [audio: Mm mm]
+TEST: Pero con el apoyo de personaje [DUD: 41:40], [DUD:41:41] me los regaló y
+[DUD:41:43-41:45] el grupo de indígenas que el movimiento fuerte en Ecuador, lo iban
+explicando, con sociólogos, conocí sociólogos de INSTITUCIÓN EDUCATIVA 2 en --------, de
+INSTITUCIÓN EDUCATIVA 3 [DUD:41:59-40:01] muy importante de... la agencia
+[DUD:42:05] de derechos humanos [DUD:42:07]
+ENT: Sí. [audio: Mm mm]
+TEST: Y me [DUD:42:10-42:19] también tuve muchas conexiones con Brasil, con España, y
+aprendí a relacionarme [DUD:42:25] de investigación sobre [DUD:42:27-42:29]
+ENT: Sí.
+TEST: O puntos de partida, me conecté mucho por [DUD:42:34-42:36] y ahí fue donde
+conocí muchas organizaciones como lo que hicieron en, en París en Francia [DUD:42:45] 31
+que se hizo el primero congreso del pueblo gitano europeo, y reconocieron nuestro himno y
+nuestra bandera, y [DUD:42:57] de 25 26 años [DUD:42:59] nosotros en el marco
+[DUD:43:01-43:02] involucrar en el continente americano [DUD:43:06]
+ENT: Y te quería preguntar ¿cómo fue, cómo fue el proceso también de, de que el pueblo
+Rrom fuera recocido como víctima acá en el país y y que usted se animaran a declarar y a
+contar que era lo que había pasado?
+TEST: Bueno como te dije este, nuestra compaña nuestra comunidad en Colombia es muy
+movida este, tenemos personajes [DUD:43:29-43:32] tenemos varias organizaciones no
+gubernamentales, como son nuestros compañeros afros, o como [DUD:43:39] de otras
+organizaciones o pueblos étnicos que conocen del desplazamiento y sienten igual a lo que
+yo siento pues, [DUD:43:47-43:51] a declarar por lo que les han hecho, pues como te dije
+ahora, hay una parte que se animó y lo hizo.
+ENT: Sí. [audio: Mm mm]
+TEST: Entonces, empezaron las declaraciones, con [DUD:44:03-44:06] y empezaron a, a
+declarar sus historias [DUD:44:11] por cosas [DUD:44:13-44:16] decisión de enfrentarlos
+decir que si estamos afectados y que sienten las víctimas, y no [DUD:44:22] sino
+[DUD:44:23-44:24]
+ENT: Y por ejemplo tu caso ¿tú dónde declaraste?
+TEST: Exactamente hace 4 años yo tuve [DUD: 44:32-44:35] viviendo en Ecuador y paseaba,
+a Colombia, porque allá tengo… tengo familia, una… una muchacha [DUD: 44:46] se casó
+conmigo y tenemos 2 muchachitas que [DUD: 44:49-44:50] [INTERRUP]
+ENT: De cumpleaños.
+TEST: [CONT] [DUD:44:52-44:59] de ------------ [DUD: 45:00] y me fui a la [DUD:45:0345:05]
+ENT: Sí. [audio: Mm mm]
+TEST: [DUD: 45:07-45:11] como unos 15 días y nos fue bien, [DUD:45:14] buenas ganancias
+ese día [DUD:45:16-45:19] un poco de producto [DUD:45:22-45:39]
+ENT: Sí. [audio: Mm mm]
+TEST: No [DUD: 45:41] comentario habían unas personas [INAD: 45:44-46:04]
+ENT: Sí.
+TEST: [INAD:46:05-46:11] un poquito más y se me acercó [INAD:46:13-46:32] me llevaron
+
+a un campo y [INAD:46:35-47:13]
+ENT: Sí. [audio: Mm mm]
+TEST: [INAD: 47:14-47:23]
+ENT: ¿Quién se subió contigo?, ¿quién te acompañó?
+TEST: Un amigos.
+ENT: Se fue a llevarte.
+TEST: [DUD:47:29]
+ENT: Así que te llevó pues hasta [INTERRUP]
+TEST: [INAD:47:32-47:36]
+ENT: [CONT] sí. [audio: Mm mm]
+TEST: [INAD: 47:38-47:45] que llegue y lo, [DUD:47:48] mañana, pues me dejó.
+ENT: Ay se congeló. [CORTE: 47:55-48:00]
+TEST: [INAD: 48:01-48:04] porque ------ ya se desapareció [INAD: 48:07]
+ENT: [INAD: 48:09]
+[CORTE: 48:09-48:38]
+ENT: Se nos perdió la llamada.
+TEST: Bueno entonces no es que viva con temor, como sea [INAD:48:48-48:49] las carpas,
+mi familia y como yo tenía [DUD:48:52-54]
+ENT: Sí. [audio: Mm mm]
+TEST: [INAD: 48:56-48:57]
+ENT: Te estoy, no te estoy escuchando.
+TEST: [INAD: 49:00] empezamos a vender [DUD: 49:01] monturas elaborados por nosotros
+hicimos [DUD: 49:03-49:04]
+ENT: Se me está congelando tu imagen.
+TEST: [DUD: 49:09] yo me presenté a la gobernación.
+ENT: Ya listo.
+TEST: Nos presentamos al SISBEN [INC: Selección de Beneficiarios para Programas Sociales]
+porque veníamos con unos enfermos, pero conocimos a ORGANIZACIÓN PÚBLICA 2 y nos
+[DUD:49:22] nos hicimos [DUD:49:23] y nos tomaron la declaración.
+ENT: Sí. [audio: Mm mm] ¿en --------?
+TEST: Sí pues en -------- ya habíamos estado pues por [DUD: 49:33-49:34] como unas 15 o
+20 familias.
+ENT: Pero tú declaración la hiciste tú, digamos sobre tus hechos y cada quien de las demás
+familias contó lo que le había pasado a ellos.
+TEST: Sí pues [INAD: 49:47] ORGANIZACIÓN PÚBLICA 2 nos tomaron la… la… las
+declaratorias [DUD: 49:53-49:54] por el temor para no [DUD:49:55] a lugares [DUD:49:56]
+ENT: Sí. [audio: Mm mm], y… y entre después [INTERRUP]
+TEST: Este fue el primero.
+ENT: [CONT] ah bueno, y los que siguen.
+TEST: El mío es el primero, [DUD: 50:06-50:07] 7, 8 meses movilizándome, comercializando
+y luego hubo [DUD: 50:13-24]
+ENT: ¿Y en y en dónde estabas viviendo ahí cuando lo de la moto?
+TEST: Estaba viviendo en un barrio que se llama... [DUD:50:32] --------, ¡---------! ahí en
+
+-----------.
+ENT: ¿Y por qué crees que te estaban amenazando?
+TEST: Porque hubo amenazas, me llamaron y obviamente denuncié ORGANIZACIÓN
+PÚBLICA 3 de -------- y todo.
+ENT: ¿Y… y qué le decían en las amenazas? ¿qué por qué era?
+TEST: Pues porque somos gitanos que una cantidad de cosas [DUD: 50:52] y me presenté a
+la policía [DUD: 50:55] porque supuestamente desde los Llanos, me mandaban eso.
+ENT: Y te decían que por ser gitano, ¿por qué?
+TEST: Pues [DUD:51:05] conflicto [INAD:51:06-51:08] en el lugar de víctimas, ya
+directamente ahí en -------.
+ENT: Sí. [audio: Mm mm]
+TEST: Entonces lo que hice los [DUD: 51:16] fue coger a mi familia y viajé hasta -------- y de
+-------- a --------, y en -------- estábamos cerca del aeropuerto y el hermano mío y unos primos
+me mandaron pa [DUD:51:28-51:30]
+ENT: Se [DUD:51:32] afortunadamente.
+TEST: Ahora en ----------- voy a tener 3 meses [INAD:51:37].
+ENT: Sí. [audio: Mm mm], llevamos poquito tiempo.
+TEST: 3 años es mucho.
+ENT: Bueno.
+TEST: Quisiera estar allá pero no puedo.
+ENT: [risas]
+TEST: Ahora, las demás personas que declararon [DUD:51:49] fueron aceptados
+[DUD:51:51-51:53]
+ENT: Y las amenazas que ustedes recibieron ¿eran contra ti, individualmente o era contra
+todos los gitanos que había en --------?
+TEST: Mas bien enfocado hacía mi familia.
+ENT: ¿A toda tu familia?
+TEST: Pues a mi esposa, a mis hijos, a mí, pues a los niños [DUD:52:11-52:12]
+ENT: Sí. [audio: Mm mm], ¿y toda la familia se pudo ir junta para México?
+TEST: [DUD: 52:16] mucho tiempo [INAD: 52:18] pues yo creo que no pasaron 2 3 meses
+más y tuvieron que dejar casi todos este, [DUD:52:24-52:25]
+ENT: O sea el resto también de todos los gitanos de las familias que vivían en el mismo
+barrio también se tuvieron que ir de --------.
+TEST: De --------- [DUD:52:35] unos [DUD:52:36] o se fueron a ver, algunos se fueron a -----,
+otros regresaron a ------, a --------.
+ENT: Sí. [audio: Mm mm], ¿Y fue por qué recibieron más amenazas o porque ya tenían
+miedo de lo que había pasado con ustedes?
+TEST: Pues yo creo que más bien para evitar más amenazas y por los temores que
+[DUD:52:54-52:55]
+ENT: Sí. [audio: Mm mm]
+TEST: Pero si tenemos familia en --------, hay como unas 3 familias, unas primas y hay otras
+familias [DUD:53:01-53:03]
+ENT: ¿Quién vive en [DUD:53:05] Cauca?
+
+TEST: [DUD: 53:09-53:10] en -------- también.
+ENT: Sí. [audio: Mm mm] ¿y ellos alguna vez te han dicho que hayan recibido amenazas, o
+algo?
+ENT: Pues [DUD: 53:19] allá en, allá en el Huila sí tuvo un problema bien serio.
+ENT: Sí. [audio: Mm mm] ¿y por qué?
+TEST: Pues allá otro caso [INAD:53:30] ellos también declararon en --------.
+ENT: Y en digamos, cuando ustedes decidieron irse las amenazas ya se acabaron o después
+de… de que salieron del país volvieron a [INAD:53:43]?
+TEST: Creo que se acabaron porque la que más fue, [INAD:53:46] los que más [DUD:53:4753:49]
+ENT: ¿Y por qué crees estaban ensañados contigo?
+TEST: [DUD:53:54] yo creo que fue solo por mi [DUD:53:57-54:00]
+ENT: Ya o sea si tú por ser la cara visible.
+TEST: O sea no encuentro otra explicaciones contundentes por el tema de los [DUD:54:07].
+ENT: Sí. [audio: Mm mm] [INAD: 54:09]
+TEST: [INAD: 54:10]
+ENT: Por ser el más visible tú crees que por eso era que los que [INAD: 54:14]
+TEST: Sí porque [DUD: 54:16] por puerto del Cauca.
+ENT: Dale, y… y [INTERRUP]
+TEST: Tuvimos presentaciones en gobernación, prensa eh lugares públicos, [DUD:54:2754:29] de --------.
+ENT: Y ¿y por qué crees que venían las amenazas desde los Llanos?
+TEST: No supuestamente tú sabes que [DUD: 54:38]
+ENT: O sea como que decían que eran de los Llanos.
+TEST: Como para despistar.
+ENT: Ya, ¿y tú tienes idea de… de digamos de quién estaba interesado en… en… en esas
+amenazas?
+TEST: No puedo mencionar eso sí, ahí si no puedo mencionar, solamente sé que es un grupo.
+ENT: Vale.
+TEST: Armado.
+ENT: Y [INTERRUP]
+TEST: Ahí si es más delicado nombrar [risas]
+ENT: [CONT] no lo tenemos que hacerlo, ¿y tuviste algún apoyo para poder irte de algún
+de… del gobierno o… o te tocó irte por tus medios?
+TEST: No las primeras ayudas que nos llegaron no lo reconocieron fueron de alimento..., nos
+dieron, hay… hay una institución que apoya a, a las personas que son desplazadas no sé si es
+norteamericana, ahí en -------- nos mandaron arroz, aceite, atún, este, la gobernación
+también nos aportó una vez para una comida, nos ayudó los de... [DUD:55:32-55:33] algunas
+veces nos ayudaron.
+ENT: ¿Y de… y… pero… y cuándo? ¿para tu vida en México? ¿tuviste algún apoyo?
+TEST: [INAD: 55:41]
+ENT: [DUD: 55:42]
+
+TEST: [INAD: 55:43], con mi propio dinero fue con el dinero de mis primos.
+ENT: Ya.
+TEST: [DUD: 55:48] me paga todo.
+ENT: Que ellos estaban preocupados, ¿y te fuiste tu solo o se pudo ir toda tu familia?
+TEST: Mi familia y la de mi hermano.
+ENT: Ah muy bien, o sea emigraron todos juntos.
+TEST: Pues [DUD: 56:00] tengo mi familia [DUD: 56:02-56:04] como 15 personas tienen
+más de 3 años, los que estábamos en --------.
+ENT: ¿Y te gustaría regresar al país o no?
+TEST: Pues sí me gustaría regresar a [DUD: 56:16].
+ENT: ¿De paseo o a quedarse?
+TEST: [INAD:56:18]
+ENT: ¿Y de paseo o a quedarse?, si pudieras regresar.
+TEST: No, yo tengo que regresar como sea porque tengo mis 2 nietas allá.
+ENT: Sí. [audio: Mm mm], ¿y no es posible?
+TEST: Y justo ahora es el cumpleaños de la más pequeña.
+ENT: ¿Cuántos años cumple?
+TEST: La más pequeña 3 y la grande tiene 5.
+ENT: O sea que a la a la más chiquita no la pudiste ver todo el tiempo, [INAD: 56:42]
+TEST: No la pudimos ver porque ellos estaban allá y la niña, cuando nació no estaba porque
+ella estaba con la mamá.
+ENT: O sea que la idea es venir casi que venir a conocerla en vivo y en directo.
+TEST: Sí pues solamente por internet [INAD: 56:57], pues estoy esperando a platicas
+contigo para celebrarle el cumpleaños [DUD: 57:02]
+ENT: Bueno, me avisas cuando te tengas que desconectar [risas], y la y [INTERRUP]
+TEST: ¿Algo [DUD: 57:09] más?
+ENT: [CONT] pues te quería preguntar como crees que el que el pueblo gitano digamos,
+cuáles son los temas que el país debería conocer sobre el pueblo gitano?
+TEST: Pues los temas desde la libertad, la libertad, eh el respeto al derecho [DUD:57:24] de
+la paz dijo [DUD: 57:26] de aquí de este país, que nosotros somos libres como el viento y
+[DUD: 57:31] ¡aire! de libertad que Dios nos dio como [DUD:57:35], exigimos los mismos
+derechos que todos, porque somos colombianos desde Latinoamérica, una vivienda digna,
+una salud digna, un reconocimiento digno, un respeto a nuestras vidas y saber si a nuestros
+[DUD: 57:51].
+ENT: ¿Y cuáles crees [INTERRUP]
+TEST: Eso es lo que exijo.
+ENT: [CONT] ¿y cuáles son los lo que tú crees que ya de lo que le ha pasado al… al pueblo
+Rrom en el marco del conflicto, que es lo más importante [INTERRUP]
+TEST: Otra vez [DUD: 58:03], pregúntame otra vez que está recortado.
+ENT: [CONT] te preguntaba que ¿cuál crees tú que son las cosas más importantes que el país
+debería saber de lo que le pasó al pueblo Rrom en el marco del conflicto armado?
+TEST: Bueno lo más importante es que sepa todo nuestro sufrimiento, pero que no sea en
+vano, tiene que ser indemnizado, queremos recibir una recompensa, que nos paguen lo que
+
+perdimos injustamente, eso es lo que exijo.
+ENT: Sí. [audio: Mm mm]
+TEST: Lo que nos pertenece no lo de otro porque nunca no nos gustó quitarle al ajeno, que
+se nos pague lo que perdimos.
+ENT: Y ahí estamos haciendo [INTERRUP]
+TEST: Eso es lo que, exijo.
+ENT: [CONT] listo, no si no te tienes que desconectar, no hay ningún problema TEST,
+[INAD:58:47] molestando, ahí seguimos en contacto.
+TEST: No pues ya podemos desconectar porque la batería la tengo baja y tengo que cargar
+para el cumpleaños.
+ENT: Bueno, listo, perfecto, cuídate mucho.
+TEST: Bueno, de mi pate espero que esta contribución sirva.
+ENT: Va a servir mucho.
+TEST: Para el beneficio de nuestro pueblo, como colombianos pero también como la
+comunidad Rrom en Colombia.
+ENT: TEST, muchísimas gracias por tu tiempo, por tu disposición.
+TEST: Co mucho gusto.
+ENT: Ahí seguimos en contacto.
+TEST: Estamos en contacto.
+ENT: Dale, cuídate mucho y que celebran mucho el cumpleaños.
+TEST: Gracias.
+ENT: Chao muchas gracias.
+
+

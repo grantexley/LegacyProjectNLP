@@ -1,0 +1,855 @@
+ENT: Bueno TEST, como te expliqué, vamos a iniciar, te voy a preguntar
+cómo unos datos básicos, ¿sí?, luego pasamos a una conversación ya más
+tranquila no tan, como con unos datos tan específicos, ¿listo?, entonces te
+pregunto ¿tú consideras que fuiste víctima directa de los hechos que me vas a
+relatar, de lo que ocurrió con tu familiar?
+TEST: Sí
+ENT: ¿Y fuiste testigo, tú viste como ocurrió?
+TEST: No
+ENT: Ok, me das tu nombre completo por favor
+TEST: TEST.
+ENT: Bueno, y tienes un apodo, un nombre como de pila, ¿no?
+TEST: No
+ENT: ¿Cuál es tu fecha de nacimiento?
+TEST: 16 de ------ de 1990
+ENT: ------ 16
+TEST: Sí
+ENT: Listo. ¿Naciste en qué municipio?
+TEST: ------- Antioquia
+ENT: Listo. ¿Alguna pertenencia étnica particular?
+TEST: No
+ENT: [datos personales: 01:53]. ¿Tu nacionalidad es colombiana, cierto?
+TEST: Sí
+ENT: ¿Tu estado civil?
+TEST: Unión libre
+ENT: Bueno, tu vives aquí en --------, ¿cierto?
+TEST: Sí
+ENT: ¿Algún teléfono celular?
+TEST: [Datos personales: 02:35]
+ENT: ¿En qué comuna vives?
+TEST: ------ENT: ¿Y en qué barrio?
+TEST: --------ENT: ¿Es zona urbana, cierto?
+TEST: Sí, claro
+ENT: ¿Qué educación tienes?
+TEST: Bachiller
+ENT: ¿Has hecho técnica?
+TEST: No
+ENT: ¿En este momento que ocupación tienes?
+TEST: Ama de casa
+ENT: Listo. ¿Has sido miembro de la fuerza pública?, ¿consideras qué has
+participado en alguna organización o colectivo?
+TEST: No
+
+ENT: ¿No consideras que eres de mujeres?
+TEST: No, es más mi mamá
+ENT: Bueno, ¿cuál es la relación con la víctima?
+TEST: La hija
+ENT: Dame un momento porfa. Bueno, TEST, ya habiendo evidenciado como
+esos daticos generales, bueno, vuelvo y te repito, si no te sientes cómoda con
+algo, si no quieres conversar con algo, lo podemos parar, ¿listo? Cuéntame un
+poco qué te ocurrió, por qué crees qué eres víctima del conflicto armado
+TEST: Bueno
+ENT: Háblame un poco de los hechos
+TEST: Creo que iban a ser 17 años, un mes después de la operación Orión
+se desapareció mi papá, pues yo no vi. Todos los días me llevaba a mí al
+colegio, yo estudiaba por acá por el lado de ------------ y justo ese día yo
+entraba más tarde, entonces ese día a mí me tocaba irme en bus, pues las
+personas que vieron creo que fueron unos vecinos y mi tío, un hermano de mi
+mamá, que vieron que pues mi papá se montó al carro y una persona le tocó el
+vidrio de la ventana y le mostró un arma, y ya pues él se montó y al dar la
+vuelta para bajar los rieles, se le montaron otros 2, otros 3 no recuerdo bien,
+y ya, hasta el sol de hoy no sabemos nada de él, pues ya en la empresa de él
+empezaron a llamar en el transcurso del día, que por qué no había ido, mis
+hermanos eran los que recibían las llamada y pues le avisaron a mi mamá que
+estaba trabajando. Ya cuando llegó a la casa, mi tío le contó lo que había
+visto y ya pues ahí empezó todo
+ENT: Eso fue enton.ces después de la operación Orión, entonces fue más o
+menos en -----------TEST: El 28 de ---------------.
+ENT: El 28 de ---------------. del 2002
+TEST: Sí
+ENT: ¿Tú cuántos años tenías?
+TEST: 12
+ENT: 12 años. ¿Y cómo te enteraste?
+TEST: Eso fue como los 2 o 3 días porque mi mamá no me quería contar,
+entonces me había dicho que se había ido para ----------, porque en la empresa de
+él lo mandaban así mucho para -------o para ----------, entonces me había
+dicho que se había ido para -------, a mí sí me había parecido raro porque él
+siempre se despedida de mí y todo eso, pero un día llamó un compañero de la
+empresa pues en la mañana y mi mamá le dijo pues, empezó a hablar con él, que
+no, que ella no sabía nada todavía, que no sabía dónde estaba, y yo me di
+cuenta, yo la escuché y yo me di cuenta, ya, así fue
+ENT: ¿Y cuándo te diste cuenta qué hiciste?
+TEST: ¡Ja!, lloré, lloré como una Magdalena porque yo era la ñaña de él,
+yo era la ñaña y si la relación de nosotros dos era excelente, era muy buena,
+entonces para mí eso fue súper duro porque yo no me imaginaba una vida sin él,
+
+y ya pues me tocó imaginármela
+ENT: ¿Tú sabes, tienes conocimiento quiénes, o por el contexto de
+quiénes fueron las personas que hicieron eso, o más o menos quiénes fueron?
+TEST: Los paramilitares
+ENT: ¿Y ya es seguro o es un rumor?
+TEST: Sí, es seguro
+ENT: ¿Y qué piensas de eso?
+TEST: No sé
+ENT: Lo que se te ocurra, si quieres hablar de eso
+TEST: No, que eso no le debió haber pasado a él, él pagó errores de
+otros
+ENT: ¿De qué otros?
+TEST: De los hermanos
+ENT: ¿Por qué?
+TEST: Porque los hermanos de él eran guerrilleros y toda la familia de
+mi papá la hicieron, a todos a mi mamita, a mis tíos, a mis tías, a todo el
+mundo, menos a él, pero
+ENT: Me repites eso, qué pena, ¿que toda la familia qué? Perdón
+TEST: A mi papá, a todos los hicieron ir de por allá, a mis abuelos, a
+mis tíos, los hermanos de él estaban en la cárcel en ese momento; 8 días antes
+de que él se desapareciera, él estaba en -------y fueron a la casa a preguntar,
+un conocido de por la casa que siempre fue muy problemático fue con 2 señores
+raros, pues mi mamá dice que eran paramilitares; a preguntar por él, entonces
+el muchacho que vivía por allá le decía “que no, qué ese señor, que él era todo
+un señor, que no se metía con nadie” le preguntaron a mi mamá que dónde
+trabajaba, que si el carro era para transporte o era familiar, pues que,
+perdón, que si él trabajaba con el carro o que si era pues familiar y ya, y se
+fueron, entonces mi mamá lo llamó, cuando él llamó mi mamá le contó
+y él dijo que no se preocupara, que él no le debía nada a nadie, y ya a los 8
+días, pues a los días llegó él y a los 8 días se lo llevaron
+ENT: O sea que, antes de que sucediera la desaparición, digamos que hubo
+una amenaza, por decirlo así o ustedes no lo sintieron como amenazas
+TEST: Nosotros no lo sentimos como amenaza pero si nos dio pues sustico,
+inclusive mi mamá le avisó a él y todo eso, pero él no se preocupó, él no le
+vio preocupación a eso
+ENT: Yo te hago una pregunta, ¿tú porque crees?, tú dices que eso pasa
+por los hermanos, ¿cierto?, que los hermanos formaban parte de las FARC [INC:
+Fuerzas Armadas Revolucionarias de Colombia-Ejército del Pueblo]
+TEST: Del ELN [INC: Ejército de Liberación Nacional]
+ENT: ¡Ah!, del ELN, perdón, del ELN y que esa otra familia [DUD: 10:25]
+lo vinculaba a él, además de un asunto familiar, tú crees que hay un asunto
+distinto al familiar, es decir, que ellos hagan parte, que la familia haga
+parte de eso responde a alguna cosa del contexto, del barrio
+
+TEST: Todo
+ENT: ¿Qué podrías decir tú de eso?
+TEST: Porque es que vea, pues ellos eran del ELN y ellos mantenían en el
+barrio, pues ellos hacían sus cosas, todo el mundo de por allá sabía quiénes
+eran los tíos míos y todo, mi papá nunca, mi papá era el mayor de todos ellos,
+mi papá inclusive mi papá no iba a visitar casi a mi abuela por no encontrárselos
+a ellos, mi mamá, mi papá nunca estuvo de acuerdo, mi papá antes le tenían
+miedo por la casa pero porque era muy serio y muy regañón, y todo eso, pero por
+nada malo, mi papá nunca estuvo de acuerdo con ellos, trataban de no
+encontrárselos mucho, entonces como ellos hicieron sus cosas malas por allá,
+como dice uno, pues las culebras quedan y yo digo que a los primeros que le
+cayeron fueron a ellos, a la familia porque como le digo a mi abuelo le
+hicieron ir, a mis tíos, sí, es que la familia de él que vivía por allá, a
+todos los hicieron ir
+ENT: ¿Y tú por qué crees que en el barrio pasaba eso?, ¿por qué la gente
+estaba en el ELN?, ¿por qué tus tíos estaban en el ELN?, ¿por qué
+paramilitares?, ¿por qué pasan esas cosas?
+TEST: Pues lo de mis tíos no sé, yo esta historia si no
+ENT: Pero de lo que se te imagine del barrio, teniendo en cuenta lo que
+ocurrió en el barrio en esa época
+TEST: Pues yo me imagino que la ignorancia ENT, porque es que no tanto
+la pobreza porque mi abuelita tenía su casa propia, mi abuelito tenía su
+trabajo, mis tíos o sea los que estaban metidos en eso eran los menores, los
+mayores eran todos unos señores, inclusive el único que vivía por allá era mi
+papá, el resto de los otros hermanos mayores vivían en otros barrios. Yo digo
+que la ignorancia porque mi mamita es analfabeta, mi abuelito pues nunca tuvo
+parte en eso, entonces no había como una persona que los supiera guiar y orientar
+y decirle “eso está mal hecho, no se mete en eso, mire tal cosa” no, entonces
+mi mamita siempre fue muy alcahueta con ellos, demasiada, entonces yo digo que
+en el caso de la familia de mi abuelo por la ignorancia, de pronto los otros
+que se hayan ya metido a eso fue por la pobreza, porque en esa época si había
+mucha pobreza, pero en el caso de nosotros digo yo que la ignorancia
+ENT: ¿Tú crees que alguien se benefició de lo que le sucedió a tu papá?,
+en términos de los actores armados, de las personas
+TEST: Beneficiarse, beneficiarse no creo, porque si ellos estaban
+buscando, o sea yo digo que de pronto sí se lograron vengarse, sí, se vengaron
+porque, a mí me cuentan, no sé, a los hermanos de papá les dio muy duro cuando
+se dieron cuenta de eso, que mi papá estaba desaparecido, obviamente ellos
+decían y lloraban que eso había sido por culpa de ellos, que los habían matado
+por culpa de ellos, entonces sí era una venganza sí, sí se beneficiaron y se
+vengaron y todo, porque mi papá era el hermano mayor, mi papá eres el que menos
+que, o sea, ellos a hechos donde les dolía, porque mi papá era el que menos
+tenía que ver ahí, entonces yo digo que por venganza sí, se beneficiaron
+
+ENT: Por venganza. ¿Qué otros niños, niñas fueron víctimas también de
+ese hecho?
+TEST: Mis primos
+ENT: ¿Por qué tus primos?
+TEST: Por qué por ejemplo, los hijos de uno de los que estaban pues
+metidos en eso, él estaba en la cárcel cuando desapareció
+ENT: ¿Estaba en qué?
+TEST: En la cárcel cuando fue la operación Orión. Pero entonces como
+todo el mundo sabía quién era la familia de él, todo, a ellos les dio miedo y
+salieron, o sea, se fueron del barrio, dejaron la casa, ellos tenían casita
+propia, dejaron la casa y salieron del barrio y se fueron
+ENT: ¿Y ellos cuántos años tenían?
+TEST: Pues FAMILIAR1 yo creo que tenía la misma edad mía, 12, FAMILIAR2 estaba
+muy chiquitico, tenía como 8 años 7 u 8,
+ENT: Y ellos entonces como desplazados
+TEST: Sí, ellos en este momento son desplazados
+ENT: ¿Y tú tienes los apellidos de ellos?
+TEST: Sí
+ENT: Me los das por fa
+TEST: GRUPO FAMILIAR1
+ENT: ¿Y en dónde viven en este momento?
+TEST: En Envigado
+ENT: ¿Ellos son hermanos?
+TEST: Sí
+ENT: ¿Y tus hermanos también?
+TEST: ¡Ah! mis hermanos
+ENT: ¿Tú nos puedes regalar el nombre de tu hermano?, son dos hermanos,
+¿cierto?
+TEST: Sí
+ENT: Tu hermano mayor
+TEST: FAMILIAR3 [risas]
+ENT: FAMILIAR3
+TEST: FAMILIAR3. Un día de estos le pregunto a mi mamá por qué
+le puso el nombre. FAMILIAR3 [risas]
+ENT: ¡Ay, no!, no te lo puedo creer. ¿Cuántos años tenía cuando
+ocurrieron los hechos?
+TEST: FAMILIAR3, él a los diítas fue mayor de edad
+ENT: ¿Entonces tenía 17?
+TEST: Sí
+ENT: ¿FAMILIAR3 tiene novia en este momento?
+TEST: No
+ENT: ¿Y ha tenido novia?
+TEST: Sí, muchas
+
+ENT: Sí, te sabes el número de documento de identidad de él
+TEST: No
+ENT: ¿Y cuál es su estado civil en este momento?
+TEST: Soltero, pegado a la falda de la mamá
+ENT: [Datos personales: 17:35]
+ENT: ¿Y él hasta qué grado estudio?
+TEST: 11
+ENT: ¿Qué hace en este momento?
+TEST: Él es operario
+ENT: ¿Y no pertenece a ninguna organización?
+TEST: No
+ENT: ¿Y cuántos años tenía tu otro hermano?
+TEST: Creo que 15
+ENT: Perdón, me recuerdas el nombre completo de tu hermano
+TEST: FAMILIAR3.
+ENT: No
+TEST: ¡Ah!, el otro
+ENT: FAMILIAR4, ¿cierto?
+TEST: FAMILIAR4
+ENT: FAMILIAR4, ah sí, GRUPO FAMILIAR2. ¿Y cuántos años tenía?
+TEST: Creo que 15
+ENT: Listo. Bueno, TEST ¿tú crees que la comuna ha cambiado después de
+eso que ocurrió o las cosas han seguido igual?
+TEST: Sí, porque es que si se acaba un grupo se mete otro, si encarcelan
+a un duro se monta otro o si lo matan se monta otro y así sucesivamente,
+entonces yo creo que es peor, porque es que ahora los pelados matan por ver
+caer como dicen, porque le que cogieron envidia a aquel, porque usa unos
+zapatos bacanos, o sea, le digo que antes, yo lo veo así, antes mataban al que
+la hacía o el que la cometía, o el que la debía, no mataban porque sí, en
+cambio ahora sí, ahora porque les dio la gana, porque este medio jartera,
+porque este es de aquí o porque este es de ella, lo matan ya, entonces yo digo
+que está como peor
+ENT: O sea que, ¿digamos que en ese momento había como un control
+diferente?, ¿y ese control lo ejercían quiénes?
+TEST: El ELN, o sea yo la verdad, yo nunca me sentía -cómo se diceamenazado por ellos, jamás, nunca, nunca, nosotros o sea yo soy muy nerviosa,
+yo por ejemplo cuando vivía arriba en la colina yo por ejemplo veía a los
+muchachos y a mí me daba temor o los veía como se dice como [INAD: 20:47],
+entonces me decía, a quién van a matar, o a quién van a robar o qué van a
+hacer, uno se sentía muy nervioso, en cabio antes no, yo nunca me sentí
+amenazada por ellos ni nada.
+ENT: ¿En qué momento te empezaste a sentir amenazada?
+TEST: Después, cuando empezaron como las bandas, póngale, es que no sé
+
+exactamente, pues después que se fueron los paramilitares que empezaron como
+las banditas criminales, que se hicieran con marihuaneritos, es que es tanto
+ENT, que antes no había ni siquiera marihuaneros, no había un marihuaneros
+pues es que son muy diferentes las cosas, ellos son un grupo al margen de la
+ley, uno sabe que son malos y todo, pero inclusive hasta con la apariencia,
+eran bien presentados, es que ellos no intimidaban a la gente, en cambio ahora son
+marihuaneros, son súper mal vestidos, son valijas, o sea, lo peor
+ENT: Perdón. [CORTE: 21:52]. En qué estaban bien vestidos
+TEST: Sí, ellos eran bien vestido, pues no tiraban vicios, si lo tiraban
+era muy reservados, en cambio ahora es todo un descontrol
+ENT: Cuando ocurre lo de tu papá, ¿qué pasa después?, hacen denuncia
+TEST: Pasa de todo, bueno, primero que todo mi mamá no trabajaba porque
+no lo dejaban, entonces le tocó empezar a buscar trabajo porque entonces quién
+nos iba a mantener, porque pues la familia de mi papá siempre fue, inclusive
+las de mi mamá, siempre estuvieron muy ajenos a nosotros, muy despreocupados,
+nunca llamaron a decir “TEST, están aguantando hambre” o sea, yo siempre le
+reprochó mucho a ellos eso, porque inclusive una vez hicieron un comentario
+cuando mi mamá le dieron la liquidación de mi papá de ORGANIZACIÓN PRIVADA1, que por
+qué ella
+no le había dado nada a mí mamita, yo “como así, pero que si esa plata es de
+ella, es la única que ha volteado, la única que ha tenido que aguantar sol, lluvia,
+de todo”, entonces yo siempre le reproche a ellos porque nunca estuvieron
+pendientes de nosotros, nunca, nunca, nunca
+ENT: Mientras que tu papá, o sea, con la desaparición o después de la
+desaparición
+TEST: Después
+ENT: Nunca, después de la desaparición ellos se ausentaron
+TEST: Mi mamá pues empezó a buscar trabajo y nos dejaba encerrados,
+porque le daba miedo que de pronto se llevaran a los muchachos, entonces ellos,
+pues el mayor a los días pues de haber pasado lo de mi papá, se graduó, fue muy
+duro y todo pues se graduó, el otro pues ya había salido de vacaciones, yo
+también, entonces nos dejaba encerrados porque le daba miedo, entonces empezó a
+hacer vueltas, denuncias, ¡no!, qué pecado mi mamá ella volteó mucho, perdió
+mucho trabajo por eso, porque tenía que estar pidiendo permiso porque la
+llamaban que tenía que ir a dar una declaración o que tenía que ir, por ejemplo
+cuando ya se empezaron a hacer a nosotros las pruebas de ADN, que era
+describirlo, ¡bueno!, todas esas cosas ella perdió mucho trabajo; pero gracias
+a Dios dio con un señor, que inclusive todavía en este momento le está
+trabajando, pero ella le trabaja así, un día sí y un día no
+ENT: ¿En qué le trabaja?
+TEST: En confecciones,
+ENT; ¡Ah, que bien!
+TEST: Sí, ella tuvo pues esa arte siempre, sino que mi papá no la dejaba
+
+entonces yo con este señor sí ella desde un principio le dijo y el señor es muy
+comprensivo, ella necesitaba un permiso y “TEST, vaya, hágale, hágale”,
+entonces, bueno y ya ella empezó a hacer sus vueltas que eran denuncia y todo
+ENT: ¿Tuvieron algún otro hecho después del papá, o sea, se tuvieron que
+desplazar, tuvieron amenazas, lo del papá?
+TEST: Y ya, a nosotros nunca nos tocaron, nunca les dijeron nada
+ENT: A los muchachos nunca les dijeron, nunca los amenazaron, tú nunca
+tuviste ninguna situación con algún actor armado [INAD: 25:16]
+TEST: Pues conmigo, mi esposo y mi niña son desplazados
+ENT: ¿Tu esposo y tu niña, cómo?
+TEST: Así, eso fue en el 2005, fue por allá mismo, por el barrio, pues él
+estaba en la independencia aún, y nosotros habíamos tenido un altercado, yo lo
+había echado de la casa, entonces él, pues como que ese día tenía
+los demonios encima como dice uno, y por la casa de él había como que un
+muchacho estaba maltratando un perrito y él es muy, cómo se dice, animalista,
+le da mucho pesar de los animalitos y entonces lo estaba maltratando, entonces
+él le dijo una palabra al muchacho que no lo maltratara y entonces el muchacho
+le dijo "cómo" y el golpe y le repitió y resulta disque era el duro
+de por allá, entonces como mi esposo como que tenía toda la adrenalina,
+entonces le metió una cascada, o sea, yo no vi porque él se había ido para
+donde los papás que viven en -------------; le metió una cascada de padre señor
+nuestro, entonces como ellos no se defienden sino es con armas, entonces cuando
+ya mi esposo lo cascó, se le vinieron 3 más a cascar a mi esposo, entonces él
+se metió para la casa y los papás de mi esposo se pararon en la puerta,
+entonces eran mandando pata y todo, encima de mis suegros, como para sacarlo,
+inclusive le rasgaron el buzo que tenía y bueno, entonces le dijeron "que
+es que no, espere, andá por el fierro, andá por el fierro" entonces,
+mientras el otro iba supuestamente, otro le decía a él, "sabes qué, ábrete
+de por acá, no te queremos ver ahí", toda la vida él ha sido por allá,
+todo el mundo lo conoce, inclusive los manes que lo hicieron, ellos lo conocían
+a él, entonces, él ese día estaba en pantaloneta, la hermanita llamó la policía
+pero inmediatamente se lo llevó para el -------, se lo llevó para el CAI [INC:
+Comando de Acción Inmediata], de allí de esa [INAD: 27:15]. ¡Ah, no!, qué pena,
+como ya la hermanita había llamado a la policía, se encontraron a los policías
+en el ------- y ya ellos se lo llevaron para el CAI y le preguntaron a él que si
+quería hacer algún denuncio, él dijo que no, que él se quería ir. Entonces él
+ya se fue para donde la tía que vive en la ----------- en ----------, nosotros ENT
+no sabíamos pues de poner denuncios ni nada, yo pensaba que la declaración era
+denunciar al muchacho, nosotros pensábamos, si lo denunciamos matan a mi suegro
+o le hacen algo a mi cuñada, porque mi cuñado es un año mayor que mi esposo o
+me hacen algo a mí o no sé, entonces nosotros en ningún momento hicimos nada,
+nosotros en ese momento estaban en lo de la escombrera
+ENT:
+
+Ah, eso fue en el 2015
+TEST:
+Sí
+ENT:
+Te entendí en el 2005
+TEST:
+No, 2015. Entonces una de las psicólogas yo le comenté y ella me dio asesoría y
+me dijo, "no, es que tú vas a dar una declaración" entonces eso fue 5
+meses después de haber pasado lo de mi esposo, entonces como él vivía en ------,
+fue a -----------, hizo todo el proceso, no dieron ayuda inmediata ni nada de eso
+porque ya habían pasado 5 meses, pero entonces él sólo se desplazó con la niña mía,
+porque me dijo que yo no me había ido con él, que él no me metía ahí. Porque él
+se fue solo, yo me quedé con mi mamá y la niña.
+ENT:
+¿Y la niña si se desplazó, ella sí se fue?
+TEST:
+No, yo me quedé con la niña, pero como ella es menor de edad, él la incluyó, a
+mí no.
+ENT:
+Y la niña se vio afectada por esa situación
+TEST:
+Sí
+ENT:
+¿Sí?
+TEST:
+Te acordás que la tuve contigo
+ENT:
+¡Ay, sí!, nosotros estuvimos conversando, es que yo, cuando me contaste lo del
+perrito sí pensé como esa situación, el de la hermana [INAD: 29:03], ya me
+acordé
+TEST:
+Sí, la niña estuvo super mal porque ella no sabía, yo no le quería decir, yo le
+dije "mami, el papá se fue porque vamos a buscar otra casita", o sea,
+yo siempre quise mantenerlo, porque ella es igual de nerviosa a mí, pero mi
+suegra es muy, pero muy grande y muy imprudente. Un día la niña fue allá y ella
+le dijo "mami, es que su papá se fue porque lo iban a matar", que fue
+eso, ya la niña veía a esos muchachos y decía "mami, esos eran los que le
+quisieron hacer daño a mi papá", la niña se me ponía nerviosa, la niña no
+me comía
+ENT:
+¿Cuántos años es que tenía ella en ese momento?
+TEST:
+Ella, tenía 5 años.
+
+ENT:
+¿Cuántos años tiene ahora?
+TEST:
+Tiene 10, ah no, si tenía 5 años, tenía 6
+ENT:
+¿Ahora tiene?
+TEST:
+10
+ENT:
+Me das el nombre completo de tu esposo y
+TEST:
+FAMILIAR5.
+ENT:
+Y de la niña
+TEST:
+FAMILIAR6
+ENT:
+¿Y él cuántos años tenía cuando pasó eso?
+TEST:
+[risas] Ahora tiene 34
+ENT:
+¿28?
+TEST:
+28, sí
+ENT:
+Pero entonces eso no es asociado pues como al caso de
+TEST:
+De mi papá, no
+ENT:
+Yo te pregunto algo, como devolviéndonos un poquito, ¿cierto?, cómo lo que me
+estabas contando ahorita, al inicio. Tu dijiste que tú te ibas, que siempre te
+llevaba, cierto?, que significó eso que ya no te llevara al colegio
+TEST:
+Eso fue super duro porque, inclusive todavía, nos preguntamos y yo le digo a mi
+mamá "mamá, que hubiera sido, si ese día mi papá si me hubiera
+llevado", ¿no hubiera pasado?, ¿si hubiera pasado?, ¿me hubieran sacado a
+mí del carro?, ¿me hubieran llevado con él?, uno no sabe, o sea, todavía
+nosotros nos preguntamos eso. Pudieron haber pasado muchas cosas, eso fue ENT un vacío
+muy grande, porque es que yo era la ñaña de él.
+ENT:
+¿Qué significa eso para ti, ser la ñaña?
+TEST:
+¡Ja!, que mi papá era todo conmigo, todo para mí, que mi papá era muy recio con
+
+mis hermanos, los regañaba mucho, les pegaba mucho, en cambio como yo era la
+niña, incluso cuando ellos le querían pedir algo a mi papá me mandaban a mí,
+entonces mi papá era "mi niña", él era conmigo todo, me llevaba al
+trabajo, pues a los muchachos también pero como ellos ya estaban todos grandes,
+ya a ellos no los llevaba. Entonces a mí me llevaba al trabajo los fines de
+semana, él me, inclusive, sólo me pegó 2 veces y las 2 veces que me pegó me
+llamó a pedirme disculpas del trabajo, lo que nunca hizo con los muchachos,
+Entonces para mí todo eso fue tenaz
+ENT:
+Qué crees que significaba para él eso de que eras tu niña, que significaba para
+él, para tu mamá en esa época ser la niña.
+TEST:
+¡Ay!, yo no sé
+ENT: Lo que se te venga a la cabeza
+TEST: No, pues es que yo para él, mi mamá me dice que yo para él era
+todo, o sea, él también quería a mis hermanos obviamente pero yo para él era
+todo, pues es que, como le digo, él hacía cosas conmigo que no hacía con ellos,
+él me llevaba los fines de semana para el trabajo, él me llevaba al colegio lo
+que no hacía con ellos, pero digamos que todo se prestaba, porque como ellos ya
+estaban en bachillerato ellos entraban más temprano, en cambio yo tenía un
+horario más flexible entonces él me llevaba y ya de ahí se iba a trabajar,
+entonces él siempre buscaba como la manera de tenerme a mí bien
+ENT: TEST, y tú qué piensas, tú que eres mamá y todo qué piensas que
+eso ocurrió en esa edad, o sea, qué ese hecho haya ocurrido en esa edad, qué
+impacto tuvo en ti
+TEST: Es que así hubiera sido en cualquier edad me hubiera dado igual de
+duro
+ENT: sí
+TEST: Sí, porque como le digo yo a mi mamá la amo, la adoro y doy la
+vida por ella, pero para mí mi papá en ese momento era, lo que es ahora mi mamá
+para mí, era mi papá, y a pesar de que el regañaba mucho a mis hermanitos,
+inclusive le pegaba a mi mamá le era infiel porque yo me daba cuenta
+ENT: ¿Tú sabías?
+TEST: Sí, yo me di cuenta de una finalidad y él le pegaba porque le
+pegaba delante de nosotros, pero a mí eso no me hacía dañar la imagen que yo
+tenía de papá, porque él conmigo fue excelente papá, excelente, excelente,
+siempre estuvo para mí, siempre me decía que era bueno y que era malo, fue
+también muy, ¿cómo se dice?, o sea, me cuidaba mucho, no me dejaba salir casi,
+pero entonces cuando si me dejaba bueno, inclusive yo iba a una recreación en
+------------por el Centro Integral de un barrial y a pesar de que no era ahí
+tan cerquita él se iba por todo ------------y se daba esa vuelta me iba y me
+recogía en el carro, entonces yo digo que esa relación nunca se hubiera dañado
+entonces yo digo que en cualquier edad me hubiera dado igual de duro
+
+ENT: ¿Por qué dices que ahorita te toco inventarte pues como una forma
+de estar sin él?, ¿qué hiciste?, ¿cómo enfrentaste?
+TEST: Sí, no es que me tocó, no sé, cómo que todo maduramos así pum a
+las malas. Los primeros meses fue muy duro, por qué mi hermano mayor empezó a
+tirar vicio, o sea, como mi papá era la autoridad en la casa porque mi mamá
+siempre fue de un carácter muy blandito, entonces mi hermano mayor empezó a
+tirar vicio
+ENT: ¿Y tú crees que fue producto de?
+TEST: Sí, porque ya no estaba la autoridad en la casa, entonces cómo se
+dice, nosotros pasamos a mi mamá por la galleta. Entonces, el menor fue normal,
+él nunca dio lío, él nunca ha dado lío y yo cuando se fueron los paramilitares
+y que empezaron los de las bandas militares, ¡ay, ENT por Dios!, cada
+escuadra que llegaba yo me conseguía un novio y yo tan chiquita. Entonces eso
+era, a mi mamá le llamaban al trabajo a decirle que yo estaba por allá con los
+soldados, que me pusieran cuidado, que esto, que lo otro, recorrí muchos
+colegios porque cuando mi papá se desapareció que estaba en sexto, pero yo no sé
+por qué, creo que me iban a hacer perder el año porque había perdido dos
+materias, mi mamá no me dejó y me paso para otro, de ahí no me dejó y me pasó
+para otro y así me la pasé
+ENT: ¿Y tú crees que, por ejemplo, todo eso tuvo que ver con…?
+TEST: Sí
+ENT: El colegio, la forma en que te relacionabas con tus amiguitos,
+¿también cambió o fue?
+TEST: Sí, cambia mucho porque cuando pasó la operación Orión se fueron
+muchos de mis amigos por allá, se fueron muchos los que eran así más cercanos
+sí me apoyaban mucho pero, yo decidí cambiar y tener esa actitud con esos
+soldados, y mis amigos me decían “pero mirá, no te metas con esos manes”
+ENT: ¿Y por qué crees tú que fue esa la forma?
+TEST: No sé
+ENT: ¿Qué se te ocurre?
+TEST:
+Como que eso me hacía como despejar la mente, porque yo hasta hace muy poco yo
+lloraba por mi papá, hace por ahí 3 años ya ni en diciembre, ni el día del
+padre pues ya no era tan duro, antes yo lloraba en mi cumpleaños, en el día del
+padre, en el cumpleaños de él, en diciembre, en todos lados, entonces yo cómo
+que estar con ellos y cómo se dice gaminiar, estar en la calle, hacer nada,
+como que eso no me dejaba pensar
+ENT:
+¿Y la relación con tus hermanos y con tu mamá cómo fue?
+TEST:
+Pues fue muy duro todo porque como le digo, mi hermanita empezó a tirar vicio,
+entonces la que se dio cuenta fui yo, porque mi mamá pues trabajaba yo era la
+que arreglaba la casa, entonces yo una vez arreglando la casa, el bolso que él
+
+tenía del colegio, yo arreglándole la cama normal, yo cogí el bolso y sentí
+olor a marihuana y dije "ve, tan raro eso" y me puse esculcar el
+bolso y vi un pedazo de bareto como se dice, entonces yo le conté a mi mamá y
+ella se puso a llorar mucho, demasiado, decía que por qué, que por qué no lo
+ayudábamos, que mira eso como estaba, que no y mi mamá la pasó muy mal, la
+relación era mala, entonces ya ella no le podía dar estudiar al mayor entonces
+le dijo que se pusiera a trabajar, el otro si siguió estudiando pues normal,
+pero fue muy duro todo ENT, porque ella se ganaba un mínimo, mi mamá salía en
+la noche y llegaba de noche
+ENT:
+Entonces tú crees que la relación de la mamá, ¿cómo fue?, ¿cambió, no cambió? o
+hubiera sido distinta si el papá no...
+TEST:
+Es que hubiera sido todo distinto, yo creo que inclusive yo no tendría mi hija,
+mis hermanos fueran unos súper profesionales, yo también, ¿por qué?, porque él
+era una autoridad muy berraca y él siempre nos llevaba, o sea, nosotros nunca
+le perdimos un año a él, único que se lo perdió fue el mí hermanito FAMILIAR7, el
+de el medio y le supo a cacho, porque le dio reverenda pela y bueno, entonces
+él siempre era con nosotros "no me pierdan la materia, no me pierdan año,
+miren tal cosa, mira tal otra", entonces yo digo que donde eso no hubiera
+pasado, fuéramos unos profesionales, o sea, nosotros como mi mamá fue siempre
+de carácter muy blandito y todo eso, ella nos decía algo y nosotros pues como
+que cómo que normal, como que no, o sea, no nos sentíamos tan intimidades como
+con él, entonces ella nos decía las cosas pero no nos presionaba, yo creo que a
+ella le falta fue eso, carácter con nosotros pero nunca lo ha sido, todavía es
+así.
+ENT:
+TEST y por ejemplo en términos de, a los 12 años que ocurre de hecho, cierto,
+los niños hacen ciertas cosas, ¿qué hace, por ejemplo tu hija a esta edad?
+TEST:
+¿Cómo qué?
+ENT:
+Juega, estudia, ¿qué hace?
+TEST:
+Sí, pues ahora
+ENT:
+Está en internet, ¿cierto?, a esa edad los niños que hacían
+TEST: ¡Ja!, jugábamos, o sea, después de la operación Orión ya no jugábamos
+tanto aquí, pero nosotros jugábamos en la calle hasta tarde, que yo
+inclusive le decía a mi hija -ella era compañera de trabajo de mi papáENT: Sí [susurro] vea, qué casualidad
+TEST: Yo le dije a, yo le decía a mi hija "mami, donde usted
+hubiera tenido la niñez que yo tuve" yo tuve una niñez, o sea, a pesar de
+
+que estaban como lejos los guerrilleros nunca nos sentimos amenazados por ellos
+ENT: ¿Nunca?
+TEST: Nunca, o sea, nosotros callejeábamos y jugamos afuera de la casa
+hasta tarde, nunca pasaba lo que pasa ahora que se roban los niños, que lo
+violan, o sea antes no pasaban esas cosas
+ENT: Y cuando ocurre lo de tu papá que es a tus 12 años, ¿hubo una
+ruptura con eso?, o sea, tú dejaste salir, tus hermanos, cuéntame de eso
+TEST: Todos, todo mundo se encerró, todo el mundo porque como se había
+acuerado [DUD: 41:47] los paramilitares, si antes algunos les daba miedo, ahora
+sí que... entonces como estaban por esos días de que estaban desapareciendo la
+gente, entonces nadie se veía por allá, nadie jugaba, no, eso era un desierto
+total
+ENT: ¿Entonces tú crees que ahí se vulneraron los derechos?
+TEST: Sí, inclusive todavía, porque es que ahora, cuando yo vivía
+todavía por allá y mi niña ya había nacido yo no lo dejaba jugar en la calle,
+¿por qué?, porque esos muchachos de esas bandas, cómo se dice de prende, no les
+importa
+ENT: No les importa
+TEST: No
+ENT: Yo tenía por acá una pregunta, ¡ah sí!, ¿han habido después?,
+cuando hablo después es desde esa edad particularmente y en esa edad, por
+ejemplo en la niñez, llanto o había era rabia, ¿cómo era tu conducta, tus
+emociones en esa época?
+TEST: Nosotros si lloramos mucho, más que todo yo, los muchachos que yo
+me acuerde nunca lo sentí llorando, pues sí se preocupaban y todo eso pero pues
+a mí fue la que más duro me dio, pero nos daba mucha rabia, no tanto con los
+que se lo habían llevado, sino con la familia, o sea nosotros inclusive dejamos
+de ir donde mi mamita, porque nos daba rabia porque por ellos, porque por nada
+más fue, porque por ellos fue que mi papá le pasó lo que le pasó, entonces mi mamita
+fue como le digo muy alcahueta con ellos siempre, o sea, si se les tenían
+que tapar las cosas se las tapaba, si ella les tenía que tapar las mozas
+se las tapaba, entonces no íbamos donde mi mamita, no íbamos ni donde las tías
+de mi papá, fue mucho tiempo inclusive sin hablarle a los hermanos de él, por
+rabia, más que todos con ellos, mucha rabia, mucha rabia, inclusive yo creo que
+ahora pues, ellos eran 3 que están metidos en eso pero ya mataron a 2, entonces
+hay 1 que sí está por ahí, pero no lo vemos casi, yo creo que tiene casa por
+cárcel, pero entonces inclusive yo lo veo a él y yo todavía pienso en eso, o
+sea él hizo lo que hizo y fue lo que fue y en este momento está tan campante
+como si nada y sabiendo que el hermano no tenía nada que ver y mire
+ENT: ¿Y los han ayudado en la búsqueda?
+TEST: No, nada, nada, nada incluso una vez un reproche por parte de mi
+mamá hacia ellos porque nunca llegaron a nada, entonces una hermana de mi papá
+disque fue a poner el denuncio, y ahora para qué si mi mamá ya lo puso, pues
+
+eso no tiene nada que ver, ellos están más que todo ENT tras de la plata
+ENT: ¿Ustedes ya lo repararon?
+TEST: No
+ENT: No les han hecho reparación, pero ustedes sí están incluidos
+TEST: Sí
+ENT: ¿Y qué les han hecho, cómo van en ese proceso?
+TEST: No, pues mi mamá fue el año pasado y le dijeron que disque le
+iban a tener en prioridad
+ENT: ¿Pero ustedes no habían salido?, ¿entonces cuál fue el dinero
+que le salió a ella? fue el de la liquidez, el de ORGANIZACIÓN PRIVADA1
+TEST: El de ORGANIZACIÓN PRIVADA1
+ENT: ¡Ah ya!, con lo que hizo algo en la casa
+TEST: Sí
+ENT: ¡Ah ya!
+TEST: Sí, fue el dinero de ORGANIZACIÓN PRIVADA1 porque allá creo que nunca
+liquidaban, liquidaban ya cuando se fueran a ir, entonces pero así de
+reparación por parte del gobierno nunca ha habido nada jamás, jamás, entonces
+yo creo que ellos se pusieron a hacer ese denuncio y todo eso, porque ellos
+están más que todo es detrás de la plata, porque es que a uno de los tíos míos
+que fue guerrillero, a él ya lo repararon, entonces, yo no sé, la esposa como
+que no hizo vueltas, no sé, en todo caso esa plata se la dividieron entre los
+dos hijos y mis dos papitos, pero yo le dije a mamá, o sea yo no sé si es que
+soy muy egoísta pero le dije mamá que a mi mamita no la meta, pues o sea,
+a mí papito nosotros le decimos papito porque es el papá de los 4 menores hijos
+de mi mamita, pero entonces ha estado mucho tiempo con mamita, entonces
+nosotros decimos papito, pero entonces yo digo que, o sea la única que se
+merece la plata es mi mamá y nosotros, que nosotros fuimos los que aguantamos
+hambre, nosotros fuimos los que estuvimos sin el papá, nosotros fuimos los que
+quedamos desamparados porque de parte de ellos nunca hubo apoyo de nada, de
+absolutamente nada, inclusive ENT todavía, hay alguna reunión, alguna
+conmemoración y mi mamá los llama y les dice y nunca viene
+ENT: Nunca viene
+TEST: Nunca vienen, nunca van, nunca hacen nada, entonces puede sonar
+muy egoísta pero yo digo que en algún momento nos reparan
+ENT: TEST, cuando tú eras niña, ¿tú hablabas de eso con alguien en el
+colegio?
+TEST: No, porque no me gustaba
+ENT: ¿Cuándo empiezas a hablar de esto con alguien?
+TEST: Cuando mi mamá se mete a ORGANIZACIÓN SOCIAL1, ya, porque de resto yo
+ENT: ¿En la escombrera?
+TEST: Sí, no, antes cuando empezó con la hermana, que yo conocí a la
+hermana, que yo ya empecé a hablar con ella, o sea si no es que los amiguitos,
+por ejemplo los que son padrinos ahora de mi niña eran los mejores amiguitos
+
+míos desde chiquiticos, entonces ellos ya sabían la historia mía, entonces
+ENT: Pero de cómo te sentías, de lo que
+TEST: Nunca, con ellos nunca
+ENT: Nunca. En el colegio, por ejemplo
+TEST: Tampoco
+ENT: ¿Los profes sabían, recibías apoyo institucional?, nunca recibiste
+apoyo, ni tus hermanos
+TEST: No
+ENT: ¿y crees que hubiera sido importante tener?
+TEST: Pues yo creo que sí, de pronto como para guiarlo a uno y no haber
+sido así como tan mal hijo
+ENT; ¿Por qué mal hijo?
+TEST: Porque le dimos mucha leña mi mamá, pues yo en el sentido de los
+soldados, en el colegio que no daba, no daba con un colegio, el mayor pues
+también con el vicio, claro que conoció a una muchacha lo dejó
+ENT: ¿Cómo?
+TEST: Él conoció a una muchacha y lo dejó del todo, de todo, de todo
+dejó el vicio
+ENT: ¿Sí?
+TEST: Sí, el otro pues nunca dio lío, nunca dio nada
+ENT: ¿Tú crees que la afectación que tiene tu hermano puede tener que
+ver con el impacto de ese hecho?
+TEST: No [audio: mm mm]
+ENT: o sí es un asunto neurológico o que de pronto se la haya acentuado
+por el hecho, qué se le haya
+TEST: No
+ENT: No
+TEST: Es que él siempre ha sido así
+ENT: Desde la niñez, siempre fue así, pero muchas veces algunos casos
+por el impacto se le incrementa los episodios
+TEST: No, pues él siempre ha sido así, él siempre fue callado, fue muy
+retraído, más que todo pues con la presión a mi papá y todo eso, pero siempre
+se refugió mucho en los videojuegos y todavía, todavía lo hace, ya después de
+viejo ahí está
+ENT: ¿Y tú crees que tu hija ha tenido algún impacto de la situación de
+tu papá?
+TEST: No, pues
+ENT: ¿Ella conoce el caso?
+TEST: Hace poquito yo le conté, bueno yo le decía ella "mami, el
+abuelito se murió, se murió, se murió"
+ENT: ¿Tú reconoces, o sea, tú conoces, tú dices que el abuelo está, que
+tu papá está desaparecido o muerto? cómo lo
+TEST: Pues ya muerto
+
+ENT: Tú dices que está muerto
+TEST: Sí, pues
+ENT: ¿Hay indicios o tú lo quieres asumir de esa manera?
+TEST: No, no hay indicios, sino que yo sí, sí porque digamos si eso era
+una venganza contra mis tíos obviamente no lo iban a dejar vivo, obviamente no
+y decir que lo voy a encontrar y le voy a dar cristiana sepultura, pues
+también perdí la fe, entonces para mí está muerto, entonces yo le decía a la
+niña "el abuelito está muerta, el abuelito está muerta" pero cuando
+estaba chiquitica nos preguntaba qué le había pasado, como los 7 u 8 años me
+dijo "mamá, que le pasó a mi abuelito", entonces ya yo le conté, yo
+le conté que era que lo habían desaparecido, porque cuando estaba chiquitica sí
+preguntaba que para qué íbamos a la escombrera, que qué era eso, que por qué
+íbamos allá entonces yo le decía "se acuerdo cuando la abuela y yo íbamos
+a la escombrera" yo le dije "si mami porque pasó esto y esto"
+entonces ya me dice "pero los hermanos de mi papá, pues porque permitieron
+eso", y yo, "no, pues es que no es que lo hubieran permitido sino que
+las acciones de ellos hicieron eso", incluso las acciones de ellos lo llevaron
+a la muerte porque a medida que se desapareció mi papá, mataron al menor, el
+niño, el niño, nos cuenta la mujer de él, que lloró mucho, que él lloró mucho,
+que él decía que lo que le había pasado mi papá había sido culpa de él, pero él
+igual para donde se fue, él se fue al ------ creo que fue, al ------------ sí y por
+allá creo que un amigo lo mató por plata, creo que le ofrecieron plata por él,
+entonces lo mató, y a los 4 años mataron al otro, o sea él ya estaba
+súper, cómo se dice, juicioso, o sea nada que ver, trabajando pero las culebras
+le llegaron hasta allá, y el otro pues así como le digo, pues tiene casa por
+cárcel, pero con ese man nada que ver. Entonces, por ejemplo ahora nosotros
+vamos mucho a donde mis primitos, los que yo le digo que los desplazados, y mi
+primita tiene una niña de 12 años
+ENT: Ellos son hijos de alguno de ellos, de los que me estabas diciendo
+TEST: Sí, mi hija, mi primita tiene una niña de 12 años y FAMILIAR1 se la va
+bien con ella, ella me dice "mami, ¿el papá de FAMILIAR1 era el que estaba
+metido en eso?" yo, "sí mami, sí, pero shh" o sea, yo le digo a
+ella "hay que ser muy prudente con eso", pues ella me dice a mí,
+entonces me dice "mami y cuál"
+ENT: Estás jugando con fuego [risas],
+TEST: Pero ella es muy
+ENT: Pero también es importante que se le nombre
+TEST: Porque es que inclusive estos días, el 28 de diciembre fuimos
+donde ellos, estábamos viendo fotos y había una foto de él y mi hija no lo
+conocía, yo le dije "él es el papá de FAMILIAR1", "¡Ah!, ese era el
+que estaba" [susurro], "sí, es el que estaba en el bla bla bla, ese
+era el hermano de mi papá" [susurro], entonces había una foto del
+otro que también mataron, pero entonces con los hijos de él no, porque ellos
+
+viven en la -----------, entonces ella se alejó mucho de nosotros, cuando a
+él lo mataron ella estaba embarazada de la niña y el niño vio, el niño
+inclusive estaba, como que lo cargo mientras el papá se moría, tenía como 6
+añitos y ella está embarazada de FAMILIAR8, entonces ellos vivieron mucho tiempo
+con mi mamita [INAD: 53:14], pero ya después ella se fue para allá, muy
+arriesgado y todo, porque por allá en el 2 también todo el mundo los conocía a
+ellos y todo eso, por allá los crio, nosotros nunca, o sea, yo los tengo a
+ellos en el Facebook, yo veo fotos, inclusive del niño pues que lo vio morir a
+él, ya tiene otro niño
+ENT: ¿Ya tiene un niño?
+TEST: ¿Ah?
+ENT: ¿Ya tiene un niño?
+TEST: Sí
+ENT: O sea, es como si el tío tuviera un nieto
+TEST: Sí, un nieto
+ENT: Ok
+TEST: La niña es igualita a él, a mi tío, i-gua-li-ta
+ENT: ¿sí?
+TEST: Igualita, igualita a mi tío, pero con ellos no, pues yo los tengo
+a ellos ahí, veo fotos y todo eso pero no les hablo ni nada. Y con la de los
+hijos del otro, tampoco, o sea nosotros son más con los que yo le digo que son
+desplazados y todo eso y ya
+ENT: Yo tengo una pregunta, ¿tú cómo crees que se podría hacer justicia
+en ese caso?
+TEST: ¿Hacer justicia?
+ENT: ¿Tú crees que se va a resolver, que puede haber justicia?
+TEST: No
+ENT: No
+TEST: De pronto justicia con los hermanos ya se hizo
+ENT: ¿Tú crees que el asesinato fue una forma de hacer justicia?
+TEST: Sí, sí, yo sí creo y eso puede sonar muy cruel y todo, pero al
+otro además le llegan en algún momento y se van a tener que ver las caras allá
+todos 4
+ENT: ¿Y en términos de los responsables directos, de quienes se lo
+llevaron, qué podría pasar, qué te gustaría que ocurriera con ellos?
+TEST: Pues, ese tal don Berna que lo dejen por allá, decir, cuando
+hablan de perdón, yo no
+ENT: Ni perdón no
+TEST: Nunca, no porque es que eso dañó muchas cosas, o sea, nos dejó a
+nosotros sin papá, nos dejó desamparados se puede decir porque como te digo mi
+mamá trabajaba, le tocó empezó a coger suerte, alejarnos de la familia, de
+todo, o sea, yo, a mí me dicen que perdonar, que sana el alma, yo no creo en
+eso
+
+ENT: Bueno y ¿cómo crees que podría generar una reparación, ¿tú sabes
+que es reparar o qué crees que es reparar?, ¿para ti que sería reparar?
+TEST: Pues yo la verdad, no sé
+ENT: ¿Pero qué se te ocurre?, ¿para ti qué es? pues porque una cosa es lo
+que se ha construido en términos institucionales y otra cosa es lo que para
+cada uno es reparar, cierto, porque es que a cada uno es el que se le
+desapareció o asesinaron al familiar, ¿para ti qué podría ser reparar?
+TEST: Pues es que reparar yo creo que no, es que ni con plata, porque es
+que a uno cómo le van a, o sea yo digo que lo único que le podría servir ahí
+sería encontrarlo a él
+ENT: Encontrarlo
+TEST: Encontrarlo, yo creo que eso sería la única reparación
+ENT: ¿Vivo?
+TEST: No
+ENT: También encontrarlo, para darle cristiana sepultura.
+TEST: Muerto. Sí.
+ENT: Eso podría repararte a ti
+TEST: Sí, porque yo creo que ni la plata, o sea uno saber que uno está
+recibiendo plata por la muerte de él, pues no, entonces yo digo que eso
+ENT: Pero eso es parte de la reparación, un proceso de reparación
+integral, cierto, entonces está la indemnización que es lo económico, que
+también hace parte de las afectaciones que tienen las personas y eso que tú
+estás diciendo también, que es la búsqueda del familiar. ¿Y tú qué crees qué se
+podría hacer, qué se podría hacer para que eso no se repita en los contextos,
+en tu contexto y para que ningún niño o niña viva eso?, ¿qué crees, qué se te
+ocurre?
+TEST: Desmovilizar a todo el mundo
+ENT: ¿Y para que se desmovilice todo el mundo que podría pasar, qué
+tendría que pasar?
+TEST: Yo no sé
+ENT: O para que la gente no tome las armas, por ejemplo, ¿qué crees?
+TEST: Si no que es que hay muchos que lo toman porque quieren, porque
+conozco casos, que no tienen necesidad, que se les da todo, porque quieren
+matar y quieren coger un arma, entonces digamos que hubieran más facilidades de
+trabajo, de estudio, para que los que tuvieran necesidades no se fuera por ese
+camino, ya como le digo, ya los que las cogen porque quieren ya ahí sí
+ENT: Y eso de los que quieren, ¿qué será, quieren qué?
+TEST: Quieren como sentir que es coger un arma, que es ser un duro, como
+esa sensación, porque yo conozco un caso que, o sea lo hizo porque quiso,
+porque necesidad no
+ENT: ¿Qué quisieras nombrar?
+TEST: ¿Qué?
+ENT: ¿Qué otras cosas quisieras contar, nombrar?
+
+TEST: Nada
+ENT: ¿Qué le dirías a la TEST de 12 años, que estaba triste?
+TEST: ¿Qué le diría?
+ENT: Sí
+TEST: No sé, porque al igual yo todavía lo recuerdo mucho y duele, que
+no fuera tan mala hija [risa], no porque digamos que mi mamá siempre fue de
+carácter así como pasivo y mi papá era muy autoritario, entonces ella siempre
+estuvo como la sombra de él, entonces cómo que apoyarla más, sí, no sé
+ENT: ¿Tú crees que es importante que se conozca la verdad de estas
+situaciones que ocurren?
+TEST: Sí
+ENT: ¿Por qué crees que es importante?
+TEST: Porque es que, siempre ha habido mucha confusión, es que si lo
+mataron es porque la debía, es que si le pasó esto es que se ve que no era
+sanito, entonces que la gente sepa que hay veces las cosas pasan, no les pasa a
+los que la debe simplemente por familia o por nexos o por no sé, no es porque
+la deba o porque hubiera sido malo, para que la gente sepa que fue una
+equivocación de otras personas, sí, eso
+ENT: TEST, muchísimas gracias
+TEST: A usted
+ENT: muchas, muchas gracias, voy a parar esto no este momento la
+grabación
+
+

@@ -1,0 +1,562 @@
+ENT: Buen días TEST cómo estás, bienvenida, regálanos tu nombre completo por favor
+TEST: Buenos días, mucho gusto, mi nombre es -----------------------ENT: ¿Dónde naciste?
+TEST: Yo nací aquí en -------------, Huila.
+ENT: ¿En qué fecha?
+TEST: El ------------ de 1977
+ENT: O sea que usted conoce -------------como la palma de su mano.
+TEST: Pues... doctora... a raíz de lo que a mí me tocó vivir....
+ENT: ¿Por qué?
+TEST: [Llanto] Porque o sea yo a la edad de 9 años... mataron a mis papás.
+ENT: ¿Dónde vivían ustedes TEST?
+TEST: Nosotros vivíamos arriba en el ----------------... en una vereda, una de las veredas ya
+lejanas de aquí del municipio...
+ENT: En la vereda ----------TEST: Así se llama.
+ENT: ¿Quién mata a tus padres?
+TEST: La guerrilla.
+ENT: ¿Usted sabe qué frente fue?
+TEST: Doctora, ene se tiempo operaba por aquí RANGO 1, que hoy en día está sentado en las
+mesas allá.... pasando bueno y uno sí llevando del arrume. Por qué digo yo, porque nosotros
+quedamos sin nada, nosotros quedamos al amparo de la gente.
+ENT: ¿Tú tenías más hermanos? ¿eras de las mayores?
+TEST: Yo era la mayorcita, 9 años, tiempo atrás... tengo 3 hermanos que no los conozco, no
+sé si los voy a conocer.
+ENT: ¿O sea, a ustedes los niños los cogieron y los repartieron en la comunidad?
+TEST: ¡No! o sea, nojotros nos cogieron y nosotras somos dos niñas, nosotras salimos para
+un orfanato, y los niños para otro lado.
+ENT: ¿ORGANIZACIÓN PÚBLICA 1 qué hizo en ese momento?
+TEST: ORGANIZACIÓN PÚBLICA 1, le agradezco tanto, porque nojotras nos criamos allá en
+un internado, o sea, la vida de nojotras fue en un internado hasta los 18 años que lo tiene a
+uno allá. Y los otros niños, pues no.... no, o sea yo no los conozco, o sea yo solo sé que ellos
+existen, pero no los conozco.
+ENT: A su hermana con la que usted se crio ¿tiene contacto con ella?
+TEST: Sí, nosotras dos sí mantenemos el contacto.
+ENT: Solamente con sus hermanos barones no...
+TEST: No....
+ENT: ¿Cuántos son?
+TEST: Ellos son 4.
+ENT: ¿En qué municipio de ORGANIZACIÓN PÚBLICA 1 te criaste?
+TEST: Yo me crie en ---------.
+ENT: ¿Y sus hermanos? ¿usted supo para dónde se fueron?
+TEST: O sea, nosotros a raíz de todo lo que nos tocó vivir porque fue una cosa terrible, es
+algo que queda muy marcado para la vida...
+
+ENT: Sí claro....
+TEST: Como le decía yo a una psicóloga, yo agradezco tanto ese programa de víctimas
+porque a raíz de todo lo que a mí me tocó vivir yo nunca había tenido una ayuda psicológica,
+la vine a tener el año pasado por el CONOCIDO 1 porque yo le contaba a él. Una vez yo me
+puse a hablar con él y lo le contaba que mi vida ha sido tan dura, y entonces él me metió a
+un programa que venía una psicóloga y yo me ponía a hablar con ella y ella me decía a mí
+"que esas cosas se olvidan" y yo le dije "no, -yo le dije- doctora para mí eso vive diario,
+porque doctora yo me acuerdo cómo llegaron, cómo se los llevaron, todo, yo me acuerdo de
+todo".
+ENT: ¿Tú quieres narrarme ese hecho, así como tú lo recuerdas?
+TEST: Ay doctora eso es muy duro…. no.… o sea, esa gente es tan inhumana, es gente que no
+tiene como... o sea es una gente que no tiene como corazón, no tiene nada, una vez yo me
+quedé.... o sea, ellos no mirar que quedaban 8 niños, quedaban 8 niños ¿al amparo de quién?
+¿amparo de quién? de nada.... entonces yo le decía a la psicóloga eso y ella me dijo "No,
+señora TEST eso se olvida con el tiempo", yo le dije "no, tengo 41 años y eso me [INAD 04:58
+-05:00 ] o sea, yo todos los días, por ejemplo, yo para mí el mes de ------ para mí es mortal,
+para mí que no existiera ese mes de -------, para mí es muy mortal. O sea, yo solamente vivo
+el dolor que yo llevo por dentro, porque no... enfrentarse a la vida así eso no... y de mirar
+que... las cosas tan injustas, o sea, uno dice "bueno ¿yo por qué tuve que pagar esto así?".
+ENT: ¿Nunca le has encontrado una razón a ese por qué?
+TEST: ¡No! pues qué, eso doctora esa gente hace lo que hace y jumm...
+ENT: ¿Cómo mueren tus papás?
+TEST: Ellos, ellos llegaron, o sea esa gente llegó a la casita, nosotros vivíamos arriba en
+----------- las casitas en ese tiempo eran humildes, eran de bareque. Ellos llegaron entre
+oscuro y claro...
+ENT: ¿En la mañana o tarde?
+TEST: Un ---------- de 1986, llegaron entre oscuro y claro. Mi mamá tenía un bebé de 6
+meses, ella le estaba dando seno al bebé, llegaron y cogieron a papá, cogieron a mi hermano
+y los amarraron.
+ENT: ¿Al bebecito?
+TEST: No, a otro
+ENT: ¿Hermano mayor?
+TEST: Ese niño tenía como 7 u 8 añitos, se lo llevaron a él con mi papá, y a mi mamá le
+dieron tiempo que le diera de comer al niño para llevársela, mientras ella estaba
+terminando de darle de comer al niño cogieron al esposo de la señora que vino aquí, o sea el
+hermano de mi papá...
+ENT: Su tío....
+TEST: Y se lo llevaron, no supimos, doctora, nada más.... nos cogieron a nosotros los niños
+que quedamos y nos encerraron, nos amarraron las puerticas de ese tiempo, las amarraron
+con un rejo de esos de ganado, que esos tiempo eran así, nos amarraron la puerta por fuera
+y nosotros todo el día ahí encerrados, sin poder salir porque ¿cómo salíamos?
+ENT: ¿En total cuántos niños quedaron en la casa?
+TEST: Nos quedamos 7.... de esos... y nosotros todo el día encerrados, en esos tiempos era
+
+muy poquita la población de donde nosotros vivíamos, las casas eran muy retiradas y una
+vecina de ver que en esa casa tanto niños que habían, pues la bulla era... y que se pasó todo
+el día y nada y ella cogió camino y se fue para allá, llegó a la casa y ella empezó a llamar a mi
+mamá. Mi mamá se llamaba FAMILIAR 1, ella le decía "¡FAMILIAR 1, FAMILIAR 1!”, entonces
+mi hermanito él abrió una ventanita pequeñita - porque en esos tiempos las ventanas eran
+pequeñitas de esas casitas así- y él abrió la ventanita y le dijo - la señora llama CONOCIDA 2
+la señora todavía vive- él dijo "¡CONOCIDA 2, CONOCIDA 2!” mire que se llevaron a papá, a
+mamá, y a mi hermanito y a mi tío FAMILIAR 2 se llamaba mi tío-" y ella dijo "¿quién se los
+llevó?", él dijo "pues llegaron unos uniformados y los cogieron y se los llevaron" y esa
+señora... nosotros dijimos que nos abriera para nosotros poder salir... y la señora dijo "no, yo
+no les puedo abrir porque esa puerta está.... la han amarrado como para que ustedes no
+salgan de aquí". Yo no sé cómo ella hizo al fin lo cierto fue que ella abrió, nosotros salimos,
+nosotros todo el día sin comer nada allá encerrados, esos otros niños, pues [INAD 09:10 09:12] Y entonces ya la señora pues nos abrió, nos dio de comer, mi mamá había alcanzado
+hacer una sopa, me acuerdo, de maíz; ella nos dio esa sopa y que ya llegó la noche y nosotros
+en la encrucijada, el dolor que....
+Llegó el sábado, nada... nada... ya empezamos a decir a los vecinos que era tan lejos, uno se
+gastaba horas para ir donde ellos a decirles lo que nos había pasado. Entonces mi otro
+hermanito él se fue por allá donde un vecino que quedaba como a 2 horas que ellos eran
+muy de la casa, muy allegados y él fue y les dijo "que mire que se llevaron a mi papá..."
+bueno él les contó que se habían llevado a los 4, y ya la gente pues empezó y en esa semana,
+pues, el día lunes.... no se podía dar parte porque era mortal, se ponía uno abrir la boca
+pues...
+ENT: O sea, ustedes tenían que quedarse callados completamente.
+TEST: ¡Claro! callados, pero entonces mi hermanito con un hermano de mi mamá, que vivía
+por allá en ese entonces, ellos se fueron a buscarlos, ellos cogieron por un río arriba, porque
+eso pura montaña, solo cordillera, ellos se fueron a buscarlos y nada doctora, nada, nada.
+Pasó una semana, nada, nada de nada, y ya con el tiempo ya encontraron, pero ya no había
+nada, solamente la ropita que ellos habían llevado.
+ENT: ¿Pero los encontraron en el río? ¿o en el monte?
+TEST: A mi papá y a mi mamá los habían dejado a orillas del río, a mi tío y a mi hermano los
+dejaron.... hacia otro lado cerca donde vivía mi abuelita, o sea, cerca de la montaña.... donde
+los encontraron, que según ellos, o sea, mi tío hace como unos 7 años lo encontraron.
+ENT: Apenas 7 años.
+TEST: Apenas 7 años encontraron a mi tío, mi hermanito no lo encontraron, de él no se sabe
+nada, ni decir que... pues a mi tío lo recogieron, pues, allá donde lo habían dejado y....
+entonces ellos hace como 7 años, 8 años majomenos se... las hermanas que viven de ellos, o
+sea mis tías, ellas, pues optaron por buscarlo, no, porque pues... desafortunadamente,
+doctora, lo que fue papá, mi mamá, mi hermanito, ellos no tuvieron [INAD 11:55 -11:57]
+ENT: ¿De tu hermanito ni siquiera encontraron la ropa?
+TEST: Nada, nada... nada, porque pues al menos uno decía por lo menos encontraron la ropa,
+los zapatos, lo que tuviera puesto, pero nada. Y de mi tío sí, él... a él se le hizo todo lo que se
+le hace y subió la ORGANIZACIÓN PÚBLICA 2 y sacaron eso, y lo llevaron por allá al Tolima y
+
+le sacaron la prueba de las hermanas y sí era él, él sí tuvo cristiana sepultura, pero los
+otros.... o sea, nosotros vinimos a saber que era papá y mamá por la ropita, y eso que un
+vecino de los que vivía lejos, él se daba cuenta de que los animales que entraban y salían,
+entraban y salías y entonces a él le entró esa curiosidad que por qué tanto animal de esos
+saliendo de esa parte y él se fue a mirar y no que ya no había nada, o sea, estaba solamente
+huesitos, había una calavera pero no se supo quién era, porque pues qué...
+ENT: ¿Ustedes no le hicieron nunca estudio?
+TEST: No doctora en ese tiempo pues qué, eso era el 86, pasó eso, y pues uno niño no le
+paraban bolas a uno, porque menor de edad y no.… la familia pues, ellos, las hermanas de él,
+pues, casi a todas les tocó abandonar el país, ellas se fueron, a ellas las iban a matar, eso fue,
+eso fue tan terrible...
+ENT: A la señora que estuvo aquí y a todas....
+TEST: Ella, pues ella de por sí es así, a ella le tocó perderse un tiempo, pobrecita, y si ve que
+ella es así como tan humilde la señora, no mis tías les tocó irse del país, ellas se fueron sin
+nada...
+ENT: Pero ¿quién las amenazaba? ¿por qué se iban?
+TEST: La guerrilla, pues por la guerrilla, porque a ellas, ellas después de eso, yo tengo una
+tía que ella esa enfermera, y a ella la citaban a por allá a que fueran a reuniones y ella no,
+ella no, ella no, ella dijo "yo me voy, yo me voy, porque mataron a mi hermano, me van a
+matar a mí", ella de la noche de a la mañana se fue y pues todo se acabó, todo quedó...
+ENT: Todo lo que ustedes tenían en --------¿tu hoy en día subes hasta allá?
+TEST: No, no, yo no subo por allá.
+ENT: ¿Tú dónde vives ahora?
+TEST: Doctora yo me fui de aquí, bueno, yo no me fui me llevaron de aquí, yo volví aquí a los
+18 años, porque yo decía: yo tengo una familia, no sé a dónde está, porque a raíz de eso todo
+mundo quedó disperso de acá, yo vine a buscarlas, me entiende, yo vine a buscarlas, ya las
+encontré, hicimos como el... hicimos el contacto con ella y eso es muy duro porque uno ya la
+vida como ha cambiado....
+ENT: Después de 11 años llegar....
+TEST: Después de tantos años es muy duro, llega uno como extraño a... pero ella para qué,
+ellas conmigo y mi otra hermana han sido bien, pa' qué, ellas con nosotras han sido únicas.
+Ya uno ha seguido... como en ese dolor de la vida que tiene uno, pero, entonces yo vuelvo y
+digo, la gente no tiene la culpa, ¿cierto? que a nosotros nos iba a tocar eso, a nosotros nos
+iba a tocar vivir eso, pero, pues, nos tocó vivirlo y toca afrontarlo. Pero... es duro, es duro.
+ENT: Bueno, tú te crías en ORGANIZACIÓN PÚBLICA 1, y estando allá, a pesar de todas las
+situaciones que ustedes vivieron ¿no han tenido un acompañamiento en su dolor?
+TEST: Nada
+ENT: ¿Siendo niñas? ¿de jóvenes?
+TEST: Nada, nada, yo le agradezco CONOCIDO 1 yo se lo he dicho a él, "vea doctor estoy
+muy agradecida, porque así como estoy hablando con usted", él no creía que a mí me había
+pasado eso, yo le dije "vea doctor, yo no voy a hablar por hablar, yo tengo todo lo del
+registro, lo de... -yo le dije- y a usted se lo voy a agradecer, porque en mi cuarenta y tanto
+años que tengo la primera vez que yo me siento con una psicóloga -ella se llamaba --------
+
+ella venía de ------. Nosotras nos encontrábamos a las 6 de la tarde, y a veces por ahí hasta
+las 8 o 9 de la noche hablando con ella. Y yo, o sea, yo de eso fui sacando mucha cosa que yo
+tenía, demasiada cosa, aunque todo uno no lo saca.
+ENT: ¿Por qué no alcanza a salir todo?
+TEST: No sé, uno a medida... yo le decía "no doctora, uno contará, pero uno le ha tocado
+tantas cosas, que ahg, no... uno"
+ENT: Sería muy bueno que dejaras salir todo.
+TEST: Y ella me decía... porque es primera vez que tenía un acceso de contarle mi vida...
+porque yo no se lo había contado a nadie, eso no lo llevaba sino yo, lo llevo yo. Entonces es
+primera vez que yo me encuentro con una profesional, y mire que uno empieza a una vida
+con ellos así, y uno empieza como aflojar, o sea, como que ya... o sea, yo ya empecé como a....
+ENT: O sea, la vida te enseñó a ser fuerte desde muy niña...
+TEST: ¡Exactamente! y vivir uno con un dolor.
+ENT: ¿Sentías algo de rabia?
+TEST: ¡Claro doctora! o sea, no es que sentía, yo siento, por eso le digo yo, uno todo lo suelta,
+uno, uno guarda como en el fondo tanta cosa que le tocó a uno vivir. Es que doctora, vivir
+una experiencia de esas, eso yo no se lo deseo a nadies, a nadies, y más como nos tocó a
+nosotros. Eso fue muy duro.
+ENT: ¿Qué significó eso para tu vida?
+TEST: Eso a mí me marcó la vida.
+ENT: Hay dos momentos muy importantes no, que marcan tu vida, 1. quedar sin tus padres,
+perder tu familia, realmente ese es un hecho que marca tu vida para siempre, pero también
+está 2. el hecho de sobrevivir a eso. O sea, son dos formas de ver un mismo acontecimiento.
+¿Cómo te ha marcado? ¿cómo lo has vivido realmente?
+TEST: Mire doctora yo después de vivir toda una situación, mi etapa de juventud y
+adolescencia, pues fue así, llegué a ser mayor de edad, pero siempre cargando el dolor, algo
+que vino de pronto como una tranquilidad muy mínima es que yo tengo mis hijos, tengo 3
+hijos y yo, o sea, ellos han sido el motor, ¿si me entiende? desde yo sentirme como... o sea, yo
+tener una alegría, así sea física que ellos me miren contenta, cierto, doctora yo en sí, en sí, yo
+vivía muy amargada, o sea, mi otra hermana ella vive, ella tiene 4 hermosos hijos, 2 niñas y
+dos varones, y ella vive muy amargada.
+ENT: ¿Ella no ha tenido apoyo psicológico?
+TEST: Yo creo que no, yo después de que tuve ese apoyo psicológico yo le dije a ella, ella
+vive aquí en el -------Huila. Yo le dije "vaya, hable con el enlace de víctimas, que es una
+muchacha, hable con ella y dígale que usted necesita una psicóloga", le dije "yo tuve la
+oportunidad, descansé, descansé algo de tanta cosa que he vivido".
+ENT: 30 años cargando con algo que no era….
+TEST: Doctora, yo mantenía amargada, uno mantiene, uno no quiere nada... o sea, yo tuve
+mis hijos, a mí mis hijos me hicieron cambiar de que yo ya volví a sonreír, porque yo
+mantenía...
+ENT: ¿Tú cómo logras organiza tu familia, tu hogar?
+TEST: Yo estuve hasta los 18 años en ORGANIZACIÓN PÚBLICA 1 en ------- de ahí a uno lo
+sacan porque uno tiene que aprender a convivir en un hogar normal, yo no sabía que eso es
+
+como cuando la personas está en la cárcel, que a uno lo sacan y uno lo llevan a hogares
+sustitutos. A mí me sacaron a los 18 años, ya eso le dicen a uno, "mire, ya usted ya cumplió
+una edad, ya usted no puede estar aquí, usted ya no nos pertenece, ya usted tiene que
+empezar a hacer su vida real, si". Entonces, uno tiene un apoyo de unas madres sustitutas,
+esas madres sustitutas es un hogar como el que tiene uno hoy en día, tiene su esposo, sus
+hijos y uno llega a ese hogar, con el apoyo del ORGANIZACIÓN PÚBLICA 1. ORGANIZACIÓN
+PÚBLICA 1 hace el seguimiento, de cómo uno se maneja, cómo sí... entonces yo seguí ese
+proceso, la madre sustituta que a mí me consiguieron, me la consiguieron en ------ ella se
+llama CONOCIDA 4. Ella ... doctora, yo llegué a esa casa y es una vida muy diferente, pero yo
+vivía con el dolor, con la amargura, o sea, yo...
+ENT: ¿Ella te brindó confianza? ¿Espacio para poder hablar?
+TEST: Ella me brindó mucha confianza, doctora, ella se sentó conmigo, así como estamos las
+dos hablando, ella me dijo "este es su nuevo hogar, usted sabe que yo no soy su mamá, pero
+yo voy a ocupar el espacio de su mamá". Y me acuerdo tanto que yo le dije "no, es que usted
+nunca va a ocupar el espacio de mi mamá", entonces ella dijo "no, usted no tiene que pensar
+así, porque yo le voy a ocupar ese espacio para que..." porque ella ya venía, pero como ellas
+antes de uno salir, ellas ya le conocen el proceso, de uno de dónde ha venido, del conflicto,
+de una situación muy dura; entonces, a uno tienen que entenderlo, porque pues eso no es
+que uno quiera ese dolor que carga uno, no es porque uno quiera, sino porque le tocó.
+Ella me mostró la casa, dijo, "acá vamos a convivir", ella ya tenía 3 niños. Ella era madre
+soltera, ella tenía un taller de modistería, ella confeccionaba ropa interior, dijo "acá vamos a
+trabajar, usted va a aprender, dijo "usted lo que aprenda, es para que usted siga haciendo su
+vida". Y así fue doctora, pasaron años, yo con ella viví 5 años, y después encontré un
+familiar, un hermano de mi papá que vivía en ------- entonces él me brindó un apoyo, me dijo
+que me fuera a trabajar, que yo fuera empezando a buscar la forma de vida y así pasó,
+pasaron años, ya me fui con ellos a experimentar, porque yo hablé con la señora. Yo le dije
+"CONOCIDA 4"mire que yo encontré un familiar mío, vive en tal parte y quiero
+experimentar, quiero conocer a quienes son mi familia", entonces ella me dijo sí, que no
+pasaba nada.
+Y ya yo me fui y me puse a trabajar y trabajar, trabajé con una señora que confeccionaba, me
+puse a trabajar y fue cuando ya en esas conocí el papá de los muchachos, desde ahí del -----un señor mucho mayor que yo, pero desafortunadamente me fue mal, me quedé sola con
+mis 3 hijos, hoy en día gozo de ellos, o sea, es el motor que tengo yo para vida mía, mis hijos.
+ENT: ¿Tú estás instalada en este momento en -------------?
+TEST: Sí, yo me vine para acá doctora, yo dije "yo no me voy para mi pueblo donde mis
+viejos quedaron" y opté por coger para acá, y yo creo que de acá ya no me muevo.
+ENT: ¿A qué se dedica usted acá?
+TEST: Yo gracias al CONOCIDO 1 él me metió en una Unidad Productiva, esa Unidad
+Productiva, yo trabajo con una tía levantando pollos. Nosotros los criamos, los pelamos, y
+los vendemos. O sea, a mí el programa de la Víctimas ha sido bueno para mí porque ahí tuve
+mi primera charla psicológica, gracias al CONOCIDO 1 él me metió a la Unidad Productiva,
+nos metió a mí y a mi tía, y así he ido, y sí uno siempre con su dolor.
+ENT: ¿Cómo crees que cambió tu proyecto de vida con lo que les pasó a tus papás?
+
+TEST: Claro! doctora, si la vida hubiera sido con ellos a uno no le hubiera tocado rodar, no le
+hubiera tocado, usted se habría criado en su seno de hogar, porque uno añora, yo por
+ejemplo, a pesar de los años que yo tengo yo añoro haber crecido con mi mamá, con mi
+papá. Yo le digo a mis hijos, les digo "muchachos a este año mi papá tendría 80 años, QUE
+dicha que lo fuera tenido para yo gozarlo, que dicha tener a mi mamá, cuántos años tendría
+mi mamá, tendría 76 años". Entonces, mire que dicha, cierto... eso yo lo añoro mucho, que
+Dios me hubiera dado... porque uno mira muchos casos que tienen sus papás y los tienen
+como a un lado, y uno que no los tiene quisiera hacerles ver. Entonces, eso para mí es lo que
+yo más añoré.
+ENT: ¿Por qué a pesar de haber estado en ------- en -------vuelves acá? ¿Qué te llamaba?
+¿había algún sentimiento en ti que dijera "quiero estar en -------------?
+TEST: Yo, a pesar de todo mi dolor que siempre he llevado, yo dije: yo tengo que vivir en
+donde yo nací, así tenga el mal recuerdo, a mí mucha gente me dice "TEST usted por qué
+cogió para allá" yo digo, "no, esa fue mi tierra que me vio nace, allá quedaron mis viejos", así
+ellos no hayan tenido cristiana sepultura, pero ellos quedaron acá.
+ENT: ¿Para ti quién es tu familia en este momento?
+TEST: Mis hijos, mis tres hijos son mi familia.
+ENT: ¿Será que tus hermanos piensan en ti? ¿hay algún deseo de conocerse y reencontrarse
+todos?
+TEST: Doctora, yo en una ocasión, la familia de mi mamá es de ------------- yo en una ocasión
+tuve la oportunidad de hablar con un tío de mi mamá, él sí se habla, sí se ha hablado con
+ellos en el ------ENT: ¿Sus hermanos están en el ------?
+TEST: Ellos viven por allá en el ------ sí, la vida de ellos gracias a Dios es muy diferente, todos
+son profesionales, la vida les dio la oportunidad de prepararse, tuvieron manos que les
+prepararon, que les brindaron una profesión y ellos la aprovecharon y yo de eso vivo muy
+contenta, que ellos son profesionales. Que no tuvieron el amor de mamá, pero igual tuvieron
+una familia que los educaron y se dejaron educar que es lo importante. Ellos han dicho que
+nosotros no somos hermanos de ellos....
+ENT: ¿Eso también genera un sentimiento en ti?
+TEST: Pues doctora mire que yo a ellos no los culpo, o sea, yo a ellos no les tengo rencor, mi
+hermana sí, yo le digo "no, no hay que ser así, porque nosotros no tenemos la culpa que nos
+hayan repartido como cuando usted reparte una panela -yo le digo a ella- no". Yo a ellos no
+los culpo de nada, ni les tengo rabia, no, nada, yo solamente digo que el día que el día que
+ellos me lleguen a buscar... y eso ahora con las redes, con eso de las redes, yo no manejo
+redes, mis hijos sí las manejan, entonces yo les digo que publiquen. Y ahí uno que se llama
+----- pero mire que él se habla con mi hijo mayor, pero él...
+ENT: ¿Su hermano?
+TEST: Mi hermano, pero mire que es tan raro, que mi hijo le hizo la solicitud, cierto, pero él
+mi hermano no le nace preguntarle nada, si me entiende.
+ENT: O sea no le ha contestado la solicitud...
+TEST: No, nada, y él le ha publicado la foto, él tiene una niña, él se mira con una niña y todo,
+él es parecido, él de color como el suyo, así morenito. Pero él no ha hecho ni él más mínimo
+
+esfuerzo... o sea, él fuera sido otro, "ah mire ese es un sobrino que apareció", cierto... o sea,
+para mí... algo curioso es que yo de una vez que yo mire que es familia, pues, yo de una vez
+voy a entra en contacto, pero mire que él no....
+ENT: De todas formas, hay que entender también que si ellos eran menores que ustedes, a
+ellos de una vez los instalaron de pronto en una familia, y esa familia les inculcó desde el
+principio "bueno ustedes son nuestra familia, nadie más", o bueno uno no sabe qué tanto les
+hayan podido decir.
+TEST: ¡Claro doctora! eran niños de 5, de 4, de 3, de 2 y de 6 meses, es que eso era una
+tracalada de muchachitos de...
+ENT: ¿Por qué se llevaron a tu hermano de 7 años y no a ti que eras mayor que ellos?
+TEST: Doctora es la pregunta que siempre me he hecho.... que a nosotras por qué no nos
+protegieron más que a ellos que eran hombres, es una pregunta que siempre me he hecho.
+Pero, bueno, yo no tengo por qué frustrarme que por qué no me dieron la oportunidad a mí
+que soy mujer, porque uno dice la mujer sufre más, cierto.... o sea, siempre nos hemos hecho
+esa pregunta con mi hermana, porque ella vive muy amargada... uy... mi hermana es terrible,
+ese temperamento de ella es....
+ENT: ¿Ella tiene pareja? ¿tiene su hogar?
+TEST: Ella tiene un señor maravillo, tiene dos hermosas niñas... o sea... él dice, "yo la conocí
+a ella así"
+ENT: Él la ha comprendido...
+TEST: Sí. Mire la niña mayor de ellos va a cumplir 17 años, y él dice, me dice a mí "su
+hermana a ratos me saca de quicio, pero es la mamá de mis hijos". Es un señor muy buena
+gente, y él ha sido excelente pareja. Entonces yo les digo "ustedes no la pueden juzgar, nada,
+porque el dolor que a nosotras nos ha tocado vivir es un dolor que". Usted se machuca un
+dedo y a usted le duele un ratico, pero lo pasa ese dolor, pero ese dolor que nosotras
+cargamos no, ese es un dolor que nosotras lo vamos a cargar hasta que Dios ciegue nuestra
+vida. Porque yo la edad que tengo yo, yo, digo eso, eso mantiene en mí a diario, para mí son
+cosas que.... pero la vida hay que aceptarla, lo que nos tocó.
+ENT: ¿Después de todo esto vivido, hiciste declaración en la ORGANIZACIÓN PÚBLICA 3 o
+en ORGANIZACIÓN PÚBLICA 2?
+TEST: Yo la hice en la Personería de acá del pueblo que fue cuando ya el programa me
+incluyó como víctima.
+ENT: ¿En qué año?
+TEST: 2012
+ENT: ¿Has recibido ayudas humanitarias?
+TEST: Sí, a mí me dieron unas ayuditas, gracias a Dios me las dieron y las aproveché.
+ENT: ¿Indemnizaciones?
+TEST: No, todavía estoy en ese proceso, como eso ahora no es como antes que era más
+ligero, eso ahora se demora más, entonces yo estoy en eso a ver qué.
+ENT: En la ------------------¿ese hecho afectó a la comunidad?
+TEST: ¡Claro! la poca gente que había, porque en esos tiempos las casas eran lejanas, uno a
+veces en esas veredas lejanas uno mira una casita por allá, y la otra por allá, y usted mira así
+como el marquito, no. Eso fue algo...
+
+ENT: ¿Alguien más de la comunidad tuvo que vivir hechos similares?
+TEST: Doctora, en esa semana que pasó eso a mis papás, fueron más familias, claro, los
+mataban y los enterraban por ahí quedaban en fosas comunes, eso fue algo.... o sea, la gente
+de hoy en día, que la gente dice que es una vereda maldita, porque ha tenido muchas cosas
+así, o sea, la más dura fue la que nos tocó a nosotras, que fue coger 4 personas de un solo
+[INAD 36:52 ] fue la más, y de ahí pues, no ha faltado por ahí uno, uno, entonces, dicen que
+es la vereda maldita, o sea, eso es tan, eso por allá es tan desolado, y uno va y eso como con
+un silencio, frío, como... esas partes así son escalofriantes, como que no... no agradan, no hay
+como... tan rico, vamos a ir, no.
+ENT: ¿Después de que sucedían esos hechos entraba ejército o policía o eso allá nadie y todo
+el tiempo fue la guerrilla la que mandaba por allá?
+TEST: En ese tiempo era la guerrilla. Mire doctora, nosotros acá en ------------- gracias al
+mandato que tuvo Álvaro Uribe.... la guerrilla dormía en esos potreros, vea, en esos potreros
+la guerrilla dormía, cuando entró Álvaro al poder que él empezó a apretar [INAD 37:57 37:59] por eso esas muertes nunca uno las pudo hacer ante.... porque acá no había sino
+escasamente el [INAD 38:07] nunca en ese tiempo no se...
+ENT: Y ellos ¿por qué se metían con la población civil?
+TEST: Doctora ahí sí.... hay tanta cosa que yo me pregunto....
+ENT: ¿Y nunca has dado una respuesta?
+TEST: Yo digo que, a mí algo que sí me gustaría, digo yo, con los muchachos, con mis hijos,
+ya mis hijos están grandes, jóvenes, yo les digo a ellos es que algo que me gustaría es si yo
+tuviera la oportunidad de preguntarle a RANGO 1, por qué.
+ENT: ¿Sí tu tuvieras al frente qué le dirías?
+TEST: Yo no sé...
+ENT: ¿Crees que todavía tienes rencor hacia ellos?
+TEST: Ay doctora....
+ENT: Todavía estás cargando con sentimientos que en últimas no te pertenecen a ti... porque
+tú te haces daño solita, tú te envenenas solita con esa rabia, ese resentimiento hacia ellos,
+entonces tú pudiste haber tomado otras decisiones en tu vida, pudiste haber tomado otros
+camino, pero eres una persona que de una u otra forma eres una persona de bien...
+TEST: Sí doctora, pero yo vuelvo y le digo que eso es algo que solo uno que le tocó vivir... o
+sea, le decía yo a la psicóloga "usted me pone el parámetro de quejar, pero yo le digo que el
+que le duele se queja". Si yo tuviera la oportunidad de preguntarle a RANGO 1 "¿por qué los
+mandó a matar? ¿ellos qué les estaba haciendo? ¿qué hicieron? ¿por qué se lo llevaron?" Y
+ahora, allá sus camisas bonitas, bordadas, bien sentado, y con todo el dolor que han
+causado. Eso es una pregunta que yo me hago.
+ENT: ¿Tú crees que para tú poder calmar tu sufrimiento ellos deberían pagar eso que
+hicieron? ¿y cómo sería pagar eso que hicieron?
+TEST: Doctora yo solamente tengo este consejo, a uno den lo que den, a uno nunca le van a
+pagar el daño. O sea, para mí nunca me van a pagar el haberme quitado el amor de mis
+papás. Por ninguna cosa material me van a sanar el dolor de mi papá, es un dolor que yo
+cargo, nunca, yo le digo así a la doctora, a mí así me den ayudas, eso no.... con eso no.… no.…
+porque para mí fue un dolor muy grande, que ese dolor no lo cargo si no yo.
+
+ENT: Pues han pasado 31 años y todavía lo tienes.
+TEST: Yo lo vivo doctora, para mí no hay navidad, mes de ----- para mí es mortal, para mí... a
+mí ese mes ni me gusta, a mí ese mes me pone como en un cambio, a mí me da mucha
+nostalgia. Porque yo no sé si es que eso eme pasará solo a mí, yo los revivo mucho a ellos,
+mucho.... y la doctora que yo tenía que dejarlos para que ellos se fueran a descansar
+tranquilos, ella me decía así y yo le decía "Doctora, pero es que decirme eso usted a mí que
+los deje ir tranquilos es algo que eso no lo sé si no yo". Para mí las cosas materiales... a mí
+nunca me van a dar....
+ENT: ¿Has tenido alguna enfermedad a raíz de todo lo que te pasó?
+TEST: No, mire que no.… solamente, es amargura, esa tristeza, ese dolor, solo mantiene uno
+como enfocado, hay días que uno no quiere hablar con nadie. Mis hijos me han hecho
+cambiar harto, si me entiende, porque ellos ya están jóvenes, ellos dicen "no mamá, usted ya
+tiene que mirar que pues ya la vida le tocó así"
+ENT: ¿Ellos conocen toda la historia?
+TEST: ¡Claro! yo les he contado y es tan así que no he querido llevarlos donde ellos
+murieron porque yo no tengo valor para hacerlo, para mí es muy duro y ellos me piden,
+ellos dicen que quieren ir, que por qué no los llevo.
+ENT: ¿Esas tierras que ustedes tenían en -----------alguien la vendió?
+TEST: Esa lo cogió una tía, eso lo cogió ella. Ellos me piden "mamá usted cuándo nos va a
+llevar". Porque yo no me voy a mortificar, no me voy a mortificar más la vida, yo ya la
+mantengo mortificada sin estar cerca donde ellos están ahora, para yo llegar y decir mire
+aquí fue, ¡ja! ellos mantienen diciendo que vamos, pero yo les digo "no mijitos, ustedes dicen
+que vamos porque ustedes no sienten lo que siento yo, pero ellos me piden que vayamos,
+pero yo no lo he hecho doctora.
+ENT: No te sientes con la capacidad y fortaleza de ir hasta allá.
+TEST: No, no, no, no, yo no me veo en la capacidad.
+ENT: ¿Y no crees que yendo hasta allá sería una forma también de sanar?
+TEST: No, no, yo no sé doctora, pero para mí tiene que ser muy duro, para mí tiene que ser
+muy duro, entonces por eso yo no me siento capacitada para ir, es que yo no me siento, no
+me siento capacitada para ir. Yo digo si yo me sintiera capacitada para ir yo ya hubiera ido
+con ellos tres, pero no siento esa berraquera, entonces yo pa’ qué me voy a amargar más.
+ENT: O de pronto uno no sabe qué reacción puedas tener y tus hijos allá como salen
+contigo... ¿-----------qué tan lejos está?
+TEST: Está largo. Eso es aquí así por allá por dónde usted mira, por allá, eso de aquí a allá
+está como a hora y media, eso pura montaña, allá subiendo eso ya es casi como para --------por allá es, eso de aquí allá hay dos horas, está bien retirada del pueblo.
+ENT: ¿Allá es cerca de ------------?
+TEST: ¡Claro doctora! esa es pura cordillera, sino que ya hoy en día hay harta población, han
+ido construyendo, pero tiene su recuerdo. ¿Ha escucha nombrar ------------?
+ENT: Sí.
+TEST: Sí, esa es de las veredas más lejanas que tiene ------------- veredas que son alarmantes
+porque cada nada viene el ejército porque están por ahí "los amigos", les salen por ahí a.…
+se dejan ver, y vuelven y se pierden, y así mantienen.
+
+ENT: Bueno ¿cómo se llamaba tu madre?
+TEST: --------------.
+ENT: ¿Tú sabes cuántos años tenía ella cuando murió?
+TEST: Tenía 34 años, era joven mi mamá. Cuando yo cumplí 34 años, jum, eso sí... yo dije, 34
+años tengo yo, esa edad tenía mi mamá. Todo eso es lo que lo alimenta a uno.
+ENT: Y es que está todo el tiempo uno extrañando.
+TEST: Todo el tiempo doctora, vea para mí uno... por ejemplo en el caso mío, yo me levanto
+y le doy gracias a Dios porque tengo mis hijos, porque me pude levantar hoy, pero mi mamá.
+ENT: ¿Tú recuerdas la fecha de nacimiento de tu mamá?
+TEST: No, no me acuerdo.
+ENT: ¿Dónde nació ella?
+TEST: Ella nació en ------------- -----ENT: ¿Tu padre cómo se llamaba?
+TEST: ------------.
+ENT: ¿De cuántos años murió él?
+TEST: Él murió de 46, él nació aquí en --------- él era ----------.
+ENT: ¿Su hermano cómo se llamaba?
+TEST: ------------------.
+ENT: ¿Él es desaparecido no se puede asegurar que esté muerto?
+TEST: No él no, él no.... pero a él tienen que haberlo matado con ellos, claro, sino que pues él
+por ser.... nosotros le preguntábamos al -------al que fue a recoger a mi tío, entonces mi tío y
+él dice que nosotros los seres humanos, un niño de una edad dice que los huesitos son muy
+frágiles, entonces ellos se descomponen, que ya la gente madura no todos los huesos se
+descomponen. Entonces el cráneo, se conserva....
+ENT: Huesos largos.
+TEST: Sí, por ejemplo, mi tío y yo no pude acercarme allá, yo fui con ellos, pero hasta cierto
+punto porque el dolor no me dejó, porque yo dije uy no para ver eso, no, terrible. Entonces
+él decía que, pues que lo de él era muy difícil porque ya han pasado muchos años, entonces
+pues prácticamente pues se perdió.
+ENT: ¿Él había nacido aquí en -------------¿
+TEST: Pues yo me imagino que sí porque cuando yo nací él ya estaba, él estaba, sino que
+como él no era hermanito por papá, no.
+ENT: Ah ya... él tenía ¿cuántos años cuando se lo llevaron?
+TEST: O sea, cuando él se fue tenía 10 añitos el niño.
+ENT: ¿Su tío?
+TEST: Llamaba FAMILIAR 2, ellos fueron hijos naturales
+ENT: ¿Cuántos años tenía él aproximadamente?
+TEST: No, mire doctora que él estaba joven, era muchacho, pero no sé cuántos años
+tendría...
+ENT: Ni sabes dónde nació.
+TEST: Él tenía que haber nacido aquí en -------------también...
+ENT: Todo esto ocurrió en la ----------------- el ---------------------- de 1986, a manos de la
+
+guerrilla, el frente no lo recuerdas, pero....
+TEST: Era el que manejaba RANGO 1.
+ENT: Listo mujer, yo creo que no es más, voy a cerrar el audio y te agradezco el haber
+abierto tu corazón, el habernos contado está historia, no la compartes con nadie, las has
+tenido siempre guardada, que te ha hecho mucho daño, pero creo que hablar también libera.
+TEST: Sí, sí porque y después de que vine a hablar con esa psicóloga, yo dure con ella 1 año,
+nosotras nos encontrábamos una vez a la semana todo un año, el proceso, y o sea... por eso
+yo le digo a usted que... porque ella vio que yo necesitaba mucha ayuda, cuando la primera
+vez que nos encontramos, yo le dije que yo le iba a contar algo así muy mínimo. Y yo le fui
+dando, le fui, y ahí me sirvió harto, tanto para mi forma de ser, o sea ya como otro hábito, no,
+o sea, pues igual le digo yo, yo siempre he dicho, las personas que están alrededor de uno no
+tienen la culpa, entonces, uno no tiene porqué mostrarles si yo tengo problemas, yo no
+tengo porque mostrarle los problemas a nadie, eso solamente lo maneja uno. Entonces, por
+eso yo le digo a usted, para mí los hijos han sido algo muy especial en la vida mía, porque a
+raíz de eso yo he ido poco a poco evolucionando. Doctora hay días que entro como en unas
+crisis, a mí me dan unas crisis de soledad, o sea, yo hay días que, o sea hay días que yo no
+quiero nada, quiero estar en silencio por allá.
+ENT: ¿Tú has tenido en algún momento pensamientos suicidas o de hacerte daño a ti
+misma?
+TEST: Mmmm no, no, mire que, que a pesar de todo eso yo no lo he tenido. Pero, entonces
+yo entro como en... pero yo vuelvo, y entonces yo misma me doy como moral, si me
+entiende, yo digo: Gracias a Dios yo tengo todas mis extremidades buenas, hay muchos que
+no tienen sus dos manitos, sus dos pies, y viven más contentos, entonces uno porqué va a
+vivir amargado, entonces yo digo, no, es que dice uno que el amor de madre no es sino uno y
+yo no lo tuve. Entonces yo vivo de ahí, yo vivo pegada de esa rama, vivo pegada de ahí. Hay
+días en los que yo entro a esas crisis que yo no quiero nada, que nadie me diga nada, pero yo
+trato de mostrar lo que yo no soy, porque vuelvo y digo la gente no tiene la culpa de lo que a
+mí me haya pasado, pero sí, o sea, yo con esa charla psicológica a mí me sirvió harto. A mí
+me tocó hacerle a ella, coger unas fotos, yo...
+ENT: ¿De su mamá?
+TEST: Sí yo rescaté 3 fotos, rescaté 3 fotos, una de mi mamá, de mi papá, y donde estábamos
+nosotros los niños, en ese tiempo como las fotos eran, en esas, en eso lentes. Yo rescaté esas
+tres fotos y yo las mandé a ampliar grande, yo la tengo en mi cuarto, yo dentro a mi cuarto y
+la miro ahí, porque yo la mandé a ampliar grande esa foto. Y ella me hizo llevar esa foto y yo
+le decía "esta foto para mí es lo más valioso que yo pueda tener, porque tengo a mi mamá, a
+mi papá, hay tengo a ese niño que se fue y nosotras dos". Para mí esta foto tiene mucho
+significado para mí, porque aquí está mi mamá, al menos yo me consuelo con to verla ahí,
+porque sé que está ahí, que sé que ella está ahí. Por ejemplo, mis tías ellas cuando van allá a
+donde yo vivo ellas la miran y de una vez y se ponen es a llorar. Yo les digo, "yo no la tengo
+ahí para que ustedes lloren sino pues los tiene uno ahí. Esa es la compañía que yo me llevo,
+que yo los tengo ahí y yo sé que por donde yo voy, por donde yo estoy, con quien esté, yo lo
+que sea que esté haciendo, yo sé que alguno de ellos dos tiene que estar conmigo ahí, que yo
+
+no los vea pero ellos tienen que acompañarlo a uno.
+Entonces me decía la psicóloga que sí, que en un espacio sí, cuando uno ya se va, que queda
+alguito del que se va. Entonces yo le digo a ella eso me da esa fortaleza de yo decir bueno, de
+pronto yo estoy en una necesidad, pero yo sé que mi mamá está ahí, mi papá se está dando
+cuenta por lo que yo esté pasando, y yo sé que él me va ayudar. Porque como le digo yo, la
+vida más fue difícil, después de eso, el papá de los hijos que no, a pesar que era un señor
+mucho maduro, uno cree que porque ya están viejos son responsables y mentira que son
+peor que los muchachos de ahora en día, una cosa terrible.
+ENT: O sea tú tienes una tarea y es ir cambiando de a pocos.
+TEST: ¡Claro! ¡claro! porque por ejemplo mi hijo mayor y él es como muy centrado y él dice
+"mami, usted tiene que cambiar - él me regaña- ay es que mi mamá, usted ya tiene que
+cambiar, eso ya le pasó, ya que se puede hacer, eso tenía que ser así", yo digo "vea, eso no lo
+siente sino yo, usted no me diga nada porque el dolor no lo lleva usted, lo llevo yo". Porque
+hay veces que sí, a veces estoy y me desconecto como en una soledad, no, es tan feo, yo
+entro en una cosa que.... no sé, eso es terrible, yo tengo que....
+ENT: ¿Tus hijos sienten de una vez tu estado de ánimo?
+TEST: ¡Claro! ellos me die "mamá usted por qué está así, qué le pasó, qué le duele", así me
+dicen ellos, dicen "¡jumm!! ¡ya otra vez!" me dicen "vaya por allá, vaya a alguna parte, haga
+algo para que usted no se encierre". Yo le digo "no me critique nada porque yo solo sé lo que
+llevo adentro". Yo trato de ser lo mejor con ellos, pero siempre, siempre tengo mis estados
+que... el mes de mayo para mí es mortal, es emes mantengo como en un estado de depresión.
+A veces yo río porque la persona que a mí me habla no tiene porque verme la mala cara, yo
+todo eso lo manejo sola doctora. Así ha venido la vida mía y pues no sé, qué más irá a ser.
+ENT: Bendiciones de acá en adelante, tenlo por seguro.
+TEST: Yo le pido mucho a mi Dios, que me dé harta fortaleza, yo le pido a mi Dios que me dé
+harta fortaleza y que yo cada día, no que vaya a borrar porque eso no se va a borrar eso vive
+diario, sino que me dé mucha fortaleza para yo no frustrarme tanto. Nunca he pensado en
+no, que envenenarme, matarme, porque no
+ENT: Claro porque qué sería de la vida de tus hijos sin ti, repetir la historia.
+TEST: Claro, porque yo sé que hay muchas mujeres que añoran tener un hijo y no lo pueden
+tener, mi Dios me los ha mandado, ellos conmigo son muy bueno, a pesar de que son
+hombres, que uno dice que los hombres por ser hombre son malo, pero mentiras que esos
+muchachos mantienen muy al lado mío, o sea ellos... Esos muchacho son como si fueran
+mujeres, ellos no son callejeros, salen a lo que salen, están en la casa, están muy pendientes,
+trabajamos todos, trabajamos todos, mantenemos esa unión que eso es lo que lo motiva a
+uno, eso es lo que le da a uno esa..... pero es duro de todas maneras...
+ENT: Solamente Dios sabe por qué te puso esa labor...
+TEST: Porque me puso ese dolor, o sea, será tan justo yo que le digo a mi tía con la que
+trabajamos arriba, le digo "tía por qué Dios nos puso un dolor tan grande de estos a llevarlo
+toda una vida, ¿será que nosotros en el tiempo de antes fuimos muy malas?", ella dice no eso
+es muy duro, y sí le toca a uno esperar a ver qué más que puede ser
+ENT: Muchas gracias.
+
+

@@ -1,0 +1,977 @@
+TEST: [DUD:00:01-00:03] [INTERRUP]
+ENT: ¿Quiénes son ellas? ¿quiénes son ellas?
+TEST: Las sacaron en el [DUD:00:06] la fotocopia que necesitaba otra, por lo que
+[DUD:00:09-00:11]
+ENT: ¿Y qué tendía de estos de dónde los sacas? ¿del partido?
+TEST: ¿Ah?
+ENT: ¿De dónde sacas las fotos? ¿quién te las envió?, ¿el partido?
+TEST: Puede ser.
+ENT: Sí.
+TEST: Me las mandaron de LUGAR1 2 pero no supe quién.
+ENT: Ah.
+TEST: Me mandaron una fotocopia de los niños cuando taban estudiando acá.
+ENT: Mm...
+TEST: Entonces [DUD:00:34-00:35]
+ENT: Y entonces ella son ¿quiénes?, ¿ellas son de acá?, las que están acá, ellas.
+TEST: Esta es CONOCIDA1.
+ENT: Sí...
+TEST: Doña CONOCIDA2, [DUD:00:50]
+ENT: Sí. [audio: Mm mm]
+TEST: [DUD:00:52] y la señora [DUD:00:54]
+ENT: La profe.
+TEST: No se quedó viendo bien.
+ENT: No se ve bien.
+TEST: [DUD:00:58]
+ENT: Entonces me estabas contando que tu es, que ustedes venían del Tolima... tu esposo
+llegó acá a ¿primero dónde llegaron? ¿a ------------?
+TEST: Nosotros fue más desplazados de Tolima.
+ENT: ¿Por qué?, ¿quién los desplaza?
+TEST: Porque él trabajó como [DUD:01:18]
+ENT: Sí [audio: Mm mm], ¿lo amenazaron?
+TEST: Entonces levantaron los ricos en grupo.
+ENT: Sí. [audio: Mm mm]
+TEST: Pa que trabajara.
+ENT: Sí [audio: Mm mm], lo asesinaban.
+TEST: Entonces ahí pa sacarlo de allá lo sacaron, lo sacaron en un, en un camión lleno de to,
+de aguacate, desde el [DUD:01:44], hicieron [DUD:01:47]
+ENT: Sí. [audio: Mm mm]
+TEST: En el camión pa que él saliera pa LUGAR1, de LUGAR1 [DUD:01:51-01:54] aquí en
+LUGAR1 y, y lo mandaron pa, pa [DUD:01:58].
+ENT: Sí. [audio: Mm mm]
+TEST: Eso en LUGAR1, yo quedé allá donde una hermana [DUD:02:03] él se fue porque eso
+es muy feo por allá, [DUD:02:06] le dijo a la división que no se iba pa allá, no no se iba pa
+allá, teníamos [DUD:02:13].
+
+ENT: Sí. [audio: Ajá]
+TEST: [DUD:02:15] y entonces ellos dijeron que si querían [DUD:02:19] y así fue.
+ENT: ¿Y a dónde llegan? ¿a -----------?, ¿llegan a --------------o al LUGAR2?
+TEST: Nosotros llegamos a donde un compañero.
+ENT: Sí.
+TEST: [DUD:02:31] porque ahí [DUD:02:33-02:37]
+ENT: Sí. [audio: Mm mm]
+TEST: [DUD:02:38]
+ENT: Sí. [audio: Mm mm]
+TEST: Y había uno ahí, también de noche llegamos ahí pero coordinaba el [DUD:02:46]
+ENT: Sí. [audio: Mm mm]
+TEST: Pero usted sabe que uno hay veces que, no falta [DUD:02:52].
+ENT: Sí.
+TEST: [DUD:02:57-02:59] trabajando porque era muy trabajador, sacamos en arriendo el
+potrero pa sembrar comida, cuando ahí no había ejército, cuando llegó el ejército.
+ENT:¡Ah!
+TEST: Y en ese [DUD:03:10-03:14]
+ENT: ¿Venía quién?
+TEST: El ejército.
+ENT: Sí.
+TEST: [DUD:03:20-03:21] y fue y le informó al ejército, como él venía en el ejército y él que
+el hiciera alguna cosa le daban a otro man su vida.
+ENT: Ah...
+TEST: Toje él dijo todo quien era y todo allá, que hacía y todo.
+ENT: Mm.
+TEST: Pues ellos pensaron fue matar, él trabajando, una noche llegó un compañero, de
+partida ahí, lo llamó el ejército, lo llamó el ejército esa noche pensaba tomar, fueron a tomar
+y le dijeron que bueno que sí, pero que ese tipo no lo podían dejar hay, que era malo.
+ENT: Sí. [audio: Mm mm]
+TEST: Él que tenía era que matarlo nosotros veíamos que salía, la tropa con pala por allá
+puej uno inconsciente no sabía que era lo que iba a pasar.
+ENT: Sí. [audio: Mm mm]
+TEST: Entonces el compañero llegó un día, esa noche tomando al otro día madrugaba irse a
+trabajar [INAD:04:20-04:22] entonces llegó le preguntó ¨[DUD:04:25] ¿y a dónde está el
+compañero?¨ si hubiera sido él se hubiera comprometido lo hago matar ahí.
+ENT: Sí. [audio: Mm mm]
+TEST: Se quedaba trabajando en la finca de él, sembraba plátano yuca, yuca y maíz
+ENT: Y tu que hi [INTERRUP]
+TEST: Tenía un arrocera
+ENT: [CONT] ah...
+TEST: Y todo el [DUD:04:41], entonces yo le vi que estaba llevando los [DUD:04:45],
+entonces dijo: ¨¿por qué se lo van a matar?¨
+ENT: Sí. [audio: Mm mm]
+
+TEST: El [DUD:04:50] lo mata y dijo [DUD:04:52-04:59]
+ENT: Ah ¡huemadre!
+TEST: Me toca me dijo: ¨¿cómo hiciera?¨ -¨yo sáqueme el almuerzo pa [DUD:05:06]
+almuercito hace el almuerzo rápido y usted coge un costal-¨ y yo traía comida de
+[DUD:05:12-05:14] usted coge el costal bien largo que no miren que lleva por dentro¨
+ENT: Sí. [audio: Mm mm]
+TEST: Me dijo que había que hacer y todo y yo me fui.
+ENT: Y le dijiste ¿qué?
+TEST: [DUD:05:26] le dije [DUD:05:28] la mayor, con él ese chino no se quedaba estaba
+pequeño [DUD:05:33] y le dije, dijo yo dije ¨el chino pero yo sigo trabajando acá, hasta por la
+noche¨ por la noche [DUD:05:43-05:48]
+ENT: ¿Para dónde?
+TEST: [DUD:05:50]
+ENT: Pa arriba es pa ¿dónde?
+TEST: Pa allá pal [DUD:05:53]
+ENT: Ah... se lo él se va.
+TEST: Eso era montaña todo esto era montaña.
+ENT: Mm... y y allá le tocaba esconderse.
+TEST: Y me quedé yo.
+ENT: ¿Sola?
+TEST: Vivir sola ahí, entonces [DUD:06:07-06:11] la señora se vendió, y él me preguntaba,
+ella me preguntaba: ¨¿y qué se hizo?¨ le dije: ¨no él se fue pa LUGAR1 que la familia se
+enfermó una hermana y se fue, se fue pa LUGAR1 no sé cuando llegará [DUD:06:27]¨, me
+amenazaban, [DUD:06:31-06:32] acá la lengua [risas].
+ENT: [risas].
+TEST: [risas].
+ENT: Y entonces.
+TEST: Y entonces ya, como a los 20 días de, había un árbol ahí en la casa donde taba un árbol
+ahí, ese árbol dentraba el ejército.
+ENT: Sí.
+TEST: Que subía a poner cuidao.
+ENT: A ver qué hablabas.
+TEST: A ver si llegaba.
+ENT: Ah... claro.
+TEST: Y de noche no salía [risas], hasta que al fin me sacaron a un día donde taba él, a las 2
+de la mañana, en un invierno.
+ENT: Ay Dios mío.
+TEST: [DUD:07:14-07:15]
+ENT: ¿Tú? ¿con tu bebé?
+TEST: Pequeñita, no sabía pa onde iba ni que me pa onde iba allá, pero el muchacho que lo
+había sacado a él me sacaba a mi [DUD:07:28] y era oscuro, con mis niñas traía 2 y la niña
+que era de brazos y en invierno y unos [DUD:07:39] sin saber pa onde.
+ENT: Dios, Dios mío.
+
+TEST: Sin saber pa onde cogía o pa onde me iba a ir, con mis niños, llegué por allá a una casa
+donde taba él, no esa gente vivía mal, la camita era de costales costales allá, llegué y le dije a
+él: ¨compañera porque no me presta, una vasijita pa hacer un beber una panelita pa que
+quede carga¨ nos quedó todo allá, entonces dijo: ¨no, no tengo si no una olleta y ta con tinto¨
+y mis niños llorando de hambre.
+ENT: Dios mío.
+TEST: Yo tengo si tengo no tengo salud es con razón.
+ENT: Sí. [audio: Mm mm]
+TEST: Uno sufre mucho en la vida, mucho y aquí nosotros hemos sufrido mucho, la casa fue
+atacada del ejército.
+ENT: La que ya llega ¿la de allá?
+TEST: Atacó y nos mataron a un nieto, mis hijos se alcanzaron a salir, muy duro.
+ENT: Y atacados ¿bombardeo?, ¿o... disparos?
+TEST: No esos tierra.
+ENT: Sí.
+TEST: Nos metieron una noche, porque acusaban de que el niño que murió que mataron,
+que era guerrillero.
+ENT: Ah...
+TEST: Él taba estudiando le tocó la profesora ir a declarar, que taba estudiando, que lo
+mataron allá.
+ENT: ¿En qué año?
+TEST: [INAD:09:11]
+ENT: ¿En qué año?
+TEST: Yo no me acuerdo hace pues ya hace harto tiempo hartos años.
+ENT: ¿Cómo se llamaba?
+TEST: CONOCIDO3 [DUD:09:18, él desaparecido.
+ENT: Sí [audio: Mm mm], ¿por el ejército?
+TEST: ¿Ah?
+ENT: ¿Por el ejército?
+TEST: El ejército, la UNIDAD MILITAR DEL EJERCTIRO1.
+ENT: Mm... ¿cuántos años tenía?
+TEST: Ja tenía como 14 año.
+ENT: ¿Y se lo llevan una noche? ¿cómo fue? ¿cómo fue?
+TEST: Él salía, mi marido no estaba porque nos aguantaron la caja 9 de -----------.
+ENT: Sí.
+TEST: Entonces estaba yo ahí, y mis hijos estaban ahí, cuando el [DUD:10:02] me dijo salió a
+mirar, pa otra casa a ver que pasaba, salió corriendo así [DUD:10:10] a disparar lo mata no
+lo mataron le partieron las piernitas, lo mataron a las 3 de la tarde en plena casa, los 2 se
+salieron.
+ENT: Mm...
+TEST: Muy duro yo tuve detenida porque yo me salí pa otra casa antes del problema, a ver
+qué pasaba, vi allá mucha gente y me fui, allá [DUD:10:32] nos detuvieron hasta las 5 de la
+tarde.
+
+ENT: Los detuvieron ¿quiénes?
+TEST: Mm.
+ENT: ¡¿Quiénes?!
+TEST: El ejército.
+ENT: El ejército, ¿los mismos de la UNIDAD MILITAR DEL EJERCITO1?
+TEST: ¿Ah?
+ENT: ¿Los mismos de la UNIDAD MILITAR DEL EJERCITO1?
+TEST: Sí. [audio: Mm mm]
+ENT: ¿Cuánto tiempo, cuánto tiempo te retuvieron?
+TEST: ¿Ah?
+ENT: ¡¿Cuánto tiempo te retuvieron?!
+TEST: Hasta las ya eran las 9 nos tuvieron hasta las 5.
+ENT: ¿Con quién mas?
+TEST: Habemos acá como 14, detenido, los que llegaban ahí no los dejaban [DUD:11:06]
+ENT: ¿Y por qué?, ¿qué les decían?
+TEST: Pues que, que nosotros manteníamos la guerrilla.
+ENT: Sí. [audio: Ajá]
+TEST: Yo les decía, porque yo los trataba mal.
+ENT: Sí.
+TEST: Y pues si me matan porque me fui de la casa y de una atacaron la casa, eso era
+[DUD:11:25] en el 60 [DUD:11:26] de la casa y eso sonaba bala y mis hijos ahí ellos se
+volaron, entonces yo les decía, decía [DUD:11:35] guerrilleros mis hijos estaban ahí.
+ENT: Sí. [audio: Mm mm]
+TEST: La guerrilla [DUD:11:39-11:40] porque no la buscan.
+ENT: Sí.
+TEST: No nos busquen a nosotros, [DUD:11:44]
+ENT: Mm.
+TEST: Al frente del colegio, con gente armada de ustedes [DUD:11:49]
+ENT: Sí. [audio: Mm mm]
+TEST: Entonces eso me cuenta.
+ENT: ¿Cuántas horas?
+TEST: ¿Cómo?
+ENT: ¿Cuánto tiempo los los tuvieron retenidos?
+TEST: No le digo desde las 9 hasta las 5.
+ENT: Mm... hasta las 5, ¿y... luego? o sea bueno.
+TEST: Ya entonces pues llegaron de los mismo detenidos llegó una hija, [DUD:12:20-12:24],
+nosotros no podíamos salir de [DUD:12:30] hasta que nos soltaban, nosotros íbamos a
+ajuera así de una [DUD:12:36] cada rato nos decía: ¨ustedes van a morir aquí¨, porque la
+guerrilla está ahí no más, o sea [DUD:12:45], entonces que allá estaba por ahí pero, nosotros
+que culpa, yo les decía.
+ENT: Mi amor mi amor has silencio porfa.
+TEST: Yo les decía: ¨ustedes son armada, si llega la guerrilla y pide algo, toca darle porque es
+gente armada y si ustedes llegan a las buenas toca darles también entonces que
+
+[DUD:13:08]¨
+ENT: Sí. [audio: Mm mm]
+TEST: Entonces así, yo les decía les explicaba las cosas.
+ENT: ¿Qué te decían?
+TEST: [DUD:13:16], no por ultima los insultaba, les decía: ¨ustedes máteme¨ y me mataron
+mis hijos ¨mátenme a mí con las armas que cargan ahí, con las balas que tienen ahí ¨ uno
+unos pierde con.
+ENT: Tiene ira, tiene malgenio, o sea uno tiene malgenio ira, dolor.
+TEST: ¿Qué?
+ENT: ¡Que uno tiene ira malgenio dolor!
+TEST: Claro.
+ENT: Entonces [INTERRUP]
+TEST: Soledad.
+ENT: [CONT] sí. [audio: Mm mm]
+TEST: [DUD:13:45]
+ENT: Sí señora.
+TEST: Pa saber de qué hijos estaban, y había una niña, una una hija él tenía una niña de 20
+día.
+ENT: Sí. [audio: Mm mm]
+TEST: Ella salió con la niña en el brazo, un tiroteo y después [DUD:13:59] bala por todo lao,
+[DUD:14:03-14:04]
+ENT: Huemadre, y que pasó y en la uni ¿tu estabas en ese momento en la ORGANIZACIÓN
+SOCIAL1 en la ORGANIZACIÓN SOCIAL1?
+TEST: [DUD:14:15]
+ENT: Tú tú.
+TEST: Nosotros ahí detenidos nos soltaron a las 5, yo pensaba irme pa la [DUD:14:22]
+ENT: Sí. [audio: Mm mm]
+TEST: Mis hijos decían que no, mi hija u una hija y los nietos taban ahí, ¨abuelita no vaya
+porque¨ eso estaba el ejército en la casa así.
+ENT: Y te tocó irte [INTERRUP]
+TEST: El niño el [DUD:14:37] lo tirotearon partieron las piernitas los mataron a las a las 3,
+nos [DUD:14:43-14:44] corral de ganao.
+ENT: [CONT] sí. [audio: Mm mm]
+TEST: Colgao.
+ENT: Muy duro.
+TEST: Muy duro.
+ENT: Doloroso.
+TEST: Sí.
+ENT: Y... y en es época en la ORGANIZACIÓN SOCIAL1 en la ORGANIZACIÓN SOCIAL1? ¿tu
+estabas ahí en la ORGANIZACIÓN SOCIAL1?
+TEST: Sí.
+ENT: Ellas te apoyaban luego.
+TEST: Yo me fui con la hija, a otra casa, a otra casa cuando, llegó un muchacho ahí y dijo que
+
+lo único que no salió fue fue CONOCIDO4.
+ENT: Sí. [audio: Mm mm]
+TEST: Los otros alcanzaron salir, afuera, los otros salieron volao, [DUD:15:27-15:30] lo
+volvieron pedazos.
+ENT: Sí [audio: Mm mm], o sea acabaron con todo.
+TEST: [DUD:15:36] lo que había adentro lo sacaban pa fuera lo botaban, café y todo eso.
+ENT: Sí [audio: Mm mm], y estaban viviendo ¿en dónde? ¿en dónde era que vivían?
+TEST: ¿Ah?
+ENT: ¡¿En dónde era que vivían?! ¿dónde fue eso?
+TEST: [DUD:15:50-15:51]
+ENT: El ----------, ¿y ahí en ----------que más cosas pasan?
+TEST: ¿Ah?
+ENT: ¿Ahí en ----------que cosas más pasan, en medio digamos del conflicto? ¿no? lo de
+ustedes...
+TEST: [DUD:16:05]
+ENT: Sí [audio: Mm mm] y que más ¿y la guerrilla?
+TEST: La guerrilla [DUD:16:12-16:13]
+ENT: ¿Nunca les hicieron nada a ustedes?
+TEST: La guerrilla, no.
+ENT: ¿No?, ¿sabías que frente operaba acá?
+TEST: ¿Ah?
+ENT: ¡¿Sabías que frente operaba acá?!
+TEST: Aquí operaba, a varios porque aquí entraban varios frente, [DUD:16:29]
+ENT: Sí. [audio: Mm mm]
+TEST: Entraban pero hasta ahí, aquí [DUD:16:32-16:34]
+ENT: 26, ¿y y algún comandante?
+TEST: ¿Ah?
+ENT: Ah ¿cómo se llamaba el comandante?
+TEST: [DUD:16:41]
+ENT: ¿Cómo se llamaba?
+TEST: Se llamaba... RANGO1, [DUD:16:46]
+ENT: Sí [audio: Mm mm], los paramilitares.
+TEST: Los paramilitares nos sacaron, ahí si que fue peor, porque nos decían que nos
+quitaban la cabeza con la motosierra.
+ENT: Mi amor mm mm búscalo por allá es que estoy en una entrevista porfa ayúdame con el
+silencio.
+Eh... los paramilitares llegaron amenazarlos.
+TEST: No ellos no llegaron, llegó el ejército.
+ENT: El ejército.
+TEST: El ejército llegó primero [DUD:17:21-17:23].
+ENT: Sí. [audio: Mm mm]
+TEST: Nos decían: ¨ a nosotros no hacemos nada pero los que vienen detrás sí¨ y
+la [DUD:17:31]
+
+ENT: ¿Cómo era?
+TEST: ¡Ja!, increíble, y el [DUD:17:39-17:41]
+ENT. Todo por too lao.
+TEST: [DUD:17:45-17:46]
+ENT: Sí. [audio: Mm mm]
+TEST: La último nos tocó irnos dejar ¡todo!, salir como la ropita y salga.
+ENT: Sí [audio: Mm mm], ¿y para dónde te vas?
+TEST: Nosotros nos fuimos pa ----------.
+ENT: Sí. [audio: Mm mm]
+TEST: Ah.
+ENT: Ah sí señora, y cuanto ¿y en qué año llegas a -----------?
+TEST: ¿En qué año?
+ENT: Sí.
+TEST: Yo no me acuerdo cuando dentro Uribe.
+ENT: ¿En 2.001 2.002?
+TEST: Sí.
+ENT: ¿Llegas allá?, ¿y cómo era la vida en --------------?
+TEST: Mal.
+ENT: ¿Por qué?
+TEST: Mal porque es un clima muy [DUD:18:27].
+ENT: Sí. [audio: Mm mm]
+TEST: Era mucho pa los niños, [DUD:18:30] todos los días me daba pa [DUD:18:32]
+ENT: Ah huemadre.
+TEST: [DUD:18:34] y el único que nos acompañaba los hijos así es [DUD:18:39].
+ENT: Sí. [audio: Mm mm]
+TEST: [DUD:18:42]
+ENT: Mm... muy duro.
+TEST: Ya nos salimos pa LUGAR1, porque él se enfermó y tocó mandarlo fuerna de la
+[DUD:18:52]
+ENT: Claro.
+TEST: Tenía cáncer, eso lo mató, [DUD:18:58-18:59]
+ENT: Mm... entonces se van para --------------luego pa LUGAR1, ¿en --------------cuánto duran?
+TEST: Nosotros duramos en -------2 años entonces él salió primero.
+ENT: ¿Pa LUGAR1?
+TEST: [tose] Allá también, desplazados.
+ENT: Sí. [audio: Mm mm] ¡por! ¿por quiénes?
+TEST: Por el ejército y en el ejército había un conocido de aquí.
+ENT: ¿Cómo?
+TEST: Y él decía que si nos encontraba nos hacía matar del ejército.
+ENT: ¿Por qué? [DUD:19:31]
+TEST: Porque era, era un Para.
+ENT: Ah...
+TEST: Se volvió un Para, conocido.
+
+ENT: ¿Y los amenazaba?
+TEST: Sí también nos tocó salir dejando todo cerraron con retablos, [DUD:19:47]
+ENT: Irsen.
+TEST: Pa LUGAR1, llegamos a LUGAR1 no tenía ni una cuchara, plata nada [DUD:19:56]
+tenía familia en LUGAR1 [INAD:20:00-20:02]
+ENT: ¿Y que llegas hacer a LUGAR1?
+TEST: ¿Ah?
+ENT: ¡¿Y qué llegas hacer a LUGAR1?!
+TEST: [DUD:20:07]
+ENT: Sí sí sí ¿pero que llegas hacer? ¿qué te toca llegar hacer? ¿en qué trabajas... qué te toca
+ponerte hacer?
+TEST: [DUD:20:13-20:15] mi hijo pues se fue pa allá pal Huila.
+ENT: Ah...
+TEST: [DUD:20:19] él enfermo [DUD:20:22-20:27] usted sabe que uno enfermo.
+ENT: Sí. [audio: Mm mm]
+TEST: Operao, a veces se le zafaba la sonda [DUD:20:34]
+ENT: Ay que miedo, ¿y cuánto duran en LUGAR1?
+TEST: Nosotros duramos como... como 4 meses ya nos trasladamos pal Huila.
+ENT: Mm... huemadre ¿y qué pasó, mientras tanto, con la ORGANIZACIÓN SOCIAL1?
+TEST: ¿Ah?
+ENT: ¿Qué pasó mientras tanto con la ORGANIZACIÓN SOCIAL1?
+TEST: Se acabó.
+ENT: ¿Se acabó?
+TEST: No pues tiene que haber.
+ENT: No no pero cuando tu estabas en LUGAR1... cuando te desplazaron que ¿qué pasó con
+la ORGANIZACIÓN SOCIAL1?
+TEST: Pues aquí se acabó, todos todos se desplazaron, aquí quedó solo aquí no hay gente.
+ENT: Entonces se a se abrió la ORGANIZACIÓN SOCIAL1, se fue todo el mundo.
+TEST: [INAD:21:25-21:28] puede que ahora haya.
+ENT: Sí sí sí.
+TEST: Pero ya no.
+ENT: ¿Y tú no volviste acercarte a la ORGANIZACIÓN SOCIAL1?
+TEST: [sonido]
+ENT: ¿Y no volviste a reunirte con la ORGANIZACON SOCIAL1?
+TEST: [INAD:21:41]
+ENT: ¿Desde esa vez? ¿desde que te desplazaron?
+TEST: [DUD:21:44-21:46] nada, es que... por lo menos yo digo, hay gente que las entere de
+esas que abrieron.
+ENT: Sí. [audio: Mm mm]
+TEST: De las [DUD:22:00-22:01] entonces uno que trabajó hizo.
+ENT: [DUD:22:07]
+TEST: Sin nada, nosotros teníamos ganaito y todo en la finca.
+ENT: Sí. [audio: Mm mm]
+
+TEST: Quedamos sin nada nada no nos dejaron siquiera los calzones de nosotros.
+ENT: Todo se acabó.
+TEST: Se acabó todo.
+ENT: Hoy, doña CONOCIDA5 me decían que allá abajo había como una oficina de la
+ORGANIZACIÓN SOCIAL1, aquí abajo en el puerto.
+TEST: Pues yo no he preguntado.
+ENT: Sí que ahí era como la espacio, como la oficina, como.
+TEST: ¿Quién será la que maneja eso?
+ENT: No, que ya está abandonado.
+TEST: Ah.
+ENT: Que en algún momento hubo una oficina, como un salón, pero que ya no existe.
+TEST: No.
+ENT: ¿No? ¿no sabes?
+TEST: No yo no creo porque, ya le dije.
+ENT: Sí. [audio: Mm mm]
+TEST: Yo salí pero desplazados.
+ENT: Sí. [audio: Mm mm]
+TEST: Pero la organización se abrió por lo mismo.
+ENT: Sí. [audio: Mm mm]
+TEST: Cada uno pa donde pudiera correr.
+ENT: Y en el Huila ¿cuánto duras tú?
+TEST: Nosotros duramos 2 años.
+ENT: ¿Y allá qué haces?
+TEST: Yo le [DUD:23.13], yo me tocaba trabajar en la que me salía, pa sostenerlo a él, y coger
+tomate coger frijol, vea yo tengo mis deditos porque allá el frijol es [DUD:23:28]
+ENT: Sí. [audio: Mm mm]
+TEST: [INAD: 23:30]
+ENT: Sí. [audio: Mm mm]
+TEST: En el [DUD:23:31] y seco entonces eso lo [DUD:23:33].
+ENT: ¿Quema?
+TEST: Yo lo que sabía [DUD:23:38] a veces me decían a lavar, a coger frijol, a coger alverja,
+lo que saliera.
+ENT: Tocaba.
+TEST: Sostener.
+ENT: Y después te vienes ¿luego del Huila pa dónde vas?
+TEST: Nosotros llegamos del Huila nos vinimos pa -------.
+ENT: Sí. [audio: Ajá]
+TEST: Donde una casita que tenía una hija que ta en LUGAR1, [DUD:24:03], y ella trabaja con
+[INAD:24:05-24:11] llegamos allá entonces ya mi hijo el que está por ahí está trabajando
+dijo: ¨mamá yo me voy pa la finca, yo me voy hacer algo por la finca que hacemos aquí todo
+amontonaos¨ se vino, entonces ya dijeron que nos viniéramos de ---------- y allá sufríamos
+con agua no había agua donde tabamos no había, [DUD:24:36] desde ese tiempo tamos aquí.
+ENT: Sí. [audio: Mm mm]
+
+TEST: Él murió, en casita.
+ENT: ¿En LUGAR2?, y entonces doña CONOCIDA5 ¿él murió en LUGAR2?
+TEST: Él murió en el hospital porque se agravo y lo echaron pal hospital [DUD:24:57].
+ENT: Sí. [audio: Mm mm]
+TEST: [DUD:25:00] hay que sufrir pa tener algo ¿cierto? [risas]
+ENT: Y como ¿cómo llegas a ORGANIZACIÓN SOCIAL2?
+TEST: Nosotros llegamos por una, por una nuera ella murió ya.
+ENT: Sí. [audio: Mm mm]
+TEST: En una casita allá abajo, dijo: ¨vaya pa allá y se están hoy en la casa¨ ahí muere,
+estuvimos 2 días ahí, entonces ella [DUD:25:22] siempre tiene familia, ella murió hace poco
+murió ella, entonces llega llegamos ahí, entonces ya la nuera FAMILIAR1 que tu ve aquí.
+ENT: Sí. [audio: Mm mm]
+TEST: Dejó la casa onde toy yo, entonces se acordaron de que ella no tiene [DUD:25:39] la
+casa.
+ENT: Ah...
+TEST: [DUD:25:43] de vivir, [DUD:25:45-25:49] pero yo no la pude arreglar porque, no
+tengo con qué. [risas]
+ENT: [risas] Claro, ¿y entonces ya cuántos años llevas acá en ORGANIZACIÓN SOCIAL2?
+TEST: ¿Ah?
+ENT: ¿Cuántos años llevas acá en ORGANIZACIÓN SOCIAL2?
+TEST: Ahí como, como 14 años.
+ENT: Mm...
+TEST: Tamo acá.
+ENT: ¿Y qué has sabido de las mujeres que eran de la ORGANIZACIÓN SOCIAL1? las que
+estaban ¿ellas dónde están...?
+TEST: No sé yo como [DUD:26:15-26:17] de las que tenía.
+ENT: Sí. [audio: Mm mm]
+TEST: Doña FAMILIAR1 y... [INAD:26:20], las otras están en --------, la mayoría vive en
+-----------, y yo no sé acá pues, si habrá organizaciones [DUD:26:31] no sé.
+ENT: Mm...
+TEST: No sé, ya le dije yo por enfermo.
+ENT: Sí. [audio: Mm mm]
+TEST: Yo aquí me toca que me cuiden, me está cuidando una nuera.
+ENT: Mm...
+TEST: [DUD:26:44-26:45]
+ENT: Ah... huemadre.
+TEST: Sí. [audio: Mm mm] [risas]
+ENT: Y... que mas te iba a preguntar, no sé que más se acuerde, ¿qué más le tocó vivir, en
+medio del conflicto?
+TEST: ¿Ah?
+ENT: ¿Qué más se acuerda que le tocó vivir en medio del conflicto?
+TEST: Muy mal.
+ENT: Cuéntame, cuéntame.
+
+TEST: [DUD:27:07] ya le dije, el conflicto fue muy bravo, mucha [DUD:27:14] mucha cosa.
+ENT: Sí. [audio: Mm mm]
+TEST: Muy doloroso, y te digo que perdí un hijo también.
+ENT: ¿Desaparecido?, ¿quién crees que se lo llevó?
+TEST: Pues no se sabe él se fue a trabajar y se desapareció.
+ENT: ¿En qué año?
+TEST: Hace como 6 años que [DUD:27:36].
+ENT: Mm...
+TEST: Desapareció.
+ENT: ¿Y nunca supiste que pasó... por qué?
+TEST: Pues no se sabe qué, pero dicen que también fue el ejército.
+ENT: Ah... ¿cómo se llama?
+TEST: Se llama FAMILIAR2
+ENT: FAMILIAR2.
+TEST: Lo echaron, dicen que lo echaron pa ----------.
+ENT: Sí. [audio: Mm mm]
+TEST: Hay veces que los hijos se van y no le dicen a uno pa donde.
+ENT: [risas] ¿Cuántos hijos tuviste?
+TEST: 10.
+ENT: 10, ¿y cuántos tienes do dónde están todos?
+TEST: Muertos 2, él desaparecido y una hija que se alejó.
+ENT: Ah... ¿y el dónde están todos tus hijos, el resto?
+TEST: ¿Ah?
+ENT: ¿Dónde está el resto de tus hijos? ¿dónde están?
+TEST: Mis hijos no aquí no hay sino 2.
+ENT: Sí. [audio: Mm mm]
+TEST: [DUD:28:34] aquí mis hijas están, hay 2 que trabajan en un [DUD:28:38].
+ENT: Sí. [audio: Mm mm]
+TEST: [DUD:28:40] -------- La -----------.
+ENT: Sí. [audio: Mm mm]
+TEST: [INAD:28:45], yo estoy sola [risas].
+ENT: ¿Está sola acá?, em... ¿cómo fue el regreso tu estuviste cuando regresó todo el mundo
+aquí a ORGANIZACIÓN SOCIAL2?
+TEST: ¿El regreso de acá?
+ENT: Sí ¿cómo fue?
+TEST: Pues ya aquí nosotros [DUD:29:02-29:03]
+ENT: Sí.
+TEST: Acá, yo colaboraba [DUD:29:06-29:07] lo que saliera las tareas de todo.
+ENT: Sí. [audio: Ajá]
+TEST: Ahorita ya no porque.
+ENT: ¿No hay salud?
+TEST: [risas]
+ENT: Y co ¿qué piensas de todos estoy ejercicios?
+
+TEST: ¿Ah?
+ENT: ¿Qué piensas de todos estos ejercicios... de memoria...?
+TEST: Aquí pienso los que murieron conocidos y todo, por lo menos él, él luchó mucho acá,
+que [DUD:29:33] la escuela pidiera cosas también, nos ha colaborado.
+ENT: ¿Y qué pasó?
+TEST: Se murió.
+ENT: Pero lo ¿murió o lo mataron?
+TEST: Murió.
+ENT: Mm...
+TEST: Murió.
+ENT: Y de ellos [INTERRUP]
+TEST: Él era [INTERRUP]
+ENT: [CONT] ¿los conoces a todos ellos?
+TEST: [CONT] de los de aquí, este.
+ENT: ¿Quién era?
+TEST: CONOCIDO6.
+ENT: ¿Qué hacía CONOCIDO6?
+TEST: ¿Mm?
+ENT: ¿Qué hacía don CONOCIDO6?
+TEST: Don CONOCIDO6 pues él él por lo menos era, organizador de de acá.
+ENT: Sí, ¿te acuerdas mucho de él?
+TEST: Lo mataron.
+ENT: ¿Quién lo mata?
+TEST: Lo mataron el -----------.
+ENT: Sí [audio: Mm mm] ¿lo asesinan?, y que piensas a ver ahí están todas las fotos...
+TEST: [DUD:30:26] todo.
+ENT: De cuando vuelven...
+TEST: Yo toy eh por allá y allá.
+ENT: Ah sí allá estás, ¿cómo te sientes?, ¿cómo te sientes de haber volvido a ------- a acá?
+TEST: Pues bonito.
+ENT: ¿Si?, ¿muy tranquilo?
+TEST: Tranquilo, y aquí a veces [DUD:30:50-30:52], pero entonces ya no tiene derecho.
+ENT: Sí. [audio: Mm mm]
+TEST: Una vez llegaron allí, llegaron, llegaron onde pa allá pa [DUD:31:00] llegó un soldao,
+dijo ¨usted porque no [DUD:31:05-31:07] presta un balde¨ -¨ y que pa que¨- dijo: ¨pues se
+[DUD:31:10]¨ [DUD:31:11] roto pa qué?- decía yo- dijo: ¨¿y ustedes por qué prohíben la
+entrada de la [DUD:31:17-31:18]¨
+ENT: Sí. [audio: Mm mm]
+TEST: Entonces le dije: ¨eso si yo no sé, porque¨, ninguna gente armada dentra aquí, nada
+sea guerrilla o sea ejército nada, toces y que ¨¿por qué?¨ tonce había una muchacha una
+española pa ba pa [DUD:31:38-31:39] una reunión.
+ENT: Sí. [audio: Mm mm]
+TEST: Cuando le dije que hay una mucha que ella si le dice en esas bajo ella, a la escuela va.
+
+ENT: Sí. [audio: Mm mm]
+TEST: Y ahí [DUD:31:50] aquí no dentra nadie [DUD:31:52]¨
+ENT: ¿Y se fue?
+TEST: Se fue. [risas]
+ENT: Ah... [risas], muy bien.
+TEST: La tengo muy. [risas]
+ENT: Señora, no yo tengo todo el tiempo pa que usted me cuente cosas.
+TEST: [risas]
+ENT: De la ORGANIZACIÓN SOCIAL1, cuénteme cosas que más hacían, ¿qué más hacían las
+mujeres?
+TEST: Yo sí quiere le doy una fotocopia.
+ENT: ¡Sí! sí yo me la llevo.
+TEST: Tengo esta, está es una fotocopia de, la sacaron en el [DUD:32:24] a una amiga que,
+una nuera de de ella, vino allí y [DUD:32:31] dijo nadie ya llevo y le saco fotocopia pa tener
+yo una y [DUD:32:38-32:40]
+ENT: Listo, yo ahorita le tomo una foto, yo ahorita le tomo una foto, y y yo me la llevo, para
+tener sobre la ORGANIZACIÓN SOCIAL1, ¿qué hacían...? ¿qué más hacían las eh cada cuánto
+se reunían...?
+TEST: ¿Nosotros?
+ENT: Sí.
+TEST: ¿Aquí?
+ENT: Sí. [audio: Mm mm]
+TEST: Pues aquí pues nosotros ya [DUD:33:00-33:01]
+ENT: Pero cuando empezaron.
+TEST: No hicimo na.
+ENT: Pero cuando empezaron ¿cómo cada cuánto se reunían...qué más hacían?
+TEST: [DUD:33:11]
+ENT: Sí.
+TEST: Pues nosotras fue que como le digo, aquí venía, venía gente de LUGAR1.
+ENT: Sí. [audio: Mm mm]
+TEST: A explicar mujeres que vamos hacer, hacíamos, hacíamos cursos, [DUD:33:28-33:29]
+nos hacían cursos, de 2 3 días 2 días [DUD:33:32]
+ENT: ¿Sobre qué temas?
+TEST: ¿Ah?
+ENT: ¿Sobre qué temas te acuerdas?
+TEST: El tema de la organización de las mujeres.
+ENT: Sí. [audio: Mm mm]
+TEST: Porque, [DUD:33:43].
+ENT: ¿Cuál era la necesidad de organizar mujeres?
+TEST: Pa que nos fuéramos derecho a [DUD:33:50].
+ENT: Y cu ¿y cuáles considerabas tú que eran los derechos de las mujeres?
+TEST: ¿Ah?
+ENT: ¿Cuáles considerabas tú que eran lo derechos de las mujeres?
+
+TEST: [INAD:33:59]
+ENT: Derecho al trabajo... derecho a la salud...
+TEST: Y el manejo por lo menos en la casa.
+ENT: Sí. [audio: Mm mm]
+TEST: Porque siempre un hogar el que manda es el hombre ¿cierto?
+ENT: Sí. [audio: Mm mm]
+TEST: Pero hay veces en unión, nosotros trabajábamos en unión, él no me decía me salía
+tarea no [DUD:34:20] en otra, ¨vaya¨.
+ENT: Sí. [audio: Mm mm]
+TEST: Él nunca me prohibió ¨no vaya¨.
+ENT: Sí. [audio: Mm mm]
+TEST: Nunca nunca.
+ENT: Porque eran de la misma organización o sea, del mismo pensamiento...
+TEST: Nosotros allá luchaba por, dijera algo.
+ENT: Sí [audio: Mm mm] y oye y la nueva organización de mujeres, que está ahora ¿te ha
+venido a buscar... a preguntar cosas?
+TEST: Sí nosotros pues nos pues cuando nos reuníamos, yo me tocaba estar con
+[DUD:34:52], explicarle la realidad, que estar organizado una mujer.
+ENT: Sí. [audio: Ajá]
+TEST: [DUD:34:59], porque afrentarse con nosotras aquí nos reuníamos en ---------aquí
+cuando llegó gente porque aquí no había nada.
+ENT: Sí. [audio: Mm mm]
+TEST: [DUD:35:10-35:11] porque a hombres que no los dejaban ir a la reunión porque era
+[DUD:35:16].
+ENT: Sí. [audio: Mm mm]
+TEST: Nosotros nos enseñaban el rosario, enseñar lo que le hace falta a uno, no mas.
+ENT: Sí señora.
+TEST: Y tampoco se estrellase con el marido tampoco.
+ENT: Sí. [audio: Mm mm]
+TEST: Que sea uno [DUD:35:51] de una vez.
+ENT: Sí. [audio: Mm mm]
+TEST: [INAD:35:34], si el marido hace un negocio uno debe de apoyarlo, yo me así era mi,
+mi hogar era así.
+ENT: Sí señora, y tus hijos también ¿no?
+TEST: Mis hijos también, ellos fueron muy buenos hijos, pa que son muy buenos hijos, él
+papá les decía: ¨si usted les hace falta algo, pida nunca vayan a coger a lo malo¨
+ENT: Sí. [audio: Mm mm]
+TEST: Uno debe pensar, de que hoy tiene, mañana no tiene nada, y si uno va y quita algo
+otro lo ta mirando y queda mal, era así.
+ENT: Sí. [audio: Mm mm]
+TEST: Todo eso explicaba él.
+ENT: Muy bien, y... ¿qué más te iba a preguntar?, no sé qué más te acuerdes que quieras con
+[INTERRUP]
+
+TEST: ¿Ah?
+ENT: [CONT] ¡¿qué más te acuerdes que me quieras contar?!
+TEST: No. [risas]
+ENT: De la ORGANIZACIÓN SOCIAL1.
+TEST: Así trabajo que hicimos marchas y todo así.
+ENT: Las marchas...
+TEST: La marcha de [DUD:36:38] de [DUD:36:39] tuve yo.
+ENT: ¿En qué año?
+TEST: Ya no me acuerdo en que año fue, no me acuerdo fue ya hace mucho tiempo.
+ENT: Mm...
+TEST: Y fue muy duro, porque fuimos mas de 500 personas marchando.
+ENT: ---------- - --------------.
+TEST: Venían de Guaviare de todo, y los otros eran de acá, éramos poquitos mas pocos, y los
+delante cogieron la delantera nos mandaron cosas de -----, de los pueblos y los delante
+comida mija.
+ENT: Ah huemadre.
+TEST: Y nosotros no cargábamos equipos, nada, una mudita de ropa y, y uan sabana pa
+tender.
+ENT: Sí [audio: Mm mm] y así.
+TEST: [risas]
+ENT: La marcha toda camine de ahí pa abajo.
+TEST: Porque pa uno caminar así.
+ENT: Claro.
+TEST: [DUD:37:30] es muy cansón, un solo [DUD:37:32]
+ENT: Y agota, cansa.
+TEST: Cansa.
+ENT: Mucho, y, ¿más o menos no te acuerdas cuándo inició la ORGANIZACIÓN SOCIAL1?
+¿cuándo cuándo en qué año inició más o menos?
+TEST: Eso hace muchos años.
+ENT: Per no recuerdas como el año...
+TEST: No.
+ENT: La fecha que celebrastes...
+TEST: No porque yo estaba [DUD:37:55].
+ENT: Ah...
+TEST: [INAD:37:57]
+ENT: ¿Y en el Tolima también a había ORGANIZACIÓN SOCIAL1?
+TEST: [DUD:38:02], pues ya al principio la organización femenina.
+ENT: Sí. [audio: Mm mm]
+TEST: Ya dentraban de afuera a explicarno y nosotras poníamos cuidao, pues yo me
+[DUD:38:13] ponía cuidao.
+ENT: Sí. [audio: Mm mm]
+TEST: [DUD:38:16] enseñarles todo le manejo en la casa.
+ENT: Sí. [audio: Mm mm]
+
+TEST: Todo, porque allá los hombres decían: ¨no eso serán esas [DUD:38:24]
+ENT: Sí. [audio: Mm mm]
+TEST: Acoso, que no son de, no [DUD:38:28], el manejo de la caja.
+ENT: Y en ese tiempo ¿quién era la presidente?
+TEST: ¿Ah?
+ENT: ¿Quién era la presidenta?
+TEST: ¿Aquí?
+ENT: De la ORGANIZACIÓN SOCIAL1.
+TEST: Aquí no había... toda una organización.
+ENT: Ah...
+TEST: Había una comisión de 4, pero no nombrábamos presidenta.
+ENT: Ah ok.
+TEST: Todas, todas conversábamos en la en la, en la comisión que había acá, una comisión
+ya ma.
+ENT: Sí [audio: Ajá] ¿y ahí dialogaban se encontraban?
+TEST: [DUD:39:08-39:09] o que, la comisión nos mandaba tarea.
+ENT: Sí. [audio: Mm mm]
+TEST: Que teníamos que hacer eso eso.
+ENT: ¿Y ustedes organizaban?
+TEST: No nosotros no teníamos, presidenta.
+ENT: Ah... ok.
+TEST: Pa fuera pal [DUD:39:24] allá presidente la, en la direción pal foco.
+ENT: Sí. [audio: Mm mm]
+TEST: Toda, había una directiva así.
+ENT: Sí. [audio: Mm mm]
+TEST: [DUD:39:33] pero toda, no había, como toda organización acá hay presidentes,
+secretario todo.
+ENT: Sí. [audio: Mm mm]
+TEST: Pues ya había pero tonce todas, acordaban una sola tarea todas.
+ENT: Sí [audio: Mm mm] y eh... como, ¿cómo se llamaba ella?
+TEST: ¿Mm?
+ENT: ¿Cómo se llama ella?
+TEST: CONOCIDA7.
+ENT: CONOCIDA7, siendo la ORGANIZACIÓN SOCIAL1 fue candidata, fue... alcaldesa.
+TEST: Ella fue alcaldesa del LUGAR2 yo no me acuerdo en que año.
+ENT: Sí. [audio: Mm mm]
+TEST: Y y en esas dentraba otro profesor conocido de acá.
+ENT: Sí. [audio: Mm mm]
+TEST: [DUD:40:17] acá, y que fue asesinado también ahí, ya lo mataron, mataron la
+administración toda.
+ENT: Sí [audio: Mm mm] ¿y ella era de la ORGANIZACIÓN SOCIAL1, de la ORGANIZACIÓN
+SOCIAL1?, ¿crees que por ser de la ORGANIZACIÓN SOCIAL1 la asesinan?
+TEST: ¿Ah?
+
+ENT: ¡¿Crees que por ser de la ORGANIZACIÓN SOCIAL1 la asesinan?!, ¿tú que piensas?
+TEST: Que ella, ella nos enseñaba.
+ENT: Sí. [audio: Mm mm]
+TEST: Una profesora o sea cursos que [DUD:40:48] mas que hacer y todo, cuando ya la
+nombraron que fuera alcalde del LUGAR2.
+ENT: Sí. [audio: Mm mm]
+TEST: Nosotros votábamos por ella, como [DUD:40:57]
+ENT: Sí. [audio: Mm mm]
+TEST: Y cuando fue el otro que ya salía ella, hubo otra campaña.
+ENT: Ah... ¿y él si pudo ejercer?
+TEST: ¿Ah?
+ENT: ¿Él si pudo ejercer o también lo mataron?
+TEST: Él me, él tuvo mejor dicho él, lo nombraron eh de alcalde.
+ENT: Sí. [audio: Mm mm]
+TEST: Y ya que lo sabía él, lo citaron pa -------------.
+ENT: Sí. [audio: Mm mm]
+TEST: Cuando lo mataron [DUD:41:26].
+ENT: Ah ok, ¿qué mas se acuerda sumercé?
+TEST: [risas] Ya. [risas]
+ENT: Sí ya.
+TEST: [risas] Fue mucho que [DUD:41:38] [risas].
+ENT: Vamos a mirar.
+TEST: Ya.
+ENT: ¿Si? ¿suficiente?, ¿sumercé ha denunciado?
+TEST: ¿Ah?
+ENT: ¿Sumercé ha denunciado?
+TEST: ¿Qué?
+ENT: Eh la eh la desaparición de su hijo... el desplazamiento...
+TEST: Desplazamiento pues muy duro.
+ENT. Pero que si sumercé ¿¡ha denunciado!?
+TEST: Pues yo tuve denuncié.
+ENT: Sí. [audio: Mm mm]
+TEST: Nosotros porque yo, mi hijo mi nieto lo mataron en la casa.
+ENT: Sí. [audio: Mm mm]
+TEST: Me tocó dar esa denuncio allí en el LUGAR2 me tocó ir y denunciar, entonce
+denunciaron cosas que no habían.
+ENT: Sí. [audio: Mm mm]
+TEST: [tose] La casa es grande allá donde tabamo, las armas que ellos llevaban [DUD:42:2842:30] nos pusieron allá, en una mesa en el corredor.
+ENT: Sí. [audio: Mm mm]
+TEST: Y decían que esas armas, el niño que había ahí lo estaba cuidando, los [DUD:42:42]
+porque ellos acusan con, decíamos que teníamos [DUD:42:46], era pa la guerrilla nosotros
+no teníamos [DUD:42:48] pa la guerrilla teníamos ganao, yo les decía ¨sale tal ganao¨, nos
+
+acusaron yo tengo, un denunció en bo en en ----------, es un vidrio así, cosas nadie, cosas que
+no se hicieron.
+ENT: Sí. [audio: Mm mm]
+TEST: [DUD:43:06] ¿cierto?
+ENT: Sí señora, algo ¿en algún momento ha recibido reparación?
+TEST: No.
+ENT: ¿Nada?
+TEST: Nosotros que día nos hicieron una, una una entrevista en el LUGAR2, y nos dijeron
+que nos iban ayudar, pero entonces había una un denuncio allá no sé como pasó ese
+denuncio que yo era muerta.
+ENT: Mm...
+TEST: Yo iba con mi hijo, [DUD:43:34-43:35] se fue a trabajar [DUD:43:37] y, y salió allá, en
+el sistema ¨ella es muerta¨.
+ENT: Mm...
+TEST: Entonces él decía ¨pero es mi mamá yo le traigo y traigo la cédula de ella, llamen a
+donde, ya¨ por lo menos yo recibo la, la ayuda de la tercera edad, en el LUGAR1.
+ENT: Sí. [audio: Mm mm]
+TEST: [DUD:43:59-44:01] ¿quién dijo que yo era muerta?¨ y le alegaba y la muchacha que
+taba hay pero ¨mire que es mi mamá¨.
+ENT: [DUD:44:11]
+TEST: El caso, pero yo hice papeles, porque allá me hicieron papeles.
+ENT: Sí. [audio: Mm mm]
+TEST: Que nos ayudaba, pero a nosotros no, y el bajo [DUD:44:19], ayer me preguntó a ver
+qué pasaba y que no hay nada, entonces no se sabe qué.
+ENT: Que ha pasado.
+TEST: [DUD:44:28]
+ENT:¿En algún momento ha recibido [INTERRUP]
+TEST: A mucha gente, mucha gente ahí en.
+ENT: [CONT] Sí. [audio: Mm mm]
+TEST: Reparación pero, quien sabe yo con el problema, si la muchacha porque había otra
+señora ahí que taba en las mismas.
+ENT: Sí. [audio: Mm mm]
+TEST: Le dijo ¨pero tiene que usted ser consciente, ser consciente porque él te va a decir que
+es la mamá¨ yo que diga ¨traiga a mi mamá¨ y digan que es muerta yo digo que no que está.
+ENT: Sí. [audio: Mm mm]
+TEST: ¿Cierto?, tonce no se sabe.
+ENT: Y... ¿en algún momento has recibido ayuda humanitaria, algún apoyo económico?
+¿nada?
+TEST: No.
+ENT: ¿No?
+TEST: No yo no recibo nada ni de aquí de ninguna parte.
+ENT: Que quisieras [INTERRUP]
+
+TEST: ¿Ah?
+ENT: [CONT] ¿qué quisieras que el Estado hiciera para sentirte reparada?
+TEST: Claro.
+ENT: ¿Qué? ¿qué te gustaría que el Estado hiciera para sentirte reparada?
+TEST: Quisiera... [INAD:45:22], me repararan porque ya varias veces nos han citado.
+ENT: Sí. [audio: Mm mm]
+TEST: Y se comprometen que nos ayudan y yo no he recibido ayuda na, cuando [DUD:45:33]
+recibía ayuda cuando estaba yo enferma, recibí una ayuda si no que el problema [tose] el
+problema mío cuando tuvimos en LUGAR1.
+ENT: Sí. [audio: Mm mm]
+TEST: Que [DUD:45:49] un hijo, y él no nos dijo que él estaba enfermo [DUD:45:56], no nos
+dijo yo iba a declarar, declaró él que sabe que que declaré, pero no, pero entonce nosotros
+estábamos en el sistema del LUGAR2 de desplazados.
+ENT: Mm...
+TEST: Pero, ninguno.
+ENT: ¿Nada?
+TEST: Nada, nada nada, nosotros perdimos todo, perdimos ganao ¡todo! lo que teníamos
+mijita, todo.
+ENT: Sí claro.
+TEST: Pero no.
+ENT: Nada nada.
+TEST: Y ahorita [DUD:46:26] y ayer bajo y preguntó, que a ver que pasaba, dijo ¨pues no se
+sabe nada, si puede haber ayuda¨.
+ENT: Sí [audio: Mm mm], ¿pero no mas?
+TEST: No mas.
+ENT: Ah huemadre.
+TEST: [tose]
+ENT: Em...
+TEST: [DUD:46:46] y me da tos.
+ENT: ¿Si?
+TEST: Porque yo vivo muy frío, [DUD:46:52-46:54]
+ENT: Sí...
+TEST: Ha sido todo, ya es de noche.
+ENT: Huemadre.
+TEST: [risas]
+ENT: Eh... [susurro] que era lo otro que era lo otro que era lo otro ay.
+TEST: [tose], [DUD:47:09-47:11]
+ENT: ¿Nada?, que triste.
+TEST: Me cuando yo me [DUD:47:16] unos días en la junta comunal, [DUD:47:19]
+ENT: Sí. [audio: Mm mm]
+TEST: Mis compañeros ni siquiera vinieron a decir que pasó que no volví.
+ENT: ¿No te dijeron nada?
+TEST: [tose]
+
+ENT: Oye.
+TEST: Primero había mucha ayuda.
+ENT: Sí. [audio: Ajá]
+TEST: Las mujeres bien enfermas [DUD:47:41-47:45]
+ENT: Sí. [audio: Ajá] y tú, te voy a preguntar algo ¿y tú qué... crees que el conflicto se puede
+repetir?
+TEST: ¿Ah?
+ENT: ¿Crees que el conflicto se va a repetir de nuevo?
+TEST: Puede que.
+ENT: ¿Por qué?, ¿por qué crees eso?
+TEST: Yo pues yo, dudo ¿cierto?
+ENT: Sí. [audio: Mm mm]
+TEST: Yo dudo porque el Estado no ha cumplido.
+ENT: Sí. [audio: Mm mm]
+TEST: Entonces puede haber conflicto otra vez, nosotros luchamos hicimos marcha, pa que
+viera la paz.
+ENT: Sí. [audio: Mm mm]
+TEST: Pero, el Estado es el que manda.
+ENT: No cumple.
+TEST: Peligroso.
+ENT: Sí señora.
+TEST: Uno quisiera que no haiga porque la guerra es muy dura.
+ENT: Sí señora.
+TEST: La guerra es muy dura ¿no?
+ENT: Muy dolorosa, ¿qué mas? eh... las personas que vivían en esta región se fueron.
+TEST: ¿Mm?
+ENT: Las personas que vivían acá se fueron ¿y han vuelto?
+TEST: ¿Los de acá?
+ENT: Sí los que salieron desplazados.
+TEST: Ellos se fueron pa la finca.
+ENT: Sí.
+TEST: Pero [DUD:48:58-49:00]
+ENT: Abandonado.
+TEST: Abandonao, pues se fueron a trabajar porque aquí ¿qué?, el que no tiene no come.
+ENT: Sí señora, y mucha gente no ha vuelto.
+TEST: No.
+ENT: No.
+TEST: Por lo menos la fundadora que es doña CONOCIDA7.
+ENT: Sí. [audio: Ajá]
+TEST: No, pa la finca, ella viene pero, [DUD:49:23] hacer aquí, todos sus fundadores jm,
+[DUD:49:27-49:31]
+ENT: Claro, la comidita.
+TEST: Y yo no [DUD:49:34] la finca [DUD:49:36].
+
+ENT: Mm...
+TEST: Yo no puedo [susurro], no puedo queda lejos.
+ENT: Claro.
+TEST: [INAD:49:44-49:49]
+ENT: Bueno.
+TEST: La guerra es muy dura.
+ENT: Sí señora, muy dolorosa.
+TEST: Nosotros sufrimos muy duro acá, había [DUD:49:57], humillación jum pero toca
+pasarla.
+ENT: Y en contra de las mujeres ¿qué cosas pasaban?
+TEST: ¿En contra?
+ENT: Sí.
+TEST: Pues que la mataban.
+ENT: Sí. [audio: Ajá]
+TEST: Sí la encontraban.
+ENT: ¿Las violaban?, ¿si?
+TEST: [DUD:50:18]
+ENT: Mm.
+TEST: Hasta acá [DUD:50:21] guerrillera.
+ENT: ¿Y las mataban?
+TEST: En el Tolima pasó lo mismo.
+ENT: Sí. [audio: Mm mm]
+TEST: [INAD:50:32-50:33] [risas]
+ENT: Sí señora, todos quedamos en media, en medio.
+TEST: ¿Ah?
+ENT: ¡Y todos quedamos en medio!
+TEST: Sí.
+ENT: Pues no sé que mas se acuerde doña TEST que me quiera contar.
+TEST: [risas]
+ENT: ¿Ya? quiere ir a descansar, bueno, eh... bueno doña TEST muchísimas gracias por,
+¡muchísimas gracias! por este ejercicio de contarme cosas, yo sé que es un poco difícil hacer
+memoria.
+TEST: [INAD:51:03]
+ENT: Pero muchas [INTERRUP]
+TEST: Vea yo no sé leer ni escribir.
+ENT: [CONT] Sí. [audio: Mm mm]
+TEST: Pero ya hoy en día acá, vivo muy enferma, tengo [DUD:51:12-51:13]
+ENT: Mm...
+TEST: Mis hijos me llevaban a LUGAR1 hacerme examen, la ulcera entera, la vesícula
+[DUD:51:21].
+ENT: Cla eh [DUD:51:23].
+TEST: Yo tengo mucha amiga en el [DUD:51:26].
+ENT: Sí.
+
+TEST: La mayoría pero yo no voy casi, muy poquito voy, me da pena salir.
+ENT: Ah...
+TEST: [risas]
+ENT: Te has, sí las enfermedades llegan hola.
+TEST: [risas]
+ENT: Bueno doña TEST muchísimas gracias, entonces voy hacer el cierre de la entrevista.
+TEST: Perdona que la embolaté mucho.
+ENT: No... se preocupe, bueno hacemos el cierre de la entrevista con doña TEST hoy 7 de
+---------- en La -------------- en ORGANIZACIÓN SOCIAL2.
+
+

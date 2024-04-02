@@ -1,0 +1,665 @@
+ENT: Bueno, mi nombre es ---------------- estamos en ----------- hoy es ---------------- y me
+acompaña ¿su nombre, por favor?
+TEST: TEST
+ENT: ¿Y cómo le guste que le llamen?
+TEST: TEST
+ENT: Sí?[Risas], yo le había puesto -------[Risas]
+TEST: TEST
+ENT: Listo TEST, ¿en dónde nació?
+TEST: Yo nací en la comunidad de --------ENT: Por aquí por el río, ¿cierto? …
+TEST: Sí, por aquí por el río, hacia la segunda comunidad de
+--------- pa' arriba.
+ENT: De qué comunidad es?
+TEST: De la comunidad de -------------ENT: ------------------TEST: Es el apellido mío, pero se llama ------------------ENT: ¿Y usted es indígena?, ¿de qué?, INDIGENA1
+TEST: INDIGENA1
+ENT: ¿Y habla lengua?
+TEST: Hablo la lengua… propia
+ENT: Qué bueno, porque [INAD] unos chiquillos ahí,… Listo, ¿y en qué año nació?
+TEST: Yo nací el --------------------------- 1986
+ENT: Mmm, y ¿cómo era [INAD] en esa época?
+TEST: Pues, en esa época, pues en la comunidad de nosotros, éramos uno solo, que ahorita
+se llama -------------- Osea, nosotros, nuestra familia vive en este momento como a 20
+minutos de ----------En esa entonces, nosotros pertenecíamos a --------- osea, por eso es que
+yo digo que nací en --------- porque le decíamos todavía --------- Ya, con el transcurso del
+tiempo, nuestros padres fundaron ya la otra comunidad que ahorita se llama --------------..
+mjm, ahí nosotros actualmente vivimos, pues.
+ENT: ¿Y es un lugar tranquilo?
+TEST: Sí, un lugar tranquilo
+ENT: Osea, no pasaba mayor cosa o
+TEST: No pasaba, es un puerto principal donde la gente se trasladan digamos vía terrestre,
+mmm, --------------- osea ese es el puerto principal, ahí llega a la carretera que va, que viene
+de ---------hasta --------------, por ahí pues, pasa todo el mundo. Nosotros vivimos en ese
+lugar. Donde cualquier persona va pa' --------- por ahí es donde nosotros vamos ...
+ENT: ¿Usted tiene alguna discapacidad física o... está bien?
+TEST: No, en todo estoy bien.
+ENT: Listo, ¿pertenece a alguna organización?
+TEST: Ahorita pues, actualmente pues, yo trabajo en la comunidad, como, pues no
+pertenezco a nada. Trabajo en el --------que nosotros decimos ... hago parte de la
+ORGANIZACION SOCIAL1
+
+ENT: Ah, ¿y qué hace en la ORGANIZACION SOCIAL1 ?
+TEST: Pues, por ejemplo en este momento, yo soy ------------------------ Osea que en una parte,
+aquí un tema organizativo
+ENT: Y trabaja en eso
+TEST: Trabajo en eso
+ENT: Y ahí le pagan.
+TEST: Sí. Y además pues, estoy estudiando también.
+ENT: Ah, ¿sí?, ¿qué está estudiando?
+TEST: Ya acabé de terminar técnico en -----------------------ENT: ¿Y en dónde estudió?
+TEST: Aquí, estudiando.
+ENT: Mmm, aquí
+TEST: Ajá, sí. Una profesora nos vino y nos dio clase, y acabo de graduarme...
+ENT: Ay, felicitaciones [risas]
+TEST: Ajá, en eso estamos.
+ENT: Bueno, y entonces siempre ha vivido por acá
+TEST: Pues, prácticamente durante mis estudios, osea lo que yo quiero contar es lo que me
+pasó, cuando yo estudiaba en --------- Yo estudié en --------- yo allá hice mi bachiller de 6to a
+11... entonces, en el transcurso de ese tiempo, en esa entonces, pues... nosotros vivíamos
+pues prácticamente con la guerrilla, pues... en ---------ENT: Ah, carajo.
+TEST: Eso es lo que yo quiero, pues contarle, lo que me pasó. Entonces, nosotros como en
+ese tiempo, nosotros, ahí habían militares, entonces, nosotros, mejor dicho éramos una
+carnada para ellos. Los que estudiábamos de este lado, íbamos a estudiar allá, porque acá
+ese tiempo no había colegio, sólo había primaria. Entonces, nosotros terminábamos quinto
+aquí y para seguir estudiando, pues nos tocó ir allá, porque allá ya había colegios. Y en ese
+momento pues, en ese tiempo también llegó la guerrilla, como en el 2003 llegó la guerrilla y
+nosotros pues, prácticamente fuimos víctimas de eso, porque a nosotros nos utilizaban,
+pues así nos enseñaban cómo manejar armamentos, nos enseñaban a hacer música
+guerrillera, las camaradas... osea, prácticamente nosotros en los salones, ellos ya no daban
+clase. Ya los profesores los sacaban a un lado, porque ellos ya no daban clase, nos
+enseñaban cómo manejar un armamento, cómo desbaratar un armamento, cómo
+defendernos de los militares, porque ellos nos hacían ejercicio, pues para atacar a los
+militares. Ajá, y nos enseñaban música guerrillera,
+ENT: ¿Y cómo es esa música?
+TEST: Pues, esa música yo más o menos me acuerdo, que hablaban de guerra. Eso es un
+estilo de ellos vivir, de cómo ellos vivían, y osea, en la música decían: ¿por qué pues, ellos
+estaban metidos en eso?, porque yo me acuerdo que un comandante, que se llamaba
+RANGO1 se llamaba un comandante, muy malo.
+ENT: ¿Y por qué era muy malo?
+TEST: Porque a nosotros un día nos hicieron reunir en una cancha, en pleno calor, todo el
+dia sin poder ni ir al baño, ni tomar agua, nosotros los del colegio, todo el día parados en el
+calor, todo el día. A las abuelitas las hacían sentar así y en una sillita, sólo las abuelitas, los
+
+resto todo el día en el calor. Nos castigaban de esa forma
+ENT: ¿Por qué los castigaban?
+TEST: Pues, porque decían que ellos ya estaban como molestos, porque decían que ya por
+ahí venían los militares. Entonces, ellos ya, osea cualquier cosa, ya ellos estaban queriendo
+reclutarnos a nosotros, como nosotros estábamos en el colegio, y además fuera de eso, pues
+nosotros éramos de acá y decían que al estar acá los militares, que [INAD] hasta la guerrilla.
+Entonces, ya nos querían matar a nosotros, hasta que un día, pues en una cancha de fútbol,
+que teníamos como el rector del colegio de nosotros. Pues, él se paraba firme, y un día en
+pleno alumnado que estábamos, al rector que nosotros teníamos, le arrastraron una manila,
+lo agarraron en un brazo, todo, lo arrastraron como un perro... así, al rector.
+ENT: ¿Al rector?, ¿cómo se llamaba el rector?
+TEST: Él ya murió, el padre CONOCIDO1 Entonces, se llamaba el padre CONOCIDO1 se
+llamaba. Lo arrastraron para fusilarle en mitad de los alumnados. Y entonces, yo me
+acuerdo que nosotros, todo mundo teníamos palo, nosotros: tanto profesores, algunos
+padres de familia que estaban, todos teníamos palo. Ellos eran 7 guerrilleros, y todos tenían
+fusil, y nosotros éramos como casi 300 personas que estábamos, nosotros dijimos: "que si
+fusilan al padre, nosotros ibamos a", ah, no, que nos maten [INAD], pero nosotros íbamos
+con palo y machete teníamos. Entonces, ya íbamos a enfrentarnos a ellos, y si pues el padre
+dijo que "pues, que me fusilen, pues si yo muero, muero por la verdad", y pues gracias a mi
+dios, pues no lo fusilaron. No más le golpearon con culata de fusil, que ellos tenían todo esto
+de sangre, le salió sangre por la nariz, todo. Le maltrataron... y a otras personas que estaban
+ahí, les tenían amarrado con manila y colgado así, en pleno calor.
+ENT: ¿Qué personas los tenían amarrados?
+TEST: Indígenas, osea autoridades
+ENT: Autoridades indígenas del [INAD]
+TEST: Amarrado. Sí, entonces, prácticamente dos años nosotros vivimos, y pues, ni eso,
+nosotros vivíamos en crisis, porque y yo,... de ese miedo, porque en el camino nos decían
+que nos iban a matar, porque en vacaciones nosotros siempre veníamos en vacaciones, yo
+no me vine, porque yo no quería morir, porque decían que: "Los muchachos que son de
+----------- aquí no le vamos a matar, sino allá están en el camino pa' que se los coman los
+chulos". Entonces, de ese miedo, nosotros prácticamente nosotros nos vinimos, nos
+quedamos por ahí y yo pues, tengo una hermana en ------ por abajo. Tonces, yo me fui pa'
+donde ella y allá también estaba la guerrilla. Allá también pasó muy cruel, de lo que yo
+nunca pensé y hasta que un día que estábamos ahí, llegó la guerrilla. Como también hay un
+camino que llega al Putumayo, en ese transcurso estaba la guerrilla, porque los militares ya
+bajaron por el Putumayo. Entonces, ellos se escondieron en ese medio y estaban ahí, cuando
+ellos llegaron, nos dijeron: "Que la guerrilla nos dijo que ustedes no tienen que salir de esta
+casa, tienen que estar quietos, porque si no, nosotros los vamos a matar", dijo, porque ya
+ellos nos cogieron enemistad, porque según nosotros estábamos chismoseando, que la
+guerrilla está aquí en este medio, a mí, yo me recuerdo que aquí me apuntaron con un
+revólver y yo [INAD], aquí me apuntaron
+ENT: ¿Usted cuántos años tenía?
+TEST: Yo tenía en ese tiempo como 17 años
+
+ENT: Y ellos estaban uniformados
+TEST: Uniformados, todos, todos...
+ENT: Y eran las FARC
+TEST: Eran las FARC... Aquí me apuntaron y una vez me tiraron ¿cómo es?, la caja del suero
+de mi hermana, que tiene el piso así de cemento, y ahí nos tenían pisado así la cabeza, todo
+lo que estábamos [INAD], pa' matarnos, y entonces, no nos mató, pues... Y llegó pues, los
+militares y pues llegaron los militares y ellos se cogieron por el camino y allá en el camino,
+los militares ya lo esperaron y lo mataron. Yo me recuerdo que un guerrillero que ellos
+trajieron, los metieron palo por aquí, que me recuerdo, por aquí lo pasó y por aquí lo sacó, y
+lo cargaron como cargar a un marrano, así muerto en un palo lo traían amarrado, y los
+militares nos dijo que: "si quieren, pues colóquennos velas" y también los militares, osea
+nos atacó muy duro, nos maltrató, los militares nos botó toda la ropa de la casa, porque
+decían que nosotros le guardábamos la remesa a la guerrilla. Mejor dicho, eso un día nos
+hizo dormir sin cobijas, sin nada, afuera no más.
+ENT: ¿Por qué?
+TEST: Pues, no sé, porque estaban bravos, pues será. Nosotros en el patio, no más nos dijo: "
+De aquí nadie puede moverse". Nosotros dormimos en el patio, así afuera, sin cobija toda la
+noche desvelados nosotros.
+ENT: ¿En dónde fue que lo sacaron?, ¿en ------o en ...?
+TEST: Arriba de --------------, una comunidad que se llamaba ---------- Ahí fue que pasó ese
+caso, ahí más que me duele, porque nos maltrataron, nos pateaban, yo me acuerdo que me
+pateaban la boca del estómago, nos sacaba aire, y decía que: "Les vamos a matar, les vamos
+a matar" y me acuerdo que hacían sonar el fusil, tra, tra, tra, ... la guerrilla, ajá, apuntaba
+aquí, aquí no apuntaba en la guerrilla. Como el fusil es AK-47 que tiene uno como unas
+cuchillitas, con eso lo chuzaban, y nos hacían herir. Herida que yo tengo es de eso, mire aquí
+ENT: Una cicatriz
+TEST: Mjm, una cicatriz, pues a medida que fui creciendo, hasta que crecía, hasta ahí quedó.
+Eso es lo que yo quería contarle, lo que me había pasado
+ENT: Y devolviéndonos un poquito, cuando llegaban al colegio, ellos sacaban a los
+profesores y les imponían la clase.
+TEST: Ajá, ellos nos daban clase, ellos. Cada guerrillero en cada salón... y el comandante,
+pues con los profesores y el rector, pues a la sala de arriba, y nosotros acá pues... a cada
+guerrillero nos hacían entrenamientos.
+ENT: ¿Y se llevaron a algunos compañeros?
+TEST: Algunos compañeros del colegio como tal no llevaron, sino que prácticamente se
+fueron voluntariamente, porque últimamente, osea como yo siempre digo, osea ¿cómo les
+digo?, el poder que tenemos nosotros los indígenas, pues es tener la sabiduría que nosotros
+tenemos es, que cualquier cosa, cualquier mal, pues se domina, entonces, eso es lo que los
+ancianos tenían, digamos ellos hablaban, decían en pocas palabras, endulzaban el corazón,
+porque ellos estaban muy bravos. Entonces, con el poder de la coca y el [INAD], entonces
+ellos hablaban. Mientras iban endulzando, entonces no podían sacar. Los que sí se fueron a
+voluntad, si se fueron como 4 muchachos, pero así, porque ellos, faltaba dos días, porque los
+militares llegaron de sorpresa, por ese motivo que no nos reclutaron... porque ya el
+
+comandante en una reunión que tuvimos, en una cancha decía en el colegio, a los
+muchachos les dijo: "que aquí dos días, nosotros vamos a venir a reclutar. A todos los que
+nosotros vamos a colocar en las filas, hay que ir, y si no va a ir, pues ahí se muere", así nos
+dijo. Y ellos no vivían ahí, llegaban y nos hacían eso y se salían. Nosotros vivíamos
+tranquilos, pero este ya nos tenía como asustados , nosotros miramos que llegaban ellos, ya
+nos cambiaba todo. De un momento así. 10 de la noche nos tocaba salir así a formar, 1 de la
+mañana nos decían: "Párense", nosotros prácticamente ya vivíamos esclavos de ellos
+ENT: Sí, y eran niños y niñas
+TEST: ¿Y desde qué edad los ponían en esas?
+ENT: ¿En el colegio?
+TEST: Sí. Pues, por ahí prácticamente desde los 13 años en adelante, ya osea, eran
+muchachos de 13 años pa' adelante, hasta 20 que éramos, el que más mayor era, tenía por
+ahí 20 años en ese tiempo
+ENT: Uy, pero terrible que se los llevaran en la noche, ¿y eso pasaba muchas veces?
+TEST: Casi dos años nosotros sufrimos eso
+ENT: ¿Y el rector no podía decir nada?
+TEST: Nada, nada. Ni podíamos salir, nada. Ese tiempo nosotros nos escaseamos de la
+comida, todo, imagínese nosotros vivíamos de hambre. En el día comíamos sólo un
+poquitico, porque nos llegaba [INAD], no mandaba la comida, nada, nada. No dejaba vender
+nada
+ENT: Ellos
+TEST: Ellos
+ENT: ¿Y se robaban la comida?
+TEST: Se robaban la remesa, que era para el colegio que tenía una bodega. Ellos llegaban y le
+decían al padre que abriera la puerta y sacaban sus bultos de arroz, y llevaban pa'l monte.
+Entonces, ya nosotros quedamos escaseados, nos tocaba que por ahí pescar, abrir el piso y
+asar por ahí, comíamos puro pescado ahí... Mjm
+ENT: ¿Y usted por qué no se fue?
+TEST: Porque yo no quería, osea, no quiero. Pues, desde un principio pues, yo pienso que no
+es eso, uno empieza muy mal, no quiero morir pues. El día que me muera, pues me muero
+por una enfermedad, pero no así por, pues me muero así, pero no en eso, no en ese grupo
+ENT: ¿Y esos 4 compañeros que se fueron, volvieron?
+TEST: No, dicen que están muertos, los mataron, mjm
+ENT: Y esos fueron voluntarios, porque
+TEST: Pues, porque también a la mala, porque algunos se fueron a la mala les llevaron
+ENT: Los llamaron
+TEST: Mjm, como ellos tenían estrategias de decirles: "vamos", porque a mí, por ejemplo me
+decían: "vamos, la guerrilla es así, allá se vive bien, allá le dan plata. Si usted es buen
+guerrillero, va subiendo de rango, puede ser cabeza de una camarada, osea, así como decir,
+que el soldado puede ser un dragoniante, así"... Sí. Y bueno, "allá hay mujeres, de todo", nos
+decían así. Entonces dijimos que cualquier rato, así decíamos: "que nosotros estamos
+estudiando y mi papá pues todavía vive, y además nosotros somos de lejos, nosotros no
+somos de aquí, y entonces, con gran esfuerzo que hacen nuestros padres, pues nosotros
+
+venimos a estudiar y no podemos hacer eso", pero algunos, pues entienden, y otros pues no.
+Entonces, ellos decían: "Bueno, está [INAD] que nosotros hacemos aquí, que nosotros hemos
+sido pobres, el gobierno no nos ayuda y no hay otra más salida, pues nos metimos a esto".
+Ha sido [INAD]... A veces nos daban consejos, que no, no... Hay guerrilleros que eran buenos,
+y de ahí decían que: "tienen que estudiar y hay que decirle al gobierno que lo apoye, porque
+llegará el momento, si el gobierno no apoya, pues nosotros vamos a hacer la guerra. Y en esa
+guerra ustedes nos tienen que ayudar, porque vamos a pelear contra el Estado, y ustedes
+son pobres y nosotros hemos sido pobres, y por ser pobres estamos acá", eso es lo que ellos
+nos decían, entonces, nos orientaban también, y eso era una forma como de... osea, ellos
+como tal no son malos, sino a veces, ellos ponen malos, cuando ellos ... ya le tienen malo,
+cuando ya hay un grupo que los tiene en contra. Entonces, ellos se imaginan, como toda
+cosa, pero así como hay buenos, también hay unos muy malos. Mejor dicho, no temen de
+matar a otra persona.
+ENT: ¿Y de dónde venían?
+TEST: Ellos venían de acá, de arriba, del Caquetá bajaban, y prácticamente como 45
+guerrilleros esperaban que, sólo en el medio, llegaban 6, 7, 11, pero decían que por allá
+estaban como 10 mil guerrilleros ya estaban tirando al chofer.
+ENT: ¿En serio?
+TEST: El frente 14 de las FARC, se llamaba
+ENT: En el territorio, ¿Y entonces, todos vivían con miedo en el internado?
+TEST: Todos vivíamos con miedo, yo hasta quería venir a la casa, ya no quería estudiar, pero
+me daba miedo de venir solo, porque ¿qué tal que me mataran?. Entonces, casi
+prácticamente dos años, yo estaba fuera de mi mamá, no es porque no quisiera salir, sino
+por el miedo de por allá o me quedaba ahí en --------ENT: Muy difícil.
+TEST: Muy difícil, ajá... y entonces, eso es prácticamente lo que quería contarle, mi historia,
+porque pues... contarle así, pues aparecen los momentos que los vivimos muy, muy tristes.
+Pues, digamos ese tiempo, porque uno como adolescente que era, pues en ese tiempo,
+alguien les dice uno, por ahí se va, porque a uno no le importa nada, pero yo pues,
+pensándolo todo eso, pues yo dije: "No, nunca me voy a ir", porque quería tener mi estudio,
+mi familia, y pues también pensé en todo eso. Entonces, es lo que yo quería contarle.
+ENT: [Risas], y entonces, uish, los militares también se portaron mal...
+TEST: Sí, con nosotros.
+ENT: Ah, eran los militares, no eran la naval.
+TEST: No sé, pues decían que habían [DUD] infiltrados, que eran los militares y los
+paramilitares que vinieron ahí mismo.
+ENT: ¿Ah, sí?
+TEST: Sí, pues decían. Osea, se unieron en uno solo, para combatir a la guerrilla
+ENT: Y entonces decían que los paramilitares también?
+TEST: Ellos eran los que hacían, que eran muy malos también.
+ENT: Que llegaron y sacaron la...
+TEST: Mjm, yo me acuerdo que ahí en ------ la última vez que estuvo la guerrilla en ------ los
+militares maltrataron a un guerrillero que se llamaba RANGO2, un comandante.
+
+ENT: Ay, el RANGO2 estuvo por acá
+TEST: A un RANGO2 un comandante bien malo, RANGO2 llegó en shock a ------ en ---------llegó
+ENT: Y lo maltrataron
+TEST: A él, a ese RANGO2 ahí lo mataron, ahí había una lancha de los soldados, de esos
+buques grandísimos y a él le amarraron aquí ambos lados, y ambos lados de pie. Y por
+debajo de la lancha, lo pasaba y a este lado, y le decían: "¿Dónde hay más guerrilleros?", y él
+[INAD:23:01] y lo pasaban otra vez pa' este lado y no [INAD:23:06 ], y ya le iba mochando
+este dedo... le iban mochando todos los dedos, le iban mochando y así él nos contaba, hasta
+después le reventaron de un lado del ojo, después le sacaron la lengua y le mocharon ... y así,
+y ese murió así sin contar murió. El guerrillero lo mataron, después lo _picacharon_ todo el
+cuerpo. Yo pienso que los militares no hacen eso, ¿o ellos pueden hacer eso de la rabia?... No,
+no sé pues.
+ENT: ¿Entonces, qué serían?
+TEST: Paramilitares, dijeron que fueron... serían ellos.
+ENT: ¿Y también tenían uniforme militar?
+TEST: También tenían unas pavitas así.
+ENT: Ah, esa era como la diferencia.
+TEST: Eso, ellos tenían puras pavitas. Mjm, pavitas, yo me acuerdo, cuando andaba en ------ENT: Ellos estaban en -----TEST: -------------- estaban... Ellos no llegaron por aquellos, dieron la vuelta y llegaron hasta
+------ hasta donde [INAD:24:08] a ---------- como 5 horas de ------ ahí.
+ENT: ¿Y eso en qué lo afectó a usted, osea?
+TEST: A mí me afectó, digamos en que, pues primero que todo, yo nunca he visto esas
+cosas... y lo segundo, pues que para mí, eso no es pa' nosotros, no está acostumbrado a eso, y
+uno pues... me dolió mucho. Osea, pues no tanto, sino uno como persona, pues a nadie se le
+debe maltratar así. Yo sé que ellos son malos, pero pues eso en esa entonces, a mí me dolió
+en ese sentido, osea. Entonces, eso me afectó y a la vez, me dí cuenta de que de ese tipo de
+personas, uno no puede meterse. Entonces, eso es lo que me afectó, me dolió más. Mjm.
+ENT: ¿Y qué ha hecho para que le deje de doler o cómo lo ha podido...?
+TEST: Bueno, pues... Eso me hizo, que la presencia de los militares, porque los militares ya
+llegó a nuestro medio, como que uno miraba ya así, habían parado, en cualquier esquina
+habían un militar, entonces... me tranquilizo. Entonces... y se supo que la guerrilla ya se fue,
+entonces...
+ENT: ¿Cuándo se fueron?
+TEST: Eso, ellos se fueron en el 2006. De -------------sacaron... porque lo persiguieron, por
+allá lo fueron matando, hasta que se perdió, como por helicópteros
+ENT: ¿Y los paras cuándo se fueron?
+TEST: Ellos se fueron por el 2005
+ENT: Y volviendo, qué pena, otra vez... al colegio, ¿por qué la guerrilla amarraba a los
+líderes?
+TEST: Porque ellos no estaban de acuerdo con lo que ellos decían. No estaban de acuerdo,
+porque cuando ellos hacían reuniones, todo el mundo tenía que ir... y habían personas que
+
+no se iban. Entonces, ellos revisaban la casa, y el que encontraban lo traían amarrado,
+arrastrando como un perro. Entonces, a ellos los amarraban pa' hacer reuniones, ellos
+estaban amarrados, por eso los amarraban
+ENT: Allá al sol
+TEST: Mjm, al sol... Amarrados [DUD], así al calor. Ahí estaba colgado
+ENT: ¿Y cuánto tiempo duraban [INAD]?
+TEST: Jmm, por ahí 5 horas, colgados de las patas hacia abajo, mejor dicho, como medio
+sostenida en la tierra así.
+ENT: ¿Y también había abuelos ahí?
+TEST: No, los abuelos no, porque los abuelos eran juiciosos, los abuelos venían... mjm, sí.
+ENT: ¿Y usted cómo cree que afectó todo eso a INDIGENA1
+TEST: Pues, osea, yo digo que... osea, nosotros por lo que somos de acá... [INAD] del norte,
+nosotros acá nos consideramos acá, como las personas que somos, somos calmados. Osea,
+nuestro pueblo acá no es de guerra ... Entonces, eso a nosotros nos afectó, porque nosotros
+aquí internamente somos INDIGENA1, pero dentro de esa misma, pertenecemos diferentes
+clanes, y esos clanes que pertenecemos al pueblo INDIGENA1pues, nadie ha sido guerrera.
+Entonces, eso nos afectó, porque nosotros estudiábamos ahí en --------- diferentes clanes y
+entonces, por ahí que también eso nos movió, como dicen, nos hizo sentir que la vida, así
+como se escucha en el mundo, de esa forma se vive. Entonces, como nosotros no somos de
+eso, pues así me afectó a mí, como persona y como indígena, pues... eso fue tenaz, me hizo
+sentir mal, me sentí mal mal durante mucho tiempo, pues... jm, sí.
+ENT: ¿Y qué decían sus papás?
+TEST: Pues, ellos me orientaban, me decían que, pues no tienen: "que... si los llevan a la
+mala, pues que llevan, pero así que no, no, no, no hay que ir". Eso es lo que nos decían.
+Entonces, nosotros teníamos nuestro pensamiento de eso. Entonces, no: "Venga lo que
+venga, pero pues, nosotros", y gracias mi dios, pues nunca nos pasó nada. Aquí hemos sido
+maltratados, pero no... como dice: han fusilado, sin bajarle el armamento. A boca nos
+fusilaron, pero no hicieron nada. Mjm
+ENT: ¿Cuántos hermanos tiene TEST
+TEST:Yo tengo ... a ver, cuatro hermanos. Somos 4 hermanos y 3 hermanas, nosotros somos
+7.
+ENT: ¿Y alguno de ellos también vivió eso, en el colegio, o sólo estaba?
+TEST: No, sólo yo. Sólo yo viví esa crueldad.
+ENT: ¿Y les quitaban muchas horas de clase ellos?
+TEST: Sí. Nos quitaba todo el día de clase.
+ENT: ¿Todo el día?
+TEST: Todo el día nos quitaban las clases.
+ENT: ¿Y cómo hacían para recuperar esas clases?
+TEST: Pues, eso nunca se recuperó. No, nunca. Apenas llegaban las 6 de la mañana, nosotros
+escuchábamos el camión llegando así al puerto. Nosotros escuchábamos y decíamos que la
+guerrilla. Claro, ya subían... ya venía, el comandante decía salón: "Usted queda aquí, usted
+queda aquí, profesor, vamos a reunirnos allá", los profesores subían y quedábamos a cantar
+música guerrillera, y "traigan su radio" y a escuchar música, escuchábamos la guerra, el
+
+¿cómo es que se llama?, el Marquetalia que ¿cómo se llama eso que atacaron?, unas bases de
+los... pero nos mostraban así cómo gritaban los policías, nos hacían escuchar esas historias.
+ENT: Y alguna vez... a todos los maltrataban. Pero alguna vez, no sé, ¿maltrataron a alguien
+más, le pegaron en frente de todos?
+TEST: No, sólo al padre, al padre.
+ENT: ¿Ustedes?
+TEST: No... pues ahorita sí me maltrataron, pero por acá arriba en ------------ no... Sí nos
+castigaban en el calor todo el día, pero así que... no, porque nosotros hacíamos caso a lo que
+ellos decían. Si hacíamos caso, pues estábamos... el para a todos nos decía: "que hay que
+hacer caso a lo que él decía, el padre ese, pero únicamente no vayan con, si se van a la fuerza
+pues, ahí sí vamos pues... con palos", dijo el, "pero lo que ellos digan, hay que hacer caso,
+pues evitar problemas"
+ENT: Entonces, fueron dos años de todos los días.
+TEST: Todos los días ... mjm. Entonces, nosotros casi lo que éramos de acá, no podíamos
+venir, porque nos tenían... osea, no nos dejaban venir, porque si no, nosotros veníamos a
+contar que nos están haciendo esas cosas. Entonces, por eso no nos dejaron venir.
+ENT: Por eso usted decía que era como un...
+TEST: Recuerdo [INAD], porque los de ----------- en esas vacaciones, no se van pa' su casa... y
+nosotros, pues, nos quedábamos ahí...
+ENT: ¿Y qué se quedaban haciendo allá?
+TEST: Pues, por ahí ayudando al menos pa'l jabón, porque ya inclusive mi mamá no podía
+girar plata, porque la radio del colegio, ya ellos la quitaron. Osea, no quedó nadie sin
+comunicarse... Nosotros aguantamos mucho, mi papá, que no podían ir, porque ellos sabían
+que la guerrilla está allá, entonces, no teníamos jabón, no teníamos con qué lavar la ropa. De
+pronto pues, los que somos de acá, pero los de allá, pues al menos tienen, entonces, nos
+regalaban jaboncito así pequeñito. Nosotros preguntábamos de pequeños y hacíamos unas
+bolas así para un mes, aguantamos mucho, mucha necesidad aguantamos. Ya no teníamos
+cepillo, crema, nada
+ENT: ¿Y entonces, cómo hacía para el cepillo?
+TEST: Pues, no nos cepillábamos, porque no había dónde. En el colegio había una
+cooperativa, y a esa cooperativo de todo los sacaron, se lo llevaron.
+ENT: Ah, no sólo la comida, sino...
+TEST: Todo, todo, todo... Mjm
+ENT: Y se lo llevaron para el
+TEST: Para ellos.
+ENT: ¿Y los uniformes?, ¿tenían uniformes ustedes?
+TEST: No, uniformes sí no teníamos. Nos daban sólo unas manillas, que tenían así la cinta
+del ché guevara
+ENT: La señal que le habían puesto
+TEST: Ajá. Acá en las manos nos mandaban a colocar manillas, que decía "Las FARC",
+"Frente 14 de las FARC", decía ahí el coso. Una [INAD], que decía "el Ché Guevara"
+ENT: ¿Y si no se la ponían?
+TEST: Pues, como nosotros ilusionados, pues lo colocábamos. Osea, sin pensar... Sí, eso nos
+
+hacían.
+ENT: Iss, muy difícil.
+TEST: Sí, osea prácticamente nosotros nos sometimos a eso. Osea, nos metimos a esa vida
+así, por dos años, porque nosotros manejábamos también armamento, sabíamos desbaratar
+un fusil, sabíamos armar un fusil, nos enseñaron cómo había que disparar, pero solamente
+no disparábamos, sino la forma como se disparaba,"los militares vienen en esa dirección, a
+esta dirección hay que disparar", bueno, todas esas cosas nos enseñaron. ¿Cómo hay que
+defenderse usted frente a frente con un militar?, ¿cómo hay que desarmar el fusil de ellos?,
+todas esas cosas nos enseñaban
+ENT: ¿Y todavía se acuerda?
+TEST: Ya no me acuerdo [risas]
+ENT: [risas]
+TEST: Sí, ya no me acuerdo, pero sí nos hacían esas cosas. Nos hacían [INAD] todas esas
+cosas, ya esos prácticamente yo me gradué en el 2006, y eso hace 11 años, 12 años pasó esa
+cosa.
+ENT: Y se graduó... ¿y después qué hizo?
+TEST: Me vine... Me vine [INAD] pasando en -------- por allá y en un tiempo trabajaba de
+seguridad privada, hice cursos de seguridad privada,... trabajé como dos años, pues me vine
+acá conseguí mi mujer, trabajé en la organización, trabajo aquí en internet, y ahorita que
+terminé de estudiar.
+ENT: Y esto que pasó en ------ ¿cuándo fue?
+TEST: Eso pasó en el 2004.
+ENT: Ah... en el 2004. Y entonces, esos en paramilitares,...
+TEST: Pues, los de ------------ como en ese tiempo uno no sabe quién es paramilitar. Sí
+sabíamos quién era guerrillo, y la gente que estaba ahí decían, que esos hombres estaban
+haciendo eran paramilitares, que el gobierno había hecho un acuerdo para que entrara,
+primero los paramilitares,después los militares, porque después de eso sí, uno eso sabe los
+militares, porque ellos también andaban con botas, y los militares, pues algunos tienen sus
+cositos, sus zapatos sencillos, y ellos andaban con botas y esas pavitas. Y decían que eran los
+paramilitares, que hacen eso.
+ENT:¿Los amenazaban también?
+TEST: No, ellos osea, en el sentido de que eran cómplices, sí, ellos amenazaban pero así, no,
+porque ellos decían,en tal caso, la guerrilla diría: "Esa persona sí va a atacar", le sacaba todo,
+le buscaba todo y le sacaba pa' afuera, le hacían dormir afuera, esas personas que mandaban
+las remesas de la guerrilla, a ellos se atacaba, de hecho. Por ejemplo, en el caso de nosotros,
+en ------------- a nosotros nos atacó, porque decían que ahí la guerrilla tenían almacenado la
+comida, de hecho. A ese sentido, sí, ellos atacaban, pero así a cualquier persona, no, y eran
+malos también, pues malos, malos.
+ENT: ¿Eran más malos que las FARC?
+TEST: No, pues lo de las FARC, eran personas buenas, pero para nosotros, ellos fueron
+malos, cuando dijeron que algunos de nosotros, ya habíamos chismoseado a los militares,
+ahí ellos ya eran malos, porque primero ellos no eran malos. Ellos nos decían que: "por esto,
+nosotros nos decimos la guerrilla, que por esto, que porque el Estado a uno no le ayuda, en
+
+el pueblo no hay cómo vivir, entonces [INAD]"
+ENT: ¿Y eran indígenas?
+TEST: Algunos eran indígenas, me acuerdo que uno era un abogado, que hasta él carga el
+certificado de ... en una chuspita lo cargaba, el diploma, el de que él era un abogado. Ahora
+médicos, [INAD]
+ENT: ¿También médicos?
+TEST: Mjm,...
+ENT: Y el que era abogado, era indígena...
+TEST: No, él era costeño, que estaba ahí, nos habían dicho.
+ENT: ¿Y los médicos?
+TEST: Ahí también estaban
+ENT: ¿Pero eran costeños también o ?
+TEST: Era uno de ------ENT: Mmm, y habían indígenas. ¿Y de qué?
+TEST: De acá del Caquetá
+ENT: Aaah,
+TEST: del Caquetá, hay indígenas INDIGENA2. De... los INDIGENA3 de por allá de ----------Llegaban ahí también. Prácticamente que ella eran las guías del camino de el. Pues, como los
+indígenas, pues saben, saben cruzar trochas hacia ...entonces, eran los que lo llevaban
+ENT: Mmm, cuando era como una estrategia, ¿no?
+TEST: Eso, una estrategia. Por eso es que a nosotros nos querían reclutar, porque nosotros
+sabíamos cómo era acá ----------- y ellos nos querían reclutar para hacer inteligencia acá el
+--------y bombardear, porque acá el --------lo querían bombardear y hasta más, mjm.
+ENT: Ah, la base que tienen...
+TEST: Mjm, mjm...
+ENT: Tenaz, tenaz. Y bueno, entonces, ¿tú cómo hiciste (me contaste que) para superar
+esto ... fue de apoquitos, sí?
+TEST: Sí, sí. Hasta prácticamente... después que yo ... pues, conseguí mi muj, ya me perdió
+todo eso, porque cuando yo voy en --------- yo me acuerdo de todo eso que me hicieron, osea
+me queda como el remordimiento. Entonces, ahorita hace como 5 años, que me fui de última
+a ver, a mirar el colegio. Y pues, me acuerdo de todo eso lo que nos hacían ... pero pues,
+ahora ya me está perdiendo, porque lo que vivimos nosotros fue muy cruel, pues 2 años más
+que todo hemos aguantado mucha hambre. Nosotros de noche, nuestro estómago caliente
+de hambre nos levantábamos: ¿qué vamos a comer?, nada... Entonces, todas esas cosas, por
+eso es que yo a veces digo a mis compañeras, mis hijos, pues yo tengo 3 bebecitos
+ENT: ¿Y cuál?
+TEST: Uno tiene 7 años, ya otro va a tener 4. Uno ya va a estar en 3ero y la niña va a entrar
+recién preescolar.
+ENT: Ellos van a estudiar..
+TEST: Aquí están estudiando. ... Mjm, pues yo les digo que no hay que botar comida, porque
+nosotros aguantamos que es hambre: 3 días, 4 días sin comer nada. Imagínese, hasta yo me
+recuerdo que mis compañeras de las muchachas que estaban, se desmayaban de hambre, de
+esos coquitos que hay allá, de esos coquitos,nosotros de esos coquitos que se caían ahí a la
+
+tierra, nosotros golpeamos con piedras, y el de adentro, el blanquito, nosotros comiamos, de
+pura hambre. Todo el día nosotros vivíamos golpeando esa tierrita pa' comer, eso nosotros
+comiamos... No hay nada más... de esos que nosotros vimos [INAD], que parecen papas... ese
+nosotros asábamos también con ... Mmm
+ENT: ¿Y la guerrilla qué decía de eso?
+TEST: Nada, ellos no les importaba nada de eso, para nosotros aguantar o no aguantar
+hambre pa' ellos da lo mismo.
+ENT: ¿Y ellos sí comían?
+TEST: Ellos sí comían bien, porque ellos, las tienditas que ellos tenían por ahí, ellos sacaban
+remesas. De los botes que venían o estaban por ahí, esos botes hasta que no se acabe la
+comida, no se iban, porque ellos cada vez que querían, pues se acababa
+ENT: Jmm, ¿y te sigues hablando con alguno de tus compañeros?
+TEST: Sí, aquí ya tengo mis compañeros por allá. A veces nos encontramos.
+ENT: ¿Se acuerdan?
+TEST: Pues, nos acordamos de eso. Mjm, sí...
+ENT: ¿Y las niñas cómo hacían, osea, no comían... y, pero les dejaban bañarse?
+TEST: Sí, ellas se bañaban.
+ENT: Entonces, las rutinas de ellas eran,, se levantaban ustedes, ¿a qué hora?
+TEST: Nosotros nos levántabamos a las 5 de la mañana. Ajá, a hacer entrenamiento, porque
+la vida militar era hacer entrenamiento, decían ellos, entonces trotaban hombres y mujeres
+ENT: Con hambre.
+TEST: Con hambre.
+ENT: Después a bañarse, y pues, por ahí ir a reventar pepitas otra vez pa' comer, porque la
+comida en la cocina ya no había. A veces cuando había, ellos dos bulticos de arroz,
+poquitico... como en el colegio había también puras matas de castañas, entonces, nosotros
+subíamos así a comer castañas biches, por las flores que salían, nosotros comíamos puro ...
+de pura hambre, porque aguantábamos mucha hambre. Por culpa pues, de la guerrilla,
+porque no podían entrar nada de víveres.
+ENT: Ajá, y luego tenían clase todo el día con ellos
+TEST: Todo el día con ellos. Yo me recuerdo un día, que nosotros, "será, pues nos mandó
+dios", porque nosotros siempre decíamos una frase que decía: "el [INAD] que Dios nos
+mandó", nosotros nos decían. Un día que nosotros sí aguantamos, no, pero no, nuestra vista
+era como amarilla, aguantando ... vino un avión, de un momento, un avión llegó al
+aeropuerto de ahí --------- Entonces, el padre tenía un carrito, y el carrito pues ellos lo
+manejaban, y entonces yo me recuerdo que, no, sí, alguien dice que otro colegio le mandó,
+porque todos los colegios que [INAD] por allá, era ya pues ellos, pues ya estaba
+prácticamente cubierto por ellos. Entonces, nos mandaron 35 cajas de pura purina, pollos
+purina, magínese. Y nosotros dijimos que "¿qué eso que mandaron?", cuando llegamos al
+colegio, ya el padre los destapó. Puros 35, así de grandes eran las cajas y toda estaba lleno
+de puras purinas, y nosotros 15 días comimos pura purina.
+ENT: ¿De gallina?
+TEST: De gallina. Imagínese, de esa hambre que tenía , pura purina. Hasta nos aburrimos de
+comer purina. Jmm, imagínese. Casi como no sé cuántos kilos, como 200 kilos de purina
+
+ENT: ¿Y el padre también comía?
+TEST: También comía purina. El padre también aguantaba mucha hambre.
+ENT: ¿Y nadie del pueblo decía algo?
+TEST: Nada, nada, nadie podía decir nada, nadie podía salir pa' afuera. Todos los de --------en --------- los que estamos de --------que estamos estudiando, "acá se quedan", uno va a
+venir a la casa, a buscar al menos harina, unos 10 kilos llevar... nada, o pedir a nuestros
+padres, pero no hay cómo comunicarnos . Entonces fue eso
+ENT: ¿Y en vacaciones qué se quedaban haciendo?
+TEST: Pues, en vacaciones nos dejaban por ahí
+ENT: Ah, sí, colaborando o se reunían o algo para...
+TEST: Sí
+ENT: Pero ya no tenían clases como
+TEST: Nada, [INAD], aunque hacían reuniones ellos, pero cuando... nosotros entrábamos al
+colegio, a veces salíamos de vacaciones y entrábamos, a los 2 días ya ellos llegaban allá
+donde nosotros. Otra vez la misma rutina.
+ENT: ¿Y los profesores?
+TEST: Pues, tenían que estar
+ENT: También aguantaban hambre.
+TEST: También aguantaban hambre. Me acuerdo que había un profesor ---------- que nos
+daba clase de ebanistería, él se quería suicidarse, porque pues ya mucha tristeza, ya dos
+años ahí y no sabía cómo vivía la familia, porque él era de -------- vino a trabajar de allá.
+Quería viajar y no podía, se quería suicidar.
+ENT: Y... antes de eso, ¿qué clases tenían en el internado?
+TEST: ¿Antes de qué?
+ENT: De que ellos llegaran, la guerrilla.
+TEST: ¿Clases?, pues nosotros estudiábamos normal de las clases que nos ... que estaban
+puestos para nosotros. Todo con matemáticas, historia, física, química, había de todo.
+ENT: ¿Les daban ebanistería...
+TEST: Ebanistería, la modistería... a las muchachas les daban modistería, nosotros nos
+daban ebanistería, panadería, hidrobiología, geohistoria, etnohistoria (osea, de nuestro),
+ética, todo, filosofía
+ENT: ¿En qué curso estabas cuando llegó la guerrilla y antes de hacer eso?
+TEST: Cuando llegó la guerrilla, yo estaba en 7mo.
+ENT: Osea, fue 7mo y 8vo
+TEST: 7mo y 8vo... mjm.
+ENT: ¿Y no te repusieron 7mo y 8vo?, ah, no te volvieron a hacer..
+TEST: No, nosotros pasamos normalmente.
+ENT: Derecho
+TEST: Derecho, porque los profesores prácticamente falsificamos, porque pues, nosotros,
+nuestras notas, porque ellos no daban clases. Entonces, no podíamos demandar eso, porque
+si demandábamos eso, pues mataban a los profesores o al director. Entonces, pasábamos
+como si hubiéramos estudiado, es que también eso nos dificultó nuestra forma de enseñar,
+osea no aprendimos ciertas cosas como debían ser. Entonces, llegamos 9no nos quedó
+
+difícil, entonces nosotros en noveno, estudiábamos lo que estaba en 8vo hasta medio año, y
+de medio año ya entrábamos a noveno. Osea, no estudiamos normalmente 9no
+ENT: Eso acordaban
+TEST: Eso, acordaban. Medio semestre, octavo, medio semestre, noveno. Al menos para,
+porque en las pruebas ICFES teníamos que saber todo eso ... Eso fuimos prácticamente como
+así a carrera, estudiando.
+ENT: Y... ¿llegaban nuevos niños al internado, a pesar de que estaba la guerrilla?
+TEST: Sí, a pesar de que estaban, siempre estudiaban. Siempre ha sido digamos...
+ENT: Osea, se matriculaban niños... y los papás...
+TEST: Todo... jmm
+ENT: Bueno, ¿y tú has hecho alguna declaración en Unidad de Víctimas?
+TEST: No, nada, nada, nada, nada.
+ENT: ¿No?, osea, no te han reparado
+TEST: Nada, nada.
+ENT: No tienes ningún proceso, osea no has declarado en la ORGANIZACION PUBLICA.
+TEST: No, yo una vez declaré a un capitán que vino de la UNIDAD MILITAR1, y él me dice
+que eso hay que ir a declararle una de víctimas, ahí me acuerdo que me dijo así, porque es
+grave. Eso que maltrataron física y psicológicamente. Entonces, eso no debe ser así, yo le
+conté eso. Eso no más, pero él nos dijo eso.
+ENT: Pero no has ido
+TEST: No he ido, porque no hay forma, pues ...
+ENT: Porque sería en -------TEST: Sí, sería en -------- porque es que tienen que pasar por un psicólogo, no sé qué,
+médico, y por acá no contamos con ese tipo de personas. Eso es lo único que [INAD]...
+ENT: ¿Y tú qué crees que se deba hacer para que esto no vuelva a ocurrir?
+TEST: Para que no vuelva a ocurrir, yo pienso que, tenemos que ser muy fuertes, para mí
+eso es lo primordial: ser fuertes, no ser rencorosos... con lo que ya pasó... pa' que no vuelva a
+ocurrir y pues, decir eso a nuestros hijos, que lo que nosotros, como padres lo vivimos, pues
+que "ahora ustedes ya no lo siguen", porque pues nosotros [INAD] al gobierno, los
+paramilitares... [INTERRUP]
+ENT: Pero los militares pasan por acá?
+TEST. Sí, pasan, pasan por acá. Cada mes, cada 20 días. Entonces, eso hace que ya no pueda
+ocurrir
+ENT: ¿No ser rencorosos?, ¿osea perdonar?
+TEST: Pues, perdonar, si alguien en algún momento me llega a decir: "Yo una vez hice eso,
+pues yo quiero que me perdone", pues, lo perdono, a eso me refiero
+ENT: ¿Y con lo que dicen que de pronto van a volver o algo así?, ¿ha escuchado algo?
+TEST: No, acá no se ha escuchado.
+ENT: Tranquilo
+TEST: Tranquilo
+ENT: [INAD]
+TEST: Nada, nada _[Sonido de lluvia fuerte]_
+ENT: Bueno... pues, creo que por ahora sería hasta ahí [risas]
+
+TEST: Ya, listo.
+ENT: Tú mambeas, ¿sí?, allá en la maloka
+TEST: Eso, sí
+ENT: Y eso te ha ayudado un poquito a [INAD]
+TEST: La parte de espiritualidad
+ENT: ¿La espiritualidad?, ¿y eso cómo te ha ayudado?
+TEST: Pues, me ha ayudado a fortalecer lo qu... la espiritualidad a través de la coca, pues que
+he molido, me ha ayudado mucho
+ENT: Pero [INAD], porque está lloviendo mucho
+TEST: Sí, me ha ayudado mucho, pues digamos a fortalecerme física, pues digamos
+psicológicamente, osea pues, al nosotros concentrarnos en la noche, en la tarde, con mis
+padres, con mis abuelos, prácticamente uno se olvida de eso. Entonces, eso me ha dado
+mucha fortaleza, porque al ver a mi mujer, al ver a mis hijos, pues ya me da más fortaleza
+para trabajar, para estudiar y para conseguir las cosas que uno necesita.
+ENT: Mmm, te ha ayudado mucho ahí, ¿por qué?, ¿qué conversan mientras mambean?, si me
+puedes contar
+TEST: Pues, nosotros mientras mambeábamos, nosotros conversábamos para que nosotros
+estemos bien de salud, para que nos rinda en el trabajo, para lo que nosotros pidamos a
+dios, se amanezca, por medio de algún prójimo para que pues, osea prácticamente nos
+proteja del mal, que nos libre de todas esas cosas, digamos de guerra y de todas esas cosas,
+nosotros no estamos acostumbrados a eso, porque ese espíritu que nosotros que tenemos
+prácticamente aleja, eso es lo que [INAD], la salud, pues...
+ENT: Que ya amanece... me parece bonito, cuando [INAD]
+TEST: Y aunque no es de creer, pues amanece, porque nosotros a veces estamos[INAD], si
+nosotros no pedimos a dios, pues nosotros nos enfermamos, o no seguimos: "Bueno, hoy no
+como, mañana voy a comer", y por medio de alguien nos traen: "aquí te regalo un pedacito
+de carne", osea amanece desafor...Entonces, nosotros creemos y tenemos ese sentido de
+pertenencia, porque pues, nosotros sentimos que dios existe, por medio del [INAD] y la
+coca, por medio de él Dios nos habla... cuando nos concentramos. Mjm, sí. Tonces, pues, es
+muy bonito
+ENT: [Risas]
+TEST: Sí, muy bonito
+ENT: ¿Y por qué las mujeres no pueden mambear?
+TEST: Porque en la tradición de nosotros, no se permite, sólo los hombres.
+ENT: Las mujeres tienen [inad]
+TEST: [INAD], porque dicen que el hombre es como la coca y el ambil. El ambil es el hombre,
+la coca es la mujer. Y en la chara se ve que las mujeres [inad] al lado de la coca. El tabaco y la
+coca nos limpian, y de noche, el hombre cuida a la mujer, mientras la mujer descansa. Ajá,
+así es...
+ENT: Mmm,
+TEST: Son dos que se cuidan... en el día la mujer va y le limpia la coquita, todo, saca y a veces
+saca, y después ya se casa, y ya descansa. Y ya de noche, el hombre ya le cuida eso, ya le
+cuida ella, ya le protege todo lo que sintió fatiga en el día, le pinta...eso
+
+ENT: ¿Tu tienes -----------?
+TEST: Yo tengo -----------ENT: Y tienes [INAD]
+TEST: Mjm, de todo... Tengo trabajo también, mjm. De momento estamos cosechando piñas,
+hartas piñas
+ENT: ¿Ah, sí?
+TEST: La piña de acá es muy rica...
+ENT: Sí, muy rica. No, pues yo eso sí te quería agradecer mucho
+TEST: A usted también
+ENT: ¿Sí? [risas]
+TEST: Yo quería como desahogarme de eso. Yo cuando cuento eso a alguien, me voy
+saliendo más de eso, osea me estoy más desahogando
+ENT: Vas soltando
+TEST: Voy soltando más, si quiero, osea porque me considero de que hay personas que
+también, al yo contar eso, pues siente eso, entonces pues, nos aflojamos un poco. Sí, mjm...
+también yo quería agradecerle por darme esa oportunidad, porque es una oportunidad muy
+buena, que yo quería contarlo
+ENT: Bueno TEST, voy a parar la grabación.
+[CORTE]
+
+

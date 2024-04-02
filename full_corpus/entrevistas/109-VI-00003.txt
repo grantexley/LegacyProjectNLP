@@ -1,0 +1,1182 @@
+Entrevistador (Ent): ENT
+Informante (Inf): TEST
+(nombre con el que se identifica) ----------------------- (nombre que
+aparece en la cédula).
+X: Interlocutora no reconocida.
+X1: Interlocutora no reconocida.
+***
+ETIQUETAS TRANSCRIPCIÓN
+INTERRUPCIÓN:
+[Interrup]
+CONTINUACIÓN:
+[Cont]
+INAUDIBLE:
+[INAD]
+DUDOSO:
+[DUD]
+INFORMACIÓN INCLUIDA: {INC}
+TRANSLITERACIÓN: [TRA]
+LENGUAJE NO VERBAL (RISA O LLANTO): [LNV]
+***
+Ent: Buenos días, nos encontramos en la ciudad de LUGAR1 (CORDOBA) estamos con TEST
+que
+va a ser nuestra entrevistada en el día de hoy. Hoy estamos a 29 de mayo y damos
+inicio formal a la entrevista. Buenos días TEST, ¿cómo estás?
+TEST: Buenos días, ¿cómo estás?
+Ent: Te comentaba, TEST que la
+ORGANIZACION PUBLICA1 maneja varios objetivos. El objetivo de Esclarecimiento,
+el objetivo de Reconocimiento el objetivo de Convivencia y el de Garantías de
+no repetición. Hoy vamos a trabajar el objetivo esclarecimiento. Entonces para
+que nuestra entrevista transcurra por los términos que se han ido configurando,
+yo te voy a leer el consentimiento informado:
+Antes de la
+participación en actividades de la ORGANIZACION PUBLICA1 la entidad debe
+explicar la persona, en su idioma propio de manera clara y sencilla según sus
+capacidades visuales y auditivas valiéndose del intérprete si es el caso, la
+siguiente información: qué es la ORGANIZACION PUBLICA1, cuál es el mandato, sus
+alcances y sus límites. La información producto de su participación será destinada
+a esclarecer y reconocer patrones y dinámicas de violaciones de Derechos
+Humanos del Conflicto Armado y elaborar el informe final, qué es el deber de
+contrastar y verificar la información, qué es el carácter extrajudicial de la
+entidad y lo que significa la excepción del deber de denunciar, qué es la
+inviolabilidad de las opiniones de los Comisionados, las reglas de
+confidencialidad establecidas por la ORGANIZACION PUBLICA1, que la comisión designará a
+
+sus
+archivos a otra entidad encargada de su custodia y acceso. Usted no puede ser obligado
+engañado para
+contribuir con información. Su decisión de contribuir con información debe ser
+voluntaria y libre. Puede preguntar lo que desee para comprender este documento
+y las actividades en que participa. Puede no participar o suspender la
+actividad, puede revocar el presente consentimiento aún después de haberlo
+firmado. La información recolectada será utilizada exclusivamente para el
+cumplimiento del mandato y funciones de la Comisión. Con la firma de este
+documento usted se compromete a cumplir las reglas de confidencialidad del
+proceso de participación, contribuir con información de manera voluntaria y
+libre, participar con ánimo de respeto, generosidad, convivencia, honestidad y
+no con ánimos malintencionados, vengativos, ni con la intención de aportar
+información falsa.
+La ORGANIZACION PUBLICA1 solicita su consentimiento expreso y específico para las
+siguientes actividades.
+TEST , ¿estás de acuerdo en conceder
+entrevistas a la ORGANIZACION PUBLICA1? Sí o no.
+TEST: Sí.
+Ent: TEST , ¿estás de acuerdo en que
+la ORGANIZACION PUBLICA1 grave el audio de la entrevista?
+TEST: Sí.
+Ent: TEST , ¿estás de acuerdo en que
+su entrevista sea utilizada para elaborar el informe final?
+TEST: Sí.
+Ent: Entonces [TRA: tonces]
+manifiesta que tanto los puntos arriba indicado como los beneficios, riesgos y
+responsabilidades de brindar información a la ORGANIZACION PUBLICA1 me fueron
+explicado con claridad y por ellos he decidido participar voluntaria y
+libremente. Entonces [TRA: tonces] TEST me vas a colocar acá tu nombre, tu identificación
+y la fecha de hoy. Acá arriba es el nombre que aparece en la cédula y acá abajo
+el identitario.
+TEST: El jurídico.
+Ent: Exactamente. Arriba el de la
+cédula, abajo… También tenemos el documento de la autorización para el tratamiento
+de los datos personales.
+La ORGANIZACION PUBLICA1 es responsable del tratamiento de sus datos personales y
+datos
+sensibles. Datos sensibles son aquellos relacionados con la intimidad datos
+sobre las preferencias políticas, condiciones religiosas, origen étnico, identidad
+de género y orientación sexual, victimización por violencia sexual con ocasión
+del Conflicto Armado, entre otros. Usted tiene derecho a no autorizar el
+tratamiento de sus datos sensibles. Usted tiene derecho a acceder gratuitamente
+
+a los datos proporcionados, conocer, actualizar y rectificar su información
+frente datos inexactos que induzcan a error o cuyo tratamiento no haya sido
+autorizado. Solicitar prueba de la autorización otorgada. Presentar ante la Superintendencia
+de Industria y Comercio quejas por mal manejo de sus datos. Revocar la
+autorización o solicitar la suspensión del dato. No responder las preguntas
+sobre datos sensibles o sobre datos de las niñas y niños y adolescentes.
+Frente a estos datos te pregunto, ¿tu
+autoriza el tratamiento de estos datos para los siguientes fines analizarlos, compararlos,
+contrastarlos con otros datos e información recolectada?
+TEST: Sí.
+Ent: Frente a los datos personales,
+sí. ¿Frente a los sensibles?
+TEST: También.
+Ent: Sí.
+TEST: Ya pasó eso.
+Ent: ¿Utilizarlos para la
+elaboración del informe final de la ORGANIZACION PUBLICA1? Frente a los datos
+personales
+y frente a los sensibles.
+TEST: Igual.
+Ent: ¿También?
+TEST: Claro.
+Ent: Entonces [TRA: tonces] también
+colocamos aquí igual tus nombres. Bueno, TEST vamos a conversar entonces sobre
+el hecho victimizante.
+TEST: Cuéntame…
+Ent: Entonces [TRA: tonces] la
+primera parte sería que nos contaras como para [TRA: pa’] ubicarnos en el dónde
+se cometieron los hechos, cuándo se cometieron los hechos. Cuéntanos tu experiencia
+frente al hecho o a los hechos de los que fuiste víctima.
+TEST: Bueno, esto ocurrió en LUGAR2,
+Antioquia, eso hace qué… en el 98… en el 88 perdón. En el 88, el día de mi cumpleaños.
+Estos niños al margen de la Ley llegaron exigiéndome que hiciera parte de su
+grupo. Como yo no quería y al darse de cuenta mi acento, o sea mi tendencia
+sexual empezaron a agredirme verbalmente, horrorosamente pues decir. Me dijeron
+que me tenía que ir o me mataban si no hacía parte de su grupo.
+Bueno, yo me he venido para
+LUGAR3 (ANTIOIQUIA). En LUGAR3 (ANTIOIQUIA) me encontraron, ¿cómo? no sé, me
+encontraron y me dijeron
+que si no volvía a mi mamá la iban a matar y que la tenían ellos secuestrada allá.
+Yo regresé. Cuando regreso me doy cuenta de que fue una estrategia para que yo
+regresará. Fue cuando me retuvieron, me violaron cualquier cantidad de personas
+de, hombres de esos malvados ahí. Y yo, nada, yo me dejé porque qué más podía
+
+yo con tanta amenaza y todos lo demás. Bueno yo salí, yo salí de allí, ellos me
+dejaron suelta, ellos me soltaron y regresé a mi casa para [TRA: PA’] qué te
+digo con toda la moral por el suelo, no me sentía yo ya. Entonces [TRA: tonces]
+mi mamá me pregunta “¿qué te pasa?”, yo no, no me pasa nada. Al verme ella en
+el estado de decaimiento que yo tenía ella se puso muy nerviosa y todo lo
+demás. Se sulfuró al verme la ropa interior sucia de sangre, me dice “¿qué te
+pasó” y yo “no, me pasó esto, esto y esto”. Entonces me dice “tienes que irte
+de aquí porque te van es a matar y te van a coger a cada ratico” que no sé qué.
+Bueno, yo me vine para LUGAR1 (CÓRDOBA).
+Aquí en LUGAR1 (CÓRDOBA), estando aquí, mi mamá tuve que venirse porque [TRA: poque]
+la
+estaban obligando a decir dónde estaba yo, sino la mataban a ella y a mis
+hermanos. Mis hermanos ella los sacó del pueblo donde estaba, de LUGAR2 (ANTIOQUIA)
+los
+sacó quedándose ella. ¿Qué pasa? Ella tuvo que dejar todo lo que tenía, el rancho
+como le decíamos, el rancho, todo lo que es la siembra… todo eso. ¿Para qué?
+Para venirse aquí para LUGAR1 (CÓRDOBA). Pero entonces ella me dijo “yo me voy para
+LUGAR1 (CÓRDOBA) porque yo me voy a encontrar contigo. Y si me encuentro contigo yo sé
+que te van a encontrar también”. Entonces [TRA: tonces] ella cogió y se fue
+para Venezuela. Estando en Venezuela, allá… yo me quedé sola acá en LUGAR1 (CÓRDOBA).
+Busqué a mis familiares aquí en LUGAR1 (CÓRDOBA), pero por mi condición sexual… usted
+sabe que la familia es apática a todo esto, me tocó muy duro. Me tocó entrar en
+la prostitución para poder conseguirme. Fui víctima, aquí en LUGAR1 (CÓRDOBA), también
+de
+violación por los machistas y ha sido muy difícil sobrellevar todo esto.
+Ent: TEST , desde que sucede la
+amenaza verbal en LUGAR2 (ANTIOQUIA)…
+TEST: Sí…
+Ent: Hasta que tú te desplazas a
+LUGAR3 y vuelves, ¿estamos hablando de qué mes del 88?
+TEST: Exactamente no me acuerdo el
+mes.
+Ent: Aproximadamente…
+TEST: Ah, no para ------- [Interrup]
+Ent: ---------- del 88.
+TEST: [Cont] fue en -------- que yo
+salí desplazada y a los dos meses yo regresé porque me amenazaron que tenían a
+mi mamá secuestrada. Si yo no volvía la iban a matar. Pero era para darme la
+misma tunda otra vez.
+Ent: La amenaza y el desplazamiento
+fue en ------ del 88 [Interrup]
+TEST: El -------------.
+Ent: [Cont] y el acto de violación
+
+fue en ------TEST: Sí.
+Ent: Del mismo año 88.
+TEST: Fue cuando yo ya me vine que
+ellos me dijeron “lárguese, marica hijueputa” … marica no sé qué. Ahí yo me
+vine y ahí yo no volví más.
+Ent: ¿Tu qué edad tenías en esa época,
+TEST ?
+TEST: Ay, no. Estaba polla… yo tenía
+qué… voy a sacar la cuenta porque ya no me acuerdo, eso pasó hace mucho tiempo
+que ya es como un capítulo que yo dejé atrás, trato como de olvidar todo esto.
+Sí me acuerdo que fue el día de mi cumpleaños, pero no me acuerdo exactamente
+cuántos años cumplía. Pero… [Interrup]
+Ent: Estabas estudiando, qué curso
+hacías…
+TEST: Yo estaba haciendo primaria.
+Estaba haciendo primaria. Y eso tenía que ir de la casa del pueblo a uuuufff
+muy lejos de ahí para poder estudiar. Entonces, exactamente la edad no me
+acuerdo [TRA: acuedo], no le prestaba atención a eso. Sino que la vez que
+declaré aquí en la UAO fue una recopilación demasiado fuerte y trato de olvidar
+eso porque para mí es muy impactante tener ese episodio en mi mente de lo que pasó,
+que fue horrible… porque te digo eso es horrible. Si una mujer se siente así,
+cómo se sentirá que generalmente la genética de Dios no es así. Entonces es
+feo, es muy feo. Entonces [TRA: tonces] ese pedacito si no.
+Ent: ¿Y podrías contarnos detalles del
+acto de violación? Siempre y cuando no te exponga emocionalmente.
+TEST: Te digo que se va a poner
+demasiado fuerte. Ellos me cogieron, me doblaron, entonces mientras uno me
+hacía sexo oral, el otro me penetraba y hacían cola. Así, hacían cola. Si no
+fueron veinte, fueron poquitos.
+Ent: ¿Te acuerdas del sitio dónde se
+cometió esa violación?
+TEST: Eso fue en el monte.
+Ent: ¿En una finca?
+TEST: Sí, eso es en un monte ahí.
+Aunque de igual forma cuando me sacaron para llevarme para allá, me llevaron la
+cara tapada. Me llevaron una capuchola puesta [TRA: 13:41]. Que mi mamá también
+se preocupaba por esos casos porque encontraban a la gente con la cabeza mocha,
+sin los bienes desmembrados. Hubo uno, un chico allá que lo encontraron con un
+palo por el recto, ¿si me entiende? Entonces a eso le temía mi mamá. Porque los
+actos de allá fueron muy violentados en ese entonces. Aparecían que las Águilas
+Negras, el Clan del Golfo, que los Urabeños y, en fin. No se sabía cuál de los
+tantos eran los que estaban haciendo este tipo de actividades. Y al enterarse
+
+que uno era marica, valga la redundancia, era cuando más agredían a uno porque
+ellos se creían los machos, los supermachos, los que todo lo podían, ¿si me
+entiende? Entonces [TRA: tonces] eso es.
+Ent: Si el hecho victimizante de la
+violación se dio, más o menos, en -------del 88, ¿tu cuando viajas a LUGAR1 (CÓRDOBA)?
+¿Cuándo te vienes para LUGAR1 (CÓRDOBA)?
+TEST: Apenas salí de allá. Salí bien
+enferma de allá, de LUGAR2 (ANTIOQUIA).
+Ent: O sea en el mismo año 88, ¿tú
+te vienes para LUGAR1 (CÓRDOBA)?
+TEST: Apenas salí de allí llegué a mi
+casa. Al día siguiente salí de ahí huyéndole a que se volviera a repetir eso.
+Ent: TEST, en esos días previos a
+la amenaza, ¿cómo era tu vida? ¿Cómo transcurría tu vida?
+TEST: Como cualquier persona: alegre,
+feliz, contenta. Vuelvo y le repito, eso me marcó mucho. Eso me marcó mucho, me
+volví una persona amargada, desconfiada, ¿si me entiendes? y apática todo lo
+que es el sexo. Lastimosamente cuando llegué a LUGAR1 (CÓRDOBA) me tocó volver a
+trabajar,
+me metí a la prostitución por eso. Y estando en la prostitución fui violada
+también. ¿Por qué? Porque aquí hay mucho machista, también en LUGAR1 (CÓRDOBA) hay
+mucho machista y en ese entonces la población LGTBI, los maricas —valga la
+redundancia— ¿qué hacían? que no éramos la adoración del mundo. Entonces a raíz
+de eso, también fui víctima aquí en Córdoba, en LUGAR1 (CÓRDOBA) de eso también. Un
+rastrojo por allá que medía metro quince.
+Ent: ¿Tu naciste en qué año, TEST ?
+TEST: Yo nací en el 71.
+Ent: 71… ¿me ayudan con esa
+operación? 2019 menos 1971.
+X: Tenías diecisiete años.
+TEST: Exacto.
+Ent: Diecisiete años. O sea que no
+estaban en primaria, sino que ya estabas en bachillerato.
+TEST: No, primaria, yo no llegué a
+bachillerato, empecé muy tarde a estudiar.
+Ent: TEST, tu sentías, en los días
+previos al hecho victimizante, ¿que eras discriminada en la comunidad donde
+vivías?
+TEST: Pues fíjate que, en ese
+momentico, no. A mí quien me marcó fueron estos chicos al margen de la Ley,
+fueron los únicos que me marcaron.
+Ent: No sentías que… [Interrup]
+TEST: No sentía discriminación por
+
+nadie ni por nada. Normal, vuelvo y te repito, mi vida era normalita. Normal,
+normal. Nadie me decía ni mariquita, ni piroba, nada, nada. Nadie me decía, e
+interactuaba con los demás compañeros del colegio, donde estaba estudiando y
+los vecinos y todo normal. Ellos fueron los que, por decirlo, dañaron ese tipo de
+relación. Hoy en día me he encontrado con personas de allá y me dicen “me pasó
+lo mismo que a ti, pero yo no soy marica” y yo “ay eso no es culpa mía”. O sea,
+algunos me señalan causante de las violaciones que surgieron después de eso. Y
+yo no tengo nada que ver con eso, sino que ajá ellos son así de lindos, yo por
+eso estoy por acá, más nunca volví allá.
+Y me dicen “ay por culpa tuya,
+porque acá en este pueblo nunca ha habido maricas, que yo era el único”, pero
+la gente… algunos, no todos me acusaban de que yo era culpable de lo que había
+pasado.
+Ent: ¿Y previo al hecho
+victimizante, había recibido varias amenazas?
+TEST: No, ellos llegaron fue de sopetón.
+Ese día de mi cumple {INT: cumpleaños} íbamos a hacer una reunión de cumpleaños,
+cuando ellos llegaron en la tarde, que no se llevó a cabo ni la dicha reunión,
+porque ese mismo día estaban diciéndome que si yo no hacía parte de su grupo me
+mataban. Cuando yo les hablé ya ellos se dieron de cuenta mi tendencia y fue
+cuando empezaron entonces a hacerme _bullying_,
+por decirlo así _bullying_. A tratarme
+con palabras obscenas hasta el punto de que, cuando yo me vine todo cuando ya
+regresé me hicieron lo que me hicieron.
+Ent: Era muy frecuente ese reclutamiento
+de menores de edad [Interrup]
+TEST: Sí.
+Ent: [Cont] en LUGAR2 (ANTIOQUIA)?
+TEST: No solamente en LUGAR2 (ANTIOQUIA). Hoy en
+día, en todas partes, eso lo cogen ahí, los que tienen quince, diecisiete años
+están reclutando. Los ponían a cargar un fusil y al cargar un fusil ya le están
+enseñando a uno. Están reclutando desde los doce años, están reclutando.
+Entonces eso ya era muuuy… eso era ya muy frecuente en ese momento de reclutar
+desde doce años en adelante, dependiendo de la estatura que tengas. Como
+siempre yo soy un poco alta, me cogieron de una vez. Ya me tenían fichada del
+colegio a la casa y de la casa al colegio me pillaron con otro muchacho que
+estaba. Inclusive creo que dos compañeros que le preguntaba a un amigo que me
+encontré hace mucho, me decía “no, a fulanito y a fulanito los mataron a los
+veinte años” porque ellos no entraron a las listas, eran mayores que yo, claro
+está, y los mataron a los veinte años. O sea, a los pocos meses que yo me vine,
+los mataron a ellos porque no querían. Eran de la misma familia y los mataron. Entonces
+[TRA: tonces] mi mamá también le tenía miedo a eso. O sea, la estaban obligando
+de que dijera dónde estaba yo porque yo tenía que ser parte de ellos. Entonces
+
+[TRA: tonces] ahí… por eso es que estoy por acá.
+Ent: TEST , háblanos de los
+responsables colectivos e individuales del hecho.
+TEST: Responsables como tal todos los
+grupos al margen de la Ley. Porque [TRA: poque] exactamente no sabía si era El
+Golfo. En este entonces, cuando esto sucedió yo no sabía quién era quién.
+Decían que era la guerrilla, ¿ya me entiendes? Todo el mundo la guerrilla, la
+guerrilla.
+Hoy en día que ya yo estaba más en conocimiento,
+que caí en cuenta que ya están calificados como Golfo los no sé qué, no sé qué,
+¿si me entiendes? Están identificao’. Pero en ese entonces para mí todo era una
+sola cosa: la guerrilla. Después fue que salieron el cuento de los paracos, que
+decían que los paracos no sé qué… guerrilleros.
+Ent: Pero, ¿eran FARC o eran ELN?
+TEST: Ahí sí no te sé decir.
+Ent: No logra precisar…
+TEST: No logro identificar quién era
+porque vuelvo y te repito, no tenía identificado por nombres, identificado por
+nombres. Sencillamente decían: eran guerrilleros. No sabíamos si era FARC, ELN,
+el EPL… no sabíamos quién era. O sea, yo no sé si los adultos sabían en ese
+entonces, como era del colegio a mi casa y de mi casa al colegio ese entorno no
+estaba yo al pendiente de eso. En ese entonces los que sabían eran los mayores,
+los mayores, los mayores, en ese entonces.
+Ent: Y frente a los individuales,
+¿reconoces a alguien de los actores individuales?
+TEST: Qué te digo yo. Una vez yo
+encontré un tipo aquí en LUGAR1 (CÓRDOBA), recién venido de allá, lo vi y un instante
+lo conozco yo, que fue el que me amordazó. Todavía anda por ahí rodando…
+Ent: Y, ¿recuerdas el alias o el
+nombre?
+TEST: RESPONSABLE1, RESPONSABLE1… pero jummmm.
+Ent: ¿El RESPONSABLE1?
+TEST: El RESPONSABLE1.
+Ent: Y además de RESPONSABLE1 ¿te
+acuerdas de otros alias?
+TEST: No, la verdad no. Yo apenas me
+acuerdo RESPONSABLE1 tápale la cara”.
+Ent: Solamente fue el único nombre
+que escuchaste.
+TEST: Y yo “ay, Dios mío me van a
+matar” dije yo. Pero no, yo me encuentro al rastro un palito agarrado “dóblese”
+y yo pensaba para qué, “dóblese”. Yo me doblé, me bajaron los pantalones, me
+quitaron el capuchón, entonces uno me agarró de aquí, hacía aquí y me tenían
+
+amarrada por aquí y amarrada aquí y en las manos. Entonces [TRA: tonces] ahí…
+en últimas cuando yo me cansé, me arrodillé. Son tan bellacos que me dieron una
+orqueta, un palo atravesado así y yo quedé de puntas sobre el palo así,
+doblando así. Eso se divirtieron hasta decir ya no más. Me orinaban, me echaban
+de todo.
+Ent: ¿Cuánto eran?
+TEST: Uf, varios si te cuento y me
+acuerdo. Eran muchos, eran como veinte. Al punto que tantas fueron las
+penetraciones que me hicieron que ya yo no soportaba el ardor, eso
+ensangrentaba y todo. Me corría por las piernas como cuando a la mujer le da el
+período, que le llega con hemorragia, que no soporta o cuando tienes una diarrea
+muy grande, tal cual.
+Ent: ¿Cómo te llevan hacia ese
+monte? ¿Cómo es el traslado de tu casa al monte?
+TEST: Me cogieron llegando a la casa,
+me cogieron en el camino porque [TRA: poque] eso era como una trocha, ahí me
+cogieron y… Eso fue como a las 5:00 de la tarde. De allí salí a las 3:00 de la
+mañana, con mis piernas abiertas porque no [INAD: 24:01]. Por mucho que yo me
+traté de limpiar, pero siempre esa sangre salía, salía, salía y salía. A raíz
+de eso hoy en día me dio una hemorragia, fui al médico y me dice que tengo
+detrás del recto, tengo como un quiste producido por tanta ruptura de los
+tejidos. El médico me dijo que tenía que dejar la prostitución.
+Ent: ¿Tu vivías en zona rural de LUGAR2 (ANTIOQUIA)?
+TEST: Se puede decir que sí.
+Ent: ¿Te acuerdas cómo se llamaba el
+corregimiento?
+TEST: No sé qué era eso.
+Ent: Un corregimiento, una vereda…
+TEST: Sabía que todo eso era LUGAR2 (ANTIOQUIA).
+LUGAR2 (ANTIOQUIA), Antioquia. Se calificaba como LUGAR2 (ANTIOQUIA), Antioquia. Yo
+tengo años de no
+ir por allá. Años, son años. Ni Antioquia donde viven unas tías mías tampoco.
+Uy y eso que cuando estaba donde mis tías, mis tías me echaron, decían “mira
+que esos tipos van a venir a matarte a ti y nos van a matar a toditos. Lárgate
+de aquí” y yo pues me fui. Eso es feo, eso es horrible. Que te digan a ti
+“marica, hijueputa” y te cojan y te… sin grasa, sin nada, eso es así a la
+machota… Eran unos gritos.
+Ent: TEST y frente a las amenazas
+iniciales, ¿reconoces a los autores iniciales de esas amenazas? [Interrup]
+TEST: No.
+Ent: [Cont] los que llegaron y te
+coaccionaron…
+TEST: No porque ellos llegaban en ese
+
+entonces, cuando llegaban a esa vez llegaron con una pañoleta aquí en la cara.
+Eran con una pañoleta… iban vestidos de militares, con botas pantaneras y
+llevaban una pañoleta amarrada aquí. No tienen ninguna marca, no tenían nada…
+solo la pañoleta.
+Ent: ¿Alguna autoridad intentó evitar
+esos hechos victimizantes?
+TEST: No.
+Ent: Ninguna autoridad…
+TEST: En ese entonces ninguna. En ese
+entonces nada, no.
+Ent: Ni Inspección de Policía, Junta
+de Acción Comunal, la Alcaldía, Personería [Interrup]
+TEST: Nada de eso, porque [TRA:
+poque] te vuelvo y te digo, esa gente le tenían mucho miedo. O sea, lo que
+ellos decían, tenía que ser y el que se rebeldizara lo mataban o lo hacían ir
+del pueblo. Tu participabas a las buenas o a las malas. Quisieras o no
+quisieras había que participar.
+Ent: ¿Tu consideras que hubo algún
+sector de la comunidad que se benefició de los hechos que se cometieron en
+contra de tu vida?
+TEST: No.
+Ent: Ganaderos o comerciantes,
+Fuerza Armada…
+TEST: No, solamente yo por el cuento
+del machismo y al saber mi condición sexual más se aferraron sobre mí, ¿si me
+entiendes? Se encarnizaron sobre mí, cuando decían que yo era marica, que los
+hombres no son maricas, ¿ya? Entonces a raíz de eso, se encarnizaron tanto que
+fue que me hicieron lo que me hicieron. Ser marica era un pecado en ese entonces.
+Ent: ¿Tú dices más o menos que fue
+la guerrilla la que cometió la violación?
+TEST: Se puede decir que sí
+[Interrup]
+Ent: En el 88… ¿Tu recuerdas desde
+cuándo ese grupo tenía presencia en el territorio?
+TEST: Qué te digo… Allá en mi
+conciencia, en mi ignorancia, yo pensaba que era el Ejército. Yo pensaba que
+era el ejército. Cuando yo fui creciendo fue que dije “no, eso fue la gente que
+manda por aquí”; que yo ya empezaba a escuchar lo que era la guerrilla, pero no
+estaban identificados todavía. Entonces fue cuando yo vine “ah, estos son
+guerrillero”. Pero de igual forma no le prestaba atención porque me decían “si
+tú te metes con ellos, ellos se meten contigo”, era lo que me decían. Entonces,
+yo estaba confiada por eso.
+A raíz de eso, cuando ya se dieron
+
+cuenta de mi condición charalá ahí [INAD: 28:30], se fueron todos en contra.
+Ent: ¿Y tú sabes si ese grupo
+todavía permanece en el territorio? ¿Todavía están en LUGAR2 (ANTIOQUIA)?
+TEST: No sé decirte.
+Ent: ¿Tú no has vuelto a LUGAR2 (ANTIOQUIA)?
+TEST: Más nunca volví. Yo trato de no
+recordarlos ni preguntarle a nadien porque hoy en día, con lo que yo he
+aprendido, me daba que la prudencia gana más. Qué hago si me pongo a preguntar
+“mire y el grupo ese que estaba por allá, ¿qué tal?” y sabe uno de ellos.
+Entonces [INAD: 29:05], no me vayan a matar. “Ah, que aquí estás tú, que tú te
+viniste huyendo”, ¿si me entiendes? Entonces yo trato de no… de olvidar eso, de
+olvidar eso en pocas palabras porque para mí es muy fuerte acordarme
+constantemente de eso.
+Ent: TEST , ¿cuál crees tú que fue
+la razón por las que cometieron esos actos violentos en contra de ti?
+TEST: Por mi condición sexual y
+porque no quise se parte de ellos. Pero especialmente por mi condición sexual.
+Ent: ¿Tú crees que hacer parte de la
+comunidad LGTBI… [Interrup]
+TEST: Y por ser mujer trans.
+Ent: [Cont] fue determinante para
+ese hecho?
+TEST: Eso fue así.
+Ent: ¿Qué pasaba con otros casos que
+ocurrieron junto con el tuyo?
+TEST: No te sé decir qué pasó con
+esos casos porque de igual forma yo salí en bombas de allá… volada, no supe que
+fin tuvo la gente que se quedó allá. No sé qué represalias tomaron contra mi
+familia, los que quedaron allá porque [TRA: poque] mi mamá se vino conmigo de
+una vez. No sé qué pasó con los demás… con los vecinos, no sé.
+Ent: Además de las amenazas, de la
+violación, del desplazamiento forzado, ¿sufriste otro hecho victimizante?
+TEST: Ah, lo que te conté cuando
+empecé a trabajar acá para sobrevivir. Pero fue violaciones, pero ya por el
+machismo, cosas que pasaban en LUGAR1 (CÓRDOBA). Vuelve nuevamente tomé la
+experiencia
+de ser abusada sexualmente —por decirlo así— de tres muchachos con arma de
+fuego. Me obligaron a tener sexo con ellos sin pagarme, a la fuerza, ¿si me
+entiendes? Entonces [TRA: tonces] tuve que someterme a esa…
+Ent: ¿Y eso fue en qué año?
+TEST: Eso fue… Ah, es que… en el 2000
+Ent: Eso fue allá en LUGAR1 (CÓRDOBA). Y ese
+acto, ¿recuerdas a los responsables?
+
+TEST: No.
+Ent: Esa segunda violación.
+TEST: No, eso fue gente del común que
+encontré.
+Ent: Fue delincuencia común, ¿no
+fueron ningún actor armado?
+TEST: No.
+Ent: ¿Ni paramilitares, por ejemplo?
+TEST: No, eso fue común. Como yo me
+dedicaba al trabajo sexual, entonces ellos querían tener sexo sin pagar.
+Entonces yo no quería, entonces me obligaron a eso
+Ent: TEST , trabajando un poco el
+tema de las dinámicas, ¿tú recuerdas cómo era LUGAR2 (ANTIOQUIA) antes del Conflicto
+Armado? Tus recuerdos de niño, de joven.
+TEST: Era un pueblo tranquilo,
+compartido con la gente, muy sociable. Cuando estos señores empiezan a llegar
+ya la gente se fue limitando, se fue limitando mucho y este grupo llevó con
+mucha fuerza y pues ya la gente totalmente se… [Interrup]
+Ent: ¿De qué vivía la gente en
+LUGAR2 (ANTIOQUIA)?
+TEST: La gente vivía de la
+agricultura, el comercio porque había en el pueblo, lo bajaban al pueblo, se
+daba de todo.
+Ent: ¿Qué se cultivaba?
+TEST: Muchas cosas. Algunos
+cultivaban papa, yuca… cosas así, plátano. Pero eran pequeñas cantidades no
+como exportaciones. Mejor dicho, eran cosas de agricultura de campo, ¿ya?
+Hacían en intercambio y eso.
+Ent: ¿Y el comercio cómo era en
+LUGAR2 (ANTIOQUIA)?
+TEST: El comercio. ¿Qué te digo? Era
+un pueblito bien chévere, que tú bajabas y todo normalito. No había tanto
+conflicto.
+Ent: ¿Tu recuerdas si para la época
+de los hechos el grupo armado imponía como unas normas o unas reglas de
+conducta sobre niños, sobre niñas, sobre Comunidad LGTBI?
+TEST: Ya eso empezó cuando empezó lo
+mío. Ya pasó eso cuando empezó lo mío, ya pasó. ¿Por qué? Porque ya no iban a
+aceptar maricas en ese pueblo.
+Ent: Nos puedes describir ese tema…
+TEST: Eso me lo contó mi mamá. No,
+que, si volvía a salir un hijo marica, que un pelao, que esos pelaos maricas
+los iban era a matar, que pudieran atravesarlos de lado a lado, porque el
+
+pueblo no iba a estar lleno de ese poco de maricones que quieren es pasarse
+pintorretiando. Y es que ninguno se está pintorretiando. La única que se
+pintaba era yo, y eso. En ese pueblo era imposible porque pueblo chiquito,
+infierno grande. Eso era imposible. Entonces ahí empezaron todas las normas y
+las leyes que fueron imponiendo ellos. Y empezaron a violar a las mujeres, para
+satisfacerse ellos.
+Ent: ¿Por qué violaban a las
+mujeres?
+TEST: Para satisfacerse ellos. Porque
+se creían los dioses en ese momento, en ese territorio. Entonces, ahí empezaron
+a violar a las mujeres y a todo al que se atravesara por el medio. Y el que se
+pusiera en contra de ellos la pagaban mal.
+Ent: Y frente a los niños y niñas
+[Interrup]
+TEST: Frente al que fuera
+Ent: [Cont] no, frente a los niños y
+niñas, ¿qué normas se imponían? ¿O sea, qué tenían que hacer los niños en esa
+época?
+TEST: Según lo que ellos decían, era
+que los hombres tenían que estar preparados para llevárselos a las filas, ¿si
+me entiende? A las filas. Y las mujeres, algunas que vean ser parte de ellos, o
+algunas tenían que ser mujeres de los “duros” como decían ellos… en aquel
+entonces.
+Después de la violada yo le decía a
+mi mamá “me voy de aquí”. Mi mamá me dio, en aquel entonces, $500. Era un
+pocotón de plata. La marica se vino para LUGAR1 (CÓRDOBA) con $500 [LNV: risas] acá,
+porque eso fue horrible.
+Ent: TEST , aquí no solamente es
+importante lo que tú dices, narrando tus recuerdos, sino que aquí también es
+importante tu interpretación de lo que te pasó. Es decir, el análisis que tú
+mismo haces de lo que te pasó. ¿Por qué por qué crees tú que existía es
+animadversión o esa rabia de la guerrilla con las personas LGTBI?
+TEST: Porque ellos decían de que los
+hombres, son hombres no son mujeres. Los hombres no se deben acostar con otros
+hombres,
+en aquel entonces, ya hoy en día no. Entonces, ellos obligaban que los hombres tenían
+que hacer trabajos de hombres, y las mujeres hacen trabajos de mujeres. ¿Cuál
+era el trabajo de las mujeres? Lavar, cocinar y tener relaciones sexuales con
+ellos. Para eso estaban ellas. Y los hombres tenían gais en las filas a matar y
+a [INAD: 36:59] fúsil porque ya un pelado de doce años podía con un fusil, se
+lo llevaban para la lista. O sea, los obligaban a hacer lo que no querían. Nos
+obligaban a tener una vida que no queríamos, porque muchos de ellos ya salieron
+y son profesionales, me imagino, hoy en día por estar allá, ¿si me entiende? Y
+
+eso es horrible saber que uno sale de su tierra natal no porque quiera
+superarse sino no por obligación sacarlo a uno de un territorio.
+Ent: ¿Ustedes vivían en una finca?
+TEST: Sí, eso era una casa-finca. Un
+pedacito de tierra allá… [Interrup]
+Ent: ¿Quiénes vivían contigo ahí?
+TEST: Mi mamá y mi abuela porque mi
+abuela es de Antioquia. Ya falleció. Ella era de LUGAR2 (ANTIOQUIA), Antioquia y mis tías
+vivían en --------- Por eso te digo que LUGAR2 (ANTIOQUIA) era un pueblecito que quedaba
+ahí cerquita.
+Ent: Tú recuerdas, TEST , ¿cómo era
+la relación de la guerrilla con las autoridades en LUGAR2 (ANTIOQUIA)?
+TEST: Policía nunca había en ese
+pueblo.
+Ent: Nunca había Policía.
+TEST: Yo nunca vi un Policía. Siempre
+se escuchaba que arriba, en la loma, el tiroteo pa, pa, pa, el tiroteo la
+guerrilla con la Policía, con el Ejército y no eran los mismos, son diferentes.
+Luego empecé a identificarlos. Uno podía identificarlos, uno podía identificar
+quién era la guerrilla y quién era el Ejército. Porque yo sabía, dentro de la
+ignorancia de uno, la Policía era vestidos de verde, no estaban camuflados.
+Entonces el Ejército estaba camuflado. Y como uno ya había visto tanta Ley, por
+decirlo así allá, ya yo empecé a bajar acá para [TRA: pa’] --------- para [TRA:
+pa’] otros pueblos, veía ya Policía y diferente. Porque yo salía con mi mamá,
+que mi mamá se dedicaba a la venta de frutas con mi abuela. Bajábamos hasta por
+acá y ahí es donde se va conociendo, fui a una edad de 17 años.
+Ent: Frente a los políticos, ¿cómo
+era la relación entre la guerrilla y los políticos de la región?
+TEST: Nunca supe porque yo nunca
+estuve pendiente de eso, ¿si me entiende? Yo estaba pendiente era que tenía que
+estudiar, de mi casa, porque siempre fui así. En mi casa ayudaba a hacer todas
+las labores y nunca estaba pendiente qué pasaba en mi contorno. Y mi mamá
+tampoco me dejaba salir.
+Ent: ¿Y la guerrilla frente al
+colegio donde estudiaba? ¿Había alguna relación entre guerrilla y colegio,
+guerrilla y profesores?
+TEST: Mmmmm, nunca los vi hablando
+con ellos. Sencillamente que ellos en el propio colegio no estaban. Estaban era
+en los alrededores del colegio. Entonces iban identificando a los jóvenes que
+querían que fueran a participar en su grupo. Obvio también niñas que estaban
+cambiándose.
+Ent: ¿Nunca utilizaron el patio del
+colegio como campo de entrenamiento?
+
+TEST: No, en aquel entonces no. Ellos
+lo hacían aparte del colegio, lo hacían en otro sitio. Como que ellos tenían un
+campo abierto que era el campamento de ellos… a donde me llevaron.
+Ent: ¿No recuerdas cómo se llama ese
+sitio?
+TEST: No sé. Ahí sí no sé porque eso
+estaba por allá perdido en el monte, no sé. Hay muchas cosas que no me acuerdo
+exactamente qué son.
+Ent: TEST , las amenazas, la
+violencia sexual, el desplazamiento, ¿cómo afectaron tu proyecto de vida?
+TEST: Horrible. Porque, por ejemplo, yo
+en mi juventud hasta yo sabía lo que yo quería ser. ¿Qué pasaba? Mi ideal era
+el papel de una mujer por naturaleza, ¿cierto? Entonces yo decía, “quiero ser
+así”. Mi vida era muy diferente a la que yo adquirí después de este acto.
+Me volví una persona rencorosa, mi
+forma de pensar se volvió una porquería —por decirlo— debido a este acto
+victimizante. Y ya, las cosas cambiaron. Cambiaron demasiado.
+Ent: ¿Cómo cambiaron?
+TEST: Demasiado. Desconfianza y mucha
+desconfianza hasta a la misma Ley. Porque no sabemos si la Ley está a favor o
+está en contra de nosotros. He aprendido mucho. Ya que aquella mariquita
+sumisa, humilde, pasiva, quedó a un lado. Ya vienes tú y quieres un servicio
+conmigo y no me querías pagar, yo me agarraba contigo, ¿si me entiendes?
+Dispuesta lo que fuera, me matabas o te mataba, ¿ya me entiende? Entonces ya yo
+me volví como con más fuerza de peliar lo mío, lo que era mío que me estaba
+ganando yo con derecho, con mi cuerpo, no tenías porqué quedártelo tú. La única
+forma en que yo me quedara quieta, era que tú me sacaras un arma de fuego
+porque ni un puñal, un puñal lo agarraba yo. Entonces ya me volví muy
+desconfiada, violenta y muy interesada en lo mío.
+Ent: ¿Qué consecuencias trajo ese
+acto violento que todavía persisten en ti?
+TEST: ¿Qué consecuencias trajo? Estoy
+a punto de ir a la cárcel.
+Ent: ¿Por qué?
+TEST: Porque le corté la cara un tipo
+en ------- En -------por el mismo problema: no quería pagarme mi servicio, me
+quería robar, atracarme y yo no me dejé. Yo con una botella le corté la cara. Y
+eso me buscaban para [TRA: pa’] mandarme a la cárcel. Y yo me vine de allá y
+cogí para ------------ porque soy nómada, nunca me quedé en una ciudad. Cuando
+yo llegué aquí a LUGAR1 (CÓRDOBA), yo empecé a caminar. -------(CUNDINAMARCA),
+------------- ----- (VALLE) y
+así y me volví muy nómada. Entonces ya me cansé de eso y otra vez volví a
+LUGAR1 (CÓRDOBA). Y eso es lo que me ha criado a mí, ya no soy aquella que se dejaba y
+
+a raíz de eso hoy en día, soy una de las activistas número uno en la LUGAR1 (CÓRDOBA)
+Diversa, defensora de derechos, a las poblaciones o cualquier persona no le
+pase lo que me pasó a mí. Ahora hay Leyes y Derechos y merecemos respeto. Eso
+es doloroso que le pase a uno, una y otra vez. Y no hay quién le ponga un
+quieto a esto. Ya está bueno de tanta repetidera lo mismo. ¿Dónde están las
+Leyes? ¿Es que por ser maricas no nos van a atender?
+Ahora, la discriminación en salud,
+educación y todo. Y gracias al trabajo que estamos haciendo estamos consiguiendo
+la experiencia adquirida, estamos superando todo esto.
+Ent: TEST , ¿ese hecho victimizante
+generó alguna afectación en tu salud? ¿Generó alguna discapacidad?
+TEST: No te lo puedo decir…
+Ent: ¿Tu hablaste del hecho victimizante
+con tu familia?
+TEST: No.
+Ent: ¿Con tus amigos?
+TEST: Hasta ahora que ya me conoce
+todo el mundo, la verdad.
+Ent: En ese momento no se lo
+contastes a nadie, ¿qué te lo impidió? ¿Por qué no lo hiciste?
+TEST: El miedo, el miedo.
+Ent: ¿Tenías miedo de qué?
+TEST: De esos tipos al margen de la
+Ley.
+Ent: ¿Sentías que tu protección y tu
+seguridad corría peligro?
+TEST: Y mi familia. Es como ahora
+actualmente. Ahora actualmente lo que me está sucediendo y mi familia no lo
+sabe, les comenté por encima, pero no saben nada de fondo de lo que está pasando.
+Con miedo de que no se involucren tanto en el tema para que no le vaya a pasar
+nada. Ya no los visito casi. O sea, me he aislado de mi familia por estos
+motivos.
+Ent: ¿Tu papá y tu mamá nunca
+supieron?
+TEST: Mi mamá hasta el momento
+falleció, no le conté nada. Mi papá no sabe absolutamente nada de mi vida
+porque yo me crie con mi mamá y me crie sola…
+Ent: ¿No tenías hermanos?
+TEST: Por parte de él no, pero por
+parte de mi mamá somos seis y viven en Venezuela. Entonces yo soy la única que
+estoy acá porque soy hijo único por parte de mi mamá y de mi papá. Yo por parte
+de mi papá tengo otros hermanos, la relación de ellos conmigo es un poco
+distante. Con mis hermanos también porque están muy lejos, pero muy poco
+
+hablamos por teléfono, evitando de que no los relacionen demasiado conmigo, debido
+a los problemas que están ocurriendo, de amenazas. Porque a mí me siguen
+amenazando ahora el Clan del Golfo, por activista, por defensora de derechos.
+Entonces ahí vamos. Han tirado panfletos, amenazas, mensajes, llamadas… Y aquí
+estoy todavía, y estoy en la lucha.
+Ent: ¿Y tú crees que esos hechos
+victimizantes afectaron tu núcleo familiar? La relación tuya con tu papá.
+TEST: Con mi mamá en un principio,
+fue un golpe duro porque ella decía ay, qué marico, que no sé más. Mi papá, no
+porque nunca viví con él, nunca conviví con él. Porque él lo que hizo, salió y
+se abrió y dejó a mi mamá embarazada y ahí después nací sola. Entonces, pero…
+como tal así afectado, afectado… no, nunca le conté lo que pasó así a fondo.
+Ent: Si yo te preguntara, cuál ha
+sido como el impacto más fuerte del Conflicto Armado en ti, ¿tú qué dijera?
+TEST: La violación.
+Ent: Y todo lo que vino después…
+TEST: Y todo lo que llegó. Dejar todo
+eso sí fue muy fuerte. Dejar, por ejemplo, los amigos, dejar mi familia, sentirme
+como la basura más grande del mundo cuando te cogen a la fuerza y te hacen
+hacer cosas que tú… porque por ser mi condición no es porque… Eso es como un hombre
+con una mujer de genética. ¿Qué pasa? Si el hombre le atrae a una, uno accede.
+Pero cómo va a ser que lo cojan a la fuerza a uno y si hubiera sido uno, pero
+como veinte. Entonces, así sucios, hediondos había que tener sexo oral con
+ellos, había que dejarse penetrar el uno y el otro, tras el otro. Ellos hacían
+la rueda, bajan y subían, bajaban y subían, ¿si me entiendes? Eso es horrible.
+Es un acto que no se me va a olvidar nunca.
+Aparte de eso la otra cosa…
+Ent: Que no quieres contar.
+TEST: Que no quiero contar porque eso
+es ya más privado, muy delicado y muy doloroso.
+Ent: TEST , ¿qué estrategias tu
+utilizaste para afrontar ese hecho para superarlo? ¿Cómo lo superaste? ¿Cómo lo
+afrontaste?
+TEST: Primero, saliendo de allá
+corriendo. Salí de allá y tratar de ocupar la mente de otras cosas, tratar de
+pensar que eso no había pasado, aunque estaba la huella. La huella era muy
+grande porque yo duré cuatro meses que ni al baño podía ir. Entonces, buscando
+la forma de recreacionarme en otras cosas. Tuve la torpeza de comentarle a un
+psicólogo lo que me había pasado. ¿Qué me dijo él?:
+Ah,
+eso es por marica
+-
+
+Yo
+vengo es para que me ayude, no para que me hunda más.
+Ah,
+pero es que usted para qué anda eso. Si el hombre…
+Ahora yo soy evangélica. Entonces yo
+no tengo la culpa. Si por mi fuera, yo no hubiera decidido nacer así, pero yo
+nací así. Yo tengo la culpa. Entonces yo hice un escándalo con ese médico,
+hasta le iba a pegar en ese consultorio.
+Ent: ¿Un médico o un psicólogo?
+TEST: Un psicólogo.
+Ent: ¿Un psicólogo del hospital, de
+la IPS?
+TEST: Del hospital, en aquel
+entonces. Fue en el hospital porque cuando yo [INAD: 50:39] el recto muy
+maltratado, deteriorado, ¿si me entiende? Tenía muchas fisuras y tenía sangrado
+y yo fui al médico, en ese entonces lo tenía muy abierto. Entonces el médico y
+allá me pasaron al psicólogo para eso. Pero en lugar de ayudarme lo que hizo
+fue hundirme más. Y le pegué una insultada y le iba a pegar y todo.
+Ent: ¿Eso fue en qué año? ¿Ahí mismo
+después del hecho victimizante?
+TEST: Sí.
+Ent: En el 88.
+TEST: Cuando regresé, a lo que salí a
+la ciudad.
+Ent: ¿Ya estabas en LUGAR1 (CÓRDOBA)?
+TEST: Eso fue aquí en LUGAR1 (CÓRDOBA).
+Ent: Obviamente después de esa
+experiencia tu no volviste a intentar buscar ayuda psicológica…
+TEST: No, no más. Inclusive, te voy a
+decir sinceramente. Hasta hace tres meses que fui donde un psicólogo. Por ahí
+del problema que tengo, me mandaron al psicólogo. Y del psicólogo, donde el
+psiquiatra. Pero como yo le dije al psicólogo: yo no voy a dejarme jode de
+nadie. De nadie, tú me matas o te mato, una de dos. “Ah, pero por qué tanta
+agresividad”. No porque así es la vida y si me dice mátalo, mátalo… No te dejes
+gritar… Porque no voy a dejarme gritar de nadie.
+Entonces por ahí empezamos la
+discusión hasta ahorita que me llevaron al psicólogo. Pero ya fui al psicólogo
+no tanto por el hecho victimizante sino por el problema que quedó de ese hecho
+victimizante.
+Ent: Muchas veces la gente utiliza
+variadas estrategias como para superar las afectaciones. Algunos se refugian en
+la música, otros en el cine, otros en la familia, otros en un viaje [Interrup]
+
+TEST: No, papi.
+Ent: [Cont] ¿cuál fue tu tabla de
+salvación?
+TEST: La salvación mía cuál fue
+cuando yo ya empecé a relacionarme nuevamente con la gente, que me puse a hacer
+un curso de diseño de moda porque me encanta coser. Entonces me puse a hacer el
+curso de diseño de moda. En la mañana trabajaba de 6:00 de la mañana a 1:00 de
+la tarde; de 1:00 a 5:00 de la tarde estudiaba y de 6:00 a 10:00 hacia el curso.
+Ya después hice otro cursito que fue de peluquería y así fui superándome yo
+hasta que esa mala experiencia fue quedando atrás, fue quedando atrás. Y hasta
+el punto que hay sucesos que se me han olvidado. Y así cuando los traigo así,
+que los recuerdo mucho es muy impactante, como te has dado cuenta. Entonces lo
+que yo le digo a las chicas trans y a los chicos de la población es que la vida
+no se acaba ahí, la vida continúa, aunque haya dejado una marca muy grande. La
+vida continúa.
+Ent: ¿Cómo te ha ayudado, por
+ejemplo, ---------------------?
+TEST: ------------, no. Es
+ORGANIZACIÓN SOCIAL1 que fue la primera fundación que hubo en LUGAR1 (CÓRDOBA).
+Hay dos.
+Yo pertenezco a ORGANIZACIÓN SOCIAL1. Cuando ORGANIZACIÓN SOCIAL1 empezó,
+empezó a
+defender los derechos de la población LGTB, que el presidente era CONOCIDO1 entonces
+estuvimos hablando, todo eso. Entonces yo fui una de las
+pioneras cuando empezó eso. Y ahí para [TRA: pa’] qué, tenía ocupación que mira
+que hay que hacer esta actividad, hablando de los temas del VIH, hablando del
+tema del desplazamiento, hablando del tema de Derechos Humanos.
+Entonces ya yo me fui orientando
+allí, ahí, ahí, las cosas ya fueron como tratando de superarlas porque me di la
+tarea como de decir algo: lo que me pasó a mí no quiero te pase a ti. En ese
+detalle van las personas que por la orientación que deben, por su condición
+sexual deben de tener los puntos de atención, de cómo comportarse, porque por
+mí no se comportan bien sino por mi condición sexual. Entonces hoy en día
+también son demasiadas descaradas. Entonces ese fue el trabajo cuando empezamos
+y aquí en LUGAR1 (CÓRDOBA), adquirir lo que es el respeto a la igualdad.
+Entonces ya ese tema de lo sucedido
+mío fue quedando atrás, eso fue quedando atrás, quedando atrás. Y yo le pido
+mucho a Dios, todos los días que hasta que un día se me olvide por completo. Y
+hasta hoy creo que doy la última entrevista de mi vida pasada. Porque recordar
+eso es volver a ese momento al presente otra vez.
+Ent: Entonces el liderazgo si te ha
+servido bastante para superar la afectación…
+TEST: Sí, en un cien por ciento.
+
+Ent: TEST , ¿tú has denunciado estos
+hechos victimizante frente a alguna autoridad?
+TEST: Sí, en la UAO.
+Ent: ¿Tú fuiste a la Unidas de
+Víctimas de acá de LUGAR1 (CÓRDOBA)?
+TEST: De acá de LUGAR1 (CÓRDOBA).
+Ent: ¿En qué año denunciastes esos
+hechos?
+TEST: Ay, ya te dije que en el
+ochenta y pico.
+Ent: No, pero ¿en qué año te
+incluyen en el Registro de Víctimas?
+TEST: En el mismo año, eso fue en el
+88.
+Ent: ¿Tú no tienes copia de esa
+resolución de la Unidad de Víctimas?
+TEST: Sí la tengo.
+Ent: Pero no la tiene acá, ¿no?
+TEST: Aquí no, en mi casa.
+Ent: ¿Solamente fuiste a la Unidad
+de Víctimas?
+TEST: Hicimos una brigada con
+ORGANIZACIÓN SOCIAL1 en la cual se recopilaron las personas que habían tenido
+hechos victimizantes. Hicimos la respectiva brigada de declaraciones en la
+Personería.
+Ent: ¿En la Personería también de
+acá de LUGAR1 (CÓRDOBA)?
+TEST: De aquí de LUGAR1 (CÓRDOBA). Ahí nos
+reunimos, el personero llamó a todos, hicimos la actividad ahí, ¿si me
+entiende? Entonces ahí fue donde declaramos nosotros. Eso salió en el periódico
+y todo.
+Ent: ¿Eso fue en el mismo 88?
+TEST: Sí…
+Ent: ¿O fue mucho después?
+TEST: Del 88 al 89, en ese año. Porque
+como estábamos haciendo esa actividad, eso está en la Resolución [INAD: 57:00]
+de allá. Ahí eso salió en el periódico y todo, y se le dijo al periodista “no
+tome fotos aquí de frente a ninguna”. Nos tomaron fotos de la cintura para
+abajo. La única que sale ahí de espaldas, es el Presidente, es el único.
+Fíjate que yo pensé que la única
+había sido yo la del hecho victimizante, somos muchos, somos muchas y muchos
+que fuimos víctima. Y eso ha servido de mucho. Ese silencio que nos estaba
+consumiendo ya ha salido a relucir. Ya uno se siente como con un alivio en
+
+parte. Y ahora en el centro de las víctimas estoy incluida en el Registro Único
+e incluso con unas ayudas humanitarias y estoy en espera que la supuesta
+indemnización que ya hace cinco años y todavía nada que llega.
+Ent: ¿Cómo es eso de la
+indemnización?
+TEST: Supuestamente ellos dicen que eso
+dizque que para la reparación a las víctimas para el Conflicto. Pero eso no
+repara nada, eso es como un contentillo para que uno ya se quede quieto un
+rato, ¿si me entiende? La integridad de uno no se la devuelven con diez o
+veinte millones de pesos.
+Ent: Te pregunto ahí mismo, ¿tú
+crees que lo que te pasó a ti se puede reparar de alguna forma?
+TEST: No. Jamás porque eso no se
+repara a nadie. Eso viene de adentro, eso no lo quita nadie. Eso es una marca
+que solo la borra la muerte. Sobre todo, cuando uno queda con una huella o una
+marca tan bellaca como esta.
+Ent: ¿Tu denunciaste esto hecho ante
+Fiscalía?
+TEST: Sí para poder hacer la… Fue la
+Fiscalía, fue todo… ese papeleo se hizo ya.
+Ent: Pero no recuerdas con precisión
+la fecha…
+TEST: No. Y yo creo que en aquel
+entonces a la población LGTB no le prestaron atención en la Fiscalía. Entonces
+esos papeles como que llegaban aquí, hacían la declaración y al ratito te daban
+la vuelta y lo echaban por allá y terminaban en la basura porque nunca hubo
+conclusión, nunca hubo respuesta. No es como ahora, que te tienen que dar una
+respuesta en un promedio de quince días hábiles. Entonces, de todos modos, yo
+veo eso ya como perdido.
+Ent: ¿No sabes cuáles han sido las
+resultas de esa investigación de la Fiscalía?
+TEST: Eso queda archivado. Vuelo y te
+repito, en ese entonces a los maricas no se les prestaba atención en ninguna
+parte. Estamos hablando de hace años atrás, no es como ahora que ya somos escuchados
+por el fuerte trabajo que se ha hecho a nivel mundial acerca de los Derechos
+Humanos.
+Ent: ¿Tú consideras que la
+construcción de la verdad es importante para ti?
+TEST: Sí, es importante, aunque sea
+para saber en qué vamos a quedar con tanto conflicto. ¿Qué se hizo? ¿Qué se averiguó?
+¿Que se mejoró? Porque siempre van a haber grupos al margen de la ley, pero lo bueno
+es ir aclarando y tratar de que esto no vuelva a seguir repitiéndose. Es mi
+punto de vista porque aclarar una situación es importante porque luego dirán se
+
+muere la señora aquí, papu le cayó el ventilado y nunca aclaran por qué se
+muere… no, que el ventilador cayó y la mató. Pero no sabemos la causa de por qué
+el ventilador se ha caído. Como pasa en la Ley, aquí han matado muchos de la
+población, ¿qué ha pasado? no se sabe. No se sabe si fue por robarlas, porque
+le dio la gana de matarla, no se sabe… la mataron y quedó muerta.
+Aquí mataron a un chico en el
+puente, llegando a la --------. ¿Qué pasa? Lo apuñalearon y le dieron [INAD:
+01:01:23] lo ultrajaron. No fue por robarle, a ese chico lo querían matar
+porque tenía celular, tenía todo al lado. ¿Qué dice la Policía? No, por robarle
+y no es por robarle porque él tiene todas sus pertenencias. Y estamos en esa
+pelea que nos aclaren el por qué. Porque hay testigos, pero a quién revelar,
+ellos no quieren decir. Los testigos dicen que no, que era que la querían
+matar. Porque lo iban a tirar al río, pero no alcanzaron porque todo el mundo
+salió corriendo cuando la marica se estaba muriendo. Entonces ese es el
+problema, no hay esclarización, no hay una claridad de lo que está sucediendo.
+¿Dónde están los Derechos Humanos? ¿Dónde está el respeto a la verdad?
+Yo como persona, si voy a un médico,
+el médico tiene la obligación de decirme qué me está pasando a mí, qué
+enfermedad tengo, si es de gravedad o no es de gravedad. Y es bueno para que se
+acabe esta discriminación que hay, porque es una discriminación no saber la
+verdad, la verdad de por qué pasa esto. Si es por la condición sexual, si es
+por maldad, si es por rabia, por odio, no sé, o por envidia, no sabemos.
+Ent: TEST , ¿qué deberían hacer las
+autoridades regionales o nacionales pa’ evitar que todo esto se repita?
+TEST: Primero que todo, tener
+respeto. Respeto, respeto, atención y la igualdad que es importante en todo
+esto. Es que ellos tienen que darse cuenta de que somos seres humanos también.
+Porque son Policías a veces dicen “no, quién va a pararles bolas a maricas”,
+porque esa es la palabra de ellos, “uy, son maricas, nadie les va a parar
+bolas”. E inclusive algunos de ellos, hacen actos en contra de la población
+LGTBI y a las mujeres trans que somos las más visibles. ¿Ellos qué? Educarlos,
+investiguen por qué hay este tipo de problemas si la verdad viene de casa. Si
+tú sabes de dónde viene, de dónde el niño sacó este juguete, a dónde proviene
+estás contribuyendo a la delincuencia de ese niño en un futuro. Que todo lo que
+se va a robar lo lleva a la casa y tú no le vas a decir de dónde lo sacó. Y si
+no investigas el pelado queda siendo un delincuente más adelante y aquí las
+autoridades no investigan qué pasa con las personas. Que se desapareció, y si
+era marica, pues por marica fue que lo mataron porque ese es el decir de ellos.
+Entonces, aclaremos esto. Que
+investiguen a fondo y nos den el respeto porque somos seres humanos también y
+merecemos el respeto. Y merecemos también saber qué está pasando con nuestra
+población. Nosotros que somos los líderes, los pioneros de saber la verdad, porque
+merecemos saber la verdad. Buena o mala, es la verdad.
+
+Ent: Las compañeras -------o
+--------- ¿quieren hacerle alguna pregunta pertinente que consideren antes de
+ir finalizando la entrevista?
+X1: Es que me tiene muy inquieta
+porque hablas recurrentemente de que tienes un problema hoy. Ese problema que
+tienes actualmente ¿es un impacto de lo ocurrido? ¿Es un nuevo hecho o es consecuencia
+de ese hecho victimizante?
+TEST: ¿Cuál de los dos problemas?
+Tengo uno que… por amenaza que por Defensora de Derechos poblacionales.
+X1: ¿Cómo líder LGTBI?
+Inf. Como líder LGTBI, esas son las
+amenazas que me están haciendo [Interrup]
+X1: Te están revictimizando…
+TEST: Me están revictimizando
+nuevamente. Entonces por eso entro a la URP y todas estas entidades.
+X: Yo tengo dos preguntas. La
+primera es LUGAR2 (ANTIOQUIA), cuando tú te trasladaste para LUGAR1 (CÓRDOBA) ¿eso
+más o menos a
+cuánto queda de acá?
+TEST: Mami, en --------X: O sea ¿eso es cerquita a
+--------TEST: Eso es Antioquia.
+X: ¿Más o menos a ---------a cuánto
+queda? De LUGAR2 (ANTIOQUIA) a --------TEST: Eso está como a tres, cuatro
+horas.
+X: ¿Eso es cerca a -------o de
+--------TEST: No, pa’ riba.
+X: Eso es el nordeste, más o menos.
+TEST: Sí, puede ser.
+X1: Que buscamos y LUGAR2 (ANTIOQUIA) hay en
+----------X: En -----------que es en ----------------- cerca a -------[Interrup]
+TEST: LUGAR2 (ANTIOQUIA), Antioquia. Le decían
+LUGAR2 (ANTIOQUIA), Antioquia.
+X1: Pero es un corregimiento… La
+otra pregunta que yo tenía es que tu planteas que la prostitución es también un
+impacto, una consecuencia de todo lo ocurrido y el otro impacto es tu condición
+de salud que ha llevado a que esa forma de ganarte la vida no sea posible por
+también el impacto de lo de la salud. ¿Cuál es la manera cómo estás afrontando
+
+eso? Es decir, cómo trascender esos impactos, que son dos impactos que están
+relacionados con el hecho victimizante, ¿cómo estás manejando eso?
+TEST: ¿Cómo lo solucioné? Como le
+estaba comentando a él, me puse a hacer cursos de diseño de moda, empecé por
+ahí. Luego hice el de peluquería que llamamos, ya hoy en día es asesoría de
+imagen. Entonces, ya cambié la prostitución por esto, porque era muy complicado
+tener relaciones sexuales sabiendo de que tienes una molestia, y el trabajo
+sexual no sería con uno sino con tres, con cuatro no al mismo tiempo, pero igual
+forma afecta mi salud como tal. Y como tampoco tuvimos la oportunidad, en la
+escuela, de darnos una oportunidad para capacitarnos en los estudios, llegamos
+hasta quinto de primaria. Y tampoco tengo la oportunidad de trabajar en ninguna
+empresa porque como no me pude preparar y alguno de los nosotros está
+preparados, pero por la condición sexual no lo contratan en ninguna empresa.
+Que eso es lo que estamos tratando
+de luchar y tratar de, cómo te dijera yo, enfrentarlos para tener la
+oportunidad de demostrar que sí tenemos talento y podemos. O sea, ya conmigo
+no, sino con las demás generaciones que vienen porque estamos preparados.
+Tenemos abogados, hay bacteriólogos, hay de todo, pero por su condición sexual
+no los aceptan. Aquí tengo un chico, él es andrógeno, es abogado fiscal y no ha
+podido conseguir empleo y nadie le da empleo porque dicen que es marica y al
+ser marica no se le presta atención. En cambio, cuando voy yo que yo me sollo,
+que ya yo me estoy empoderando de lo que son las leyes, ya ellos empiezan que
+“ay sí, llego esta”.
+Yo tengo una amiga que me ayudado
+mucho, que es abogada, que es la doctora CONOCIDA2 es una mujer trans, es
+abogada, ella me ha ayudado mucho, ella trabaja con el Ministerio y me ha
+ayudado mucho en esta carrera con cualquier duda que yo tenga, yo la llamo, le
+comento y ella me asesora. Y aquí en LUGAR1 (CÓRDOBA) he adquirido, con clientas y
+clientes que son abogados, que cualquier inquietud que yo tenga le digo “doctor,
+me está pasando esto y esto. Mira niña me está pasando esto, ¿qué hago?”
+entonces ellos me dicen “no, hay que hacer esto, esto y esto”. Ya cuando yo voy
+a la Defensoría del Pueblo que tengo un aliado bueno en la Defensoría del
+Pueblo en mujer y género también me asesoran. O en caso que no encuentre a
+ninguno de esos acá, o si hago por acá esto voy allá a la Defensoría para que
+me verifiquen si está bien, ¿si me entiende? Yo me empodero bien antes de
+ejecutar cualquier actividad.
+X1: Otra pregunta que quería hacerte
+y es que me llama mucho la atención esto y me gustaría que me lo compartieras o
+nos lo compartieras. Es que más o menos entre el 85 y el 88 fue el tiempo de la
+expansión de las Autodefensas de Córdoba y Urabá, en todo ese sector de Córdoba
+y Antioquia. Entonces, como dices que no tenías una seguridad de quién era ese
+actor nunca te llamó la atención si eran ellos efectivamente, si era guerrilla
+efectivamente esta gente que además incursionaba era haciéndose pasar por
+
+guerrilla. Entonces, ¿nunca sentistes de saber exactamente quién era? ¿quiénes
+fueron los responsables?
+TEST: No, no, no.
+X1: ¿Y por qué?
+TEST: Sabes qué te digo, nunca quise
+saber quiénes fueron. ¿Por qué? Porque ese es un capítulo, un episodio de mi
+vida que no quiero volver a recordar más. ¿Y para qué quiero saber? Para
+llenarme más de rabia… Para qué, no me voy a poder desquitar o para qué si
+llego allá y me van a volver a formar otra vez la misma historia… o esta vez me
+pueden hasta matar. Entonces, más bien como dicen por ahí “borrón y cuenta
+nueva”. Ya si pasó, pasó y hoy para mí es un capítulo en mi vida que me marcó
+muchísimo y que no quisiera recordar constantemente porque ya para mí eso es
+pasado.
+Ent: TEST , para finalizar vamos a
+llenar una ficha corta con unos datos muy muy puntual. ¿Tú tienes algún documento
+que quieras aportarle a la ORGANIZACIÓN PUBLICA1?
+TEST: ¿Cómo cuál? Lo que tengo es el
+documento de la UAO, nada más.
+Ent: La fotocopia de la Resolución
+de la UAO, recortes de prensa, archivo.
+TEST: Nada de eso porque no me gusta
+nada marcándome eso.
+Ent: TEST , ¿tienes dos contactos de
+testigos que conozcan esos mismos hechos?
+TEST: No, en la UAO, todo eso es
+privado.
+Ent: ¿Contactos que conozcan estos
+hechos en el 88 en LUGAR2 (ANTIOQUIA)?
+TEST: No.
+Ent: No.
+TEST: Allá no había el celular,
+salían al pueblo a llamar dizque al Telecom [LNV: risas]
+Ent: El nombre que aparece en tu
+cédula, ¿cuál es el nombre?
+TEST: -------------------------------Ent: ---------…
+TEST: ----------.
+Ent: ¿-----------------?
+TEST: ------------.
+Ent: Y tu nombre identitario es TEST TEST -----¿------solamente?
+TEST: ‘---’ doble ‘---’ ‘---’ --------Ent: Tu fecha de nacimiento…
+
+TEST: Ay, eso no se pregunta [LNV:
+risas] La fecha del nacimiento mío es del 71.
+Ent: La fecha completa…
+TEST: 1971…
+Ent: ¿Día y mes?
+TEST: ------------ [LNV: risas]
+Ent: ¿Tu nacistes dónde?
+TEST: O sea, yo nací allá, pero saqué
+la cédula aquí en LUGAR1 (CÓRDOBA).
+Ent: Pero tu lugar de nacimiento,
+donde está tu registro civil…
+TEST: Aquí en LUGAR1 (CÓRDOBA).
+Ent: LUGAR1 (CÓRDOBA), ¿sí?
+TEST: Sí, yo saquí el registro aquí y
+eso.
+Ent: ¿Tu sexo al nacer fue hombre?
+TEST: Obvio, eso lo van a eliminar,
+el Consejo está peleando para que quiten eso.
+Ent: Tu identidad de género…
+TEST: Femenina.
+Ent: ¿Te sientes atraído por hombres
+o mujeres?
+TEST: Ay los hombres nene, qué te pasa.
+Uy mujeres, por ahí tengo un par de clientas.
+TODOS: [LNV: risas]
+Ent: Tu pertenencia étnica, ¿te
+consideras afrocolombiano, negro, raizal, mestizo, indígena?
+TEST: Mestizo, será mestizo porque mi
+amor, ni blanca ni negra. Mi papá es negrito.
+Ent: Regálame tu número de cédula.
+TEST: -----------.
+Ent: ¿Colombiano?
+TEST: Obvio… no de italiana [LNV:
+risas]
+Ent: Tu estado civil es casado,
+[Interrup]
+Inf. Soltera.
+Ent: [Cont] soltero, felizmente
+separado, unión libre…
+TEST: Ponle soltera porque tengo un
+noviecito, pero eso no le prestes atención…
+Ent: ¿Tienes alguna condición de
+discapacidad? Física, sensorial…
+
+TEST: Física no.
+Ent: Psicosocial, intelectual… ¿No,
+cierto? Ninguna.
+TEST: Las gafas apenas.
+Ent: Actualmente vives acá LUGAR1 (CÓRDOBA),
+¿cierto?
+TEST: Sí.
+Ent: ¿Y tu número de teléfono?
+TEST: ---------.
+Ent: ¿En qué barrio vives?
+TEST: --------------.
+Ent: ¿--------------------?
+TEST: Sí, señor. Están buscando el
+croquis de los departamentos…
+Ent: ¿Tu educación formal?
+TEST: Hasta quinto de primaria.
+Ent: ¿Tu oficio?
+TEST: Asesor de imagen.
+Ent: Y tu ocupación actual…
+TEST: Asesor de imagen y activista y
+líder.
+Ent: ¿Miembro de la Fuerza Pública?
+TEST: No.
+Ent: No, ni miembro de un actor
+armado…
+TEST: Tampoco.
+Ent: ¿Participas en alguna
+Organización, colectiva o pueblo?
+TEST: En ORGANIZACIÓN SOCIAL1
+Ent: Bueno, TEST yo te agradezco
+mucho tu disposición, tu colaboración, tu valentía para con este relato. Eres
+una mujer muy valiente y quiero que te sienta tranquila, quiero que te sientas
+sosegada y te agradezco mucho, mucho por este aporte a la ORGANIZACIÓN PUBLICA1.
+TEST: Gracias a ustedes por escuchar
+nuevamente y a ver si se aclara toda esta situación aquí de las cosas que están
+pasando, porque siempre todos los casos quedan inconclusos, nunca dan una
+respuesta.
+Ent: Una última preguntica ya para
+cerrar la entrevista, ¿cuántas horas hay de LUGAR2 (ANTIOQUIA) a LUGAR1 (CÓRDOBA)?
+TEST: No te sé decir.
+Ent: Aproximadamente…
+TEST: Si de LUGAR1 (CÓRDOBA) a Medellín son
+nueve horas, entonces ponle cuatro horas más para adentro.
+
+Ent: Entonces como unas trece horas.
+TEST: Por ahí…
+Ent: _Okay_, TEST . Muy amable, un abrazo.
+TEST: Bueno, felicidad. Gracias.
+
+

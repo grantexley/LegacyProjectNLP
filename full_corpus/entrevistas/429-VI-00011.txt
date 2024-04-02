@@ -1,0 +1,754 @@
+ENT: ¿Cuénteme usted dónde nació?
+TEST: Yo nací en --------- el --------------- de 1944, o sea que en la actualidad tengo 76 años
+ENT: ¿Y ha vivido toda la vida aquí en --------- ?
+TEST: En -------- estuve en algunos municipios de Antioquia
+ENT: ¿Trabajando como empleado de la -----?
+TEST: Si, trabajando como empleado de la ----- ?
+ENT: Listo, ahorita llegamos allá. ¿Que estudio?
+TEST: Estudié ---------, no termine carrera, yo nunca termine la carrera, me tuve que
+terminar cuando estaba estudiando por orden de CONOCIDO 1 para dedicarme a conformar
+ORGANIZACION SOCIAL 1 [INC: --------------------------------------------]
+ENT: ¿Eso en qué año fue?
+TEST: En el año 73
+ENT: Ya volvemos allá. ¿Usted está casado?
+TEST: Sí. casado
+ENT: ¿Tiene hijos?
+TEST: Tengo 3 hijos
+ENT: ¿Y viven acá todavía en --------- ?
+TEST: Si, acá en --------ENT: Bueno, ahora sí cuénteme entonces usted que estaba haciendo, ¿en el 73 usted estaba
+estudiando ------ ?
+TEST: Estaba estudiando ------ENT: ¿Y cómo conoció a CONOCIDO 1?
+TEST: Nosotros empezamos un movimiento aquí, ORGANIZACIONN SOCIAL 1
+prácticamente empezó en --------- teniendo en cuenta que a nosotros en la rama judicial nos
+pagaban la prima de Navidad y los primeros meses del año nos pagaban en abril o mayo, ni
+en Enero ni en febrero ni en marzo, a nosotros primero la prima de navidad nos la pagaban
+en mayo, 5 meses retardados, y los primeros meses no nos pagaban sueldo, entonces
+nosotros con una compañera que se llama CONOCIDO 2 y otros compañeros que ya
+fallecieron, empezamos a formar un movimiento por el salario inicialmente y porque nos
+pagan oportunamente, ¿entonces a dónde nos íbamos a venir? la pagaduría de la -------------quedaba en el -------------- aquí seccional, allá fuimos y empezamos a protestar contra el
+-------------, porque se decía que los dineros que se destinaban para el pago de ----------- aquí
+en --------- le hacían una destinación diferente, entonces empezamos a protestar eso, esto
+empezó a fraguar un movimiento nivel nacional, en -------se estaba ocurriendo una situación
+similar, una gente antes de CONOCIDO 1 no recuerdo los nombres, una gente antes de
+CONOCIDO 1 era un juez penal municipal todavía, en pueblo de allá de Cundinamarca o de
+------- no recuerdo, y ese movimiento empezó a crecer, empezó a crecer, empezamos con lo
+de los salarios, después con una prima de antigüedad, peleando una prima de antigüedad,
+entonces se vio la necesidad de conformar ORGANIZACION SOCIAL 1 entonces nos
+trasladamos a -------a través del movimiento que se empezó a fraguar aquí, no se quería que
+la que la cabeza o la junta directiva nacional de ORGANIZACION SOCIAL 1 quedara en
+--------- acordate que nosotros fuimos los precursores de la Asociación del sindicato de allá,
+porque decían que en la -----no podía haber sindicato y que no podía estar en ---------porque
+
+no era la capital, que tenía que ser ------- ahí fue cuando más contacto con ------- y cuando ya
+estaba surgiendo CONOCIDO 1 ----------- unos jueces allá, que si bien no daban la cara por
+temor ponían algún empleado [INAD:04:23] por ellos cierto, así fue, ahí surgió unos jueces
+que murieron, CONOCIDO 3 que mataron en ------- un juez muy bueno, CONOCIDO 1
+empezamos con ellos, ellos vinieron, entonces, CONOCIDO 1 fuimos y comenzamos a
+conformar ORGANIZACION SOCIAL 1 en -------------------------- eso se conformó por allá en el
+año 74, o un poco antes, no tengo muy claro la fecha, pero por esa fecha, entonces ya surgió
+la creación de las seccionales, ---------fue la primera seccional que se creó, ---------y
+------------- fueron las primeras seccionales y ya el movimiento fue creciendo, fue creciendo y
+-------cogio una fuerza importante en el movimiento sindical en Colombia, ya la cabeza de
+nuestro movimiento era CONOCIDO 1 que fue con los que conformamos inicialmente la
+primera juntas directivas, yo hice parte de la primera juntas directivas de ORGANIZACION
+SOCIAL 1 a nivel nacional y luego seccional, porque es que esos viajes de aquí a -------eran
+en bus, no había viaticos, no habían permisos sindicales, uno tenía que volarse, pedir un
+permiso, entonces era muy difícil, de cuenta de uno, y a dormir por allá en una sede de un
+sindicato, no era como ahora que ya por lo menos se ha avanzado; El sindicato se volvío
+visible a nivel nacional, juntos con la ORGANIZACION SOCIAL 2 [INC: ----------------] y el
+ORGANIZACION SOCIAL 3 [INC: --------------] eran los sindicatos mas fuertes, y claro, y los
+maestros también por su lado, pues, los educadores, entonces empezamos a tratar de
+conformarnos, de unirnos y luchar por las reivindicaciones de los empleados del estado;
+existia una Federeación de trabajadores al servicio del Estado que se llamaba
+ORGANIZACION SOCIAL 4 [INC: ------------------] pero eso no jugaba ningún papel en el
+movimiento sindical, era amor, pues no movia nada, nosotros con CONOCIDO 4
+conformamos un acto de remision [DUDA:07:02] el mismo CONOCIDO 4 fue sindicalista,
+conformamos una organizacion que se llamo el ORGANIZACION SOCIAL 5 [INC:
+----------------------] , pero como ya estaba Final tras la idea era casi, nosotros no pudimos
+conseugir incialmente personería juridica, entonces por estrategia logramos meternos los
+del ORGANIZACION SOCIAL 5 a ORGANIZACION SOCIAL 4, ahi nos tomamos a
+ORGANIZACION SOCIAL 4, y ya desaparecio el ORGANIZACION SOCIAL 4 y quedo
+ORGANIZACION SOCIAL 5, entonces eso ya lo manejaron los trabajadores, esto llevo a que el
+sindicato siendo tan visible y que nosotros enzabezabamos movimientos sindicales por
+todas estas reinvidaciones, llevara a que fueramos puestos en la mira del Estado, que
+nosotros eramos enemigos del Estado, ya ahi vinieron las amenazas y las persecuciones por
+parte de las Fuerzas Militares de Colombia, del B2, el F2, quienes nos perseguian, nos
+grababan, nos filamaban y nos amenazaban...
+ENT: ¿Estas persecuciones por las Fuerzas Militares alrededor de qué época comienza?
+TEST: Eso empezó después del año 76 aproximadamente, no tengo muy clara la fecha, pero
+más o menos esa época, con decirle que en el Gobierno de CONOCIDO 5 se creó una figura
+que se llamó de ------------, este estatuto de seguridad era un figura o una norma
+desenterrada para perseguir sindicalistas, llegando al caso de que a raíz de un paro nacional
+que hicimos, que hizo ORGANIZACION SOCIAL 1 la UNIDAD MILITAR 1 de -------vínculo a
+una investigación por violaciones al estatuto de seguridad a la junta directiva de
+ORGANIZACION SOCIAL 1. ENT: ¿Eso fue después del paro del 77 o de otro?
+
+TEST: Si, por esa fecha, no lo tengo muy claro, y ahí fue cuando llamaron a CONOCIDO 1
+inicialmente a él, a rendir indagatoria a la UNIDAD MILITAR 1 en ----------------------- allá
+quedaba en esa época, entonces se dio la orden nacional que sí CONOCIDO 1 entraba y no
+salia de allá a las 3 o 4 horas la movilización iban a ser total...porque había temores que de
+pronto se desapareciera
+ENT: ¿Y por qué había ese temor? o sea, ¿Cuál era?
+TEST: Porque a nosotros nos estaban asediando y sabíamos que la UNIDAD MILITAR DEL
+EJERCITO, que las Fuerzas Militares conectado a través de los organismos de seguridad, nos
+estaban haciendo un seguimiento a nosotros porque nos tachaban como auxiliares de la
+guerrilla
+ENT: ¿Y usted cree que esos señalamientos como auxiliares de la guerrilla era por ser
+sindicalistas?
+TEST: Por ser sindicalistas
+ENT: ¿Y entonces qué pasa cuando detienen a CONOCIDO 1?
+TEST: A él lo llevan a la UNIDAD MILITAR DEL EJERCITO pero al lo indagan y lo sueltan
+afortunadamente, porque si no estábamos...En -------hubo una movilización hasta allá, hasta
+-------------- a esperarlo afuera, si no salía pues se daba la orden a nivel nacional, nosotros no
+podíamos tampoco ponernos a pelear con las armas pero la movilización si sonaba, eso
+paso, por eso empezamos inicialmente que a nosotros el Estado también nos
+hacía inteligencia y de cierta manera nos presionaba para que nosotros no lucharamos por
+nuestras reivindicaciones sociales y económicas. El sindicato se fue fortaleciendo entonces
+ya empezamos a padecer lo del narcotráfico, especialmente en --------- todo el país, pero
+especialmente en --------- aquí empezó el narcotráfico cuando surgió el Cartel de --------.
+ENT: Listo, pero antes de pasarnos al narcotráfico, ¿como era el ambiente durante el
+Estatuto de Seguridad Nacional para ustedes como sindicalistas?
+TEST: A nosotros especialmente y algunos sindicatos, algunos dirigentes sindicales fueron
+detenidos por participar en movilizaciones, eso está en la historia, yo no lo puedo recordar,
+pero eso está en la historia, en algunos archivos de prensa, empezaron a detener
+sindicalistas con el Estatuto de Seguridad, participar en marchas, a otros les sindicaban que
+tenían un bomba, y así, cosas que nosotros nunca hicimos, nosotros empleamos la violencia
+para nada en esa época, y ya después estos sindicatos fueron cogiendo mucha fuerza, la
+ORGANIZACION SOCIAL 2, ORGANIZACION SOCIAL 1 el ORGANIZACION SOCIAL 3, que eran
+como los más fuertes, y ORGANIZACION SOCIAL 6 [INC:-------------------] eran los
+más fuertes, entonces se hizo una organización muy fuerte sindical, intentabamos en
+ORGANIZACION SOCIAL 4, empezamos a formar el sindicato obrero, que posteriormente se
+hizo pero abierto.
+ENT: ¿Y usted recuerda de esa época denuncias por ejemplo sobre torturas, compañeros del
+movimiento sindical?
+TEST: Hubo detenciones, por ejemplo, aquí durante un paro estábamos en la sede de los
+lados de instrucción criminal [DUDA: 14:20] y entonces nuestro presidente para esa època
+era CONOCIDO 6 ¿has oído hablar de él? CONOCIDO 6 estaba encabezando un mitin donde
+era la sede de los juzgados de instrucción criminal, detrás del hotel ----- y ahí llegaron los
+soldados, los antimotines y los montaron a todos, yo me salvé porque estaba haciendo otra
+
+asamblea aquí, pero cuando yo llegué ya los habían detenido, se los habían llevado para un
+comando de la policia aqui en el centro de --------- entonces hubo que pedir la
+intervención del ministro del interior, que en ese momento tenía otro nombre, el Ministro
+de Gobierno me parece que era que se llamaba que era un CONOCIDO 7. Sea, allá pues hubo
+tiempo para que el ordenara liberar a nuestros compañeros porque les iban aplicar estatuto
+de seguridad, los liberaron pero les hicieron firmar un acto de compromiso de que no iban a
+seguir haciendo movilizaciones ni mítines allí, esa es una forma de presionar a la
+organización sindical.
+ENT: Usted ahora antes de comenzar mencionaba temas de los juzgados penales militares,
+¿eso fue durante esta época o fue después?
+TEST: Eso fue en la época de la justicia penal militar, ahí se crearon la justicia penal militar,
+no recuerdo que fecha pero eso fue por esa misma época que se creó la justicia penal
+militar, que había jueces penales militares, que investigaban estos delitos e investigaban a
+los militares también, separados, durante la época de estos jueces penales militares, se
+sabía que a nosotros nos hacían unos seguimientos, porque en algunas marchas no hicieron
+seguimientos y nos tomaban fotos, yo llegue a confrontar a una persona que lo sorprendí y
+me dijo que era agente del B-2 y que él tenía una orden de hacer ese trabajo que estaba
+haciendo, y que me dijo -“Ustedes se tienen que cuidar” así el mismo me lo dijo, que nos
+teníamos que cuidar, -“¿Oiga y usted por que me esta tomando fotos, por que?” si porque yo
+también estaba respaldado por otros compañeros, yo solo no lo fui a confrontar, yo estaba
+casi cerca de [INAD: 17:14] entonces hubo un hostigamiento permanente a nosotros
+como sindicato por parte sobretodo del B-2 de la justicia penal militar, sobretodo ellos,
+sobretodo la justicia penal militar, no tanto la policia sino la justicia penal militar, y
+sabíamos porque un Coronel que tenía alto cargo en [INAD: 17:38] que era esposo de una
+juez penal de circuito, se llamaba o se llamaba GRADO 1, el militar, Coronel, a él le
+tocó comandar la operación donde se atacó el ELN [INC: Ejército de Liberación Nacional]
+por allá en el ---------- de antioquia, y el alto militar me dijo -“Usted está andando con los
+dirigentes de la junta directiva [INAD: 18:10] están en una lista allá pegados como auxiliares
+de la guerrilla
+ENT: ¿La junta directiva de ORGANIZACION SOCIAL 1 de Antioquia?
+TEST: Sí, la regional, ahí en esa lista estabamos CONOCIDO 6, CONOCIDO 8, CONOCIDO 9 y la
+compañera CONOCIDO 2 habían más, pero estos son los que más recuerdo, estábamos en
+esa lista, esa lista era como auxiliares de la guerrilla eso significaba mucho para nosotros,
+que nosotros estuviéramos en esa lista porque éramos un objetivo militar, porque todo el
+que fuera auxiliar de la guerrilla pues lo detenían, nosotros porque de todas maneras
+éramos funcionarios públicos, eso a ellos como que no los dejaba actuar directamente,
+hubiéramos sido particulares ya nos hubieran detenido, nosotros no éramos particulares y
+hacíamos parte de la rama judicial, eso los detuvo a ellos a no actuar directamente ya contra
+nosotros, y seguimos en esa lucha, y después llegó lo del narcotráfico aquí, cuando la muerte
+de Lara Bonilla, del Ministro, llegó la muerte de Lara Bonilla en el año 84, creo que es en el
+año 84, cuando era presidente CONOCIDO 10 que CONOCIDO 10 le declaró la guerra al
+narcotráfico, y habló por primera vez de la extradición de los narcotraficantes, él habló por
+primera vez de la extradición de ellos, a fue cuando nació el grupo los extraditables, que
+
+fueron los que después me secuestraron a mi...
+ENT: Entonces antes de llegar allá, ¿Usted qué cargo tenía para esta época?
+TEST: ¿De ORGANIZACION SOCIAL 1?
+ENT: Sí
+TEST: Creo que era el ------ de ORGANIZACION SOCIAL 1 , yo siempre hice parte, desde su
+creación yo siempre hice parte de ORGANIZACION SOCIAL 1 de vocal, secretario,
+vicepresidente o presidente, yo desempeñe todos los cargos en la junta directiva de
+ORGANIZACION SOCIAL 1.ENT: ¿Y en la -----que cargo tenía?
+TEST: Yo era ----------------------------------------- después fui el -----------------,
+---------------------------------- cuando existían los juzgados superiores, y me jubile en la
+ORGANIZACION PUBLICA1, en el año 2005, o sea que yo llevo 15 años de jubilado
+ENT: Entonces volviendo un poco al año 84, muere Lara Bonilla y ¿eso cómo se comienza y
+se vive?
+TEST: Ahi empezo...ahi fue cuando CONOCIDO 10 le declaró la guerra al narcotráfico, en ese
+entonces Pablo Escobar era representante a la Cámara suplente de CONOCIDO 11 y era
+intocable, y ya empezó a ser muy visible, todavía no era tan visible, se empezó a hablar del
+Cartel de Medellín y empezaron a surgir, ellos trabajaban aquí pero no eran tan visibles sino
+a partir de eso, entonces el le declaro la guerra, porque ellos aquí eran los dueños de
+Medellín, y tenían infiltrado ya la policia, el ejército y hasta la misma -------------- en la misma
+--------------había gente del narcotráfico, o que prestaban servicios para ellos o que vendían
+información, hasta ORGANIZACION SOCIAL 1estuvo infiltrado, llegó una señora que hizo la
+forma para llegar a la junta directiva, fue nombrada secretaria [INAD:22:30] no conocíamos
+su pasado sino como empleada nomas, como empleada de la -------------- y resultó que ella
+era una ficha de Pablo Escobar Gaviria en la -------------- una vez llegue yo a la oficina de
+ORGANIZACION SOCIAL 1 que nos habían cedido en el viejo palacio de justicia donde ahora
+hay un centro comercial y encontré una mata de coca, y yo no conocia...hace 30 años
+nosotros no conocíamos una mata de coca, ¿y esto que es? -“No, una mata de coca” -“¿y
+usted por qué trajo esto aquí? -“no es que...” -“No, eso hay que sacarlo de aquí, como que una
+mata de coca...” esa la había llevado la -------------de ORGANIZACION SOCIAL 1que se llamaba
+o se llama CONOCIDA 12 y yo no me acuerdo de otra incidencia, de un caso muy personal
+con ella, nosotros trabajabamos en la rama judicial hasta el medio día, y un día me invitó
+para su casa en y yo fui a esa casa, nos sentamos en la sala, y yo ví que un tipo, un
+muchacho, se le veía el punto aquí (un segundo piso) se asomaba al mirador y pasaba hacia
+el fondo de la casa, del mirador (yo sentado en la sala) entonces pasaba por el frente mio del
+mirador hasta el fondo de la casa hasta que yo no aguanto y le pregunte a estrella,
+-“¿Estrella pero que pasa,? ¿ese muchacho que hace aquí? ¿quien es?” y me dijo -“no, es que
+aquí tenemos una caleta de Pablo Escobar” así me lo dijo, venga le muestro, y fui y en una de
+las piezas que habían atrás en la casa de ella, dentro de la casa de ella, había una pieza,
+donde solo se podía un espacio para abrir y cerrar la puerta y en ese ese espacio había un
+tipo (había un reja de vidrio, una reja de metal) y adentro había un tipo, un muchacho
+sentado con un radiecito sentado dentro y fuera de ese espacio de adentro no se veía sino
+como pacas de cigarrillos, hasta el techo, eso eran dólares, una pieza llena de dólares...la
+secretaria de ORGANIZACION SOCIAL 1metida en este negocio...
+
+ENT: ¿Y usted en ese momento..?
+TEST: A mi me dio una tembladera, m dio el temor mas grande del mundo [RISAS] entonces
+yo le dije, “no, yo me voy de aquí” yo no me acordaba que yo tengo un compromiso, yo me
+voy que tengo un compromiso, entonces había mandado al hijo de ella a traer unas cervezas
+a la tienda, para que nos tomaramos ahí en la sala, el muchacho (el hijo de ella) no había
+llegado, -“No yo me voy” -“no,no,no esperate que vengan con las cervezas” -“no, no, no, yo
+me voy ya” -“de todas maneras le toca esperarlo a él” y yo - “¿por qué?” -“es que vos de aquí
+no podes salir solo, el te tiene que acompañar a coger un taxi o un bus, pero si vos salís solo
+aquí te matan” entonces tuve que esperar a que llegara con la cerveza, me bogue la cerveza,
+y arranque, el muchacho me acompañó a coger el bus, un bus del --------------- un
+------------------- el muchacho me acompaño y yo salí muerto del miedo a...y yo no sabía cómo
+dar esa noticia, porque Pablo ya tenía mucho poder, entonces yo a través de algunos
+mecanismosº1spues de la muerte de Lara Bonilla que empezaron a...qué todo indicaba que
+la muerte de Lara Bonilla había sido el cartel de --------- y que este señor Pablo Escobar
+estaba en un partido político que se llamaba el --------------------------- y era Representante
+suplente de CONOCIDO 11 en la Camara de representantes por el ------------------ entonces
+------sacó una declaración pública expulsado del partido a estos dos, CONOCIDO 13 era un
+tipo muy cristalino, y ellos formaron después su propio directorio, que se llamó -------, para
+escudarse ahí, ya empezaron ellos a hacerle inteligencia a la --------------a través de ciertas
+personas, hubo una juez penal municipal que saco un despacho comisorio, averiguando los
+antecedentes de Pablo Escobar gaviria en todos los despachos, ¿con que fin? con el fin de
+establecer en que juzgados existían procesos contra pablo escobar, eso inicialmente no se
+sabia, eso se descubrió mucho después, entonces ya empezaron, cuando ya supieron ellos, el
+cartel de --------- y que en tales despachos habian procesos contra el y que si iban a revivir,
+empezaron a ofrecer dinero a jueces, y los jueces no aceptaron dinero, aquí se pararon en la
+raya, y ahí fue donde empezaron a matar funcionarios de la rama judicial, mataron una juez
+de instrucción criminal que se llamaba CONOCIDO 14 de apellido ---------- después otro
+CONOCIDO 15 a una juez que que yo dije ahora, que se llamaba CONOCIDO 26 ella fue
+Magistrada, a ella la mataron siendo Magistrada, cuando era juez de circuito le quemaron el
+juzgado, porque en el juzgado de ella había un proceso contra él, entonces quemaron el
+juzgado, le pusieron una bomba por la ventana, eso pasó, esa fue la guerra, y aquí no había
+cómo proteger a los jueces, no había forma de protegerlos, ¿entonces nosotros que
+hacíamos? informar esto a la junta directiva nacional para que la junta directiva nacional se
+reuniera con el ministro de justicia de la época, a fin de que se le brindara protección a estos
+jueces amenazados, porque empezó amenazas...algunos le daban un policia, pues la
+protección fue un poca, por no decir ninguna, comenzaron a matar jueces, y por esa época
+surgió el seguro de vida para los funcionarios de la -------------- una póliza que se expidió con
+la previsora nacional, cuando se dio la muerte del magistrado CONOCIDO 17 el no fue
+matado dentro del despacho, y se presento el problema de que no iban a pagar la poliza
+porque él no fue matado en función de su labor, ¿como así? -“el no estaba en el despacho” “pero el era funcionario” el estaba revestido 24 horas del mismo cargo, el cargo puede
+correr riesgos las 24 horas del día, estuviera en la oficina o no, hubo problemas con eso,
+entonces hubo que intervenir ante el gobierno para que cambiara esa posición, y al mismo
+
+tiempo ordenara que pudieran empezar a pagar las pólizas de vida, los seguros de vida a
+estas viudas que quedaban de todos estos funcionarios que mataban, pero eso fue una pelea
+dura que aquí se dio, los jueces Alemanes...
+ENT: ¿Eso más o menos en qué época es?
+TEST: La verda no me acuerdo la fecha, pasó tal vez por el tiempo de los jueces Alemanes
+que daban de a salario al año para ayudarle a los jueces, a la justicia colombiana, a los jueces
+en colombia, paso asi, asi surgió, y tuvo sede en ------- allá era donde nosotros recurriamos,
+allá [INAD:32:49] blanquita, no se si todavia existe, una señora CONOCIDO 18 que le
+decíamos el hombre CONOCIDO 18, que la junta directiva también tuvo, me parece que fue
+CONOCIDO 19 o CONOCIDO 20 después estuvo CONOCIDO 21 , CONOCIDO 22, CONOCIDO
+22 fue presidente aquí y presidente nacional, se murio hace como 4 o 5 años aquí, ellos
+integraron, es decir, nosotros juntamos aquí, no conformado, pero colaborabamos con ---[DUDA: 33:22] a través de CONOCIDO 23, es decir, no había un comité de ORGANIZACION
+SOCIAL 7 pero colaborabamos desde ORGANIZACION SOCIAL 1 con ORGANIZACION SOCIAL
+7 [DUDA: 33:27] cuando el problema de la guerra aquí que hubo tantos muertos, donde más
+muertos se puso fue en ---------con el problema del narcotráfico, que despues se volvio
+también narcotráfico y política, ya vino la unión del narcotráfico con los paramilitares y
+siguió la guerra, lo que ahora estamos viviendo, y ahora todavía hay con las bandas
+criminales, las Bacrim [INC: Bandas Criminales] lo que llaman ahora Bandas Criminales,
+cuando surgió los extraditables, que creo que fue por allá en el año 86 - 87, que se habló,
+que ellos empezaron a tratar de comprar congresistas para que votaran en contra de esa
+ley, es que ese fue un debate público muy intenso, no ve que hubo el secuestro aquí en
+Medellín [INTERRUP]
+ENT: ¿EL suyo?
+Entonces si le parece hablemos eso, ¿eso en que año fue?
+TEST: 98 - 88, yo no lo tengo claro, ese dia yo sali del palacio de justicia a las 6 de la tarde,
+del palacio de justicia, yo salí a la -----------------a coger un bus para irme para mi casa, ahí
+cerca a la estación del ferrocarril, cuando yo iba a coger un bus ahí (yo me paraba un poco
+más abajo) paró un carro particular, se bajaron 2 tipos y me encañonaron, me subieron a un
+carro, y me dijeron -“venga que el patrón necesita hablar con usted, nosotros sabemos quién
+es usted, ya le hemos hecho seguimiento, sabemos donde vive, cuantos, cuantos hijos tiene,
+donde estudia, a qué horas sale, todo” es decir, ya me habían hecho la inteligencia, sabían
+todo de mi, entonces estaba muerto de miedo, me montaron a un carro -“meta la cabeza
+dentro de las piernas, y vámonos” cuando yo me monte ahí iba otro compañero, habían
+cogido otro compañero, que se llama CONOCIDO 24 que era el secretario de
+ORGANIZACION SOCIAL 1, el no esta aqui, el esta en españa, porque a raíz de esto el se
+exilió en España
+ENT: ¿Después del secuestro?
+TEST: Si, se fue para españa, el volvió y cierto...el salio del pais...a mi me iban a sacar del país
+también pero yo no quise irme, me matan aquí. Entonces en el carro íbamos atrás 4
+personas, 1 tipo, otro tipo aquí y CONOCIDO 25 y mi persona en el centro de la banca de
+atrás, adelante iba el conductor y otro tipo adelante, íbamos 6 en el carro, meta la cabeza
+entre las piernas y hágale, empezó a oscurecer a oscurecer, ya muy oscureciendo ya nos
+
+bajaron del carro a cambiarnos a otro carro, la camioneta, entonces nos bajamos mas o
+menos como se ubicaba
+ENT: ¿Cuánto tiempo duró usted más o menos en carro?
+TEST: Por ahí 40 minutos, yo deduje que estábamos en ------- cuando nos cambiaron de
+carro yo deduje que estábamos en ------- ya había luz eléctrica o sea que ya había
+oscurecido, y nos cambiamos de carro y para arriba otra vez, y empezamos una parte plana
+y después empezamos a subir, a subir, ya siendo más de las 7 de la noche llegamos a un sitio
+que por su ubicación es en el ----------------después de ---------o encima de --------- que
+después dedujimos que era una finca de Pablo Escobar que después se convirtió en la cárcel
+de él, la cárcel donde el estuvo detenido, no recuerdo el nombre de la finca, así con el
+nombre de la finca así se llamó la cárcel, no recuerdo el nombre, un bohío, cuando llegamos
+había un tipo allá vestido de pingüino, con corbatin esperándonos como si fuéramos
+invitados especiales, nos sentaron, -“¿que les provoca, comida, trago?” a nosotros no nos
+importaba nada, ya sabíamos que nos íbamos era a morir, al tiempo llegó un, al mucho rato,
+después de 2 horas más o menos, tipo 9 y media 10 de la noche, dijeron “el patrón no viene”
+cuando hablaban del patrón sabíamos que estaban hablando de Pablo Escobar, tipo 10 de la
+noche, más tarde, 11, vino un tipo, cachaco con una capucha, y nos dijo que él era el
+delegado por el jefe, entonces empezó a contarnos el perfil de nosotros, “usted es fulano de
+tal, vive en tal parte, su señora se llama tal, su hijo se llama tal, estudia en tal colegio” todo,
+“ya les hicimos un seguimiento” lo mismo pasó con el compañero CONOCIDO 25, “usted es el
+presidente de ORGANIZACION SOCIAL 1 Antioquia, y usted es -------------- nosotros hacemos
+parte del grupo de los extraditables y queremos, o los extraditables quieren que ustedes
+firmen una carta en contra de la extradición, como presidente y ------de ORGANIZACION
+SOCIAL 1 la organización de los jueces y empleados de ---, con esta condición, a cada uno le
+vamos a dar de a 150 millones de pesos, para cada, 50 millones de pesos, 30, y si es
+necesario sacarlos del país los sacamos del país, eso sí, ustedes no nos vuelven a tocar un
+miembro de nuestro grupo, a mi me pareció tan extraño que un abogado que conoce las
+normas, dijera que el sindicato no debía seguir investigandolo, y nosotros dijimos, yo dije,
+-“no estamos de acuerdo con la extradición, (inicialmente yo no estaba de acuerdo con la
+extradición) pero no en los términos que usted quiere” ¿por qué? porque es que el sindicato,
+tuvimos una discusión, el sindicato se dedica a defender sus reivindicaciones económicas y
+sociales de los empleados, el sindicato o la asociación de jueces (ORGANIZACION SOCIAL 1 )
+no se mete con las decisiones judiciales, eso es separado, cada juez es independiente tomar
+las decisiones que tenga que tomar, los sindicatos no se meten con las decisiones de los
+jueces, yo no le quise decir qe me extrañaççba que él, un representante de abogado dijera
+esas cosas, te digo que abogado es porque después supimos que era, ahora me acorde del
+nombre, no me acordaba, era el que manejaba el pool de abogados de Pablo Escobar aquí,
+que había sido también Representante a la Camara, se llama CONOCIDO 26 [DUDA: 42:38]
+era el abogado encapuchado, que manejaba el pool de abogados de Pablo Escobar,
+CONOCIDO 26, a ese lo mataron los PEPES [Perseguidos por Pablo Escobar] aquí en --------a él y al hijo, y entonces a mi se me ocurrió decir, porque mi compañero estaba más muerto
+del miedo que yo, mi compañero, -“firmemos“ y yo -“no, a ver” - “es que nos van a matar” me
+decía, si nos van a matar nos van a matar, firmemos o no firmemos, y le dije yo, nosotros
+
+somos un sindicato pero nosotros somos una junta seccional, la junta nacional está en ------y es la que debe firmar eso, no nosotros, nosotros le chutamos por miedo la pelota a la junta
+nacional; él tipo, el abogado se paró y se fue hacer una llamada, ellos andaban con un
+teléfono, un teléfono satelital, no eso que se usa ahora, sino un teléfono que era una caja, no
+lo usaban sino ellos, hizo unas llamadas, por allá, hizo unas llamadas y volvio, nosotros lo
+veíamos que por allá le cargaban ese carriel, es una caja que es un teléfono satelital en esa
+epoca, no habían celulares en esa época, hizo unas llamadas y volvió, pues entendió que
+nosotros no, y dijo, -“entonces vea, ustedes tienen que hablar con la junta directiva,
+nosotros les vamos a dejar una tregua a ustedes, hablen con la junta directiva nacional,
+ustedes tienen que firmar esta carta contra la extradicion, y volvemos a hablar, entonces a
+ustedes hoy no les va a pasar nada, hay una orden de que los bajen al centro de ---------y
+ustedes tengan contacto con la junta directiva nacional para que lo mas rapido posible se
+firme esa carta contra la extradición” entonces nos volvieron a montar a un carro, nos
+bajaron, y asi como nos subieron nos bajaron y nos descargaron aquí en el centro de --------tipo 1 de la mañana, y nos dieron una plata para que cogieramos taxi, 5 no me acuerdo que
+plata, no me acuerdo, era para pagar un taxi, entonces yo llegue a la casa como...y mi mujer
+me...llegue en un solo temblor y me dijo -“¿a usted que le paso? ¿está borracho o que? ¿a
+usted que le pasó?” porque yo llegué temblando y yo me atinaba a decirle que había pasado
+porque se preocupaba por eso, eso fue muy berriondo después nos tocó ponernos en
+contacto con la junta directiva nacional, y -“no, que eso no salga a la luz pública, nosotros
+vamos a ver como manejamos desde aquí esto” entonces se inicio de que ellos iban a sacar
+un comunicado, y que nos nosotros nos trasladamos a -------a ver como hacíamos con el
+Ministro del Interior, o el MInistro de Gobierno, o el Ministerio de Justicia para que nos
+sacaran del país, yo no viaje a -------porque mi mujer trabajaba y me dijo, -“no, yo no me voy
+de aquí, usted se va solo” y yo solo no me voy...para España no me voy.
+El compañero mio que tenia la esposa y un hijo pues si, el no tenia ni libreta militar, le
+sacaron libreta militar, en ese momento estaba de procurador CONOCIDO 27 y rapidito lo
+sacaron del país, yo no me fui, a mi no me volvieron a tocar porque eso la junta directiva
+tomo cartas en el asunto en esa cuestión, ellos sacaron un comunicado en que no estaban de
+acuerdo con la extradición pero que en tales términos...eso paso con nosotros y la
+extradición, nos hicieron eso.
+Otros casos que hemos vivido, pues, pero es que la muerte de mucha gente, de muchos
+magistrados y jueces que tenían procesos, ahora lo que este señor [INAD:47:06] habla es la
+hermana de CONOCIDA 28 era una juez tercera de orden publico, yo era su secretario para
+esa época, y en el juzgado había un proceso contra Pablo Escobar y algunos integrantes del
+Cartel de Medellín, que los sindicaban como autores intelectuales de la muerte, de una
+matanza que hubo en Urabá, allá había unas órdenes de detención pero no los habían
+detenido, Pablo Escobar porque todavía algún fuero, o estaba escondido, no me acuerdo si
+ya le habían levantado el fuero, y los abogados en cierta oportunidad llegaron al juzgado y a
+mi me ofrecieron 300.000 mil pesos, 300 millones de pesos perdón, para que ese auto de
+detención se revocara, porque Pablo Escobar y el -------------------------el jefe paramilitar de
+-------------- “RANGO 1" no me acuerdo el nombre de él, no los detuvieron, yo les dije que esa
+decisión no la tomaba yo sino la juez, y la Juez era la Doctora CONOCIDO 28 y ella no estaba
+
+en ese momento en el despacho, cuando llegó la juez, yo le comenté la situación a ella, a ella
+ya otra Doctora que se llama CONOCIDA 29 que era la abogada auxiliar, que pasaba esa
+situación y que esos abogados con seguridad volverán a hacerle el ofrecimiento a ella,
+entonces como yo era tan radical, y ella podía decir que no sin subirse mucho, esa gente
+manejaba mucho poder aquí, que ella podía decir “no” porque ella dijo, -“si vienen los saco a
+patadas” y yo le dije -“no, no emplee esa táctica, no emplee esa tactica, usted diga que no
+puede porque la prueba no da para otra cosa”, ellos fueron (los abogados) que nunca los
+investigaron, fueron y le ofrecieron dinero a ella, y ella les dijo que no, y les dijo que
+desocuparan la oficina, no los saco a patadas tampoco pero si les dijo, “desocupen la oficina”
+y los 3 días la mataron
+ENT: ¿Esto que año es más o menos?
+TEST: Año 88-89, CONOCIDA 29 juez tercera de orden publica de medellin, a mi no me
+gustaba montarme al carro con ella, porque ella tenía dos escoltas del DAS [INC:
+Departamentos Administrativo de Seguridad] y tenía escoltas de la policia, y ella se montaba
+en el carro con un escolta del DAS y 2 policías, uno de ellos manejaba la camioneta, y detrás
+de ellos iba un policia en una moto
+ENT: ¿Y donde la mataron?
+TEST: Llegando a su casa almorzar
+ENT: ¿En la camioneta?
+TEST: Dentro de la camioneta, esa camioneta según tenia mas de 70 tiros, varios
+motociclistas las encendieron a bala
+ENT: ¿Y de esa alguna vez se adelantó la investigación?
+TEST: Si se abrio una investigacion pero no sabemos que pasó con ella, yo declare en esa
+investigación, y dije cuales eran mis sospechas y a que le atribuía yo la muerte de
+CONOCIDA 28 yo dije eso, que yo pensaba que era por ese lado, porque 3 dias antes había
+ido a ofrecer dinero, por ese proceso, y que la guerra con el narcotráfico estaba matando
+policías, estaban ofreciendo 1 millón de pesos por policia, policias matando policías, para
+cobrar dinero, se volvio asi, si un policia decía, allá va 1 millón de pesos, los escoltas de la
+doctora CONOCIDA 29 [INAD: 51:51] ahí en el despacho, llegaba un policia por allá por el
+despacho hacer una diligencia de alguna cosa -“ve, donde va 1 millón de pesos” los mismos
+policías, hubo policías matando policías para cobrarle a Pablo Escobar la Plata, la
+corrupción era de ese tamaño, entonces uno no se podía confiar ni de los mismo escoltas
+ENT: ¿Y cuando ocurre lo de CONOCIDO 28 usted tampoco piensa...le ofrecen volver a salir
+del país?
+TEST: No, ya no, es que a mi con Pablo Escobar me pasaron varias cacharros, primero
+cuando no era tan conocido, cuando se estableció de que Pablo Escobar que era un
+automovilista aquí en -----, viajaba para el Ecuador, al Perú a competencias internacionales
+se decía que en esos carros que ellos llevaban traían droga, aquí no se cultivaba la droga, o si
+se cultiva no había laboratorios de droga, entonces la droga la traían procesada de allá, de
+Perú, de Ecuador, de Bolivia sobretodo, aqui no habian laboratorios cuando eso, entonces se
+decía que ellos entraban la droga en esos carros en los cuales compiten, y porque Pablo
+Escobar fue "jalador de carros" en medellín, yo cuando conocí a Pablo Escobar en persona
+fue que salió a la luz pública de que Pablo Escobar era un narcotraficante que tenia que
+
+tenia procesos en los despachos judiciales, entonces empezaron a averiguar en los juzgados
+donde estaban los procesos de él, y en el juzgado donde yo trabajaba, yo era el secretario,
+había un proceso contra Pablo Escobar, pero lo buscamos por toda parte y no aparecia,
+como proceso de natividad no se encontraba, resultó que estaba metido por allá en una caja
+archivado, en los libros aparecía pero físicamente no aparecía aquí, y era una denuncia por
+el robo de un Renault 4, de él y otra persona, un renault 4, el estaba sindicado del robo de
+un renault 4, el y otra persona, el otro era una un estudiante de ingeniería de la autónoma,
+entonces hubo que llamar a Pablo Escobar, a rendir indagatoria, pero nosotros no teníamos
+ni mecanismos, sabíamos que vivía en envigado pero no sabiamos como llamarlo, entonces
+para esa fecha se presentó al juzgado, la juez se llamaba CONOCIDA 30, CONOCIDA 30, era la
+juez----- penal del circuito de --------, se presentó a la oficina el Doctor CONOCIDO 31 actual
+congresista por el Centro Democrático, el es primo de ----------------- entonces el hablo con la
+y con mi persona y nos dijo -“sabemos que en este juzgado hay un proceso por el delito de
+hurto de un automotor en contra de Pablo Escobar Gaviria, digame en que fecha yo se lo
+presento para que rinda indagatoria” entonces la doctora y yo decidimos una fecha, pero
+que no se diera cuenta nadie más, ni del mismo juzgado, fijamos una fecha para la semana
+siguiente como a los 3 o 4 dias, eso fue como un jueves, como para el martes de la semana
+siguiente a las 5 de la tarde, buscando que no existiera mucha gente en el palacio de justicia,
+y el lunes en la noche me llama la juez toda asustada que esa informacion se conocia por
+fuera, que se sabia que pablo escobar se iba a presentar, -“es que yo no nunca he dicho
+nada” -“es que no sabemos sino 3 personas, usted, yo y el doctor CONOCIDO 31” no
+sabemos, resulta que como CONOCIDO 31 no podia y le dieron poder a un abogada y la
+abogada regó el cuento, que ella iba asistir a Pablo Escobar Gaviria en una diligencia, eso se
+supo por parte de la abogada, es decir, para ella era muy importante asistir a un tipo en esa
+indagatoria, entonces se regó ese cuento, pero para nosotros no fue, de todas maneras ella
+lo presento, le cambiamos fecha y ella lo presento, y yo personalmente me sente en la
+maquina y le recibi la indagatoria a Pablo Escobar Gaviria, yo estaba muerto de miedo, me
+toco indagarlo a mi, me toco interrogarlo a mi porque a ella le daba miedo, esa me cedio a
+mi, y dio explicaciones que ese carro no era robado, sino que el compraba siniestros, carros
+que habian sido accidentados y las empresas aseguradoras se lo vendian a él, esos
+sinisestros y el los mandaba a reparar y despues los vendia, pero la cuestion era que ellos
+compraban sinisestros y se robaron un carro similar a ese, y las placas del carro sinisestro
+se las ponian al carro robado, no es que ese carro lo mande a reparar, lo legalizaban de esa
+manera, y en esos carros era que entraban la droga de Ecuador, antes de que aqui se
+fabricara, así es que comenzaron a trabajar ellos, con CONOCIDO 32 empezaron a trabajar,
+pero el unico testigo de esa version ya no existian esos carros ya (esos renault 4) como para
+volver a rehacer esa investigación y el unico testigo que existia, a los 3 dias de la indagatoria
+lo atropello un carro fantasma, el otro testigo, entonces nadie...esa investigacion no
+prospero, porque el unico testigo que existia lo atropello un carro fantasma, aparecio
+muerto por acá en --------- con una sospecha, en ---------no hay barrios amarillo, sino unos
+barrios populares, lo llevaron, lo mataron por allá y lo descargaron aquí, eso es una
+deduccion que hicimos nosotros, entonces hasta ahi llego la investigacion de ese carro
+robado, y entonces yo conoci a Pablo Escobar personalmente
+
+ENT: ¿Eso alrededor de qué época fue?
+TEST: Año 87, antes del secuestro, él todavía era congresista entonces tenía fuero de
+congresista, entonces no se le podía detener, mientras no se levantara allá, pero entonces se
+cruzó una combinación para que se siguiera presentando, pero el fui el decía, yo no me
+puedo presentar en --------- pongan eso en envigado, pongan eso en envigado, yo vivo allá,
+entonces hubo que poner la presentación para que se presentará en envigado, y ordenaba,
+el no hablaba, ordenaba, con la mirada penetraba, difícil...
+Hubo otros hechos que me tocó, la muerte del Doctor CONOCIDO 33 pero esa muerte no la
+presencié yo, no fueron muertes presentadas, por esa misma época, muerte del doctor
+CONOCIDO 33.
+ENT: ¿Cuando lo mataron a él?
+TEST: Entre el 86 y el 90 no se exactamente, pues, varias muertes, yo le puedo hablar de 5 o
+6 muertes o más de magistrados o jueces, el Doctor CONOCIDO 34 , magistrado, en la época
+en que yo era presidente de ORGANIZACION SOCIAL 1 [INTERRUP]
+ENT: ¿CONOCIDO 34 ?
+TEST: Si, yo era presidente de ORGANIZACION SOCIAL 1 y el era magistrado de la sala
+penal de --------- la que yo le dije ahora, la doctora CONOCIDA 16 que le quemaron el
+juzgado...
+ENT: ¿Le quemaron el juzgado?
+TEST: Sí, cuando era juez le quemaron el juzgado porque había un proceso contra Pablo
+Escobar, ella se tuvo que esconder y la nombraron magistrada, y siendo magistrada la
+mataron, un CONOCIDO 35 que tenía un proceso contra Pablo Escobar, que a la señora de
+CONOCIDO 35 le quitaron un carro y lo tiraron por un volado, la bajaron del carro y...como
+amenaza para el juez
+ENT: ¿Y Todos estos hechos relacionados directamente con Pablo Escobar?
+TEST: Con el Narcotráfico, inicialmente fue aquí en el narcotráfico, hubo muertes
+inicialmente de la guerrilla como se hablo ahora aquí pero son cosas que no cuando yo
+estuve de presidente de ORGANIZACION SOCIAL 1 Hubo otra juez que mataron aquí que se
+llamo CONOCIDO 36 era --------------- de orden público, y a los primeros jueces que mataron
+son: CONOCIDA 37 (esto lo recordé aquí) y CONOCIDO 38 hay un hecho muy importante
+para nosotros [INTERRUP]
+ENT: ¿Esos primeros jueces asesinados fueron anterior a estos hechos, o sea, 86 - 85?
+TEST: Si, anterior a lo que estoy narrando, la doctora CONOCIDO 36 fue después, pero los 2
+primerosENT: Si, CONOCIDO 37 y CONOCIDO 38.
+TEST: Si. Hay un hecho muy importante que yo quiero resaltar, y es que cuando el problema
+del estatuto de seguridad, las personas que más nos colaboraron fue el presidente de
+derechos humanos CONOCIDO 39 , y el CONOCIDO 40 y aqui en --------- el presidente
+desaparecido de derechos humanos,CONOCIDO 41, CONOCIDO 42 , que también lo mataron,
+y hay uno que está vivo que era un penalista de la universidad, que se llama CONOCIDO 43
+ENT: ¿Y ellos qué hacían durante el Estatuto?
+TEST: Él era profesor universitario, y hacía parte del comité de derechos humanos de
+
+Antioquia, y el doctor CONOCIDO 44 el que investigó la para-política en la Corte Suprema
+de Justicia
+ENT: Y usted dice que los que más les colaboraron durante el estatuto fueron ellos, ¿como
+fue esa colaboración de ellos?
+TEST: Pues asesoraban a ORGANIZACION SOCIAL 1, CONOCIDO 39 y el CONOCIDO 40 , los
+otros en otros sentidos, derechos humanos cierto, lo que pasa es que CONOCIDO 39 y
+Umaña luna, el viejo, el mama del otro CONOCIDO 40 que mataron, y yo se que por aquí
+como que hay un hijo de CONOCIDO 40
+ENT: El que hizo la presentación, y el es el nieto de CONOCIDO 40 hijo de CONOCIDO 40
+TEST: Ah ya, yo conocí a CONOCIDO 40 yo lo conoci aqui en un seminario de derecho penal
+ENT: Si, el que hizo la presentación hoy todo el día, ------- -------es hijo
+TEST: Si, me dijeron había venido un familiar de él, yo dije, tiene que ser nieto porque
+ENT: Claro, nieto de CONOCIDO 40 hijo de CONOCIDO 46
+TEST: Fue gente muy importante para nosotros
+ENT: Bueno y hablando de eso, ¿que significó para ustedes cosas como el asesinato de
+CONOCIDO 44 el asesinato de CONOCIDO 42? ¿como los impactó a ustedes como
+ORGANIZACION SOCIAL 1?
+TEST: Si, eso fueron muertes selectivas, por su posición democrática y por la defensa de los
+derechos humanos...nosotros como ORGANIZACION SOCIAL 1 teníamos puesto el comité de
+derechos humanos, cuyo comité integraban parte de estas personas, y ellos eran los que
+nos colaboraban con nuestras declaraciones, y nuestro apoyo por hacer parte de los
+derechos humanos, ORGANIZACION SOCIAL 1 era un defensor de derechos humanos, de las
+libertades democráticas, entonces en ese aspecto hasta el punto que CONOCIDO 41 nos
+dictaba cursos de oratoria a nosotros, yo no aprendí a ser orador, otros sí, y nosotros
+sabíamos que nos iban a matar, a mi me iban a matar, pero yo no me echo para atras
+[INTERRUP]
+ENT: ¿Decia CONOCIDO 41?
+TEST: Yo me muero, yo se que me van a matar, pero que voy hacer si no voy a retroceder, y
+no puedo cambiar mi posición, nos decían, hombre CONOCIDO 41 tal cosa, y cuando fueron
+por el a la oficina, la secretaria era la hermana de él, y le dijo, nonono, no vienen por usted,
+vienen es por mi, a ustedes no las van a tocar, y así fue, fueron fue por él...Ahí al frente del
+tribunal superior de --------- a todo el frente quedaba la oficina de él, aquí en ayacucho, a
+todo el frente del tribunal superior de ---------estaba la [INAD:1:08:47] y allá fueron por él,
+eso fue por orden de CONOCIDO 47 se dice que la orden venía de más arriba pero
+asegurarlo es muy difícil, pero el hizo una acusación muy abierta contra CONOCIDO 48
+porque el fue el creador de las Convivir [INC: cooperativas de vigilancia y seguridad privada
+para la defensa agraria o Servicios Comunitarios de Vigilancia y Seguridad Privada]
+entonces se cree que fue por ese lado, las pruebas uno nos la tiene ni tiene como probar eso
+pero la opinión pública sabe que a el lo iban a matar por ahí, por ser tan claro en su
+posición política, en su posición democrática y en la defensa del hombre más desprotegido,
+el campesino, porque nos estaban matando, el decia, “estan matando a los campesinos, estas
+Convivir” y era un tipo que no necesitaba de esto, un tipo economicamente bien, pero su
+posición era asio erguida
+
+ENT: ¿Y para ustedes como ORGANIZACION SOCIAL 1que impacto tuvo esto?
+TEST: Eso fue muy grave, para nosotros fue una pérdida irrecuperable, la perdida de
+CONOCIDO 41 fue una pérdida irrecuperable...aunque también estaba otra gente,
+CONOCIDO 42, CONOCIDO 49 otro profesor de la INSTITUCION EDUCATIVA 1 que también
+mataron...[INTERRUP]
+ENT: ¿CONOCIDO 49 o CONOCIDO 50?
+TEST: CONOCIDO 49 y CONOCIDO 50 INTERRUP]
+ENT: Porque CONOCIDO 50 es que el después el que en el funeral de CONOCIDO 50 matan a
+CONOCIDO 42 TEST: Sí, sí, pero había otro que se llamaba CONOCIDO 50 otro profesor de la
+INSTITUCIÓN EDUCATIVA 1 ENT: ¿El que hacía?
+TEST: Era profesor universitario y hacía parte de los derechos humanos...
+A mi me estan dando ganas de ponerme a escribir todas estas cosas, con más detalles,
+averiguar, yo tengo que tengo por allá en una parte un archivo, ponerme a escribir algo,
+porque es que la memoria de ORGANIZACION SOCIAL 1 está perdida, ahora me puse a
+hablar con CONOCIDO 51 que es la nueva presidenta y ahí hay una foto donde estábamos
+nosotros, estábamos, estábamos a la cabeza de ORGANIZACION SOCIAL 1 con CONOCIDO 52
+con otros miembros que desaparecieron, otros miembros que tuvieron que volarse del país,
+¿usted trabaja en ------- ?
+ENT: Sí yo trabajo en -------TEST: ¿Usted es ENT ?
+ENT: Sí, ENT a el se le está haciendo una entrevista, ya le hicimos la primera sesión se va
+hacer una más larga
+TEST: El hizo parte de ORGANIZACION SOCIAL 1 se exilió, o se fue, pero el se tuvo que ir de
+aquí para España, e CONOCIDO 53 ¿ustedes saben de CONOCIDO 53 ?
+ENT: Me suena el nombre
+TEST: CONOCIDA 20
+ENT: Sí
+TEST: Qué era la presidenta en esa época, después de la muerte de CONOCIDO 52 siguió
+CONOCIDO 20 a ella también la mandaron a matar, CONOCIDO 53 era también integrante
+de la junta directiva, "Pata e palo" [RISAS] era de la junta directiva nacional, y yo sabía que
+se fue para España y que nunca más volvió, se que vino a ------- él está en -------ENT: Si, el
+está en ------- creo que viaja pero si está en -------TEST: Y si tiene algo que hacer
+ENT: No, pero yo creo que CONOCIDO 54 sí
+TEST: De pronto porque fueron momentos muy buenos cuando estábamos pero también
+muy difíciles, cuando íbamos a -------el hombre nos brindaba mucha solidaridad, nosotros
+íbamos desprotegidos, y de las anécdotas con él en ----- mis compañeros de la pata de palo, y
+se levantó contra la puerta bravo [RISAS] como dormíamos en el mismo hotel los delegados
+de afuera de -----nos llevaban a dormir a un hotel, es una anécdota, pues para molestar, para
+no hacer tan triste la vida, tan amargada.
+Había otro, pero en ----- en -----hubo muertes pero no tanto como aquí, aquí la violencia del
+narcotráfico fue muy grande, Porque Pablo Escobar se creía como dios, yo digo se muere
+fulano hoy se muere, así el decía, yo digo se muere hoy usted y se moría, a usted lo matan
+hoy, se creía dios...
+ENT: Si, Pablo Escobar se creía dios
+
+TEST: El problema era que la policia, algunos miembros de alto rango de la policia estaban
+comprados por él, eso es cierto, no todos, porque la mayoría de gente es sana, yo vi cerca a
+la ----------cuando Pablo Escobar le pegó la cachetada al Comandante de la policia, y le dijo,
+“pa que te pagamos hijueputa, pa que te pagamos” Comandante de la Policía de Antioquia,
+esos son hechos que la gente no conoce, es decir, hubo tal penetración del narcotráfico que
+esta es la hora que no hemos podido salir de eso, lo hemos superado mucho, pero ahora
+viene un cambio que ya no es el narcotráfico propiamente dicho sino que son los grupos al
+margen de la ley, llámese paramilitares, que tienen unidad con el narcotráfico llámese
+guerrilla, ahora no tanto como antes, pero ahora las disidencias, esto que llaman ahora, esos
+grupos que manejan la minería ilegal y manejan el narcotráfico, grupos al margen de la ley
+que surgieron de toda esta problemática, y siguen matando gente, las cosas se paran y
+ayudo, pero no acabo con la violencia en Colombia
+ENT: Si, eso eso es cierto desafortunadamente
+TEST: No, yo no tengo más que decir, pues así que en detalle, yo por la cuestión del
+secuestro, eso todo quedó grabado
+ENT: Si, todo quedó grabado.
+Bueno TEST muchas gracias de todas maneras
+TEST: Si, y como le digo, fechas yo no, por eso te digo, entre el 89 y el 90, claro que fue un
+poco más del 90 tambien, pero ustedes confrontan eso con las fechas
+ENT: Sí, sí, sí claro, nosotros esto lo utilizamos y podemos confrontar y mirar
+TEST: Yo se que ORGANIZACION SOCIAL 7, ORGANIZACION SOCIAL 1 manejo una lista,
+ORGNIZACION SOCIAL 1 Antioquia, de los muertos de Antioquia, un listado, de los muertos
+de Antioquia, y ese listado, aquí se manejo una lista, y creo que ORGANIZACION SOCIAL 7
+maneja una lista de todas las muertes violentas en la rama Judicial.
+Aquí hubo una niña que estuvo aqui que es la esposa de un muchacho que mataron tambien
+llegando de una comisión de la -------------- el se llamaba CONOCIDO 55 fue compañero mio
+de trabajo, CONOCIDO 55 el salio a una comisión con el juez de orden publico, el trabajaba
+en el juzgado segundo de orden público, y salio de ---------a un pueblo en una comisión, en
+una investigación y regresaron el mismo dia, o a los 2 o 3 días, regreso a ---------por la noche
+y llegando a la casa lo mataron, a la viuda le pagaron un seguro de vida porque nosotros
+intercedemos pero la pension de jubilacion a ella nunca se la reconocieron, a ella y a otra
+señora que es de apellido,CONOCIDA 56 creo que se llama ella, que tampoco, que nosotros
+ayudamos para que la previsora le reconociera el seguro de vida a estas dos señoras, pero
+fueron a pedir la pensión y nunca se la reconocieron, llevan más de 20 años peleando eso. A
+esta niña Neidi fue porque el abogado que presentó la demanda la imputo mal y el juzgado
+falló en contra, el no podía pedir pensión por semana cotizadas porque el no tenia semanas
+cotizadas, el tenia que solicitarlas era porque el estaba protegido por un seguro de vida y
+que estaba trabajando en la --------------y por lo tanto la pensión de sustitución le
+correspondía a la viuda porque fue una muerte violenta en servicio, pero el abogado lo
+enrutó por otro lado entonces perdió la demanda, ya aquí, a funcionarios como que quieren
+enrutar eso, porque la previsora, nosotros fuimos a la previsora buscando esa prueba, de
+que pagaron ese seguro de vida, pero eso hace tanto tiempo que la previsora no tiene esos
+recibos, fuimos a los bancos a averiguar dónde se había ejecutado ese cheque, eso no
+
+aparece tampoco, entonces la prueba se perdió, entonces no tiene como probar, es decir,
+lleva tantos años peleando y no se han podido, ya se envejecieron estas damas y no han
+podido cobrar el seguro de vida, porque estos muchachos se murieron jóvenes, CONOCIDO
+55 tendría 25 años o menos no se, cuando se murió y la esposa estaba tan joven como el o
+mas joven, ya ahora son cincuentonas, no han podido conseguir eso, para nosotros ha sido
+muy frustrante porque yo inicialmente les ayude, porque ellos no tenian amenazas,
+aparentemente no tenían amenazas, pero entonces hubo que buscar esa forma de meternos
+por las amenazas, pero es que la guerra estaba aquí declarada contra la Rama Judicial, como
+un policia, un policia no tenia amenazas, pero había orden de pagar por la muerte de un
+policia, entonces no siempre se daban las amenazas, pero contra ellos se decían que si
+habían amenazas pero no pudimos probarlo, a mi me dijeron, “¿ellos fueron amenazados?” a
+CONOCIDO 55 que fue amenazado, entre otras cosas que era parte, miembro de
+ORGANIZACION SOCIAL 1 no era miembro de Junta Directiva pero era un colaborador de la
+junta, entonces nosotros dijimos eso, yo personalmente declare eso, y a raíz de eso fue que
+le reconocieron el seguro de vida, a ella le pagaron con una casa para vivir, pero lo de la
+pension no se ha podido, ahi estamos intentanto, yo redacte una comunicacion y la mande a
+-------a nombre a nombre de ellas, pero alla dijeron, no, entonces mas bien que lo haga
+ORGANIZACION SOCIAL 7, entonces con los mismo hechos ahi Fasol como que hizo la
+reclamación ante la previsora, pero como que no dio resultados tampoco
+ENT: Bueno Don CONOCIDO 55.
+TEST: Bueno ORGANIZACION SOCIAL 7 [INC: -------------------] tiene mi correo electronico,
+yo no tengo esa documentación, yo quisiera leer eso del, todo lo que se mostró en el
+videobeam...
+Es que yo no estoy buscando reparacion, yo estoy buscando que la verdad se conozca
+ENT: Si claro, ese es el trabajo de la ORGANIZACION PUBLICA 2
+TEST: Y además yo no denuncie, nosotros no denunciamos, no hubo denuncias, yo no estoy
+buscando reparación, pues, que se conozca la verdad, reparación pues digamos económica
+ENT: ¿Por que no denunció en su momento?
+TEST: Estratégicamente no daba para eso, la situación que vivía ---------era aciaga, muy
+dificl, es que el narcotráfico tenía donde vivía, donde comía, donde me tomaba una cerveza,
+en que bus me montaba, todo, no me mataron por debuenas, y hubo un hecho personal que
+yo no conté, 2, 2 hechos personales que yo no conté, pero que no se dieron por el problema
+de la organización sindical sino personal; resulta que donde vivían mis suegros, en seguida,
+en el ------------------------------había un directorio de renovación liberal, que lo manejaba
+CONOCIDO 11 y Pablo Escobar, mi esposa y yo trabajabamos, entonces vivíamos cerca de
+los suegros y dejábamos la hija todos los dias ahi en la casa de los suegros, en seguida del
+directorio de esta gente, resulta que ellos sin consultarnos a ninguno ellos me averiguaron,
+los vecinos, los hijos de los vecinos, los hijos de los vecinos entonces anotaron los hijos de
+los vecinos para regalale un regalo en diciembre, mi hija tenía 2 años, ya tiene casi 40, y
+resulto que en diciembre aparecieron con una motocicleta, la sacaron, esta la moto, 2 años y
+una motocicleta para la hija mía, regalaron motocicletas en el barrio, regalo para los
+vecinos, a las viejas las montaban en buses y las llevaban para el -----------en ------- las viejas
+del barrio, eso era a ojos cerrados para ellas cuando estaban en campaña, ponían en la
+
+esquina, la casa de mi suegra quedaba en una esquina, enseguida quedaba el Directorio, y
+ahi ponian 2 planchones de tractomula y montaban un equipo y traina a ------- ahí estaba la
+compañera de Pablo Escobar, esa que ha declarado en contra de el, ¿sabe quien animaba
+eso? Aguita para mi gente, el de programa de aguita para mi gente, es el que animaba esas
+fiestas, el estuvo con Pablo, porque en ese momento estaba en la legalidad, el todavía no era
+perseguido, estaba en la legalidad y ellos hacían parte de ese Directorio, este...bueno, el
+locutor que es muy famosos y entre otras cosas que ha ayudado mucho a la gente, yo vi a
+CONOCIDO 57 y en las boca calles ponían carros de cervezas, carros, carros, carros de la
+fábrica de licores repartiendo trago para todo el mundo, gratis, a mi me toco ver a
+CONOCIDO 57 ahi, me toco ver otro cantante muy famoso, no recuerdo el nombre que lo
+trajeron aquí también, y montaban dos planchones y ahí montaban el escenario, el cantaba,
+gratis.
+Y otro hecho fue que cuando la investigación por la cuestion del carro, en la
+sindicación contra Pablo Escobar por el hurto de ese vehículo renault 4, pues no hubo
+pruebas en contra de él, entonces se dictó una medida que se llamaba "sobreseimiento
+temporal" eso era como, no era una solución definitiva del proceso pero era como ponerle
+punto final temporalmente al proceso mientras aparecía pruebas o mientras prescribía la
+acción penal, entonces se dicto un sobreseimiento [DUDA: 1:26:38] sobreseimiento
+temporal, en ese entonces en el código había esa figura jurídica, suspender la
+investigación porque no había pruebas y no había forma de recolectarla, entonces se
+dictó esa medida en favor de Pablo Escobar y se recibió una fianza de 5 millones de pesos, 5
+millones era mucha plata, entonces que problema para que el hombre viniera a depositar la
+caución, el no venía, entonces se le dio una orden para que depositara, entonces alguien la
+depositó, entonces el tenia que venir a firmar una diligencia de compromiso y no venia, el
+-------- de ese año, 87 - 86, ya para salir a vacaciones colectivas los juzgados de circuito
+apareció como a las 4 de la tarde, ya la juez se había ido, a firmar la diligencia y que le
+pusieran las [INAD: 1:27:43] en ---------a tal dirección en ---------ante el juez, yo le hice la
+diligencia, trajo el título del depósito de la caución y en seguida me puso encima de la mesa
+un cheque “ve te regalo de navidad” era un cheque en blanco, cheque en blanco para que yo
+pusiera las cifras y firmado por la esposa de el, digo la esposa porque era el nombre de la
+mujer, cheque en blanco firmado por la esposa de él, la mujer, y me lo dejo, yo no atine a
+decirle que no ni nada, uno lo veía y le daba miedo, él salió y se fue y yo llame a la juez y que
+paso esto, paso esto, y me dijo “entonces coja ese cheque y abrirle un hueco, rompalo un
+hueco a la mitad” como que coge una letra y guárdelo a ver que hacemos con eso cuando
+entremos de vacaciones colectivas, eso hice yo, le abrí unos huecos al cheque en blanco,
+sobretodo donde estaba la firma y lo guarde, lo puse en un clavo alla en el juzgado, unos
+compañeros de oficina se dieron cuenta de ese, porque yo les dije, vea esto, es fue ahi, el tipo
+salio y se fue, y eso ocurrio en el mismo ---------------, de la moto para la hija mia, eso fue un
+----------------porque ese dia me acuerdo porque ese dia saliamos a vacaciones colectivas,
+aparecio a firmar cuando ya nos ibamos a ir a vacaciones colectivas y ya la juez se habia ido,
+entonces para nosotros son dos hechos que no es narrado porque no tienen nada que ver
+con las cuestiones sindicales, con el sindicato, sino una cuestion laboral ya que me toco
+vivirla a mi...
+
+ENT: Pero igual tiene que ver con las presiones que trataba de ejercer el a la justicia
+TEST: Sí. Vean ahora a CONOCIDO 31 primo de él, lo presentó el, inicialmente, CONOCIDO
+31 lo presento, yo lo presento, no lo presento él sino que lo presento otra juez, esa persona
+que lo asistió en la indagatoria fue la persona que había sido juez y habia mandado a los
+despachos comisorios averiguando donde tenía antecedentes, ya a ella la sacaron de la
+Rama y se dedicó a trabajar para él, a ella la sacaron de la ------y se dedico fue a trabajar
+para él, ella lo asistió en la indagatoria...
+ENT: Y ya sabia donde averiguar además
+TEST: Si, y ella fue la que lo asistió a la indagatoria, el que primero dijo que lo iba a
+presentar fue CONOCIDO 31 pero a la hora de la diligencia llegó fue la exjuez como abogada
+a asistirlo en la diligencia, para que vea como es el enredo...son hecho que lo marcan a uno,
+yo conozco otros hechos que me di cuenta, pero esto es mas que todo porque me toco
+vivirlos a mi personalmente...
+ENT: Listo TEST Muchas Gracias.
+
+

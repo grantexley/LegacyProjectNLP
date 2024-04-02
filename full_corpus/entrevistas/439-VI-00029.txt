@@ -1,0 +1,783 @@
+439-VI-00029
+Transcriptor: 689
+ENT: Mi nombre es ENT soy documentadora de la Comisión de la Verdad. Hoy es viernes
+----------------y estamos por la --------- y me acompaña, diga su nombre por favor.
+TEST: TEST
+ENT: Y...
+ACOMP 1: [DUD: 00:23] ACOMP 1-----------------ENT: ¿Y tú?.
+ACOMP 2: ACOMP 2.
+ENT: ACOMP 2 listo. Eh, bueno. ¿Dónde nació don TEST?.
+TEST: Yo soy nacido aquí en la --------ENT: ¿Qué día nació?.
+TEST: --------------------ACOMP 1: 20.
+TEST: ----------------- 1961.
+ENT: ¿Y doña ACOMP 1?.
+ACOMP 1: Yo soy de ----------------- --------TEST: ¿Y qué día nació?.
+ACOMP 1: El 6 de diciembre de 1968.
+ENT: Y, ¿tú cuántos años tienes?.
+ACOMP 2: 5.
+ENT: Y, ¿siempre haz vivido acá en la ---------.
+ACOMP 2: [risas]
+ENT: [risas]. Entonces, ¿cómo se conocieron ustedes?.
+ACOMP 1: Allá en ----------------- ¿no?.
+TEST: Bueno, perdón es qué...
+ENT: Sí, claro. Mire, les voy a contar un poquito antes.
+[CORTE: 01:25]
+TEST: ENT, entonces ya que está aquí usted, bueno yo soy naturalmente de aquí del
+corregimiento de la Chorrera, está es mi tierra central de nacimiento, entonces mi esposa es
+del -------- Entonces me acuerdo que de aquí yo me fui en el año 1.980 hacía el -------ENT: ¿Cuántos años tenía usted en ese entonces?.
+TEST: Yo tenía 19 años.
+ENT: Y, ¿usted pertenece a alguna comunidad indígena?
+TEST: Pues en esa época, pues, naturalmente soy perteneciente del LENGUA INDIGENA1
+siempre, yo soy muy LENGUA INDIGENA1 del origen.
+ENT: Y, ¿habla la lengua?.
+TEST: Hablo la lengua Munui y vivo lo que es como indígena, ¿no?. Entonces fui... estuve...
+llegué allá y me encontré con los amigos del mismo de acá del territorio, entonces cuando
+estaba la empresa de Corporación, ----------- del -------- de la investigación -----------------ENT: Y, ¿qué hacían allá?.
+TEST: Eso es un centro experimental que tenía Holanda en Colombia para la investigación
+de la --------- de la Universidad Javeriana. Entonces yo me incorporé a trabajar en eso, y
+
+estuve trabajando unos contratos. Entonces donde yo, pues, conseguí mi esposa y donde
+formé mi hogar, y tuve familia. Entonces eso fue, mi mujer más o menos en año 2.001...
+[INTERRUP]
+ENT: Espere, espere, espere, ¿cómo se conocieron?.
+ACOMP 1: Nosotros nos casamos en 1.984.
+ENT: Y, ¿cómo se enamoraron?. [risas]
+TEST: [risas]
+ENT: ¿Tenían amigos, familiares o conocidos?.
+ACOMP 1: Yo como tengo mi familia allá, pues la mayoría pues ellos viven en el ----------pero pertenecían a ----------------- como el resguardo es de ----------------- --------ENT: Ah, usted también es indígena.
+ACOMP 1: Sí. [audio: ajam]
+ENT: Y, ¿de qué pueblo?.
+ACOMP 1: LENGUA INDIGENA1 pero LENGUA INDIGENA2.
+ENT: ¿Es diferente?.
+ACOMP 1: Sí. [audio: aja]
+ENT: ¿Por qué es diferente?.
+ACOMP 1: Nosotros somos diferente que ellos.
+TEST: O sea, somos LENGUA INDIGENA1 pero ya es por la lengua, que ellos hablan es por
+LENGUA INDIGENA2, pero entendemos, normalmente.
+ENT: Y, ustedes hablan en lengua a veces.
+TEST: Sí, normalmente. Ella habla mi dialecto y yo también los de ellos.
+ENT: Y, ¿usted se casó a qué edad?.
+ACOMP 1: A los 15 años.
+ENT: Uy chiquitica, y ¿usted tenía...?
+TEST: 24 años.
+ENT: Y, ¿cómo fue eso?, usted fue a la casa de ella, pidió la mano, ¿cómo fue?.
+TEST: Pues, de confianza y de amistad que nos encontramos con amigos y amigos y
+entonces pues nos relacionamos muy amistosamente, y entonces a través de los tiempos,
+pues, formamos el hogar. Entonces nos comprometimos a matrimoniarnos y entonces así
+somos casados.
+ENT: Y, ¿usted creció allá en ese municipio?.
+ACOMP 1: En ----------------- --------- porque ese resguardo es... al lado de -----------no había
+nada, porque todos los registros es allá en ----------------ENT: Y, ¿usted estudió?.
+ACOMP 1: Yo estudié hasta primaria.
+ENT: Hasta la primaria.
+ACOMP 1: Hasta cuarto.
+ENT: ¿En un Internado?.
+ACOMP 1: En un Internado.
+ENT: ¿En qué internado?.
+ACOMP 1: En San Francisco... ¿cómo es que se llama?.
+TEST: María Auxiliadora.
+
+ACOMP 1: No. INSTITUTO EDUCATIVO1.
+ENT: INSTITUTO EDUCATIVO1 . Y, ¿qué tal es ese Internado?.
+ACOMP 1: Pues era bueno.
+ENT: ¿Sí?.
+ACOMP 1: Sí.
+ENT: Y, ¿la dejaban hablar en lengua?.
+ACOMP 1: ¿Cómo?.
+ENT: ¿Podía hablar su idioma?.
+ACOMP 1: Claro
+ENT: ¿Sí?.
+ACOMP 1: En la época de nosotros sí nos dejaban hablar, pero anteriormente dicen que no
+les dejaban hablar en lengua porque ellos no sabían nada, tenían que aprender era el
+español.
+ENT: Ah, pero a usted sí la dejaban.
+ACOMP 1: La verdad es que nosotros ya sabíamos hablar el español, pues, al igual no
+nos prohibían hablar el idioma.
+ENT: Y, ¿usted también estuvo en el Internado?.
+TEST: Sí, aquí estudié.
+ENT: Y, ¿qué tal es el Internado?.
+TEST: Pues, la educación, la religión que llegó al medio nuestro, entonces pues hasta ahorita
+todo es bien, todo es bien, porque de ahí aprendimos a hablar medio español y como
+siempre mantenemos nuestro dialecto propio, hasta ahorita.
+ENT: Y, ¿dejaban hablar su lengua, su idioma?.
+TEST: Sí, sí.
+ENT: ¿No le ponían problema?.
+TEST: No, no, no absolutamente.
+ENT: Y, ¿no les pegaban?.
+TEST: Pues en esa época pues eran como rígidos, ¿no?. Sí era rígido la verdad, pero en parte
+no son maltrato, sino que, pues, la verdad eso es una educación como rígidamente también
+las bases tradicionales era rígido, ¿para qué?, para que en un futuro para que seamos bien
+formados. Entonces mire toda esa debilidad, esa forma de educar se debilitó por ciertos
+decretos que hoy en día, las constituciones, también, pues no digo que es malo, ¿no?, pero
+pues así no, entre esos, pues como que las cosas uno ya no va a hacer fuerte, porque es como
+decir... para mí son cosas que, que debilitan. Entonces por eso es que era rígido, y ahí es
+donde a veces lo enfrentábamos como problema, pero al dar cuenta que eso no era
+problema, entonces por la neciedad, por decir, o por falta de más ética
+nos confundíamos esa educación y tuvimos problemas. Pero al darnos cuenta, pues, no era,
+esa era una formación verdad, es bueno. Y mire que hoy en día totalmente nuestra forma de
+educación... Hoy estamos... nos presenta ciertas dificultades, en las educación, en la honra,
+en respeto, estamos muy bajo.
+ENT: Claro. Y, ¿tú Internado cómo era?.
+ACOMP 1: Mi Internado, tenía 5 aulas... [PAUSA: 08:20 - 08:34]
+ENT: Ahora sí, ¿cómo era el Internado entonces?.
+
+ACOMP 1: El Internado tenía las 5 aulas... [PAUSA: 08:40 - 08: 54]
+ENT: Entonces, ¿el Internado que tal era?.
+ACOMP 1: Era bueno, pues tenía las 5 aulas, las hermanas, las que nos dirigían, las
+profesoras, profesores, padres.
+ENT: Y, ¿les pegaban?.
+ACOMP 1: Nos pegaban pero cuando les cometían faltas que eran malas, pero demás sí no.
+TEST: Como un correctivo.
+ENT: Ah, correcciones. Y, ¿ahí estuvo hasta qué edad?.
+ACOMP 1: ¿Ah?
+ENT: ¿Hasta qué edad estuvo en ese Internado?.
+ACOMP 1: Yo estuve hasta los 14 años.
+ENT: Ah, o sea se retiro por, por... [risas]
+TEST: [risas]
+ENT: Ah, vea pues. Y, ¿se casaron?.
+ACOMP 1: Nos casamos en el año 1.984.
+ENT: Pero antes de eso, tengo una pregunta. Cuando usted era niña, ¿con quién vivía?
+ACOMP 1: Con mis padres.
+ENT: ¿Papá y mamá?.
+ACOMP 1: Sí.
+ENT: Y, ¿ellos también eran LENGUA INDIGENA1?.
+ACOMP 1: Mi mamá era INDIGENA3 y papa INDIGENA1.
+ENT: Y ellos mambeaban... su papá.
+ACOMP 1: Sí, mi papá.
+ENT: Y iban a la chagra, tenían...
+ACOMP 1: Todos eso teníamos, chagra, todo eso, oficio lo hacíamos.
+ENT: Maloca.
+ACOMP 1: Maloca de mi abuelo.
+ENT: Ah.
+ACOMP 1: Sí. [audio: aja], no ve que yo hacía bailes, yo iba a convidar a la gente al baile.
+ENT: ¿Son bailes distintos?.
+ACOMP 1: ¿Ah?.
+ENT: ¿Los bailes que hacen los LENGUA INDIGENA1s eran distintos?, o sea...
+TEST: O sea, la religiosidad de ellos no era distinto a pesar de que eran INDIGENA3 y a pesar
+de que son LENGUA INDIGENA1, de una misma religión, muy tradicional. Es lo mismo que
+aquí tener este mismo católico que tener católico allá, en la iglesia, Sí, entonces era muy
+partidario, compartido, la religión tradicional.
+ENT: Ah, ¿sí?, ¿los bailes se parecían?.
+TEST: Sí.
+ENT: Ah, listo. Entonces se casaron y ¿a dónde se fueron a vivir?.
+ACOMP 1: Pues, como él trabajaba, era empleado de la corporación, pues nosotros en unos
+tiempos nos dejaron una casa abajo, por -----------más abajo, que era la --------- donde había
+una casa allá. Desde ahí el trabajaba.
+ENT: Seguía trabajando con la...
+
+TEST: Con la Corporación.
+ENT: Y tuvieron hijos.
+TEST: Sí, tuvimos el primer hijo que se llamó TEST-------------- Ese es primogénito de
+nuestro matrimonio.
+ENT: Y, ¿usted cuántos años tenía cuando lo tuvo a él?.
+ACOMP 1: Yo tenía 16 años.
+ENT: Y, ¿dónde lo tuvo?, ¿allá en la casa?.
+ACOMP 1: En el hospital.
+ENT: Ah, era en hospital.
+ACOMP 1: Sí, [audio: aja]
+ENT: Y, ¿qué tal fue el parto?.
+ACOMP 1: Pues, siempre se dificultó, pero así lo tuve.
+ENT: ¿Cuántos hijos tuvieron?.
+ACOMP 1: 9. Hay, o sea, quedaron 6 vivos y 3 muertos.
+ENT: Ah, 3 fallecieron. Y, ¿cómo murieron ellos?.
+ACOMP 1: La primera niña se murió de una enfermedad que tenía vómito y soltura.
+ENT: ¿Chiquita?.
+ACOMP 1: Sí, de 3 meses. Y la otra de un año que se ahogó en el río, en el -------- Y él segundo
+se murió aquí en --------- en 2.004, también de una infección que le dio en la boca y fiebre
+que tenía.
+ENT: Y, ¿muy pequeño también?.
+ACOMP 1: Tenía 26 días.
+ENT: Ah, super chiquito. Listo, listo, listo. Y ustedes, ¿ahorita a qué se dedican?.
+TEST: Pues ahorita pues nos dedicamos, cómo decir, a trabajar nuestra costumbre para
+sostenernos dentro de nuestro, nuestra forma de... de nuestra vida: chagra. Pues porque
+aquí no hay más.
+Entonces pero de verdad de esos casos donde fuimos ya por la situación de la guerrilla...
+[INTERRUP]
+ENT: Ah, y ustedes vivían... perdón me devuelvo un poquito, ¿ustedes vivían vivían allá en
+-----------------.
+ACOMP 1: Nosotros vivíamos en el ----------- pero los documentos de los muchachos estaban
+allá en ----------------- porque en el -----------no había corregimiento.
+ENT: Entonces vivían allá en el ----------- y ¿qué pasó?, ¿por qué se fueron de allá?.
+ACOMP 1: Pues ya, como ya entraron a la guerrilla.
+ENT: ¿Sus hijos?, ¿el mayor?.
+ACOMP 1: Sí, a este. [parece que muestra unos documentos]. Entonces, pues... [INTERRUP]
+ENT: ¿Qué le pasó a él?.
+ACOMP 1: A él, pues él estaba estudiando, el muchacho estaba estudiando en el Internado,
+pues ya ahí, ni el Padre, ni las hermanas, ni los profesores, ni... no podían decir nada porque
+pues, recibían órdenes… a los muchachos ya los estaba reclutando la guerrilla.
+ENT: Ah, no estaban. ¿En qué año fue eso?.
+ACOMP 1: Eso fue en el 2.001.
+TEST: 2.001.
+
+ENT: Empezaron a reclutar. Y, ¿cuántos años tenía?.
+ACOMP 1: Haga cuenta, del 85 al 2.001.
+ENT: 85, tendría 16, 17.
+TEST: 16 años.
+ENT: Y, ¿él estaba en el Internado haciendo qué curso?.
+ACOMP 1: Estaba en... qué será, porque estudiaba con la CONOCIDA1 él estaba en bachiller.
+TEST: Él estaba haciendo sexto año.
+ACOMP 1: Sexto no, séptimo.
+TEST: Séptimo.
+ENT: Entonces llegó la guerrilla. Y, ¿el Internado quedaba muy lejos de la casa?.
+ACOMP 1: Siempre quedaba lejos.
+ENT: ¿Por dónde quedaba?.
+TEST: Aproximadamente como 2 kilómetros.
+ENT: ¿Caminando o...?
+TEST: Sí, de la casa hacia el colegio.
+ENT: Ah, o sea, que él iba a la casa a dormir.
+TEST: Sí. [audio: aja]
+ENT: Ah, ya entendí, o sea, estaba interno.
+ACOMP 1: No, él no estaba interno, con nosotros, de la casa él estudiaba.
+ENT: Y, ¿qué pasó?, llego la guerrilla... ¿Quiénes, las FARC?.
+ACOMP 1: Sí, las FARC. Entonces, pues ya llegó tarde, pues, no llegó, no llegó y como él no
+estaba, él se fue a trabajar...
+TEST: En la ausencia mía, ocurrió ya el problema de las FARC, el Frente FARC, del Bloque
+Sur, de la guerrilla. Entonces que ya llegó por el despeje del gobierno, entonces, pues,
+trasladaron al -----------a tomar el poder y hacer, como decir, a dictar el régimen de ellos.
+Entonces bueno, ya empezó a dar, como dice, ¿cómo decir?, a... digamos que empezó a
+discriminar los derechos indígenas, los derechos de la ley constitucional, entonces pues
+donde ya dictaron orden de, como decir, mando de ellos. Entonces pues donde empezó a
+hacer trabajar a los civiles, a los estudiantes, quién cumple y el que no cumpla pues tiene
+que ser castigado.
+ENT: Ah, y, ¿en qué año llegaron ellos allá al -----------.
+TEST: Esos llegaron en 2.000, en el año 2.000. Pues mire que eso fue el despeje de Pastrana,
+no sé que...
+ACOMP 1: No, eso fue en el 98.
+ENT: Fue en 1.998.
+TEST: Sí.
+ENT: Entonces ya estaban ahí. Y, ¿qué Frente era?, ¿se acuerda?.
+TEST: Era Frente 14.
+ACOMP 1: Del Bloque Sur.
+TEST: Frente 14.
+ACOMP 1: Frente 14 de Teófilo.
+ENT: Y se instalaron allá en el ----------TEST: ----------------.
+
+ACOMP 1: Todo eso se lleno de...
+ENT: Eran muchos.
+ACOMP 1: Hartos, mujeres y hombre.
+ENT: Y estaban uniformados.
+ACOMP 1: Uniformados todos.
+TEST: O sea, después del despeje del gobierno al ejército, fue que remplazaron las Bases
+militares eso, la organización guerrillera.
+ENT: No había ejército.
+TEST: Pues no había ejército, no había nada. Población quedó abandonado, digamos, donde
+ellos tomaron el poder.
+ENT: Y, policía.
+TEST: Y policía. Entonces la población civil quedó a poder de ellos. Entonces pues uno qué,
+¿a dónde quedaba?.
+ENT: Ellos mandaban.
+TEST: Sí, ellos. Al mando de ellos. Entonces así se empezó el problema donde pues, la
+verdad, yo fui... me tocó que defender mis derechos a nunca cumplir los mandos de ellos, de
+los alto mando del comando que ellos, que querían, como decir, mandar como ellos quieran.
+Y no me obligué hacer obligado, sino no cumplir yo, la verdad.
+Entonces donde más ellos me presionaron a la mala, y entonces donde pues, en 3 ocasiones
+en mi casa, me acuerdo, como decir, a sacar a la mala, con armas y todo. Entonces donde yo
+puse la frente de que yo nunca iba a obedecer y nunca le fui a hacer caso, porque yo soy un
+colombiano y tengo mis derechos, y tengo que cumplir mi ley como ciudadano colombiano.
+Entonces donde más que todo, ellos, los comandantes ya se quedaron inconforme y donde
+me, como dicen, me vieron con odio.
+ENT: Y, ¿por qué?, ¿por qué lo fueron a amenazar?.
+TEST: Porque yo no quise trabajar lo que ellos mandaban, o sea...
+ENT: Ah, y ¿eso pasó antes o después de lo que ocurrió a su hijo?.
+ACOMP 1: Antes, antes.
+TEST: Ese es el comienzo.
+ENT: Y, ¿por qué los obligaban a ir a trabajar?, ¿en qué?.
+ACOMP 1: Hacer a la ley de ellos. ------ reuniones, el que no iba pues lo castigaban.
+ENT: Y, ¿ustedes iban?.
+ACOMP 1: Nosotros no íbamos. Éramos 7 familias que no cumplimos lo que ellos decían.
+ENT: Entonces ellos fueron a la casa.
+ACOMP 1: Discutió con él.
+TEST: Entonces llegó el comandante, como decir, a la casa, a cogerme a la mala y llevar, no…
+con el fin, para hablar más sencillo, me fueron es a matar, porque ya en 3 ocasión que no
+quise, entonces pues, a la mala me fueron, pero yo no, no, no. Como le dije a ellos: "Nunca
+me voy a arrodillar ante ustedes".
+ENT: Y, ¿usted estaba presente cuando ocurrió eso?.
+TEST: Sí, mi señora estaba, este hijo estaba, por eso yo últimamente le digo: “Si es de matar,
+máteme. Pero ahí está mi señora, ahí están mis hijos, yo como papá me voy a morir ante
+Dios, ante ustedes, si es de matar, matémonos”.
+
+Y entonces mire, con todas esas cosas de verdad, entonces donde varios comandantes nos
+cogieron odio, y donde ya empezaron a llevar a mi hijo. Pero yo nunca me aflojé de ellos,
+sino que los resistimos, entonces en lo cual, o sea, por esa situación no nos quisieron ver en
+ese corregimiento más la presencia de nosotros. Entonces nos dijeron, mientras que yo
+estuve trabajando, en el campo, entonces la señora en el hogar con su familia, entonces
+cuando ya nos dijeron que: "Teníamos desaparecer por 72 horas de plazo.."
+ACOMP 1: 3 días.
+ENT: Ah, 3 días. Pero, ¿qué fue lo que le pasó a TEST?.
+ACOMP 1: ¿Al muchacho?.
+ENT: Sí.
+ACOMP 1: Ese si ya fue ya a estudiar y ya no volvió, ya lo cogieron por allá. Entonces el
+rector que estaba, CONOCIDO2 mandó razón con una señora diciendo que: "Dígale a la
+mamá que este muchacho no llevó la FARC". Entonces me tocó que ir, [INAD: 22:222 22:26] con ese dolor que estaba enferma, me paré, me fui. Entonces él me dijo que: "El
+muchacho ya está en manos de, él no nos hizo caso a nosotros, no quiere entregar", nos dijo
+así, "entonces pues tienen que ir a reclamar para que se lo entregue", entonces yo le dije:
+"Pues el papá no está, ¿yo cómo voy a ir donde ellos?, ellos no son como el ejército, esos son
+personas que son asesinos", y entonces él dijo: "Pues, ¿qué razón le va a dejar?", "Dígale que
+me haga el favor de que me devuelva a mi hijo porque él está estudiando, yo no necesito que
+él vaya con ellos". Entonces a los 2 días lo mandaron pa la casa. Pero lo tenían castigando
+allá, cargando tambores.
+ENT: ¿De qué?.
+ACOMP 1: De gasolina, de esos grandes, fue que lo castigaron.
+ENT: Lo tenían castigado por lo que ustedes no se iban a las reuniones.
+ACOMP 1: Claro, y entonces… después sacó el papá no estaba, yo mire y no, no vino pues,
+entonces pues él también se peliaron, se agarraron con la guerrilla ya. Entonces le quito a
+uno de ellos el fusil y le iba a disparar ellos, entonces lo cogieron, y de ahí no querían
+soltarlo tampoco, entonces le tocó que ir allá donde estaba.
+TEST: ¿Quiénes fueron?.
+ACOMP 1: ¿Ah?.
+ENT: ¿Quién fue hasta allá?.
+ACOMP 1: Pues a mí me tocó que ir porque el papá no estaba.
+ENT: Ah, usted se fue hasta allá.
+ACOMP 1: Sí.
+ENT: Y, ¿qué le dijeron?.
+ACOMP 1: Me dijo que: “Se llevara al muchacho, pero que 3 días le daban de plazo para que
+se, se saliera del -----------. Entonces yo les dije a ellos que: "El papá no está, ¿qué vamos a
+hacer?". Entonces yo le dije: "Pues si su papá no lleva pues él se quedará, pero yo me voy
+con los niños, o sea, con ellos". Entonces son 3 días de plazo, son 3 días, porque le dijeron
+que: "Si él no se va, pues le vamos a matar". Entonces yo les dije: "Pues vamos, su papá no.
+Pues vamos a pedir cualquier cosa por ahí prestado, la gasolina pero nos vamos, no me
+importa la casa, se perdió, se perdió". Pero en esa tarde pues él llegó. Como si fuera
+mandado por el ángel de la guardia, pero llegó. Entonces yo le dije a él: "Bueno, hay esto.
+
+Estamos desplazados ya por esto. 3 días no más tenemos pa salir de aquí". Cuando él llegó
+pues llevaba 2 días, entonces pues él pidió prestado plata y resto ya lo había comprado con
+gasolina y una comidita no más.
+TEST: Y, entonces se fueron.
+ACOMP 1: Sí. Entonces pasó. Y con las muchachas también la iban a llevar también, yo si le
+quite de la mano de ellos.
+ENT: A las muchachas.
+ACOMP 1: A las muchachas, a mi hija también le iban a llevar.
+ENT: Pero, ¿a él se lo querían llevar a la fuerza, a las malas?.
+ACOMP 1: Sí. [audio: aja]
+ENT: Y, ¿a las muchachas?.
+ACOMP 1: A las muchachas, como ellas, también como ellos tienen sus muchachos que los
+presentan ahí pa que las muchachas se enamoren, o a los muchachos le presentan
+muchachas bonitas para que ellos se vayan detrás de ellas. Entonces pues las muchachas
+mías estaban enamoradas de un muchacho que era un guerrillero.
+ENT: Y, ¿cuántos años tenía su muchacha?.
+ACOMP 1: Mi hija apenas tenía como 14 años.
+ENT: Y, ¿estaba en el Internado también?.
+ACOMP 1: Sí, ya la hermana nos dijo: "Que ya no se puede hacer nada, que nosotros no
+podemos decir nada porque pues ellos lo están amenazando, pues nos quieren matar, ya
+perdimos el poder de decirle que no".
+Entonces yo siento, llegó una muchacha donde yo: "Mire que su hija ya se va a ir con el yate
+para abajo, ya le están recogiendo a todos los que se van a ir". Entonces yo me fui de una
+vez, yo me fui pa la cita, pues ya se iba ir, lo saque de ahí, todo estaba rodeado ahí. Yo le dije
+a ella: "Yo a usted no le mandé aquí para que usted venga acá, esto es vida para usted, ni
+esto aquí... esto son guerrilla. Eso cuando se mueren, van y lo botan y no responden por
+nada", ellos se me quedaron mirando no más, pues como estaba barrigona de ella. Yo a ella
+la cogí y la traje arrastrada del cabello, le pegué y lo traje. Ya me tocó mandarle para -------a
+ella.
+ENT: ¿A ella?.
+ACOMP 1: Sí. [audio: aja]
+ENT: Y, ¿con quién la mandó?.
+ACOMP 1: La mandé donde una señora que estaba pidiendo para trabajar con ella, de la
+policía. Ahí sí descansé con ese. Ya ahí con el otro muchacho nos vinimos para --------ENT: Y, ¿cómo hicieron para ir a...?
+ACOMP 1: Por la trocha de ----------------- al llegar acá al --------ENT: ¿Cuánto se demora en ese trayecto?.
+ACOMP 1: Nos demoramos aquí, de -----------------a acá, una semana, con los niños
+pequeñitos. Yo traía otro niño también de brazos de 2 años, otro tenía 4, y esos eran los más
+pequeñitos, pues el grande también venía con nosotros. Entonces en la -------pues se nos
+acabó la remesa, y nos vinimos pues ya se iban a morir de hambre, y el papá le tocó que
+devolver otra vez para ----------------- a buscar más remesa.
+TEST: Más provisión.
+
+ENT: Y, ¿usted se quedó solita con ellos?.
+ACOMP 1: Ahí se quedó con mi suegro que nos acompañaba ahí. Pero con esa hambre, es
+horrible lo que nosotros vivimos ahí.
+ENT: Y, ¿cuánto tiempo esperaron?.
+ACOMP 1: ¿A qué horas fue que llegaron?.
+TEST: Llegamos casi 12 horas, o sea, una mañana me madrugué, compré y a la misma noche
+salí, así que como unos 12, 14 horas caminé plena montaña ¡más de una noche!, una noche
+los dejé en plena montaña mientras ellos comían pues cogollos de palo, mientras yo estaba
+regresando hacia ----------a comprar más provisión para poder llegar hasta acá.
+ENT: Y, ¿en la trocha dónde dormía con todos los niños?.
+TEST: Mire para contar ENT la verdad yo traía plástico entre el mes de junio, que es el mes
+más feo, y es invierno, me tocaba que hacer dormir mis familias entre plástico, entre charco,
+en toda esa humedad nos dormíamos, y en esos trayectos de caminos que tuvimos pues la
+verdad nos empezó por congelación, ya empezamos... los niños a enfermarse. Y bueno, y
+todo, más mala alimentación, nos empezamos a debilitar, y yo pues yo cargaba mi 3 cargas,
+lo que más pude traer, entonces ya pues, agoté también. Pues gracias a Dios y por las
+resistencia que también tuve, y por el valor que también tuve, llegaba a un tal parte arroz,
+también por las inundaciones de los caños, pues es otros problemas, donde me tocaba que
+arriesgarme, peligrándome la vida a los hijos, a la familia, que me ahogue… Pero sin
+embargó ahí se me acabó la comida. De ahí me tocó que venir, dejando un día y una noche,
+ahorita en un trayecto que le dicen Cahuinarí había una familia indígena en pleno selva,
+donde vine otra vez a provisionar por la comida. Entonces llegué en esa familia donde pues
+me conseguí plátano, casabe, fariña, para volver otra vez donde yo había dejado mi familia y
+esperando con hambre. Y así mismo pude ir, como dije, trastiando, trastiando, hasta que
+llegamos a mi tierra --------ENT: ¿Ningún niño se enfermó?.
+TEST: Pues enfermaron sí, pero...
+ACOMP 1: Todos se enfermaron, mucha soltura, fiebre, todo tenía.
+TEST: Pero, por tratamiento medicinal de nuestro, de nuestro cultura, o de costumbre pues
+lo íbamos sosteniendo, curando, conjurando, pues así, pudimos sostener la vida y la salud. Y
+gracias a Dios pues aquí estamos vivos, entonces ahora pues, en esto, pues queríamos como
+complementar. Entonces ya los derechos y las declaraciones, que quiere el Estado, pues creo
+que nosotros pertenecemos a esos derechos de las víctimas que dicen. Ahora que es, como
+decir, para complementar creo que a eso están ustedes, pues yo entiendo qué es lo que
+hacen, entonces ya mi señora hizo... cuando estaba el muchacho, ahora no sé a dónde está.
+ACOMP 1: Él no volvió.
+ENT: ¿Cómo así?.
+ACOMP 1: Sí, se fue ya hace un año para trabajar en el lado peruano, diciendo ni siquiera
+sabía [INAD: 32:24].
+TEST: Y, ¿en qué trabajaba?.
+ACOMP 1: Trabajaba, pues me contaron allá que trabajaba con los ingenieros peruanos
+haciendo construcciones de casa. De ahí no se ha comunicado nada, no se sabe nada.
+ENT: ¿Él vivía acá?.
+
+ACOMP 1: Sí, él vivió un tiempo acá, pero ya hace un año que ya...
+ENT: Y, ¿tenía familia o algo?.
+ACOMP 1: Pues esa es la niña de él.
+ENT: ¿Y la mamá de ella?.
+ACOMP 1: Pues ellos se dejaron, ella se fue con otro muchacho, y pues la niña yo la mandé a
+rescatar otra vez porque pues ella no era una buena mamá y entonces pues la niña sufría
+mucho con ella, entonces pues me tocó que rescatar otra vez, y ella está bajo custodia de
+nosotros los 2.
+ENT: Y, ¿él se fue?.
+ACOMP 1: Sí, él se fue.
+ENT: ¿Y él se fue y les dijo que el se iba a buscar trabajo o...?
+ACOMP 1: Él trajo otra señora, otra mujer, él tuvo su mujer, y esa mujer se fue porque se
+quiso irse y él se fue detrás, y se fue a trabajar por allá al lado peruano, y pues no se sabe
+hasta ahora dónde está. Porque él no se comunica más, pues él siempre es así, en otro
+tiempo, ya nosotros pensamos que él ya estaba muerto, vino a comunicarse a los 5 años.
+ENT: Ah, ya había hecho eso antes.
+ACOMP 1: Sí. [audio: aja]
+ENT: Pero devolvámonos un poquito. Entonces ustedes llegaron acá a ------------y ¿qué
+hicieron?, ¿recibieron ayuda de alguien?.
+ACOMP 1: Nada, no nada.
+ENT: Entonces, ¿dónde vivían?.
+TEST: Entonces mire, yo llegué con mi familia. ¿En qué año llegamos?.
+ACOMP 1: En 2.001
+TEST: Ah, sí, en 2.001 llegamos.
+ACOMP 1: El 19 de junio.
+TEST: Entonces yo llegué aquí, y como yo tenía familia, parientes del origen entonces... y
+además es mi tierra natal, entonces me acomodé en el hogar de mis ancestros. Entonces vea,
+me arrinconé al lado de mi mamá, mientras que pues... Usted sabe ENT mire abandonar
+nuestra casa donde teníamos, donde dormíamos bien, teníamos pues como estar y venirnos.
+Ese sí nos presentó una situación tan grave y tan miserable para uno, pues la verdad eso es
+muy doloroso, pero sin embargo, pues como yo en esa época yo era... fui un padre de una
+responsabilidad, y de valentía, entonces me empecé, como decir, hacer mi rancho, mi
+campamento para poder mantener y sostener a mi familia. Así pude sostener y empezar a
+tumbar tierra, cultivar tierra, sembrar yuca, entonces empecé. Mientras eso la necesidades
+económicas para la educación, pal vestuario, para todo necesidad, para remplazar las cosas
+que teníamos, los vestuarios, camas, ¿quién nos iba a dar?.
+Mire pues, gracias Dios, entonces ya habían unos apoyos de tal transferencia que dicen. Pues
+ya me vinculé, no, yo no vinculé sino que de verdad, pues, me entré a la organización de
+---------- yo soy de la ----------------------- entonces formé ya un solo grupo, comencé a recibir
+esos recursos de la participación. Entonces con eso empezamos como a medio sustentarnos,
+pero la situación es muy difícil. Entonces hasta ahorita, pues, con unos recursos que nos
+dan, tampoco nos alcanza mientras que aquí la situación hay que mantener la educación.
+Pero gracias a Dios ahora los muchachos ya, así bien o mal, pues ya terminaron, pero
+
+necesita avanzar para dar más estudio, por lo menos para universidad, para la carrera,
+entonces ya no hace falta.
+ENT: ¿Ellos estudiaron acá en la ---------.
+ACOMP 1: Sí.
+ENT: Y, ¿TEST volvió a estudiar?.
+ACOMP 1: No, ese ya.
+ENT: No quiso estudiar.
+ACOMP 1: No, él no quiso estudiar. Sino que él ya tenía otro pensamiento, que quería
+vengarse de las FARC.
+ENT: ¿Por lo que le hicieron?.
+ACOMP 1: Sí. Ya él llegó con el ejército para solucionar también.
+ENT: Y, ¿qué fue lo que le hicieron además de hacerle cargar gasolina?, ¿qué más le
+hicieron?.
+ACOMP 1: Él me dijo que lo castigaron, cargando la gasolina. Entonces que él tenía mucha
+venganza con ellos, y pues se fue con los militares.
+ENT: Y se fue al ejército. Y cuando ustedes llegaron acá, ¿también estaba la guerrilla?.
+ACOMP 1: Estaban acá.
+ENT: ¡Ay, también!.
+TEST: Ah sí, nosotros llegamos y ya aquí también estaba la misma guerrilla. Y aquí yo
+llegando de ese problema y aquí nos identificaron que éramos guerrilleros. Y
+desgraciadamente también por esas malas informaciones el muchacho, el mismo ejército lo
+coge por guerrillero, y nos trataron de guerrilleros. Pues todo, mire ENT...
+ENT: ¿Cómo así que los trataron de guerrillero?.
+TEST: Mire esto para mí, de verdad duele, duele cuando yo pienso que el Estado, gobierno
+que dice que Colombia es un país de una política de soberanía, de democracia, ¿dónde está
+esa democracia?, ¿dónde está la soberanía colombiana?, ¿dónde están los gobiernos?. Pero
+mire hoy en día, de verdad F de verdad que usted está en este nivel de este trabajo, acójanos
+esta información.
+ENT: Bueno.
+TEST: Entonces son los derechos fundamentales que debe regir el Estado colombiano, está
+la Defensoría, están todos las bases fundamentales que decreta y conoce los artículos de los
+derechos. Yo soy una víctima de esa situación dentro de un territorio o de un país que rige la
+ley colombiana, del gobierno, del Estado del gobierno me hicieron esto. Ahora, ¿quién me
+repara todas estas pérdidas de mi casa?, ¿quién paga eso?... [INTERRUP]
+ENT: Y TEST, volviendo a TEST. Que pena, teniendo…
+TEST: Yo le respeto a usted su trabajo, su voluntad, pero yo con un tipo, una persona que me
+venga, yo sé ya trataré de otra manera, pero le agradezco su voluntad y su presencia, que
+quiere, por eso yo le informo mi situación, para que conozca y presente al Estado y
+publique, yo estoy hablando acá no muerto sino vivo, y que nuestro informaciones de
+verdad lo atiendan de verdad lo que está como defensoría.
+ENT: ¿No les han dado reparaciones?.
+ACOMP 1: No, nada. Primero nosotros presentamos por el muchacho este, en la víctimas de
+la Fiscalía que llegó.
+
+TEST: [Llanto]
+[CORTE: 39:52]
+ENT: Ya. No les han dado reparación de nada.
+TEST: Nada, absolutamente nada.
+ACOMP 1: No hemos podido, o sea, no hemos recuperado nada de todo lo que perdimos.
+ENT: Perdieron la casa.
+ACOMP 1: Allá está la chagra, todo lo que tenemos adentro de la casa, todo se quedó, no lo
+podemos recuperar, nada, nada, ni la casa que tampoco se puede recuperar.
+ENT: No les han dado nada. Y, ¿qué fue lo que pasó entonces con TEST?. Él se metió al
+ejército, ¿ya era mayor de edad cuando se metió?.
+ACOMP 1: Lo llevaron cuando él tenía 17 años todavía.
+ENT: Ah, era menor de edad todavía, se lo llevaron.
+ACOMP 1: Se lo llevaron.
+ENT: Y, ¿a dónde se lo llevaron?.
+ACOMP 1: Se lo llevaron cuando hicieron la toma de unas FARC aquí.
+TEST: Entonces mire ENT, aquí el muchacho cuando ya entró del grupo 74, del ejército.
+Cuando en ese entonces aquí los muchachos entraron a ese grupo 74, del Ejército
+Colombiano, entonces, cuando, pues, estando el capitán mayor. Yo aquí abajo en mi
+comunidad, en mi casa, y el muchacho vino, entonces pues, como siempre, las malas
+información, le dijeron el ejército, que con otro que llegaron era guerrillero, que él era
+guerrillero, lo cogieron y se lo llevaron. Sin ninguna investigación legal, así lo reconocieron
+los mismos, mismo Ejército Colombiano.
+ENT: Y, ¿era el ejército?.
+TEST: Era el ejército.
+ENT: No era AUC o algo así.
+TEST: Era, mire el ejército cómo porta con nosotros.
+ENT: Y se lo llevaron…
+TEST: Sí, entonces se toman al muchacho, se presentó y ya pues sí, realmente él lo negó.
+Como yo le dije al mayor GRADO1 "Yo no vengo y a mí no me traten de esa manera que yo
+no soy ningún guerrillero, yo no soy ningún...", ¿cómo es que se llama el que trabaja con
+ellos?, ¿cómo?.
+ACOMP 1: Milicianos.
+TEST: "Yo no soy ningún miliciano guerrillero. Entonces no me compare con los que han
+sido de esa forma. Mire yo vengo de una situación por esa misma guerrilla, ¿ahora ustedes
+nos van a tratar de esa manera?. Entonces ¿dónde están los derechos?. Más bien...",
+Entonces fue donde me dijeron: "Mire señor, de verdad, pues, ya los muchachos lo tenemos,
+lo que sí , le preguntamos que sí, ya él dijo que sí es", "¡Ciertamente eso es una mentira!, yo
+de allá vine, entonces ustedes dicen que son él porque no conoce y porque está allá, en
+cambio yo sí sé dónde está y el muchacho lo conoce y quién son y es verdad". Entonces pues
+ya, pues donde ya hicimos un acuerdo, yo y los comandantes del Ejército Colombiano,
+entonces... Pues me dijeron que: "Sí, nosotros lo llevamos, como una guía de aquí a la toma
+de ----------- a tomar la Base Militar". Entonces donde él fue, como decir, guía militar.
+ENT: Ah, porque él ya había vivido allá.
+
+TEST: Sí, ya como conoció.
+ENT: Y por eso lo querían...
+TEST: Y entonces de ahí él, a la toma gracias a Dios, a pesar de que hubo enfrentamiento no
+pasó nada. Mire que mire, cómo el muchacho le dio esa oportunidad de entrar al Ejercito
+Colombiano y sentar ahí y mirar al pobre muchacho a dónde andó. Pues no pasó nada, de
+ahí se retomó estas Bases, esas Bases. Y el pobre muchacho arriesgó y ¿qué nosotros
+ganamos?. De ahí donde el muchacho, pues ya no vino, sino de que --------se fue hacía ------como que le gustó ya vida militar, donde se incorporó allá al ¿qué?, al Ejército
+Contraguerrilla. Y entonces eso fue, y después que nosotros ya no sabíamos, pues me tocó
+que llamar y se retiró ya, y nosotros lo sacamos de ahí y se vino.
+ENT: Y volvió acá.
+TEST: Sí, volvió acá.
+ENT: Y él se comportaba, ¿era el mismo o se comportaba diferente?.
+TEST: Pues la verdad, por la situación, pues, no, así si ningún problema él era un buen
+muchacho. Pues como quien dice, era de otra formación, pues era muy distinto. Pero muy
+formalmente, aquí no ha tenido ningún problema, pero problema interno, ya son cuestiones
+que aquí como con paisanos, es que eso es normal que pasa, hasta ahora estamos en ese
+mismo conflicto interno de nuestros costumbres, entre las zonas. Sí, entonces.... Pero de
+todas maneras el muchacho está en ausencia.
+ENT: Y, pero devolviéndonos un poquito y antes de hacerles otra pregunta, ¿ustedes qué
+sintieron cuando vinieron del -----------y vieron la guerrilla acá también?.
+TEST: Pues...
+ACOMP 1: Nos dio mucha rabia verlos también aquí. Yo dije: "Malditos qué es lo que hacen
+aquí", pensé que no estaban aquí, ya ellos nos sacaron, perdimos la casa, perdimos todo.
+ENT: Y, ¿no los amenazaron la guerrilla a ustedes estando acá?.
+ACOMP 1: Ellos no sabían que nosotros llegábamos, estaba un grupo que no nos distinguía.
+TEST: Pero antes de llegar nosotros sí había grupo que yo había enfrentado a discusiones.
+Entonces, pues, menos mal, como dice el dicho, pues me gusta siempre y soy colombiano, y
+me gusta apoyar al ejército colombiano, llegó en mi comunidad, atendí allí a los comandos
+militar, me enfrenté con el GRADO2 con mi GRADO3 y entonces pues mas o menos, lo que
+nosotros hicimos fue buenas conversas y todo.
+ENT: Ellos llegaron donde ustedes.
+ACOMP 1: Sí, de un momento a otro.
+TEST: Entonces de esa noche, estando acá, esa guerrilla se fueron, o sea, se huyeron.
+ACOMP 1: Cuando ellos llegaron yo me asusté, yo pensé que eran ellos otra vez, "¡Ah! Dios
+mío señor, ¿pero qué van a mandar esos malditos acá?". Entonces había uno, como yo estaba
+enferma, uno me dijo: "Señora, buena tarde", no le contesté, yo pensé que eran ellos. Me
+senté en las escaleras y no más me quedé mirando. Entonces él llegó y me dice: "Señora
+nosotros somos militares profesionales, nosotros no somos la guerrilla, venimos a
+defenderlos a ustedes", me dijo, "Mire, yo era acá del ----------- ahora soy --------------------soy GRADO2 ¡Aj!, entonces yo le dije: "Gracias, gracias ---------porque usted nos vino a
+defender de esos malditos que nos hicieron sufrir".
+ENT: Y ya llegó el ejército.
+
+ACOMP 1: Ya, ahí, acá abajo.
+ENT: Entonces se fueron los otros.
+ACOMP 1: Ya ellos llegaron ahí. Cuando ellos supieron, como ellos tenían milicianos aquí,
+ellos le avisaron, entonces ellos se huyeron. Venían puros profesionales.
+ENT: Mmm, y ahí sí ya estaban ustedes más tranquilos.
+ACOMP 1: Estábamos más tranquilos.
+TEST: Nos tranquilizamos, entonces nos sentimos, como decir, más valor, y gracias por ese
+grupo de contraguerrilla, el 74. Mire, lo recibimos de corazón, y gracias Dios, volvimos a
+establecer nuestra tranquilidad, y con el apoyo del ejército y aquí estamos hasta el
+presente.
+ENT: ¿La guerrilla no volvió?.
+TEST: No ha vuelto, pero sí vinieron a hacer daño, atacar la Base donde dañaron el puente.
+ENT: Ah.
+ACOMP 1: Ahí, en el puente atacaron.
+ENT: Y, ¿eso cuándo fue?.
+TEST: Eso, no es mucho, como 5 años.
+ACOMP 1: No, hace como 7 años. Porque yo cuidaba la hija del profesor, yo fui y tenía como
+un añito, sí, ya 7 años. Atacaron ahí en el puente, el sargento, no sé, con los soldados que
+venían.
+ENT: Sí.
+TEST: Desde ahí, hicieron ese daño se fueron y han vuelto hasta ahora, no, no, no se ha visto
+hasta ahora la presencia. Entonces pues, mire ENT, eso todo lo que tenemos como para
+aclarar.
+ENT: ¿Eso cómo les afectó como familia?.
+TEST: Pues dentro de eso, nosotros como familia, nosotros ¿cuál?.
+ENT: ¿Todo lo que les pasó?, la familia se separó, ¿qué pasó?.
+ACOMP 1: Sí, pues tuve que mandar la muchacha, fue la única que se fue del -----------a ------ENT: ¿Cómo se llama la muchacha?.
+ACOMP 1: Sara.
+ENT: Y, ¿cuál es el apellido?.
+ACOMP 1: Ella es FAMILIAR1
+ENT: Y, ¿ella vive todavía en -------.
+ACOMP 1: Ella está en -------- ------- Está con su esposo.
+ENT: Sí, y ¿qué otra afectación?, ¿qué más les causó dentro de la familia el desplazamiento?.
+ACOMP 1: El desplazamiento. Fue muy duro para nosotros porque perdimos la casa,
+perdimos la chagra, perdimos todo lo que teníamos.
+ENT: Y este tema de TEST. TEST entonces volvió del ejército y se volvió a ir.
+TEST: No.
+ENT: Se quedó.
+TEST: Se quedó y ya pues.
+ACOMP 1: Ya pues mi esposo no quiso volver más. Y nosotros tampoco.
+ENT: Al Araracuara.
+ACOMP 1: No.
+
+ENT: TEST se quedo acá y se fue otra vez.
+ACOMP 1: ¿El muchacho?, para allá no volvió
+ENT: Pero se fue.
+ACOMP 1: Sí, se fue pero para el lado peruano.
+ENT: Y eso que me decían que el se había ido 5 años.
+ACOMP 1: 5 años es cuando él estaba en el ejército, él no volvió a comunicarse con nosotros
+nada, por eso nosotros decíamos que él ya estaba muerto. Porque a nosotros nos decían así
+que: "Él ya estaba muerto". Y de un momento que llamó a mi teléfono, mi cuñada la que era
+finada, me dijo: "No, que su hijo está conmigo, que él está vivo", entonces me lo pasó. "Sí
+mamá ya voy a volver donde ustedes", eso fue lo que me dijo. Entonces este se fue y no se ha
+reportado nada.
+ENT: Y él dijo que se iba a trabajar.
+ACOMP 1: Él me dijo que se iba a volver rápido, voy a trabajar y voy a venir, y no, nada, no
+ha vuelto, no se ha reportado nada.
+ENT: Y él dejó la niña.
+ACOMP 1: A la niña, pues nosotros... ella está bajo custodia de nosotros.
+ENT: Y, ¿por qué está bajo custodia de ustedes?.
+ACOMP 1: Porque esta niña, la mamá se fue con otro hombre, pues, lo llevó a ella, pero lo
+que pasa es que yo no quise que se quedara con ella porque pues ella fue una mamá mala
+para ella, porque la maltrataba mucho, le descuidó, la niña tuvo esa herida aquí, y entonces
+ella no le ponía cuidado. Entonces yo dije, yo le dije a mi esposo: "Pues voy a buscar, porque
+es una niña, está bajo otro hombre ella". Porque ha pasado eso, porque la niña lo violan,
+entonces para eso no lo respetan, entonces yo dije más bien que lo fuera a buscar. Entonces
+él lo fue a buscar y la niña por allá sufría mucho, porque ella mientras que andaban bailando
+y la niña quedaba ahí con, esto... embace de gaseosa, pura agua y fariña en un tarrito. La niña
+toda la noche se lo pasaba llorando y solamente tomaba agua y fariña. Entonces ella sufría
+mucho. Cuando él el fue a buscar estaba lleno de granos, con soltura, todo eso. Entonces la
+otra señora, la otra señora la ayudaron a bañar y todo. Esta niña no sabía qué es comer
+comida de un blanco, cuando él lo trajo, entonces solo quería tomar agua y fariña no más.
+Pero así, lo traje así al centro de salud, le dieron vitaminas, le dieron remedios, todo, hasta
+que otra vez comenzó a comer más comida.
+ENT: Y, ¿TEST la cuidaba?
+ACOMP 1: ¿Ah?.
+ENT: ¿La cuidaba a ella?.
+ACOMP 1: ¿El papá?, no. El papá ya se había ido, yo fui la que lo pedí, para yo hacerme
+responsable de ella, porque pues la mamá no era responsable.
+ENT: Sí. Y, ¿qué otras afectaciones?. Bueno, con sus hijos, ¿qué pasó con ellos, qué sintieron
+cuando se desplazaron?.
+ACOMP 1: Pues yo sentí mucho dolor, mucha tristeza.
+ENT: ¿Y ellos, los hijos, los niños?.
+ACOMP 1: Aquí hay 2, uno de 18 años y otro de 22 años.
+ENT: Y ya estudiaron.
+ACOMP 1: Ya ellos se graduaron. El otro, FAMILIAR2 pues ya él prestó servicio, él vino de
+
+allá y está descansando, ahora él quiere ir para la profesional. El otro también quiere
+prestar servicio también, él tiene 18 años.
+ENT: Y, ¿por qué quiere prestar servicio?.
+ACOMP 1: Pues ellos solo, esto, solo ellos quieren, solo escogieron eso. Porque pues yo les
+decía: "Estudien, que hay muchas cosas en la vida para estudiar". Yo le dije a este que le
+estaba hablando antiayer, yo le dije: "Estudie que hay mucha carrera". Pero lo que pasa es
+que aquí hace falta es la plata.
+ENT: Mmm, entonces no hay dinero.
+TEST: Los recursos económicos para seguir, o sea, como decir, abrir el camino de
+profesionalidad para trabajo. Entonces pues....
+ENT: Entonces como no hay universidad, prefieren irse al ejército.
+TEST: Exacto es por esa situación, ¿qué vamos a hacer?, entonces piensa ir al ejército
+porque, ¿cómo van a seguir la carrera de universidad?. Entonces esos son problemas que
+presentan. Entonces mire todo, pues, por lo menos para una carrera, ¿cuánto está valiendo?,
+3 millones, 6 millones, y uno de pobre, ¿de dónde?. Entonces pues todos esos son problemas
+que tenemos sobre esta situación.
+ENT: Y, ¿los demás hijos?.
+ACOMP 1: Las muchachas pues se fueron. Ella está con su marido en --------------- la otra está
+en ---------- son 2, ya son señoras.
+ENT: Ya se fueron.
+ACOMP 1: Sí.
+ENT: Y, ¿ustedes cómo hicieron para seguir adelante a pesar de tantos problemas?, ¿qué los
+ayudó?.
+TEST: Una parte, es esfuerzo de nosotros mismos, trabajar chagra, criar gallina, marrano,
+yuca, plátano. Con eso, pues, vendíamos a precio bajo, pero sin embargo con eso pudimos
+sustentar las necesidades escolares, primarias, allá del bachiller. Entonces con eso... Y por
+intermedio, también, los recursos de las transferencias que el gobierno, pues, que nos
+ampara a reconocer también, ¿no?. Entonces, pues, con eso alcanzamos, como quien dice, de
+grano a grano, a sostener la educación y así pobremente pues lo hicimos. Entonces pues,
+hasta ahí nos dio. Pero pues gracias Dios, ahora más no tenemos más, como dice, apoyo o
+ayuda del Estado. Entonces pues ENT, creo que pues, más cosas de ahí, yo no puedo
+inventar más cosas.
+ENT: [risas]. Última pregunta, ¿ustedes qué creen que debe cambiar para que no vuelvan a
+suceder esas cosas?, es decir, para que no vuelva a haber, tal vez, desplazamiento forzado,
+reclutamiento, que se lleven al ejército los muchachos y los acusen de guerrilleros, ¿qué de
+debe pasar?.
+TEST: Pues yo, como cabeza de hogar de familia, yo quisiera que... yo creo que esta situación
+pasa, es desde el gobierno. De pronto, a veces es un poder que domina, que va también, va
+en contra de los derechos de los pobres, entonces donde no hay igualdad de un gobierno,
+que haiga trabajos, que haiga buen, como dice, manejo del gobierno constituidos en los
+departamentos, en todo lugar, donde las instituciones del Estado que, como dicen, nos den
+buen apoyo, de trabajo, que haiga trabajo. Entonces aquí lo que se necesita es que mejore
+nuestra vida, la educación, salud, trabajo.
+
+ENT: ¿Por qué salud?.
+TEST: Porque mire, en cuestión de salud, es aquí, como dicen, yo digo el Estado tiene mucho
+de EPS, pero aquí no hay nada, como dice, medicamentos que de verdaderamente nos
+sustente. Eso a veces... toda la vida consulta, lo que aquí está en vacuna, vacuna, vacuna, y
+entre más vacuna, pues no hay solución. Aquí lo que hay es escasamente unas medicinas o
+medicamentos es para calmante y nada más.
+ENT: Entonces, usted dice que se mejore educación, la salud, ¿qué más?.
+TEST: Ah, y otra cosa, ahorita son de EPS, ¿cómo es?, de los niños que ahora pues... también
+lo están...
+ACOMP 1: Al menos nos están ayudando a eso.
+ENT: Ah, ¿sí?, ¿en qué los ayudan?.
+TEST: Bienestar Familiar.
+ENT: Y, ¿qué les dan?.
+ACOMP 1: Le llegan a los niños, les pagan. Hay niños que están en salud, otros en educación.
+La niña de aquí está en salud.
+TEST: Pues un recurso que el Estado nos está ayudando.
+ACOMP 1: A la niña.
+TEST: Pues eso es muy bueno del gobierno, de verdad, pues es un apoyo. Con eso a veces
+nosotros... Y la situación en que vivimos aquí las cosas son muy caras. Mire, creo que usted
+sabe cuánto vale. Y los sustento que llegan, los recursos que recibimos no es nada, no es
+nada. Entonces pues ENT, en eso, pues, creo que nosotros, pues, le podemos como informar
+o aclarar. De ahí, ya como dice, usted es una persona que no viene es por ayudar, a recibir
+todas las informaciones, aclaraciones. Pues porque ustedes, como dicen, cumplen. Pero sí
+hay quienes que deben es dar cumplimiento eso.
+ENT: Claro.
+TEST: Ustedes vienen es a hacer un trabajo bueno. Sí, buena información, con evidencia, con
+claridad, eso hace ustedes. Porque para reparación eso ya es otra situación, porque eso es
+del gobierno. Sí, entonces ENT esto es lo que queríamos como presentar nuestra situación
+personal ante su persona, pues usted sabe que ahí, no sé ya, ahí usted sabe ya cómo lo van...
+ENT: Y, ¿usted qué cree que debe pasar para que no vuelva a ocurrir lo que le pasó?, el
+desplazamiento, la guerrilla.
+ACOMP 1: Que esté el ejército pues ahí, que nos nos vengan más a molestar.
+ENT: ¿Sí?.
+ACOMP 1: Sí.
+ENT: Bueno.
+TEST: Por mí, que el gobierno acabe.... Como el caso de ahora, mire, ¿cómo el gobierno tiene
+a los más, más que afectó al país, a los comandantes guerrilleros que ahora está allá en
+senado manejando leyes y decretos?. Entonces ellos conocen muy bien la situación que
+hicieron, en todo el rincón del mundo, los guerrilleros, Y ahora el gobierno trabajando, pues,
+repare toda esa situación y que ellos mismos determinen esa organización y para que el país
+y el mundo que viva una paz, una solidaridad, de un derecho humano, que seamos de una
+ley humanitaria, socialmente dentro del Estado colombiano. Yo diría así. Esa es la mejor
+reparaciones, que reparemos nuestras leyes, nuestros decretos, y respetemos. Si no
+
+podemos inventar, hacer decretos y si no lo cumplimos pues... Yo quisiera que no nos vuelva
+a ocurrir esta situación que ha pasado mucho. Ojalá que el gobierno de verdad cumpla, que
+el Estado respete las leyes colombianas. Y nosotros queremos que sea así, eso es para todos,
+tanto para indígenas, como para ustedes, que tengamos un roce social de un buen camino,
+de hacer una buena participación así como estamos, entonces, gracias a ENT, entonces creo
+que eso es lo que yo le puedo dar la información.
+
+
