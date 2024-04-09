@@ -4,6 +4,8 @@ from unidecode import unidecode
 import os
 import pickle
 import math
+from collections import defaultdict
+import re
 
 def get_dict():
 
@@ -60,11 +62,12 @@ def normalize_and_sort_dict(dictionary, emotion_counts):
 
     if "expectativa" in dictionary:
         del dictionary["expectativa"]
-
+        
+    
     for key, value in emotion_counts.items():
         if key in dictionary:
-            dictionary[key] *= 1 / emotion_counts[key] / total_count
-
+            dictionary[key] = (dictionary[key] / emotion_counts[key]) / total_count
+            
     total = sum([x for x in dictionary.values()])
     for key, value in dictionary.items():
         dictionary[key] = dictionary[key] / total
@@ -72,16 +75,20 @@ def normalize_and_sort_dict(dictionary, emotion_counts):
     return sorted(dictionary.items(), key=lambda item: item[1], reverse=True)
 
 def count_emotion_prevalence(emotion_reference):
-    count_dict = {"alegria": 0, "tristeza": 0, "enojo": 0, "sorpresa": 0, "miedo": 0, "confianza": 0, "repulsion": 0, "disgusto": 0, "expectativa": 0}
-
+    #count_dict = {"alegria": 0, "tristeza": 0, "enojo": 0, "sorpresa": 0, "miedo": 0, "confianza": 0, "repulsion": 0, "disgusto": 0, "expectativa": 0}
+    count_dict = defaultdict(int)
     for key, value in emotion_reference.items():
         for emotion in value:
-            if emotion in count_dict:
-                count_dict[emotion] += 1
-            else:
-                print(key, emotion)
+            count_dict[emotion] += 1
 
     return count_dict
+
+def tokenize(text):
+    text = re.sub(r'[^\w\s]', '', text)
+    text = text.split()
+    text = [unidecode(word.lower()) for word in text if not word.isdigit()]
+    return text
+    
 
 
 def main():
@@ -89,27 +96,38 @@ def main():
     emotion_reference = get_dict()
 
     emotion_counts = count_emotion_prevalence(emotion_reference)
-
     
-    path = "../corpus/"
+    path = "../entrevistas/"
 
     emotions_dict = {}
+    
+    negation_set = set(["no", "nunca", "jamás", "tampoco", "ni", "ningún", "ninguna", "nadie", "nada", "siquiera", "sin"])
 
-    with open('lemmatized_dict.pkl', 'rb') as f:
-        loaded_dict = pickle.load(f)
-
-    for key, value in loaded_dict.items():
-        doc_dict = {}
-        for word in value:
+    for doc in sorted(os.listdir(path)):
+        
+        with open(path + doc) as f:
+            text = f.read()
+        value = tokenize(text)
+        doc_dict = defaultdict(int)
+        for index, word in enumerate(value):
             if word in emotion_reference:
                 for emotion in emotion_reference[word]:
-                    if emotion in doc_dict:
-                        doc_dict[emotion] += 1
+                    if any(val in negation_set for val in value[ max(0, index - 10) : min(index + 11, len(value) - 1)]):
+                        #doc_dict["negated-" + emotion] += 1
+                        doc_dict[emotion] -= 1  
                     else:
-                        doc_dict[emotion] = 1
+                        doc_dict[emotion] += 1 
 
-        emotions_dict[key] = normalize_and_sort_dict(doc_dict, emotion_counts)
+                        
+        emotions_dict[doc] = normalize_and_sort_dict(doc_dict, emotion_counts)
+        print(doc + ":")
+        print("-------------------")
+        for emotion, score in emotions_dict[doc]:
+            print(emotion + ":", f'{score:.5}')
+        print("\n") 
+
     
+
     with open('emotions_from_doc_dict.pkl', 'wb') as f:
         pickle.dump(emotions_dict, f)
 

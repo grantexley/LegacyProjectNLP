@@ -40,7 +40,7 @@ def main():
         for emotion, weight in sorted(emotions.items(), key=lambda x: x[1], reverse=True):
             print(f'\t{emotion}: {weight}')
         print()
-       
+    
 
 
 if __name__ == '__main__':

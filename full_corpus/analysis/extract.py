@@ -18,6 +18,7 @@ def main():
     extraction_dict = {}
 
     words_to_extract = extraction_words()
+    
 
     with open('lemmatized_dict.pkl', 'rb') as f:
         loaded_dict = pickle.load(f)
