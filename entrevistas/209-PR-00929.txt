@@ -1,0 +1,1265 @@
+209-PRO-00929
+ENT: Doctor quisiera será preguntarle primero ¿Dónde nació?
+TEST:
+Yo nací aquí en la ciudad de -------1 en ------------de 1952
+ENT: En
+la ciudad de -------1
+TEST:
+En la ciudad de -------1 si y los primeros años los viví -------------2
+ENT:
+Vale
+TEST:
+Departamento me conocen [INAD: 00:25] de ------------2 porque ahí pase varios
+años y después me traslade a Bogotá para los estudios de bachillerato y
+universidad.
+ENT:
+¿Cómo que recuerda de ------------2? ¿Cómo era la época en ese momento en ------2?
+TEST:
+Bueno era un municipio muy activo, porque toda la ganadería del departamento se
+hacía en lanchas, esas lanchas, esas lanchas tenían una capacidad para 500,
+1000, 1500 novillos, que los llevaban a Puerto López y de Puerto López a
+Villavicencio - Bogotá, entonces una, un pueblo muy activo en el punto de vista
+ganadero
+ENT: Sí
+TEST: Y
+le iba muy bien al comercio, le iba muy bien a las casas de prostitución, a las
+cantinas por que los vaqueros cuando llegaban ahí les pagaban, tomaban
+bastante.
+ENT:
+¡sí!
+TEST:
+Recuerdo que había una zona de tolerancia que se llamaba barranco pelado,
+muchas señoras que montaron negocio ahí les fue muy bien económicamente por
+eso.
+De los que
+mandaban allá me acuerdo de los corregidores, era como la primera autoridad
+como decir hoy en día los alcaldes, tenían toda la autoridad del mundo, eran
+los encargados del aseo, eran los encargados de que todo funcionara bien, de
+una planta que funciona por 2 o 3 horas una planta de gasolina eléctrica y era
+una zona muy sana desde el punto de vista de la violencia, porque generalmente
+lo que se presentaba eran peleas a puños.
+ENT:
+
+Riñas
+TEST:
+Riñas, exacto, riñas, pero no estaban, ni la guerrilla, ni estaba los
+paramilitares, ni otros actores de la violencia, que posteriormente influyeron
+mucho en el pueblo, desde el punto de vista económico todo estaba entorno a la
+ganadería, muchos de los que tenían fungos o fincas eh tenían a la vez casa en
+el pueblo y entonces la venta de los ganados era lo que hacía que se moviera el
+comercio, era un pueblo muy pequeño, pero comercialmente muy activo.
+ENT:
+Vale, bueno ¿Cómo nace [INAD:03:08] trabaja para el agua?
+TEST:
+Resulta que en el ------de------------de 2003hubo una captura masiva y esa captura
+masiva implico de que todas las contra partes de CONOCIDO1 eh
+fuéramos encarcelados, yo actuaba en esa época como ----------------------------- y
+como presidente de la Asamblea Departamental y había sido también -------------- y me
+había quemado por poquiticos
+votos, entonces había como un interés de los paramilitares de que
+CONOCIDO1 y el Gobierno Nacional de que CONOCIDO1 fuera el gobernado e
+hicieron como cuatro ejercicios para que el, primero mataron los dos políticos
+principales o las dos piernas en las que se movía la
+política ------------, como lo era CONOCIDO2 y CONOCIDO3 eran como los dos líderes que
+ultimaban dos grupos importantes
+que en las elecciones se enfrentaban, en esta oportunidad los matan a CONOCIDO2 el ---de------del 2001 y CONOCIDO3 el -------de------del 2001 dentro
+de la misma semana los matan a ambos, eso con el fin de abrirle pues el espacio
+a CONOCIDO1 para que ganara las elecciones, matan al registrador CONOCIDO4
+[INAD:04:50]
+Matan a
+los periodistas que le hacían oposición CONOCIDO5 y CONOCIDO6 eh ello obedece pues a la
+solicitud que CONOCIDO1 le hizo a los
+paramilitares en la costa donde estaba la casa Castaño para que lo apoyaran a
+él a la candidatura o la aspiración que tenía a la -----------, después de toda
+esas muertes eh las personas que no pudieron matar, en el caso mío yo tenía
+escolta personal, tenía escoltas de la Policía, tenía escoltas del DAS, entonces
+optaron por meternos a la cárcel, pues para dejarle el espacio libre a CONOCIDO1 nos
+detuvieron a todos las personas que incidíamos en política
+------------ contrarios a él, todos los candidatos que no estaban con él, alcaldes,
+ex alcaldes, ex gobernadores, candidatos al concejos, candidatos a la asamblea
+bajo la acusación de rebelión, en ese ejercicio yo estuve 33 meses preso sin
+una sola prueba por que las pruebas que llegaron al expediente eran tomadas por
+agentes del DAS en el batallón y esas pruebas no eran validas porque debía
+tomarlas el fiscal de conocimiento y desde el comienzo se dijo que eran nulas
+esas pruebas, pero no ya hay una sentencia al final y dijeron que esas pruebas
+
+era nulas, pero ya tenían armaron otras pruebas después, pero realmente la
+captura masiva que se hizo nos detuvieron a 33 personas, pues sin ninguna
+prueba valida eh a raíz de esa estadía mía tenía que ponerme hacer algo y me
+puse a documentar a leer muchos documentos, se consultaron 1200 documentos,
+gran parte de ellos en la cárcel y cuando salí, estuve un año en el archivo
+general de la Nación recogiendo documentación de cosas que no han sido
+publicadas o no habían sido publicadas hasta ese momento, como por ejemplo eh
+la revuelta araucana, que muy poco sea escrito eso, la "humbertera"
+que muy poco se ha escrito sobre eso, la época de la violencia cuando mataron a
+Jorga Eliécer Gaitán en el año 48, temas que permitieron que Arauca se
+desprendiera porque siempre estaba dentro del territorio del Casanare, se
+desprendiera de Casanare, esa es como la formación del departamento. Me llamaba
+mucho la atención eso porque pues de esa historia se desprende todo lo que
+tenemos ahora, la llegada de las guerrillas al departamento y un tema que en
+una próxima edición voy a desarrollar, es la presencia de los paramilitares que
+ahorita ya conozco porque llevo 12 años trabajando en ORGANIZACIÓN PÚBLICA1 entonces
+como conozco todas las versiones y me va a permitir ser muy ajustado a la
+realidad frente a ese fenómeno. Yo salgo pues ya con bastante anotación de la
+cárcel me voy para Bogotá para el Archivo General de la Nación y posteriormente
+me ubico en Bucaramanga durante varios meses con el fin de poder escribir sin
+la imprudencia pues de nadie si no basado en los documentos y en los testimonios
+de algunas personas que conocieron eh por muchos años la historia del
+departamento. Este libro ha sido muy útil, inclusive lo citan en las sentencias
+del Tribunal Superior de Bogotá Sala de Justicia y Paz, porque no obedece pues
+a una inquietud política mía si no ajustado al documentos en los cuales yo
+obtuve la información para poder anotarla en ese libro, pues ahorita apenas
+tenga un espacio pienso sacar una segunda edición, voy a recortar mucho la
+parte de que hace referencia a la llegada del hombre a aquí América y me voy a
+centrar un poco más en ya en el momento que está poblado ya el departamento por
+parte de la comunidades indígenas. 09:49
+ENT:
+Vale
+TEST:
+Esa es la historia pues de -------------------------ENT: ¿Y
+por qué ------------------------------?
+TEST:
+Bueno yo inicialmente, quería publicar un libro hablando de los testaferros de
+los gobernantes araucanos y resulta que muchos gobernantes de acá en el hábito
+de la corrupción han cogido la plata del presupuesto para ellos, pero como no
+la pueden poner a nombre personal porque los meten a la cárcel, entonces la
+ponían a nombre del testaferro que a veces se les quedaba con plata. Resulta
+que el
+
+cachicamo hace el hueco para él, cómo su casa para el vivir ahí y cuando llega
+la lapa y se mete le quita la casa y el cachicamo le toca ir hacer otra cueva,
+otra casa en otro lado para el vivir, para el cachicamo vivir, pero después me
+arrepentí sobre ese tema por que tocaba a medio día sociedad araucana y
+entonces toso el mundo ni lo iba a leer y si iba quedar pues como que estaban
+eh calumniándolos, a pesar de que la información era veras no quise profundizar
+en ese tema y profundice ya en la historia político administrativa, entonces
+deje "------------------------------" pero más que se nombre la y como
+va a salir la segunda edición, esa historia del departamento de Arauca 11:28
+ENT:
+Vale, usted nombra algo muy interesante y es precisamente esa conexión que en
+algún momento tuvimos con Casanare, durante mucho tiempo, digamos que hacemos
+parte de su figura política, estructural, jurídica ¿no? hacíamos parte de
+Casanare, pero usted en el libro no habla en ningún momento que ahí ya cuando
+arranca se desprende del Casanare sus relaciones políticamente no conectan, ese
+fenómeno, digamos que esa también es una de las inquietudes porque vemos en la
+Comisión que hay una conexión mucho más fuerte políticamente con [INAD: 12:01]
+y con Norte de Santander, Santander digamos por toda la colonización, la
+creación de los movimientos sociales en Arauca, los sindicatos ¿sí?, pero el
+caso y es más políticamente hablando también, llega a Villavicencio
+¿no? porque Villavicencio también llega con algunos candidatos del partido
+conservador que se instalan en el departamento de Arauca, ¿pero porque con
+Casanare no? digamos que pasa para que Casanare no tenga esa conexión política
+con Arauca siendo un territorio aún más cercano que un Norte de Santander y que
+Villavicencio porque es el paso digamos de este territorio.
+TEST:
+Geográficamente Arauca siempre estuvo ligado al Casanare, Arauca no existía,
+era como un territorio más de Casanare, se produce una serie de fenómenos eh
+histórico que hace que se vaya conformando como una
+región aparte de Casanare, uno pues fue la revuelta Araucana, donde lo que se
+pedía era autonomía, porque la verdad era si estaba abandonado Casanare, Arauca
+sí que era peor, más abandonado es decir Arauca no existía para las personas
+del interior los que llamábamos, los que Vivian en Bogotá, Villavo, Manizales
+por allá, simplemente aparecía un nombre general que abarcaba toda la llanura
+Colombiana, que le decían los llanos oriéntales, pero si uno preguntaba ¿usted
+sabe Arauca, que existe un pueblo que se llama -------1? nadie sabía que existía
+un pueblo que se llama -------1 ni ------------2 ni -----3 ni -------4 ni ----------5
+ninguno, para la gente era como un territorito aparte, un territorio que no
+estaba integrado a la vida económica del país, entonces la revuelta araucana
+implico la necesidad que el país sobre todo Bogotá que ha sido muy centralista,
+todas la decisiones se toman en Bogotá, mirara que Arauca podía pasar a hacer
+parte del territorio venezolano, eso es lo que hace que se vuelva comisaría,
+ese temor a que Venezuela lo reclamara porque nosotros tenías más vínculos con
+
+Venezuela, cantábamos el himno de Venezuela mirábamos, oíamos la radio de
+Venezuela, éramos más venezolanos que colombianos.
+Las
+familias de las que nosotros dependíamos o de las que nosotros venimos casi
+todos venían de Venezuela
+ENT: En
+mi caso, por ejemplo.
+TEST:
+Exacto, eh la GRUPO FAMILIAR1 venían de Venezuela, la GRUPO FAMILIAR2, la GRUPO
+FAMILIAR3, bueno casi todas las familias Araucanas raizales,
+que somos hijos de esta llanura venimos de descendencia Venezolana, entonces
+por eso el presidente dijo vamos a enviar una comisaría como para darle
+importancia, ahí se inicia la formación de Arauca como Región, otro fenómeno
+que jugo es lo que nosotros llamamos la [INAD:15:34] Arauca se la tomo un señor
+que se llamaba Humberto Gomez, por eso ese episodio de la historia se conoce
+como la "humbertera" y como 3 o 4 días después fue que se enteraron
+en Bogotá que el señor y el lanzo una consigna que consolida más a Arauca como
+región y fue la republica de Arauca, ese fenómeno junto con la muerte de Gaitán
+hace que le suba de estatus se consolida más como Región y la convierten en
+intendencia, pero ya la mandes de consolidarse definitivamente como Región es
+con la constitución de 91 que la haciende a departamento, esa es la
+identidad histórica de tipo regional del departamento si este fenómeno no se
+presenta nosotros seriamos un municipio más o algunos municipios más
+de Casanare.
+ENT: O
+haríamos parte de un punto de Venezuela también
+TEST: O
+Venezuela hubiera dicho que hacíamos parte de allá y perfectamente lo hubiera
+podido hacer porque la verdad Bogotá no le paraba muchas olas a esto
+ENT:
+¿Por qué esa, ese abandono estatal, siendo digamos un territorio con una
+riqueza importantes para la Nación?
+TEST:
+Bogotá ha tenido el criterio de preocuparse por los que producen, en
+Colombia no ha había identidad solamente había identidad política ser liberal o
+ser la conservador, eso era lo que daba como la identidad nacional y lo otro
+era la parte territorial, se habla de los costeños, se habla de los eh de los
+antioqueños, se habla de los llaneros, se identificaban regiones por el lugar
+donde la persona hubiera nacido, pero la regiones periféricas del centro nunca
+les preocupo, porque no les producía, las carreteras, los ferrocarriles lo
+hacen en el viejo Caldas y en Antioquia porque allá se producía el café que era
+una de las cosas con las que se sostenía el país, entonces estas regiones las
+dejaron 200 años atrás, porque había dos sistemas de manejar el país, el
+
+sistema centralista y el sistema federalista, a nosotros como periferia nos
+hubiera servido más el sistema federalista, pero desafortunadamente desde 1886
+que Rafael Núñez tomo el poder nos devolvió 50 años atrás y creo un centralismo
+que se mantuvo hasta el año 86 con la elección de alcaldes o 91 con la
+constitución del 91, nos permitió actuar más como regiones administrativas. Es
+por eso digamos que hay tanto atraso que no había ningún interés en hacer vías,
+colocarle agua, luz a esta Región [INAD:19:00] ni siquiera voto, esto era muy
+despoblado y sigue siendo muy despoblado, entonces para los políticos les
+producía más colocarles todos los servicios a una ciudad como Medellín o
+Bogotá, Cali, Barranquilla u otras ciudades, que hacer obras donde no les iba a
+representar votos ni para el senado, ni para la cámara, ni para presidente,
+entonces no le paran bolas, ese es el motivo por el cual tanto atraso en toda
+la periferia Colombiana, porque no solamente es Arauca es toda la periferia,
+digamos en Guajira, digamos en Chocó, digamos en Putumayo, digamos en Vaupés,
+Vichada, sea Guainía, Amazonas
+ENT:
+Amazonas sí señor lado central el resto nos quedamos por fuera de ese sector.
+TEST:
+¡Nos quedamos por fuera del desarrollo, si!
+ENT:
+Bueno hay una cosa muy importante que yo vi digamos en libro, que habla de 2
+cosas y es que 1 era en Arauca no se ha podido crear un proyecto sociedad y el
+otro tema es que falta un líder, digamos que represente a Arauca, doctor ¿eso
+se da a partir de qué?, o sea que condiciones los limitan para que en Arauca no
+se ve un proyecto de pronto de vida
+TEST:
+Hace algún tiempo escuche una entrevista de un sociólogo norteamericano, creo
+que fue por Caracol (Canal Caracol) que le preguntaban ¿por qué a nosotros nos
+gusta la plata fácil? nosotros somos felices metiéndonos al narcotráfico porque
+en 1 año, 2 años, 3 años nos volvemos ricos o de sicarios porque vamos y
+matamos a alguien y de una vez nos pagan
+ENT: Si
+TEST: O
+en frontera en contrabando o los que están en el centro del país donde hay
+minas ir y durar 4, 5, 7 años a ver si se consigue una piedra que valga 1000 o
+2000 millones y quedar rico de por vida y no volver a trabajar, él decía que
+era que no teníamos un proyecto de sociedad para Colombia, aquí es cada uno
+defiéndase como pueda y cada uno enriquecerse como pueda y no de los métodos de
+enriquecerse es atreves de la corrupción administrativa y más en un
+departamento que ha producido tanto petróleo y le ha llegado tanta
+plata. 21:31
+ENT: Si
+TEST:
+
+Entonces aquí nos pasa que igual cosa, no tenemos una identidad Araucana, no
+tenemos un propósito común, una meta común, un sueño común yo pienso que la
+primera tarea que tenemos como Región si queremos avanzar es crear una
+identidad Araucana que no la hay, por eso muchas jóvenes prefieren sacar la
+Cedula en Bucaramanga o en Cúcuta, en Bogotá, en otro lado por el estigma que
+tiene Arauca, Arauca tiene el estigma de ser violento y corrupto. ¿Cómo pienso
+yo que, que se puede crear esa identidad? planteando unas consignas de las cuales
+todos nos sintamos orgullosos ¿Cómo nos sentimos orgullosos? yo pienso que unas
+de las cosas que puede crear identidad para de lo cual nos podamos sentir más
+adelante orgullosos, es que en este momento Arauca no tiene coca, tú sabes que
+la coca ha sido el combustible para la generación de todo el sistema violento
+que tenemos en Colombia
+ENT: Si
+TEST:
+El paramilitarismo se forma entorno a la coca la guerrilla se fortalecen
+entorno a la coca ¿Cómo compran los alto magistrados? ¿Cómo compran los generales?
+por que sin la participación del Ejercito y la Policía pues no habría coca,
+porque no dejarían que se cultivara obviamente la plata de la plata corrompe
+todo, corrompe los jueces, corrompe las mujeres, corrompe la sociedad, corrompe
+los medios de comunicación ¡porque hay mucha plata!
+ENT: Si
+TEST:
+En este momento, con los acuerdos de La Habana en Arauca no hay coca, entonces
+Arauca sin coca puede ser una consigna que nos permita desarrollarnos más, en
+el sistema productivo araucano eh por ejemplo en ------- no volvieron a sembrar
+coca y se dedicaron a sembrar plátano y ahorita Arauca es el 4 productor
+nacional del plátano, en ----------- en varias zonas del municipio no sembraron
+más coca, sembraron cacao y ahorita Arauca es el 3 productor nacional de cacao,
+si en consignas de esas pudiéramos conversar a la toda la sociedad Araucana de
+sentir orgullosos por eso sería un elemento y podemos tener muchos elementos de
+los cuales sentirnos orgullosos, por ejemplo tenemos la serranía aquí del
+nevados del Cocuy, uno llega a ----------3 y anda 20 minutos en carro y puede divisar
+una belleza que debe ser protegida, que nos permite atreves de senderos llegar
+hasta allá, pero para -------1 no existe eso, hemos estado muy embebidos de la
+corrupción mirando a ver como llegamos a la alcaldía, gobernación para
+enriquecernos pero no, nos preocupamos por la naturaleza, aquí nacen todos los
+ríos, un agua pura yo creo que una de las mayores riquezas que tenemos es el
+rio -----3 que es muy valioso es decir el agua es vida, esa puede ser una
+segunda consigna, pero cosas de la cual todos nos sintamos orgullosos que los
+muchachos ya después no se vayan a Bucaramanga, Bogotá o a otras ciudades a
+sacar las cedulas porque les da pena ser araucanos o por qué ser araucanos o
+por qué ser araucano es malo para cosa para el país, porque yo recuerdo cuando
+estuve como diputado que llegaba a una oficina [INAD:25:53] en un ministerio y
+
+usted vive en -------1 me decía ¿Cómo hace para vivir allá ? es decir la gente se
+imagina que -------1 era como en el oeste, en las películas esas que todos
+andaban armados, con una pistola distinta
+ENT: Y
+a caballo [risas] 26:14
+TEST:
+Con un buen sombrero, entonces eh esa imagen que tenemos obviamente que hay que
+cambiarla y solamente la cambiamos en la medida en que todos los araucanos nos
+sintamos orgullos y le mostremos al país que -------1 es mucho más que violencia
+o mucho más que corrupción [INTERRUP:26:31]
+ENT:
+Perdón doctor
+TEST:
+Bien pueda
+ENT:
+[INTERRUP: 26:37] Yo quería preguntar algo y es que -------1 tiene una forma de
+poblarse poco significativa diría yo, que es todo el tema de ¿Cómo llegan los
+Jesuitas? Pero también de cómo se crean unas formas de poder, unas estructuras,
+quisiera que me contara un poco de eso doctor, o sea, como se van formando esas
+estructuras porque, ósea si el centralismo afecta la cultura política en -------1 y de qué forma
+lo pudo haber sido, porque aquí en -------1 digamos con todo lo
+que me cuenta de humbertera, la revuelta araucana y otros temas que se nombran
+digamos dentro del libro se marcan unos liderazgos de un hombre llanero,
+rebelde a mí me fascina como lo describe en el libro, o sea me pareció como ver
+ese hombre en la llanura [risas] solo con su ganado ¿sí? eh digamos muy en
+trabajo de su libertad ¿no? creo que eso también marca una estructura política
+en Arauca y es como lo hacen a partir de un centralismo que tenemos acá y unas
+formas de luchas que se invisibilizan en el territorio, entonces me gustaría de
+pronto que me pudiera contar un poco de ¿ cómo se han dado esas
+transformaciones? 28:18
+TEST:
+Si, esta Región por lo mismo despoblado, por la misma situación de falta de
+conectividad con el centro eh fue un espacio libertario, fue un espacio donde
+llegaba la gente que no querían estar dominado inclusive los
+sectores que manejan los Jesuitas son muy pequeños, pero la inmensa
+región de la sabanas araucanas, eh ya manejan la libertad, si un negro se
+volaba de ser esclavo ¿Quién iba a venir a buscarlo? nadie si había una persona
+que quería establecer y obtener una riqueza pues se conseguía unas vacas y
+duraba 30, 40 años viviendo allí hasta que hacia 1000, 2000,3000 reses y se
+convertía en una persona pudiente
+La
+misma sabana eh donde no hay paredes, donde no hay muros, donde no hay cercas
+no había nada que lo limitara, invitaba a la libertad, por eso el llano le
+
+sirve, en la época de la violencia a Guadalupe Salcedo, porque nosotros yo
+diría que por geografía éramos liberales no, nos gustaba la opresión
+ENT:
+Claro.
+TEST:
+No, nos gustaba eh la injusticia ¿Por qué se da ese fenómeno del cambio? se da
+por el centralismo por que quienes traen la corrupción al departamento son
+[INAD:29:50] que es el departamento administrativo de intendencia y comisaria,
+los gobernantes que llegan cuando llega el petróleo, entonces llegan es a
+enseñarles a los que no saben o a los que apenas van a comenzar gobernar la
+región como robarse la plata y las vías entonces aprendemos, entonces se genera
+la corrupción pero a partir del centralismo en Bogotá, porque si el ejemplo de
+Bogotá hubiera siso otro, yo pienso que hubiera habido corrupción pero no en la
+magnitud que hemos tenido.
+ENT: No
+en la forma, en que manejado la corrupción, eh aquí -------1 tiene algo
+particular y es la ganadería y es también de cómo se forma digamos, tenemos por
+qué -------1 fue importante en algún momento también en la producción
+ganadera para el país, pero aquí no se construye ¿cierto? en ese momento, sino
+que se enfoca, porque al llanero le tocaba sacar con su ganado sin vías ¿no?
+durante muchos días, llevándolo hasta digamos donde se tenía que llevar su
+destino, pero también como esas transformaciones del ganado se han daban en
+-------1 o sea como esa economía ganadera se transforma en el territorio ¿de qué
+manera también se hace?
+TEST:
+Bueno realmente lo que forma la cultura llanera es que estamos dedicados a la
+ganadería y por qué -------1 jugo un papel importante en la época de la
+independencia, porque aquí había muchos caballos, muchas yeguas y era el medio
+de transporte
+ENT: Si
+TEST:
+Si hoy el medio de transporte básico digamos de una guerra por ejemplo son los
+aviones, en esa época, el medio básico de trasporte eran los caballos y
+nosotros teníamos por cantidades, porque una de las característica de las
+yeguas y de los caballos es que se reproducen muchísimo, así como llega una
+peste y puede matar 2000, 3000 yeguas o caballos también los reproduce, a pesar
+de que es uno a uno es muy grande rápidamente en 5 o 10, 15 años eh una persona
+que se dedique a cuidarlo puede tener muchísimo ganado caballar, y en esa época
+pues ese fue uno de los aportes que se hizo, pero la ganadería implica mucho
+más que eso. [INTERRUP: 32:27]
+ENT:
+
+¿Si quiere hacemos un resumen de 5 minutos y ya? [INTERRUP: 32:35], [CORTE:
+32:42]
+AUDIO
+2
+ENT: Hay
+que volver, el tema de, el tema de su carrera política doc. ¿Cómo inicia ese
+proceso
+TEST:
+Bueno yo estaba mitigando en Bogotá y mi mamá estaba en ------2
+ENT: si
+TEST:
+entonces yo me vine para ------------2 con el fin de atenderla porque ella
+estaba en un estado galantoso, estando en ------2 realmente el litigio de
+------------2 es muy pequeño, porque la población es muy... es un pueblo que no
+tiene mucha población si entonces eso hizo de que me quedara mucho tiempo
+libre y pues yo feliz porque hay mucha tranquilidad, no tienen uno el estrés de
+Bogotá, del tráfico, de correr. 01:09
+ENT: En
+las horas de trancón
+TEST:
+En las horas de trancón y alguien me sugirió de por qué no me lanzaba a la
+alcaldía
+ENT:
+¿De ------------2?
+TEST:
+De ------------2?
+ENT:
+¿en qué año fue eso? 01:25
+TEST:
+Eso fue en 91, 92, y a mí me pareció pues que de pronto podía prestar algún servicio
+en ------------2 y postulé el nombre mío. En esa época las comunidades indígenas
+podían votar, las de Casanare en [INAD:01:51] y entonces yo me conseguí tres unidades
+Mochuelo, Mochuelo y Getsemaní perdón Morichito, Mochuelo y Getsemaní y
+
+mande una señora allá para que le explicara a la gente como se votaba con el
+tarjetón, porque la gente anteriormente vota con una papeletica, la señora les
+explico ahí, fue dos meses a explicarles y todavía cuando se traían por que se
+gastaban como 4 horas para llegar ahí al pueblo, eh les explicaba , yo me lance
+por un -------------------------- y era como lo que yo encontraba más,
+menos corrupto y resulta que los indígenas votaron mal porque a pesar de
+que una señora se fue y les explico y por el camino para ir a votar les explico
+eh los 500 que venían en vez de votar por mí, votaron fue por el otro
+ENT:
+[risas]
+TEST: Y
+gano el otro, como a la 1 de la mañana después de que perdí le pregunte a una
+señora CONOCIDA7 le dije ¿y usted cómo voto?, me dijo, no pues yo vote fue
+marcando y rayando duro el contrario suyo, porque la que usted mando para allá
+nos explicó mal, nos dijo que había que rayarlo a usted y a usted como lo
+íbamos a rayar si usted era nuestro amigo. A raíz de eso y que mi mamá
+muere como a los 2, como al mes de pasar las elecciones pues ya no tenía
+sentido quedarme en ------------2 entonces me traslade a aquí a -------1 y el
+---------------------- es derrotado y me vinculo al -----------------ENT:
+¿Qué pasa con el ---------------------, para que quede derrotado?
+TEST:
+Primero pues la muerte de Galán, segundo los líderes que quedaron
+ahí no pudieron seguir adelante con el movimiento y el movimiento se
+desvanece.
+ENT:
+¿Por qué no pudieron? 04:28
+TEST:
+De pronto por que el ---------------------- venia combatiendo la corrupción, el
+narcotráfico y pusieron... cuando Galán muere, pone a Gaviria para que siguiera
+con las banderas de Galán, pero la mentalidad de Gaviria no era la de
+Galán
+ENT: Si
+TEST:
+Gaviria era un personaje que tenía dentro del -------------- como para no romper
+
+definitivamente con la clase política y yo diría que de lo más corrupto termino
+de jefe de un movimiento que iba en contra de la corrupción y obviamente pues
+las personas comenzaron a salirse del movimiento. Gaviria logra ser presidente
+de la república, pero ya no en el sentido como las tesis que abandero Galán
+contra la corrupción, contra el narcotráfico, contra la injusticia a favor de
+los pobres, sino más que todo a más que todo de las clases pudientes.
+ENT:
+Si
+TEST:
+Ese es el motivo por el cual yo me vinculo al ------------- posteriormente,
+como candidato a la asamblea, primero al concejo en -------1 no salgo tampoco y
+posteriormente en la asamblea y gano en dos oportunidades, hasta llegar a la
+cuando estuve preso que ya estaba de presidente del -------------------- y
+---------------- y --------ENT:
+Doctor ¿Cómo eran en ese momento el contexto dentro del ------------------? usted
+entra en el 90 más o menos ¿Entra al directorio ya de él, entra al ---------------- como tal
+¿Cómo era el contexto en ese momento para el -------------------como era ese proceso?
+TEST:
+Bueno, el ------------------- ganaba las elecciones ¿no? porque por la misma
+cultura que explicaba anteriormente de ser -------- yo diría que por la
+antonomasia o por costumbre o por cultura, todos los ----------éramos ---------no nos gustaba la opresión, no nos gustaba las injusticias y todo eso, sin
+embargo eh comienza a ser carrera dentro de la mentalidad, también de todos los
+--------------------- de la plata fácil, con la llegada de las regalías, la plata fácil era
+que llegara la alcaldía, llegara la gobernación era para echarse la plata al
+bolsillo y volverse rico, no en el sentido como se entiende la política del bien
+común, o ponerse al servicio de las comunidades por que un administrador o un
+político la función de él no es enriquecerse él sino ayudar a resolver los
+problemas que tiene la gente.
+Sin
+embargo eso se perdió, sin embargo el ------------- ganaba todas las
+elecciones, ¿Cuándo cambia el mapa político? el mapa político cambia con la el
+triunfo de Álvaro Uribe, el triunfo del paramilitarismo en Colombia, porque es
+que los mismos jefes del narcotráfico y del paramilitarismo en Colombia han
+contado que ellos financiaron la campaña de Álvaro Uribe, la imposición de
+CONOCIDO1 aquí, por medio del movimiento Cambio Radical que nadie lo
+conocía termino ganando las elecciones, no es normal que gane las elecciones
+
+alguien que no tiene una trayectoria o un movimiento que no tiene una
+trayectoria como lo tenía el ------------, ese es el cambio del mapa
+político de ser un departamento liberal a producirse un fracturamiento por el
+triunfo de CONOCIDO1 con el encarcelamiento de toda la dirigencia del
+Departamento, bajo la acusación de ser guerrilleros o de que éramos
+guerrilleros y la aparición de otros movimientos del uribismo como la U
+(Partido de U), como Cambio Radical, ¿Cómo influye eso? influye en el sentido
+de que no solamente CONOCIDO1 gana las elecciones si no que pone otro
+candidato, otra persona del afecto de él como candidato y gana las elecciones y
+él se pone al anterior y gana también las elecciones, o sea que el --------------------- después de
+que tenía casi hegemonía termino perdiendo todas las gobernaciones,
+desde el año 2003 que fueron las elecciones en octubre, porque a nosotros nos
+encarcelan para que ganara CONOCIDO1 faltando apenas cuatro días para las
+elecciones. De tal forma que quede él solo y obviamente sin contraparte uno
+siempre tiene que ganar.
+Entonces
+desde ese año 2003 que estaba el ----------- en el poder lo pierde hasta la
+fecha, es decir el ------------ no volvió a ganar ninguna elección, porque
+primero no solamente hubo un control militar, social, en los municipios de
+------2 -------4 -------1 esos cuatro municipios: -----3 -------1 -------4 y ------2 que
+era de control paramilitar, sino que al comienzo también hubo financiación,
+ellos financiaron la campaña de CONOCIDO1 ya ellos estando en el poder, se
+mantuvo digamos esa hegemonía hasta la fecha. El mapa político del departamento
+cambio completamente, uno puede observar hoy después de como a sangre y fuego
+se, se cambió el mapa político del departamento, que durante apenas cuatro años
+larguitos que estuvieron los paramilitares aquí en el departamento, confesado
+por ellos, porque he estado en las versiones donde ellos cuentan los crímenes
+que cometieron, mataron mil setenta persona en solo cuatro años, gran parte de
+ellos los matan en -----3 básicamente en -----3 y -------1 en -------4 y en ------2 también pero
+en menor cantidad, y en ---------únicamente en el sector urbano,
+en el sector que esta custodiado por la policía, pero [INAD: 11:43] de ese
+genocidio, de esa masacre, que es muy importante conocerlo porque no solamente
+por la cantidad sino por las consecuencias sociales que eso tuvo, que es lo que
+hace que siga ganando los conceptos de violencia, de no paz, perdón.
+[INTERRUP: 12:11]
+ENT:
+¡Tranquilo vaya!
+TEST:
+También con eso se entiende por qué, porque esa [INAD: 12:29] mantiene esa
+hegemonía, por la cantidad de gente que mataron, el temor que le causaba a la
+gente ese esa situación, entonces podríamos decir que esa parte, esos del -----de----------del
+
+2001 al --------de-----------------del 2005 que desmovilizan fue muchísima la
+masacre, anteriormente también ha habido para el ---------- muchos
+muertos, pero ya no parte de los paramilitares, sino por parte de la guerrilla.
+ENT: Te
+iba a preguntar eso...
+TEST:
+Hay un libro que se llama "El precio de ser liberal", donde relaciona
+una gran cantidad de muertes de líderes de la época petrolera, de la llegada de
+la guerrilla aquí al departamento.
+ENT:
+¿Es de acá el libro?
+TEST:
+Ese libro lo saco el -----------, voy a ver si lo encuentro y te lo paso,
+para que te sirva
+ENT: Te
+lo agradecería mucho.
+TEST:
+Si no estoy mal relacionan la muerte de 177 líderes desde la llegada de las
+regalías hasta el 95 tal vez, básicamente eran lideres esos muertos, eran
+líderes que de pronto no obedecían las ordenes de la guerrilla y les daban
+muerte, Sí uno hace ese parangón entre las personas que mato la guerrilla
+durante 30 años, yo diría que mataron más los paramilitares en 4 años que lo
+que mataron la guerrilla en 30, si vamos a establecer digamos ese parangón, eso
+ha incidido mucho en el temor de la gente y en la lucha contra la corrupción,
+porque cuando alguien critica a alguien porque es corrupto, el bando que sea lo
+llama y le dice: si no guarda silencio lo mato. Ha hecho, ha
+permitido que haya una actitud pasiva de la sociedad ----------- frente al
+problema de la corrupción, es decir los grandes recursos que han llegado el
+Departamento también han servido para comprar conciencias, y uno encuentra que
+muchas veces la gente no le importa que haya corrupción siempre y cuando ella
+se beneficie de una y otra forma.
+Yo
+diría que es como la incidencia que hubo de los años 80 con la presencia
+guerrillera y los años 2000-2005 con la presencia paramilitar, ------------1 ha estado
+cruzado por todas las violencias, la violencia de la delincuencia común por ser
+zona de frontera, a través del contrabando, las violencias de la época del 50
+con Guadalupe Salcedo, donde Guadalupe Salcedo hubiera tenido la mentalidad de
+
+tomarse el País se lo hubiera podido tomar porque el reunió más gente, más
+guerrilleros liberales acá en el llano que los defendían en Bogotá. Él
+perfectamente hubiera podido tomarse Bogotá, desafortunadamente Guadalupe no
+era un hombre político, no tenía un concepto de sociedad sino prácticamente era
+defenderse de la violencia conservadora que existía en esa época, pero
+perfectamente hubo una respuesta porque esa respuesta no solamente de -------1 sino de
+Casanare y de todo el llano, el Meta, se da por ese concepto de cultura
+en la cultura de libertad, de la cultura de no estar de acuerdo con la
+injusticia, de no aceptar la violencia pues contra ninguna persona, ese fue el
+caldo de cultivo por el cual llegó a reunir 20.000 hombres en armas, porque en
+otro ambiente no lo hubiera podido hacer, lo pudo hacer porque a la gente le
+gustaba eso de pelear por un objetivo bueno. Yo diría que esos son como los
+diferentes cambios de los mapas políticos, y como se genera el proceso de
+corrupción aquí en el Departamento.
+ENT:
+Vale, bueno Doc., tengo una pregunta que hacerte en el contrabando, ¿En qué
+momento...? digamos, ahí en su libro también nombra que hubo momentos muy
+específicos donde se agudizo el tema del contrabando, que tengo entendido que
+empezó digamos cuando se [INAD: 17:48] que hubo una prohibición, una venta de
+ganado, cierto, que hubo un tema, pero en qué momento ¿realmente eso se
+fortalece en -------1?
+TEST:
+Bueno, Yo pienso que el contrabando ha sido algo que nosotros teníamos como
+normal, es decir que no era ningún delito
+ENT: no
+había controles
+TEST:
+porque es que no había ninguna frontera
+ENT:
+como si fuéramos Venezuela, también.
+TEST:
+Éramos Venezuela, es decir, así como por ejemplo los indígenas en la Guajira,
+se pasan para un lado para otro, así estábamos nosotros, nosotros íbamos y
+veníamos, si algo no había aquí nos pasábamos aquí al -------y allá comprábamos
+lo que necesitábamos y al contrario, es decir no había ningún control
+realmente, entonces ha habido en la historia digamos unos momentos que han obedecido
+más a coyunturas entre los gobiernos de Venezuela y Colombia que realmente para
+
+nosotros acá en la frontera, por decir algo, una de las épocas doradas diría
+yo, para la economía araucana y que ayuda a fortalecerse como región, fue el
+oro blanco, o sea las plumas de garza, y ¿por dónde salían esas plumas de
+garza? esas plumas de garza salían por Venezuela llegaban al Orinoco, del
+Orinoco al Atlántico y del Atlántico a Europa, eso fue como aquí en Colombia el
+narcotráfico, ese control a esa prohibiciones que se dan después para que eso
+ocurriera, porque prácticamente esa exportación de plumas de garza casi acaba
+con la ganadería araucana, porque las garzas se come la garrapata en el ganado
+y entonces al matar las garzas, pues, se enfermó todo el ganado y llega un
+momento en que lo prohíben.
+ENT:
+Empezó a afectar el ecosistema, digámoslo así.
+TEST:
+El ecosistema, exactamente. Sin embargo eso en una frontera, tan grande donde
+uno ve una canoa donde en 5 minutos atraviesa el rio pues es muy difícil de controlar,
+es decir yo pienso que para controlar todo el rio tocaría poner un soldado cada
+10 metros, eso es casi imposible, porque es una frontera de 200, 2000 y pico de
+kilómetros, 2200 kilómetros, ni trayendo todo el ejército de [INAD:20:32] y todo el
+Colombiano
+no se puede controlar, controlar eso, porque las necesidades son las que hacen
+que la gente se pase para un lado y para otro. Por eso a mí me da mucha risa
+cuando en la televisión presentan que un millón de venezolanos está en Cúcuta,
+yo creo que un millón de colombianos íbamos a el otro lado y un millón se venía
+aquí desacuerdo a las necesidades por en una zona de fronteras, como la que
+nosotros tenemos con Venezuela y la gente busca satisfacer sus necesidades
+donde encuentra el producto, entonces esa es como la ubicación que yo le hago
+al problema de la frontera sobre todo que hay cosas que producen mucha plata
+ENT:
+¿Cómo por ejemplo?
+TEST:
+La gasolina, por ejemplo, un barrio de clase media como --------------en un
+sondeo que hice, se supone que allí no necesitaban hacer contrabando y
+encontraba que 50, 60 iban por la mañana y llenaban el tanque [risas] llenaban
+el tanque en el --------------, Venezuela y vendían la gasolina aquí, con eso se hacían
+lo del diario ¿por qué? por que la gasolina era más barata [INAD:22:07]
+ENT: Si
+TEST:
+
+Uno compraba un litro de gasolina en 20 centavos y una botella de agua valía
+1000 o 1200 pesos
+ENT:
+¿En Venezuela?
+TEST:
+En Venezuela, entonces pues yo pienso que lo mismo pasaba en Cúcuta, porque yo
+iba a Cúcuta y desde la frontera hasta llegar a Cúcuta eran miles de personas
+con un poco de canecas por la vía vendiendo gasolina, puestos de venta de
+gasolina, pero eso genera también bandas y esas bandas son asesinas, es decir
+el que no se somete a sus dictámenes lo matan
+ENT:
+¿Había manejo de la guerrilla dentro de esas bandas?
+TEST:
+Hasta donde yo conocía básicamente era delincuencia común, en alianza digamos
+con la guarda venezolana, en alianza con las autoridades colombianas las que
+permitían el transito digamos de grandes camiones o mandonas o vehículos. Es
+decir, hubo un momento que en la época de Chávez como allá la comida es
+subsidiada porque no la producen, la venden muy barata y uno encontraba
+productos no solamente en los 7 municipios de aquí del departamento de Arauca,
+sino inclusive en Casanare, uno encontrar harina pan, leche y otras cosas de
+allá, eso era un desangre que tenían los venezolanos supremamente grandes,
+porque si producían 10.000 toneladas de leche o algo o compraban 10,000
+toneladas de leche en polvo para vender, yo creo que por lo menos la mitad pasa
+por grandes grandonas, en complicidad con la corrupción de la guarda Venezolana
+y en complicidad con las autoridades colombianas y uno, hasta en Bogotá termina
+comprando a veces.
+ENT:
+Vale, bueno hay algo muy importante que ha nombra Doc. y es todo el tema de las
+transformaciones que ha tenido el territorio a partir de la colonizaciones, ahí
+hay un tema en el libro que hablaba de 8.000 y algo de hectáreas que fueron
+taladas para la colonización, ¿esas transformaciones como han sido para el
+territorio? porque éramos una sábana totalmente abierta y libre ¿cierto? con un
+montón de variedad de animales, de fauna, de flora, de ríos, de lagunas,
+¿no?, pero que con el tiempo se nos ha ido transformando ese territorio, se nos
+ha ido transformando también por las migraciones que hemos tenido, las
+colonizaciones, pero también digamos las mismas transformaciones del territorio
+a partir de los desplazamientos ¿Cómo ha sido esa transformación en el
+territorio a partir de esos cambios de que ha obtenido la sabana?
+
+TEST:
+Bueno, la colonización es propiciada por el mismo gobierno ¿no? A medida que el
+país se va haciendo más conflictivo, porque unos pocos son dueños de todas las
+tierras buenas, de las que realmente producen o en algunos fenómenos como en el
+que se dio con el paramilitarismo que le quitaron a les quitaron a los
+campesinos 2 millones y medio de hectáreas en la costa, al concentrarse las
+tierras en pocas manos se producen como una presión esa presión es por más
+tierra donde cultivar y en los años 60 existían mucha presión y muchas
+invasiones campesinas a grandes haciendas, entonces hicieron la apertura de la
+colonización atreves de la vía ------------------------ y llegando aquí a -------1 encontraron un
+espació supremamente grande, pero que atentaba con la
+naturaleza, porque una selva de... perdón [INTERRUP:26:46]
+[PAUSA: 29:05] ¿en que
+íbamos?
+ENT: En
+todo el tema de transformación que se presentó en la colonización ¿Cómo el
+gobierno llega?
+TEST:
+Sí, entonces
+ENT:
+Para esta zona
+TEST:
+La metodología que hace el INCORA, es que titula desacuerdo a la cantidad de
+hectáreas que se hallan talado, si una persona tala o tumban lo arboles 40
+hectáreas le titulaban 40 hectáreas
+ENT: O
+sea, como una misma política
+TEST:
+gubernamental
+ENT:
+¡Gubernamental! Gubernamental el tema de talar árboles para poder...
+TEST:
+Gubernamental el tema de talar árboles para poder hacer las casas y
+los cultivos, lo que si ha calculado por algunos estudiosos es que se
+
+talaron 800 mil hectáreas, o sea millones de millones de árboles, que hoy en
+día
+ENT: O
+sea ¿Arauca podría ser más fresquito por ejemplo?
+TEST:
+Podría ser mucho más fresco claro por las selvas que tenían, hoy en día
+entonces muchas de esas selvas se convirtieron fue en potreros, ni siquiera
+utilizaron la madera de todo eso
+ENT:
+Hubo una época maderera también, hubo una época de...
+TEST:
+Sí, pero di tú que hubieran sacado un 10% de la madera para venderla, pero ni
+siquiera para leña, porque allá era demasiada madera que...
+ENT: ¿Se
+perdía?
+TEST:
+Que se perdía y se podría [INAD:30:27 ] y entonces eso también influye en el medio
+ambiente, porque es que la destrucción del árbol, no solamente la destrucción
+del árbol es la destrucción también de la fauna, es el calentamiento global que
+va a cavar con la humanidad, entonces ese es un fenómeno que se produjo,
+beneficioso en el sentido de que Arauca entra a hacer parte de agrícola del
+país, convirtiéndose en el 4 productor nacional de plátano, en el 3 nacional de
+cacao, pero malo en el sentido que acabo la naturaleza virgen que tenía las selvas
+Araucana
+ENT:
+¿Después llega el petróleo?
+TEST: Y después llega
+el petróleo, para acabar de completar [risas]
+ENT:
+Para terminar con la naturaleza que nos había quedado de la colonización
+TEST:
+Lo que había quedado de la colonización
+
+ENT: Doctor,
+hay una reconfiguración que se genera en Arauca a partir de la colonización y
+está bien una reconfiguración que se da en las dinámicas políticas, unas
+diferencias de relaciones entre los que llegaron a colonizar y el llanero que
+está aquí ¿esto como se ve en las relaciones políticas del departamento?
+TEST:
+Bueno, se forman dos culturas diría yo, porque es que el llanero era
+individualista o sigue siendo individualista
+ENT:
+Pero es por esa misma explicación que das
+TEST:
+Por las distancias que había entre una casa y otra, es decir a veces uno necesitaba
+recorrer 10 kilómetros para ir de una casa a otra, si alguien necesitaba un
+puente pues era una sola persona, una sola familia la que necesitaba pasar ese
+caño
+ENT: Si
+TEST:
+Se decir, la relaciones individualistas se fortalecen mucho en sabana, con la
+llegada de la colonización pasaba todo lo contrario si habían 60, 80 hombres
+había un caño que había que hacerle un puente pues entre todos cortaban la
+madera y hacían el puente, es decir la parte asociativa, colectiva se
+fortalecen mucho más, en la parte de solidaridad entre las personas, si alguien
+se enferma en esa colonización pues entre todos tratan de ayudarle para que se
+pueda curar, el espiritual social se da mucho más con el colono, por eso las
+guerrillas llegan con la colonización, por que pensar hacer con los llaneros de
+sabana era muy complicado porque cada uno trataba de resolver su problema
+individual y le tocaba resolverlo solo.
+ENT:
+¿Todavía se presenta eso?
+TEST: Y
+toda vía se presenta.
+ENT:
+Muy individual todavía
+TEST:
+
+Somos muy individualista, el colono era mucho más asociativo, mucho más
+solidario, mucho más colectivo
+ENT: Si
+TEST: y
+por eso alcanzan un grado de desarrollo rápido, porque todo lo van resolviendo
+entre todos porque se amontonan los espacios son cortos, no como en sabana que
+son extensiones para ir de una casa a otra, aquí el fenómeno social, del
+fenómeno colectivo, el pensar colectivamente se da mucho más con la
+colonización, entonces esa formación como de dos culturas hace que se den los
+primeros paros que buscaban que se les solucionaran los problemas cuando
+comienzan a llegar las regalías, los de sabana no, es decir una vereda puede
+ser 10 casas en la sabana
+ENT: y
+cada quien vive por ahí a la media hora 40 minutos para poder ir a caballo.
+TEST: A
+caballo exacto, hacen le queda mucha más carretera de que se preocupen por lo
+colectivo entonces uno encuentre por ejempló municipios como Arauquita donde
+casi todas las veredas tienen muy buenas vías, veredales porque es colectivo
+hay un interés colectivo de poder andar tranquilo en su moto, en su carro o a
+pie en lo que sea o en cicla cosa que no nos pasa a los de sabana, los de
+sabana si el gobernante que llega es amigo y quiere meterle plata para ese lado
+le mete, pero no hay una presión donde más se ha podido hacer en sabana que hay
+hayan con mayor proyectividad que hay un numero como más grande de habitantes ha
+sido aquí en ----------- en -------1 pero el resto de veredas como ----------4 como de
+------2 y de -------1 casi no, no se unen para resolver sus casos, sus necesidades
+yo diría que esas son como las dos formas digamos de actuar sociales en las que
+se basa la cultura --------ENT: ¿Y
+eso en la figura política cómo se traduce?
+TEST:
+Eso se traduce en que [PAUSA: 35:46] pongamos el caso de un diputado, los de
+---------6 el de municipio de ---------6 en el periodo pasado tenían casi mayoría
+en la asamblea
+ENT: En
+----------7
+TEST:
+
+En ----------7 y se traduce en que siempre se busca sea en ---------6 el que tenga
+más trabajo social, que tenga más contacto con las
+comunidades aquí en -------1 es el que tenga más plata ¿no? el que
+tenga con que comprar los votos pero allá se da más, no que no se compren votos
+`porque eso es en todo el departamento, pero se da con mayor fuerza que tiene
+muy en cuenta el digamos vinculo de la persona con la comunidades la
+relación directa de ella, persona que van a elegir con las comunidades, aquí es
+lo contrario aquí en -------1 capital eso es como el que tenga más relación con
+el bolsillo el que más plata le dé a uno o más le eche mentiras a uno que le va
+a dar impuestos o tal cosa.
+ENT: Si
+TEST:
+Son dos, como dos formas, no son muy grandes las diferencias, pero si se nota
+todavía
+ENT:
+Doctor yo quisiera ver si hay una posibilidad de definir ¿Cómo era los líderes
+en los 80 y los 90 y como se definen los lideres ahora? Digamos, a pesar de que
+había unas amenazas y unos de corrupción digamos unas amenazas bastantes
+fuertes por parte de las guerrillas por el manejo de las regalías y de lo
+público, pero ¿Cómo eran esos líderes de antes? y ¿cómo ahora lo definimos? ¿si
+hay diferencias?
+TEST:
+Yo diría que sí, yo diría que... yo partiría como dos épocas diferentes una
+antes de las regalías, después de la regalías, durante las regalías y después
+de las regalías, porque ahorita no tenemos regalías o si tenemos, pero un
+porcentaje muy chiquito, muy pequeño, yo diría que antes de las regalías no
+existía tanta esa avaricia o ese deseo digamos de llegar a la administración
+para aprovecharse del área publica, la persona la hacía obviamente para obtener
+un sueldo pero realmente había como un interés más societario, más social
+ENT:
+La figura antes de las regalías era intendencia o
+TEST: Era intendencia
+ENT: Ya
+hay se había descentralizado un poco o todavía seguimos
+TEST:
+
+Las regalías más o menos aparecen en el 83, pero se comienza a percibir desde
+el 85
+ENT:
+Si
+TEST:
+Entonces yo hablaría de antes del 85
+ENT:
+¿Eso es comisaria no?
+TEST:
+eso
+era intendencia
+ENT:
+Intendencia, vale, los intendentes quienes los organizaba
+TEST: Los nombra el
+presidente de la Republica
+ENT: Presidente de la
+Republica, vale
+TEST:
+y los comisarios también
+ENT: y
+los comisarios también
+TEST:
+yo diría que lo que cambie de intendencia, de comisario e intendencia es el
+nombre
+ENT:
+Pero era la misma cosa, era casi la misma cosa
+TEST: Era casi la
+misma cosa
+ENT:
+¿Cómo eran esos liderazgos?
+
+TEST:
+Los liderazgos se establecían más que todo en por capacidades y por las
+posibilidades que tenían las personas de moverse en la sabana,
+ENT:
+Vale
+TEST:
+En el pie de monte, los colonos los establecen atreves del liderazgo mucho más
+consolidado es decir personas que era presidentes de junta o que habían
+liderado procesos de algún tipo y se destacaban dentro de los mismos campesinos
+a ellos los designaban como las personas representativas que eran a la vez los
+que tomaban las decisiones digamos para, proponer un inspector, para proponer
+un comisario, para proponer cualquier funcionario público, eso diría yo antes
+de las regalías, cuando llegan las regalías cambia el fenómeno completamente porque
+Bogotá comienza a enseñarle a la gente como hacer la corrupción y en los que
+logran llegar a la alcaldía o gobernación quieren seguir manteniendo su dominio
+dentro de la administración y se convierte en una compra de votos que en sí que
+de liderazgo, el liderazgo es quien logra llegar a la administración para
+acumular harta plata, para comprar los votos y mantener ese liderazgo.
+ENT:
+¿Cómo son las relaciones con el grupo armado en ese momento?
+TEST:
+Yo diría que las dos fuerzas cada una tenía su liderazgo dentro del ambiente
+digamos araucano, pero más que incidencias desde el punto de vista orgánico que
+fueran parte de un grupo, básicamente el control que hacían era un control
+territorial en el sentido de que todo el que este acá y yo manejo este sector
+eh me tiene que pagar el impuesto de guerra de 5, 10, de lo que fuera, porque
+se ha tratado de vincular digamos al --------- que es guerrilla y
+que ELN y que la Unión Patriótica era FARC, indudablemente que ha habido
+incidencia de la guerrilla pero no en los términos ni en las condiciones en que
+se ha tratado de demostrar al pueblo, al país, por que básicamente lo que busca
+eh con los impuestos que cobra la guerrilla es financiar la guerra, puede estar
+Pepe y Juan lo importante es que le dé una plata, para ellos poder mantener la
+guerra o mantener los hombres darles comida, comprar armas, transporte. Bueno
+todo lo que necesita la guerra y la relación digamos de confrontación que se da
+en las dos fuerzas principales ELN y FARC se da precisamente por ese control
+territorial, control territorial es que hay, si alguien tiene incidencia en 40
+veredas y el otro en 10 trata de seguir avanzando y quitarle al otro cosa que
+parece que la superaron, porque realmente fue muy lamentable la cantidad de
+
+población civil que murió, yo diría que después de los paramilitares esa fue
+otra guerra que hubo, no solamente fue de los paramilitares sino la
+guerra dentro de las misma guerrillas.
+ENT: Si
+y me hablas después de las regalías, entonces está el antes, esta durante y el
+después, o sea que es más o menos hoy en día como...
+TEST:
+Hoy en día
+ENT:
+¿Cómo es el tema de los lideres?
+TEST:
+Quienes fueron más corruptos, lograron acumular plata, para seguir comprando
+conciencias no, entonces hoy en día lo que queda ya es una diría que los que
+lograron acumular plata para hacer las campañas políticas pues son los que
+quedan gobernando y el fenómeno que va a agudizarse porque hay un proyecto para
+volver nuevamente a que se le de regalías a los departamentos, entonces ese
+fenómeno de la corrupción va a continuar si no logramos hacer esto que
+decía yo de crear una identidad del pueblo araucano porque eso no vale no
+procuraduría, ni fiscalía todo eso lo comprar lo único es el rechazo social,
+antídoto diría yo para combatir la corrupción y seria eso básicamente
+ENT: Lo
+que usted habla de una figura bien importante y es la figura de los testaferros
+¿cierto? de la persona que asumió unos, que aquí en -------1 es como muy común o
+muy cultural el tema de asumir los bienes, poner a nombre de otras personas,
+familiares, amigos para que el alcalde o gobernador no sea o el contratista no
+sea investigado ¿sí? ¿no se si usted ha escuchado de casualidad el caso que
+tengan que ver, desde los grupos armados que pongan tierras a nombres de otras
+personas?
+TEST:
+¡No!
+ENT:
+Para hablar de un tema de pronto del despojo
+TEST:
+La verdad no, pero si he sido muy consultado de fincas que la guerrilla ha
+quitado
+
+ENT: ¿Y
+cómo las quitaban?
+TEST:
+Simplemente les ordenaban a las personas que se fueran
+ENT: ¿Y
+ponían a otra persona ahí?
+TEST:
+La verdad no conozco bien, porque yo en tema ni de los paramilitares, ni de la
+guerrilla como la Ley de Victimas creo un capítulo especial de restitución de
+tierra ese fenómeno no lo he querido...
+ENT:
+Abordar
+TEST:
+Tocar, abordar, porque los clientes que tengo víctimas de los paramilitares son
+demasiados, por ejemplo hoy me han entrado, ahorita mientras hago esta
+entrevista pidiéndome que les reciba los casos a ellos, pero la verdad yo no
+doy para más, porque ya hay noches que paso la noche de largo, entonces no me
+he metido, simplemente cuando llega una caso dela guerrilla yo les digo que
+vayan a Cúcuta, porque aquí no hay unidades diarias de restitución o a
+Villavicencio, pero si conozco de varios, de bastantes casos o me han dicho
+pues que les lleve muchos casos de o varios casos de la guerrilla les quito los
+terrenos
+ENT:
+Vale, entonces si hay unos índices de que pudo haber en algún momento
+presentado algún interés de esas tierras, vale, Doctor.
+Aquí en
+-------1 volviendo otra vez al tema de la política aquí en -------1 no hay casas
+políticas, no se mantienen unas casas, pero hay una figura bastante común que
+es el gamonal ¿cierto? y es él se monta que es como CONOCIDO1 ¿cierto? ¿Qué
+lo hace para que sea [INAD: 47:25]
+
+TEST:
+Bueno en el caso de CONOCIDO1 quedaría como un fenómeno concreto, yo diría
+que llega untado de sangre ¿no? por la cantidad de personas que murieron para
+que el pudiera llegar a la gobernación, el de los otros gamonales llega por que
+
+un político los monto o les dio el respaldo para que llegara a una alcaldía,
+una gobernación y atrás ves de la gobernación en la alcaldía logran acumular
+muchos miles de millones de pesos para hacerse gamonal y ganar elecciones,
+entonces se puede dar un fenómeno de que un gamonal eh no solamente pone un
+candidato a la gobernación si no que el mismo vuelve y llega otra vez a la
+gobernación como el caso que tenemos ahorita
+Entonces
+para la gente eso normal y es lo que debe ser porque tienen en la cabeza de que
+la administración es para robar, montar al amigo de él, ayudarle a la familia y
+volverse a montar en el gobierno, esa es la mentalidad que tenemos para
+educarnos totalmente equivocada ¿no?
+ENT: Se
+da en todo el departamento, a pesar de que hay unas diferencias, pero se sigue
+viendo, digamos en el departamento de Arauca, de para política fracciono los
+partidos políticos ¿cierto? eso como se ve hoy en día en Arauca, esas fracturas
+porque hay muchos partidos
+TEST:
+Bueno, con él paramilitarismo género como 72 partidos, cada senador tenía su
+propio partido. Hubo algunas reformas que obligaron como a unirse más, yo diría
+que la mayoría de los pro-paramilitares se unieron en torno al uribismo y
+desaparecen Colombia democrática bueno tenían cantidad de nombres, cada como
+use cada frente paramilitar apoyaba un candidato al senado o al cámara y era un
+partido diferente de esos 72 partidos creo que ahorita solo quedan 16,
+eso se refleja aquí también, todos esos grupos generaba a raíz del fenómeno
+paramilitar tiene manifestación aquí en el departamento y en la izquierda
+también mantiene varios partidos, Unión Patriótica, Polo Democrático, porque la
+izquierda una de las características que ha tenido en todo el país es el
+fraccionamiento
+ENT: Sí
+TEST:
+Uno llega a pueblo donde hay 8, 10 personas de izquierda y cada uno
+después de unirse los 8
+ENT:
+la [INAD: 50:50] la del MOIR, la del
+8
+TEST:
+
+Entonces hay uno de cada uno
+ENT:
+Sí, si
+TEST: Y
+uno les dice, ustedes porque no se unen
+ENT:
+Claro
+TEST: Y
+no se unen, alguna disculpa saca para no unirse
+ENT:
+Sí
+TEST:
+entonces ese fraccionamiento hace que, pues haya como 4, 5 partidos de
+izquierda, aquí en el departamento, muy débiles, pero los hay
+ENT:
+Todavía digamos con presencia
+TEST:
+Con presencia exactamente
+ENT:
+Si, hubo algo que paso en el ------- y eso fue antes de la salida como
+tal de CONOCIDO1 a cambio radical y fueron las dos líneas que se forman, una
+que se va nueva generación eh y la otra que fue la del señor CONOCIDO8 tengo
+entendido, que hay como, hay una división dentro de esas, dentro del ----------------,
+¿eso por qué se da? digamos en ese momento, porque eso fue antes
+TEST:
+Bueno en el --------- [INTERRUP: 51:47] un segundo
+ENT:
+tranquilo, estamos hablando de la fractura que tuvo el ---------- en ese
+momento, de los que muchos libros nombran, pero que hablan de las posibles
+causas de esa fractura ¿Hubo unas diferencias ideológicas en ese momento?
+TEST:
+
+Yo pienso que más que todo de liderazgo a nivel nacional, entonces si un
+determinado líder a nivel regional seguía una orientación, y hubiese tenido una
+corriente [INTERRUP:55:25]
+¿de que estábamos hablando?
+ENT: De
+que precisamente había como algunas corrientes y algunas líneas de nivel
+nacional que hacía que...
+TEST:
+Pongamos un ejemplo, el ganamismo era una corriente del ---------------,
+existían otras corrientes
+ENT:
+Los GRUPO FAMILIAR4
+TEST:
+GRUPO FAMILIAR4 por ejemplo es otra corriente, cuando hace muchos años cuando
+estaba [INAD:56:47] era una corriente a
+nivel nacional, porque en el país siempre han habido como unos jefes políticos
+y hay gente que en los departamentos siguen a esos jefes más que por
+cuestiones biológicas es por cuestiones burocráticas, que por que este político
+me puso la hija a trabajar en la contraloría en Bogotá o en el senado o en tal
+ministerio, entonces le voy a colaborar a este jefe y entonces se van creado
+corrientes y más fácilmente uno veía aquí pues nuevas generación llegar y el
+ruralismo y así sucesivamente, pero generalmente siempre habían como dos
+fuertes que eran lo que manejaban los votos, que se adhería a una corriente
+nacional porque por el centralismo uno siempre necesitan del apoyo del alguien
+en Bogotá para que intercedan, para una determinada obra, un determinado favor.
+ENT:
+Vale, no sé si quiere profundizar sobre algún otro tema específico en este
+momento de la entrevista, porque ya eh quería preguntarte como para ir
+cerrando, desde su experiencia en el ejercicio político ¿Cuáles son los
+obstáculos que se presentan?
+TEST:
+Bueno primero la misma cultura de la gente ¿no? Porque no solamente es
+aspecto de la corrupción es la cultura de las personas, lo digo experiencia
+propia cuando estuve de candidato en ------2 pues para cualquier municipio que
+quiera el desarrollo busca a alguien que sepa y que conozca la normatividad, mi
+contraparte allá en ------2 fue un señor que se llamaba CONOCIDO9, creo que
+ni la primaria la había terminado y él le decía a la gente, yo iba y planteaba
+
+unas alternativas de desarrollo para pueblo y al día siguiente iba al mismo
+barrio y decía no voten por ese doctor, si lo vieron que el andaba enzapatado
+mire yo ando con un pie en el suelo, con la camisa por fuera y creo que él
+había tenido el máximo cargo que había tenido era ayudando a matar ganado en el
+matadero, no había terminado la primaria y había salido allá por corrupción,
+sin embargo a la gente le gusta el discurso de votar por el igual a él
+ENT:
+Sí
+TEST: Y
+el gano las elecciones allá en la alcaldía [INAD: 59:48] [risas]
+ENT:
+Fueron 500 votos para semejante lugar, porque ------2 es muy pequeñito
+TEST:
+Claro ahí estaba la votación para ganar, el que sacara 2 votos
+ENT:
+Claro
+TEST: Y
+la gente terminaba aceptando de que uno debe votar por los de uno, entonces
+entre más menos conocimiento tuviera y más corrupto fuera como que, eh me hace
+recordar por ejemplo, para mostrar como la cultura influye, un señor me decía
+yo no voto por usted, porque usted dice que no va a hacer corrupción, si usted
+no va a robar para usted mucho menos va a robar para mí y a mí me toca estar
+yendo con el que palo que más sombra de, me ponía un ejemplo yo voy a fiar a
+una tienda, pero si esa tienda la cierran yo que hago pues me voy a fiar a
+otra, si usted, no va robar usted, pues mucho menos va a robar para mí, pues yo
+busco uno que si vaya a robar, entonces esa mentalidad que tenemos que se ha
+hecho es cultural nos hemos acostumbrado ah como a depender de la parte
+política, uno se pone a mirar por ejemplo en municipios como en ---------6 tienen economía
+propia, Arauquita tiene economía propia produce cacao, -----3 produce plátano, produce
+ganado, engordan el ganado tiene una economía propia,
+en la sabana ha pasado lo contrario mucha gente abandono la finca por qué
+pasaba toda la vida trabajando para ganarse 10, 15 millones de pesos y aquí
+venían y nos ponían a hacer un [INAD:1:01:41 ] y le pagaban 15 millones[PAUSA:1:01:46 ]
+vendían unas
+30, 40 vacas y le pagaban y ahorita unos los ve vendiendo limones, haciendo
+nada por que acabaron con la economía básica que era la ganadería.
+
+ENT: O
+sea que podemos también deducir doctor, que la corrupción digamos en estas
+zonas, digamos que se da en todo el departamento, pero en esta zona se ven unas
+transformaciones culturales que afectan a la economía y que también permite un
+anclaje en los mismos grupos y en los mismos corruptos para mantenerse.
+TEST:
+Con [INAD: 1:02:17] ...como un círculo
+vicioso que va dando cuenta y vuelta
+ENT:
+Sí
+TEST:
+Tú lo has entendido muy bien
+ENT: Vale,
+es que la corrupción
+TEST:
+Es que es un circulo
+ENT:
+Exacto
+TEST:
+Vicioso, como que nadie sale de el
+ENT:
+Claro que sí, ¿algún otro obstáculo o este es el estructural?
+TEST:
+Yo diría que el otro obstáculo es la misma violencia ¿no? Si tú quieres ser
+candidata, pero un grupo guerrillero no quiere que seas candidata y tu no vayas
+y te maten, entonces también influye la parte de la violencia.
+ENT: [INAD: 1:02:56] ...para renovar,
+para...
+TEST:
+Estructuralmente eso la corrupción y la violencia
+ENT:
+
+Vale, y bueno
+doctor ¿Qué condiciones se podrían dar para mejorar el ejercicio democrático en
+-------1
+TEST: Yo creo que el aspecto
+principal es el de la cultura ¿no? el de la cultura, el de crear un propósito
+común, una un proyecto de región, yo pienso que si no hacemos eso, así pongan
+la pena de muerte para los corruptos, así eh la guerrilla diga que va a matar a
+todos los corruptos por la fuerza no se va a cambiar, porque mientras no
+cambiemos la mente los ----------y la única forma de cambiar la mente es a través
+de metas comunes, de una propuesta de vida común, entonces esa propuesta de
+vida común o ese proyecto de sociedad tiene que fundarse en cosas en las que
+todos estemos de acuerdo, por eso yo comienzo con la propuesta 'Arauca sin
+coca', porque la coca ha sido combustible para las violencias en Colombia, para
+la corrupción, que son como los dos males principales de Colombia la violencia
+y la corrupción, si no hay coca, pues, va a haber de todo pero se va a acentuar
+más con mil o dos mil o cinco mil hectáreas de coca fortaleciendo un grupo o
+una persona para que compre, mande a matar, cree grupos, entonces básicamente
+para mí no está en reformar las leyes ni en la Procuraduría, ni la Fiscalía
+sino en el rechazo que nosotros podamos hacer a la corrupción, pero ese rechazo
+debe obedecer a que uno realmente quiera que eso se acabe, pero acá nos pasa lo
+contrario queremos que siga la corrupción siempre y cuando nos beneficie
+individualmente a cada uno, entonces si me beneficia a mi pues es buena la
+corrupción porque yo salgo beneficiado, y para eso se rompe es...por ejemplo en
+China, ¿Por qué avanza tanto los niveles de desarrollo que ningún otro país del
+mundo lo logra? porque tienen un propósito de país, que es ser una potencia,
+pero si uno va a regiones lo que llamamos aquí departamentos, o va a cantones
+lo que llamamos aquí municipios, uno encuentra de que ellos también tiene un
+proyecto de sociedad, tienen un proyecto de región, tienen un proyecto
+municipio en la cabeza y todos le trabajan a eso, aquí no tenemos eso, aquí
+cada uno es mire a ver como se enriquece rápido y pare de contar, y así ningún
+pueblo avanza, Yo creo que si logramos crear esta identidad, que es como una
+idea que he estado como balanceando con algunos líderes de aquí del
+departamento y algunas comunidades, Yo creo que -------1 tiene todas las
+condiciones para ser una, una región muy desarrollada, porque hay riquezas
+incalculables, Yo por ejemplo cuando voy al río ------3 quedo aterrado de la
+pureza de esa agua, y eso es una riqueza mucho más que el petróleo, porque
+petróleo tenemos por cantidades pero el petróleo sabemos las consecuencias del
+medio ambiente que general, en cambio el agua no, el hecho de tener todavía
+unas montañas, unos montes con animales, unos ríos, el sistema hídrico de -------1
+envidiable y la fauna y la flora que tiene, por ejemplo aquí se creó la
+zona de protección del [INAD:1:07:11 ]
+
+ENT:
+Sí.
+TEST:
+Yo tengo un pedazo de tierra ahí, para mí eso es un avance supremamente
+importante
+ENT:
+¿Eso que comprende?
+TEST:
+Eso comprende eh varios municipios, varias veredas del municipio de ------2 y
+creo que unas verdeas de aquí de -------1 es protegerme para que no acaben los
+bosques, para que no acaben la fauna, no es por el lado del turismo
+internacional. Puede ser una riqueza ahorita por ejemplo acaban de llegar y
+creo que todavía están reunidos en el INSTITUCIÓN EDUCATIVA1 los chinos que vinieron a
+hacer un
+proyecto de con la guadua y la guaja, la guadua es verde tallo verde y la otra
+es la amarilla la que tiene tallo amarillo
+ENT: Sí
+TEST: Que
+en el Quindío lo utilizan mucho para hacer casas, eso a mí me parece muy bueno
+y apoyo esa idea, primero porque tienen los recursos que a veces uno no tiene
+los recursos para sembrar, creo que el proyecto es para el País de cinco mil
+millones de dólares y lo hacen sobre la base, como ellos en Estados Unidos son
+los que más contaminan, de que la guadua o la guapa produce o absorbe mucho
+CO2, o sea produce mucho oxígeno, entonces me parece buenísimo eso, eso es una
+riqueza, porque yo digo que uno no es un animalito que nace, crece, se
+reproduce y muere, sino uno debe dar cosas a la humanidad.
+ENT:
+¡Claro que sí!
+TEST:
+Entonces me parece muy bueno ese, es decir, para mi -------1 es supremamente rico
+más por las cosas naturales que por el mismo petróleo.
+ENT:
+Claro ¿alguna otra cosa que quiera agregar a la entrevista Doctor?
+TEST:
+
+No, he estado muy agradable contigo y por mi pasaba todo el día hablando
+contigo.
+
+

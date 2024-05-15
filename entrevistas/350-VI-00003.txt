@@ -1,0 +1,1304 @@
+ENT: hola TEST
+TEST: hola
+ENT: damos inicio a la toma de testimonio para la ORGANIZACIÓN SOCIAL1.
+Hace un momento estuvimos conversando sobre el consentimiento informado, no se
+si tienes alguna duda o inquietud que te gustaría que aclaráramos antes de arrancar.
+TEST: no, me quedó todo claro.
+ENT: bueno
+TEST, vamos entonces a conversar un poco sobre tu historia personal y vamos
+arrancar así un poco, qué me digas por favor cuál es tu nombre completo.
+TEST:
+bueno mi nombre completo es TEST
+ENT:
+¿cuántos años tienes?
+TEST:
+tengo 34 años.
+ENT:
+¿en qué fecha naciste?
+TEST:
+----------------- de 1986.
+ENT: ¿en dónde naciste?
+TEST:
+en LUGAR1, Antioquia.
+ENT:
+¿actualmente dónde te encuentras viviendo?
+TEST:
+En Argentina, ----------------.
+ENT:
+¿a qué te dedicas actualmente?
+TEST:
+bueno, por el momento soy ama de casa, por el momento, pero hice estudios
+terciarios en INSTITUCIÓN EDUCATIVA1 en ------- y acá ingrese para la INSTITUCIÓN
+EDUCATIVA2, ingrese perdón, a la universidad a psicología en la INSTITUCIÓN
+EDUCATIVA2 haciendo
+en CBC (ciclo básico común), pero bueno, por otros temas personales me retiré.
+ENT:
+¿realizaste algún estudio en Colombia?
+TEST:
+si, en el INSTITUCIÓN EDUCATIVA1 estudie gestión administrativa.
+ENT:
+¿ejerces algo de eso en este momento?
+TEST:
+en este momento no, pero en Colombia, en LUGAR1, si lo ejercí.
+ENT:
+
+¿cómo está conformada tu familia TEST?
+TEST:
+bueno somos... la familia principal, bueno, de nacimiento mi mamá y mis tres hermanas,
+perdón, mis dos hermanas, tres conmigo, soy la mayor y ahora estoy esperando un
+bebe y tengo un niño de 13 años, es mi familia en estos momentos en el lugar
+donde me encuentro.
+ENT:
+¿tu familia toda de LUGAR1?
+TEST:
+toda de LUGAR1
+ENT:
+¿te identificas o perteneces a algún grupo étnico?
+TEST: no, en el momento pues así que lo tenga muy claro, no.
+ENT:
+¿participas en alguna organización, colectivo?
+TEST: no
+ENT:
+vamos a iniciar un poco ya como haciendo este recorrido. Me gustaría que conversáramos
+un poco sobre Colombia, y me gustaría que conversáramos ¿a qué te dedicabas en Colombia
+antes de salir para la Argentina?
+TEST:
+bueno antes de venirme para acá estuve en LUGAR2, viviendo en la ciudad de LUGAR2,
+y trabajaba de cajera en un supermercado, tenía un añito y algo de estar en LUGAR2,
+pues por la situación del pueblo salí de allá, y estando en LUGAR2 me
+hicieron la segunda propuesta de venirme para acá, porque la primera me la
+hicieron en LUGAR1, no quise, y bueno por otras situaciones que se presentaron
+en el camino tomé la decisión y arranqué con lo que tenía a la mano, con lo que
+podía traerme y bueno, acá estoy.
+ENT:
+si pudiéramos hablar de algún hecho o situación que hayas vivido que hicieron que tomaras
+la decision de salir de Colombia, ¿cuáles serían esos hechos que originaron que vos te
+fueras del país?
+TEST:
+muchos, toda mi niñez, toda mi adultez prácticamente, todo lo que viví allá,
+llegó un momento en que ya no me sentía que era capaz de vivir allá, fue muy difícil
+seguir viviendo allá y más que todo porque tome conciencia y supe que no quería
+que mi hijo creciera en ese lugar, por todo lo que yo pase, eso me llevo a
+tomar la decisión de irme primero para LUGAR2, y estando en LUGAR2 me di
+cuenta que estuve... ya me sentía enferma, ya había pasado como a sentirme como
+con delirio de persecución, no es algo que me lo haya dicho un médico, sino que
+me sentía así, me sentía como marcada de que de pronto me estuvieran vigilando,
+de que de pronto pensaran que por irme del pueblo salí a decir lo que no debía
+decir, y me sentía perseguida. Y bueno como había comentado antes, una situación
+
+que me paso yendo al trabajo, saliendo del trabajo, perdón, estaba en el metro
+de LUGAR2 y veía un tipo que me miraba en cada estación, siempre yo esperaba
+a que se bajara y la persona no se bajaba y tome la decisión de bajarme en una
+de las estaciones, como para ver si lo que veía o lo que presentía si era conmigo
+o no, y diciéndome como por dentro de que no, quizás es que le recuerdo a
+alguien, quizá me está confundiendo con alguien, pero igual llena de miedo,
+pues por todo lo que ya venía viviendo desde niña, y me baje en esa estación y
+de esa persona se bajó y aproveche antes de que se cerrara la puerta para que
+el tren volviera arrancar y me subí y deje la persona atrás, y eso fue lo que
+me marco a tomar la decisión del todo de poder venirme, si, seguro, seguro
+venirme porque yo sabía que quería salir de allá, pero no creí que podía llegar
+tan lejos de irme tan lejos, entonces eso fue un hecho que me marcó mucho sin duda.
+ENT:
+TEST, cuando me dices que viviste muchos hechos y situaciones difíciles en la niñez y
+en tu adolescencia ¿podríamos profundizar un poco?
+TEST:
+sí, creo... puedo equivocarme con los años, las edades, porque quizás el recuerdo
+es vago, pero en fechas, creo que tenía 5 o 7 años, no recuerdo muy bien, yo sé
+que estaba mi mamá, estábamos solas en la casa, tampoco recuerdo si existía mi
+hermana la menor, sé que había otra hermana y lo que recuerdo fue un noche mi mamá
+llamándome desesperada con el dedo en boca diciéndome que no hiciera bulla, que
+no hiciera ruido y que nos fuéramos rápido para la cocina, y comencé a escuchar
+tiroteos explosiones y fue la primera vez que me marcó, que no se olvida que
+estaba tan chiquita que todavía lo recuerdo, ver a mi mamá montando colchones,
+reuniendo los colchones de la casa de las camas que habían en la casa para
+protegernos, nos metimos debajo de una de las camas colchones a cada lado y
+llorando todas ahí pero sin hacer silencio, escuchar cuando tocaron la puerta
+de la casa, que tirón un panfleto, era la toma de la guerrilla que se había
+tomado en pueblo y habían acabado con el batallón que quedaba alguna calle más
+arriba de mi casa.
+ENT:
+¿recuerdas qué grupo armado era?
+TEST:
+no, sé que era la guerrilla, recuerdo que después de que en la madrugada cuando ya
+comenzó
+aclarecer se veía el humo, se escuchan los vecinos hablar, comenzaron todos a
+salir, las calles muy destruidas, escuché que los adultos recuerdo que alguien
+dijo “creo que dañaron la alcaldía del pueblo”, “creo que dañaron el banco
+agrario”, y escuche también que alguien dijo “como que se salvaron los del
+banco”, porque creo que un día antes había llegado un helicóptero a buscar la
+plata del banco, entonces creo que habían dicho que la guerrilla no se había
+podido llevar la plata, escuche todos esos comentarios. Y bueno, qué más
+recuerdo, que del batallón habían matado al comandante del batallón y habían
+
+matado varios militares, muchos del batallón los acabaron, eso fue muy terrible,
+estaba muy niña y lo recuerdo, recuerdo mucho el miedo, no recuerdo tantos
+detalles de lo que pasó.
+ENT:
+¿qué otras situaciones?, porque me hablaste y me mencionaste varias, esa fue una.
+TEST:
+creo que tenía 13 años, o 10, no sé, nuevamente repito, no fechas, me tocó ver, y ya
+existían los paramilitares, no los conocía, o sea, en el pueblo no se había
+escuchado, quizás pues tan niña yo no los había escuchado, además que los
+adultos sí y creían que eran fuerzas militares del gobierno porque llevaban
+camuflado, pero era un camuflado de color azul. La guerrilla se tomó la -------mi calle, la casa de mi mamá queda en una calle la vía principal hacia -----------que es un
+corregimiento de mi pueblo, de LUGAR1, y creo que la guerrilla se tomó
+el pueblo, también asesinaron muchas personas, pero en ese tiempo la guerrilla
+se enfrentaba con los paramilitares que eran, me imagino, que eran los mismos,
+el Bloque Minero de las AUC, y bueno, hubo muchos muertos y recuerdo que una volqueta
+de la alcaldía, o me puedo estar equivocando, una volqueta bajo con muchas
+personas quemadas y paró justamente enfrente de mi casa, y había mucho
+desespero, mucho alboroto, salía un olor quemado, pues a carne quemada, horrible
+y recuerdo que cuando paró la volqueta arriba, no recuerdo en dónde estaba mi mamá,
+si estaba trabajando, no recuerdo porque a nosotros nos cuidaba siempre alguna
+empleada mientras mi mamá trabajaba, y lo que sé es que se montaron las
+personas a mirar qué era lo que traía la volqueta y no sé si fue que monte o alguien
+me subió de curiosidad y vi muchas personas quemadas, eso me marco mucho y me
+dio mucho fastidio el olor a carne. Y bueno, eso fue otra situación. También
+logré escuchar que habían matado a un RANGO que se llamaba, le decían
+RANGO1, y muchos más, entonces en ese enfrentamiento y muchas personas
+conocidas del pueblo que se encontraban en ----------- y la historia fue como
+que comencé a escuchar la historia de que las guerrilleras se habían metido al
+pueblo presentándose como prostitutas, estudiando toda la situación de la -------- y hasta
+que encontraron en una mañana, creo que fue muy temprano, 5 o 6 de la
+mañana bajaron, porque la -------- queda entre montañas y por eso lograron
+entrar después de haber estudiado y de saber quién eran los que pertenecían a
+las AUC y quienes no, acabaron también con muchas cosas allá en ----------- entonces
+eso también me tocó ver desde mi casa, el color naranja de las explosiones que
+queda a 45, 40 minutos en carretera destapada en trocha, de mi casa de LUGAR1
+hasta allá hasta -----------y se lograba ver imagínese la explosión, se lograba
+ver en el cielo color naranja hacia allá por tanta explosión, eso también me
+marco, y un sin fin de cosas más, no sé otra que recuerde, es que tengo tantas
+que no sé por dónde comenzar.
+ENT:
+tranquila, tomate un respiro, poquito a poco lo que te vaya trayendo así lo que se vaya
+viniendo a la cabeza.
+
+TEST:
+bueno, recuerdo que estaba donde mi tía, mi abuela vivía en ------------ mi tía tenía
+un quiosquito, mi mamá tenía un hermano, le llamamos el nene, era el niño menor
+de mi abuela, el tío nene, yo me la llevaba muy bien con él, siempre llegaba al
+quiosco, atendía, lo acompañaba, él era muy cariñoso conmigo pero mi tío fumaba
+marihuana en la casa, no se metía con nadie, no salía porque atendía el negocio,
+simplemente era consumidor de marihuana, y un día también escuché de niña, un día
+llego un grupo armado y lo mataron allá en la casa, lo mataron porque lo que
+supimos o lo que yo escuche que decían en mi familia que era por la limpieza
+social. Después de eso mi mamá trabajó desde que salió de hacer las practicas
+del INSTITUCIÓN EDUCATIVA3, del colegio de LUGAR1, donde se graduó que fue la
+primera promoción del liceo, paso hacer las practicas a la alcaldía de LUGAR1 y
+ya venía trabajando mucho tiempo con muchos alcaldes y en su momento llegó el
+alcalde... ganó el señor CONOCIDO1, que este año es nuevamente
+alcalde de LUGAR1, mi familia iba con él, lo apoyamos, en un principio recuerdo
+que llevó una volquetada de tamales para repartir, porque casi todo el pueblo
+iba con él, llevo un grupo vallenato, si mal no recuerdo eran Los Diablitos a
+la avenida principal y todo el mundo feliz porque él iba a ser el nuevo alcalde.
+Y bueno, ganó y después de que ganó reunió a todas las personas de la alcaldía,
+en eso mi mamá estaba en carrera administrativa y habían mucho sindicalista, y
+él un día llego y les dijo “necesito que mañana estén acá en el parque que hay
+una buseta a las 8 de la mañana los va estar esperando porque los vamos a ir a
+llevar donde el patrón”, esa historia la cuento porque la escuche de mi mamá,
+que fue muy duro para todos nosotros, mi mamá le contesto “¿cuál patrón? el único
+patrón que yo conozco era usted, es usted que es el alcalde”, y él le dijo “no,
+el verdadero patrón...”. Mi mamá no quiso ir, mi mamá dijo “no voy a ir porque
+tengo 3 niñas pequeñas”, y ella ya se imaginaba que era lo que pasaba, porque
+ella dijo “si me van a matar, que vengan acá a la casa”. Los demás compañeros
+de ella fueron, que eran los sindicalistas, entre otros creo que los llevaron a
+una finca, no sé si era del ------ para adentro, creo que fue cerca de donde
+hicieron la desmovilización de las AUC, bueno, de esa finca creo que era por ahí
+cerca, no sé bien, los llevaron y habían muchos hombres armados y resulta que
+los llevaron donde el señor RANGO2, que es uno de los
+extraditados, habían creo que una o dos fosas comunes, no recuerdo bien lo que
+escuche, y CONOCIDO1 cuando llegó allá donde él le dijo “patrón, acá los
+tiene usted ya sabe qué hacer con ellos”. Esto lo cuento porque uno de los
+señores que fue que es vecino de mi mamá, que era sindicalista, le dicen CONOCIDO2,
+él trabaja como obrero en la alcaldía, él cuándo llegó, que el bus lo dejo ahí
+enfrente de la casa, llegó temblando con miedo, pálido, diciéndole a mi mamá “FAMILIAR1
+paso esto, no puedes ir mañana a la alcaldía, no puedes volver”, contándole a
+mi mamá todo, uno era un chico ahí escuchado todo, entonces retomo, le dijo
+como que “señor aquí los tiene, ya sabe qué hacer con ellos”, y RANGO2 no sé qué
+iba hacer con ellos, con tal de que había un paramilitar que era de la mano de
+
+RANGO2, que era RANGO3, un moreno alto le dijo como “RANGO2 no les haga
+daño porque yo los estuve investigando uno por uno y resulta que ninguno es
+ayudante de la guerrilla, cada uno era de la casa al trabajo y del trabajo a la
+casa, o sea, ninguno le colaboraba a la guerrilla” entonces al parecer los habían
+llevado con el cuento de que todos los empleados de la alcaldía eran colaboradores
+de la guerrilla, entonces gracias a eso que dijo ese señor RANGO3 no les hicieron daño, pero
+RANGO2 si les dijo que durante un año les iban a mandar mercado a
+la casa, que no iban a volver, que él se iba a encargar de que cada uno recibiera
+un mercado durante un año, que ya no podían volver a trabajar en la alcaldía a
+partir de ese momento, que ninguno podía denunciar porque si no ya sabían lo
+que les pasaba, y que trataran de seguir con su vida normal. Entonces desde ese
+momento recuerdo mi mamá no volvió a trabajar, hubo muchas dificultades en mi
+casa pues mi mamá era la que daba todo en la casa, nosotros estábamos pequeñas,
+bueno jóvenes, siempre ha sido cabeza de familia, y bueno, lo importante es que
+gracias a Dios la dejaron con vida y a muchos, a todos no les hicieron daño,
+pero si acabaron la ilusión porque mi mamá ya llevaba muchos años trabajando en
+la alcaldía y ella quería pensionarse, y bueno, a raíz de eso no se ha podido presionar
+todavía. Entonces fue algo muy difícil porque no sabemos si el señor RANGO2
+logro mandar los mercados, pero nunca les llego, el señor RANGO2 también dijo
+que iba a hacer que CONOCIDO1 les pagara vacaciones, prestaciones de
+servicio por la labor que estaban presentando durante tanto tiempo, que les iba
+pagar todo y la verdad ni salud, ni pensión, ni liquidación, no les dieron un
+peso cuando salieron de ahí a ninguno. Entonces pasamos después de ese momento
+una situación difícil en la casa, a mi mamá le toco conseguir empleo en una
+casa de familia de un señor de apellido Lobo, que tenía un taller de mecánica,
+mi mamá iba y le hacía aseo, yo iba y le ayudaba como para tratar de generar un
+ingreso y de que pudiéramos llevar la comida a la casa, después de eso mi mamá….
+ENT:
+¿tu madre nunca realizó ningún tipo de denuncia?
+TEST:
+no, en ese momento en ese tiempo no, creo que no recuerdo cuántos años lograron
+hacerlo, pero los abogados ninguno quería, no sé si era porque ya se imaginaban
+la situación, porque el grupo los paramilitares estaban ahí latente, eran los
+que mandaban en el pueblo y me imagino que ninguno se atrevía, después de que
+se desmovilizaron ya comenzaron a denunciar y en el momento hay denuncias de eso.
+ENT:
+¿ante quién denunciaron, te acuerdas de la entidad?
+TEST:
+no sé, pero eso hay un proceso, nosotros hemos llenado papeles, por eso conozco mucho
+de la historia, conozco el abogado, CONOCIDO3 que es el que lleva el caso
+de todos, creo que la idea es pelear para que mi mamá pueda retomar el trabajo,
+el empleo, pues porque la echaron injustificadamente y porque ella estaba en
+
+carrera administrativa y se suponía que por estar en carrera administrativa no podían
+echarla tan fácilmente, porque estaba estudiando y trabajando al tiempo, se
+estaba preparando y hasta el momento no sé, lo que si sé es que le señor RANGO2 habló,
+estuvo en entrevistas desde Estados Unidos y él ha dicho gran
+parte de lo que dije acá, la verdad no estuve en la entrevista porque la
+hicieron en la casa de la cultura, mucha gente fue, fue abierto por vía Skype y
+creo que si hablaron mucho de eso. También escuche rumores la segunda vez que
+el señor CONOCIDO1 intento lanzarse a la alcaldía, se lanzó con el CONOCIDO4, que era el
+hermano de la ex alcalde pasada de esta administración
+2020, la señora CONOCIDA5, doña CONOCIDA5 algo así, y la mamá de CONOCIDA6 que era
+compañera mía de estudio ya nos hablaron y había escuchado de
+que el señor CONOCIDO1 supuestamente había mandado a matar al señor CONOCIDO4,
+que era médico de profesión, que era muy querido por el pueblo para poder ganar
+la alcaldía, mataron al señor CONOCIDO4 entrando a su finca, o saliendo, lo escuche
+en el pueblo también porque fue un dolor para todos, era una persona que todos
+en el pueblo prácticamente admirábamos, era el médico de cabecera de mi familia
+particular, primera vez que teníamos un médico particular porque él tenía su
+consultorio, pero recibía tanto indígenas y los atendía gratuitamente, es tanto
+que estaba el hospital público y nosotros íbamos donde él o sea, era un señor
+muy querido por la comunidad, atendía a todo el mundo tuviera plata o no
+tuviera plata los atendía, entonces era tan querido que todos queríamos que él
+ganara y se lanzó a la alcaldía y aparece muerto justamente antes de las
+elecciones. Eso me marco también mucho. También después de que se lanzó
+nuevamente en esa vez ganó, pues lógicamente porque el preferido murió, apareció
+muerto. Después otro hecho que también me marcó mucho fue cuando se lanzó
+contra CONOCIDO7, que fue otra persona muy querida, compañero de trabajo de
+mi mamá, y también se lanzó a la alcaldía, junto con él si mal no recuerdo con
+un candidato que iba por él y apareció muerto también.Y bueno, ya sabemos lo
+que se pasa ahí en LUGAR1, que tanto como la política va de la mano con los
+paramilitares sabemos que el hospital lo manejan los paramilitares, mi mamá
+actualmente trabaja allá gracias al señor CONOCIDO8
+que fue compañero de trabajo de mi mamá y que siempre creyó en mi mamá, en su
+trabajo, en su profesionalismo y cada vez que él ha podido apoyarla para que
+ella siga trabajando en lo suyo, y ya como es una mujer ya mayor que es
+complicado que consiga un empleo en otro lugar él le colabora, y por la
+experiencia que mi mamá tiene siempre le ha dado un empleíto, ahora ya está
+actualmente en la alcaldía de CONOCIDO1, que es algo raro que se nos ha
+hecho que no la han echado, pero esta allá trabajando en la parte de archive del hospital.
+ENT:
+¿tu madre siguió en contacto con su compañero sindicalista, con organización social
+política?, digamos, ¿cómo era esa participación y liderazgos en el pueblo?
+TEST:
+
+bueno, yo sé que ellos se reunían en secreto para poder hacer las denuncias,
+muchas veces lo hicieron en mi casa, se reunían, se llevaban papeles, como mi mamá
+era de la parte administrativa y entendía más eso el abogado casi siempre
+llegaba a mi casa, a escondidas, no se le contaba a nadie cuando venía,
+simplemente lo sabía mi mamá y cuando estaba el doctor ahí era que llamaban a
+los otros y llegaban ahí a la casa a firmar papeles, callados, en silencio,
+como si fuera de visita algo así, y mi mamá les ayudaba a llenar la papelería
+porque la mayoría quizás no habían estudiado, no sabían cómo hacerlo. Recuerdo
+eso, que los llenaban, y todavía es así, pero ahora creo que es un poco más
+abierto, escuché hablar a mi mamá de que quizás a ella la puedan indemnizar por
+algo que se llama brazos caídos, algo así, porque mi mamá no era sindicalista,
+ella había intentado ingresar, pero no sé qué fue lo que pasó, para esos días
+fue que se revolucionó todo y simplemente estaba en carrera administrativa,
+pero fue otra víctima más porque sin decir, sin más, que te lleguen y te digan
+un día no puedes ir, es más, no te lo dijo tu jefe, tu patrón, el alcalde, sino
+que te lo dijo un compañero que llego asustado, y más porque ya lo habían dicho
+a ella en una reunión antes, el día antes que iban a ir a otro lugar y que ella
+se arriesgó de no ir…. por decir recuerdo las palabras de mi mamá fue decir
+como “si me van a matar, que vengan acá a la casa porque no les voy a dar el
+gusto de que me desaparezcan y mis hijas no sepan en donde estoy” eso me marco
+total, y bueno, hasta el día de hoy sigo viendo lo que sigue pasando allá.
+ENT:
+TEST, ¿cómo afrontó esto tu familia, esta situación?
+TEST:
+bueno, mi mamá fue... mi abuela tuvo 9 hijos, mi mamá fue la única profesional,
+los mayores ya habían fallecido, el menor fue asesinado, mi FAMILIAR2 hace 4 o
+5 años también lo desaparecieron, también sufrí mucho, mi FAMILIAR2 él era moto
+taxista y resulta que él llevaba mineros hacia LUGAR3 y en mi pueblo hay
+barreras invisibles, a veces cuando pelean un grupo armado con los del ----, que
+es un corregimiento de LUGAR1 no se puede ir al ----, el ---- es un corregimiento
+de LUGAR1 que es la salida hacia LUGAR2, o de -------- cuando pelean con
+el grupo armado de los de LUGAR3 no se puede pasar hacia --------- que es
+hacia la costa atlántica. Entonces mi tío era una persona muy terca, era su único
+oficio, el único que creía que podía hacer una persona ya mayor y tenía muchos
+amigos que eran mineros y él los llevaba hasta el parque de LUGAR3, hasta la
+iglesia, los dejaba ahí y se devolvía. Era un --------------------, sé que eran las
+4 de la mañana porque me encontraba reunida afuera con unos amigos en ese
+momento, yo trabajaba en ORGANIZACIÓN PRIVADA1 de LUGAR1 de Antioquia,
+pero en oficinas en LUGAR1, y bueno estaba reunida, era un ---------------- a las
+4 de la mañana y vi a mi tío que paso en la moto con su uniforme, él vivía unas
+casa más atrás de la de mi mamá, pasó, me pitó y yo lo saludé con la cabeza y
+con la mano, le hice así y le hice un adiós, bueno, me fui a trabajar, a las 8
+entre trabajar, ah no, perdón, descansé ese día, tenía turno a las 2 de la
+
+tarde, recuerdo que a las 8 de la noche, 8 o 6 de la noche yo me encontraba en
+la oficina de los -----------, de la bomba de LUGAR1 y recuerdo que mi mamá llegó
+con la cuñada, con la esposa de mi tío que estaba en embarazo, tenían ya una
+niña, FAMILIAR3, y ella estaba en embarazo de mi FAMILIAR4, y las caras de
+ellas cuando las vi me preocupe porque mi mamá me pregunto “¿TEST has visto a
+tu tío?”, y yo le dije “si”, se alegraron, me dijeron “¿si?, ¿en dónde?”, yo “lo
+vi esta mañana a las 4 de la mañana”, me dijeron “si, eso lo sabemos, pero es
+que tu tío no aparece”, y yo les dije “ma, pero es que hasta ahora son las 6 de
+la tarde, seguramente se fue hacer algún viaje”, “no TEST, ya lo hemos preguntado
+a todas partes y los demás compañeros me dicen que no saben dónde”, ya mi mamá había
+ido con otro compañero en una moto a buscarlo por ------------ no llego hasta
+------------sino que se había ido por la carretera a ver si lo encontraban por ahí
+tirado, porque el rumor era que lo habían matado, el rumor en el pueblo, y la
+verdad si lo mataron, lo desaparecieron y nunca más volvimos a saber de él. Mi mamá
+fue hablar con el RANGO de los paramilitares, que era el esposo de una
+hermana de un ahijado de mi mamá, fue hablar con él a la casa a ver si nos podía
+decir por lo menos el paradero del cuerpo para darle una santa sepultura, que
+descansara en paz, no recuerdo el nombre del chico ni el alias, simplemente sé
+que mi mamá llego muy asustada y me dijo “no comentes nada, no digas nada, no
+vuelvas a mencionar sobre el tema”, y le pregunte “¿por qué?, hay que preguntar”,
+“yo ya fui a preguntar, me conto, y este chico me dijo, antes salí regañada, me
+dijo que no volviera a preguntar de eso, que no nos iba decir y que tranquila
+que él ya estaba enterrado con todo y moto, y que si nosotros llegábamos a
+denunciar ya sabíamos lo que pasaba, entonces nos iba pasar”, entonces mi mamá
+llego muy asustada y pidiéndome que no volviera a mencionar del tema y no se volvió
+hablar del tema en la casa, dentro de la casa si por fuera, no.
+ENT:
+¿había recibido amenazas previas?
+TEST:
+no nunca había recibido amenazas, lo que escuchamos decir eso que era porque había
+cruzado para donde no tenía que cruzar, porque él pasaba hacia el 12, perdón,
+hacia LUGAR3, me equivoque, hacia LUGAR3 a llevar a sus clientes, él tenía
+clientes que trasportaba todos los días y le pagaban mensual, y bueno, al
+parecer lo que escuchamos fue por eso, yo trabajaba, como le digo, en ORGANIZACIÓN
+PRIVADA1, allá mantenían grupos armados también, me tocaba tratar con ellos de los
+famosos
+campaneros porque es un lugar donde ellos se hacían para estar vigilando que
+carro policía o militares entraban, porque el batallón ya queda por los lados
+de -----------, saliendo para el -----, lo que recuerdo era que normalmente como vivir allá
+en mi pueblo es normal que usted se reúna con esa gente que ande con ellos o
+que les hable, o sea, es muy común porque son personas también ahí del pueblo
+que siempre son hermanos de alguien, o familiar de alguien, o el esposo de
+alguien, entonces sé que habían 2 chicos que siempre mantenían allá en mi
+
+trabajo, pues no en mi oficina, pero ahí al lado del restaurante y normal, me
+saludaban yo lo saludaba, yo sabía qué hacían ellos pero igual como le digo yo podía
+estar con cara de ogro y no hablarle a ninguno, porque como por decir no, estos
+son esto y esto, no les voy hablar, no, igual creo que uno les habla más que
+todo como por no respeto, sino por miedo, entonces recuerdo que una noche estábamos
+en mi casa, había ido el señor CONOCIDO8 a darle como el pésame a mi mamá,
+el ---------- que era en ese entonces ---------- y estábamos reunidos ahí afuera como
+una especie de velorio entre comillas, pero sin velas, sin sacerdote, sin nada,
+como tratando de darle algún silencio, le estábamos dando como un minuto de
+silencio, un minuto no un gran minuto de silencio, muchos minutos de silencio y
+recibiendo pésames de los vecinos, de todos en general que pasaban y llegaban y
+de “FAMILIAR1 lo siento por tu hermano”, tal, porque siempre hemos sido una
+familia conocida ahí, toda la vida, mi mamá ha sido muy conocida por su trabajo
+como empleada publica, y bueno, ha sido querida ahí en el pueblo, recuerdo que
+llegaron los dos chicos que mantenían allá en la oficina, perdón, en el
+restaurante de la oficina donde yo trabajaba, que eran grupos armados, que eran
+paramilitares y me llamaron, mi mamá se asustó, delante del --------me llamaron
+y simplemente me dijeron como “TEST él era tu tío, que pena, venimos a darte
+el pésame, no sabíamos que era tu tío”, yo no supe qué decir, yo quede como con
+la cabeza como no lo puedo creer, son tan descarados que ellos mismos lo matan
+y vienen a darme el pésame, no sé, así con la cabeza agachada como “TEST discúlpanos,
+perdónanos no sabíamos que era tu tío”, o sea, simplemente me dijeron eso y eso
+también me dolió mucho, yo no sé cómo resistí ese momento, y después cuando
+ellos se fueron mi mamá me dijo “¿TEST que te dijeron?”, porque todos sabían
+quiénes eran, y yo simplemente como para no darle más dolor a mi mamá le dije
+como “no mami me vinieron a preguntar algo de la oficina, del restaurante” y me
+metí a la casa, dentro de la casa, a llorar porque me dio mucho dolor. También
+me toco perder mi empleo de 3 años en ORGANIZACIÓN PRIVADA1 por culpa de los
+paramilitares, 3
+años en ORGANIZACIÓN PRIVADA1 que era un trabajo estable, tenía mi bebe pequeño, era
+mi sustento, vivía aparte, ya no vivía con mi mamá y bueno…
+ENT:
+¿qué edad tenías más o menos, te acuerdas?
+TEST:
+estaba entre los veinti algo, creo que tenía 24 o 25 años porque mi niño estaba
+entre 4 o 5 añitos y creo que fue en el 2010, 2011, algo así, no recuerdo bien,
+de verdad no me he puesto a pensar mucho en las fechas, siempre recuerdo los
+hechos más no como las obras, las fechas, los días tanto, algunas se me pegan
+porque, no sé, han dado como tan duro que se me quedan grabadas, pero si estaba
+trabajando y de repente llegó uno de los chicos de los que había hablado antes,
+llegó y me dijo “TEST tienes que cerrar”, resulta que los paramilitares habían
+comenzado a pedirle la vacuna, que normalmente se hace allá en el pueblo con
+todos los comerciantes, para el sustento de los paramilitares, eso es uno de
+
+los sustentos aparte de la droga y de quizás otros hechos que ellos hagan, no
+sé, aparte del hospital, porque ellos también reciben beneficios del hospital
+de LUGAR1, lo que si recuerdo era que estaba trabajando y uno de los chicos me
+dijo como “TEST, tienes que cerrar”, porque habían matado un GRADO del
+------ Cauca de los paramilitares que era muy famoso, no recuerdo la verdad quién era, no sé
+si habían matado en --------- en ------ no sé, y simplemente dieron 1 o 3 días de que todos los
+negocios tenían que estar cerrados a causa de que habían matado a esa persona y el grupo
+armado así lo exigía, y lo hicieron, no sé si todo el ------ Cauca, entonces él me mando cerrar
+y yo lo que le respondí fue “no, yo no puedo cerrar porque usted me diga, yo tengo jefes”, me
+dijo “TEST, tienes
+que cerrar porque yo no soy tampoco el que mando, a mí me mandaron a decirte
+que cierres y tú sabes que si no cierras te van a poner una granada acá, una
+bomba y la cosa no es contigo, entonces es mejor que cierres”, lo que yo hice
+fue tomar mi celular, llamar a la oficina, y me di cuenta que muchas de mis
+compañeras habían cerrado, entonces por eso me toco cerrar. Después de eso
+volvieron las amenazas, también recuerdo que….
+ENT:
+¿esas amenazas fueron directas hacia ti?
+TEST:
+a ORGANIZACIÓN PRIVADA1, a mí no, a mí nunca me amenazaron, para mí no, en ese
+momento no, era hacia ORGANIZACIÓN PRIVADA1, la empresa ORGANIZACIÓN PRIVADA1
+en la que yo trabajaba, porque resulta que ORGANIZACIÓN PRIVADA1 no quería pagar
+la vacuna, pero resulta que ORGANIZACIÓN PRIVADA1 era una empresa del estado, creo yo
+que era
+del estado, del gobierno antioqueño porque ORGANIZACIÓN PRIVADA1 era el que pasaba
+para la salud de los antioqueños en general, creo que eso es lo que pasa en Colombia con las
+casas de apuesta, que de ahí es donde sacan la plata para la salud, entonces
+comenzaron a decir que teníamos que cerrar y todas las compañeras iban a cada
+oficina a avisar “por favor cierren, no van a trabajar porque ORGANIZACIÓN PRIVADA1 no
+quiere
+pagar vacuna, entonces tienen que cerrar”, duramos como 8 días, 15 días de
+ORGANIZACIÓN PRIVADA1, la empresa de LUGAR2 nos llamaban y nos presionaban para
+que abriéramos, pero
+lógicamente nosotros sabíamos que no debíamos abrir porque ellos, la gerente o
+el gerente de ORGANIZACIÓN PRIVADA1 en ese entonces no iba venir a poner el pellejo por
+nosotros, porque ponían una bomba y lógicamente a quien iban a matar era a nosotros no a
+ellos, y acaban una oficina pero no con todas las ventas que tenían en las demás
+oficinas, eso era como si nada. Recuerdo que nos mandaban abrir
+obligatoriamente y estábamos estresadas, nos ofrecieron psicólogo, pero nos
+obligaban abrir, entonces era algo, como qué hago, voy a perder mi trabajo y es
+mi sustento, el único que tengo, en este pueblo ya no hay más en que trabajar,
+o sea, era difícil digamos que tomas la decisión todos nos reunimos, cerramos
+porque nos llevaban papelitos tienen que cerrar para poder... que nos creyeran,
+
+porque en un momento no nos querían creer en la misma empresa no nos creían
+creer, creían que era algo de nosotros, hasta que escuche un rumor como que uno
+de ellos se logró contactar con el supervisor y creo que se dieron cuenta que
+si era de verdad, nos reunieron en la alcaldía con la secretaria de gobierno
+del pueblo, de la comisaria, no recuerdo quien era, no recuerdo en este
+instante el nombre, y cuando llegamos allá supuestamente a una reunión con ella
+en una de las oficinas de la alcaldía habían unas sillas enfrente de nosotros,
+creo que éramos 10 empleadas, un poquito más o 8 o 6 no recuerdo todas, ya eso
+fue hace mucho tiempo que me retire de ahí obligatoriamente, no quería, estábamos
+ahí esperando pues la reunión con ella y de repente comenzó a llegar el
+comandante de la fiscalía, el comandante de la policía, el comandante del ejército, todos los
+comandantes que habían en el pueblo de cada entidad de policía o de lo que fuera y eso nos
+llenó de mucho miedo, todas nos mirábamos como ¡uy dios
+que hacemos acá! se llegan a dar cuenta que estamos reunidos con esta gente y
+la represarías con nosotros va ser mucho peor, además porque ORGANIZACIÓN PRIVADA1
+nos estaba obligando a nosotras a que teníamos que ir a denunciar los hechos a la estación
+de policía,, pero como les dije yo en ese momento yo no tengo que ir a
+denunciar nada porque a mí no me están amenazando, están amenazando es a
+ORGANIZACIÓN PRIVADA1, yo solamente soy un empleada de ORGANIZACIÓN PRIVADA1,
+yo no puedo ir a denunciar y más sabiendo en el pueblo donde crecí y no me voy a meter en
+un problema, que si me afecta mucho a mí, pero que no es mi empresa en sí, para mí los que
+tenían que
+denunciar eran los gerentes o los dueños, no sé. Entonces a causa de eso entre
+cierra y abre no volvimos abrir porque nos dijeron, bueno a mí me los dijeron “me
+haces el favor…”, iba para mi casa, había cerrado ORGANIZACIÓN PRIVADA1 la oficina,
+cuando iba
+para mi casa me tomaron, yo vivía unas casas más allá de las casas de mi mamá y
+cerca de la casa de mi mamá me pararon los dos chicos que habían ido a darme el
+pésame por mi tío y me dijeron “TEST…”, creo que era uno de ellos y el otro ya
+no estaba, lo acompañaba otra persona, eran bajitos, morenitos, me dijeron como
+“TEST, necesitamos que no vuelvas abrir ORGANIZACIÓN PRIVADA1, sabemos que tú eres
+una chica que simplemente trabaja ahí, no tienes nada que ver con ellos, con la empresa, no
+es tu empresa, pero el problema es con ellos y no queremos que tu lleves por
+parte de ellos, entonces no vayas a trabajar porque ya el comandante dio la
+orden que de oficina abierta que hubiera sin importar que empleada hubiera le
+pusieran una granada, te lo estamos advirtiendo, que prefieres perder el
+trabajo o perder la vida”, entonces eso me dejo pensando, me dio mucho susto y
+yo les dije “yo cómo voy a decir esto, o sea, no me van a creer, no nos creen,
+nos están obligando abrir, no es culpa de nosotros, van hacer que perdamos el
+empleo”, “no importa, ¿tú qué prefieres? ¿que ellos te crean o que nosotros
+hagamos las cosas?”, y bueno, eso hizo que tomara la decisión llamar al
+supervisor, le expliqué lo que había pasado, ellos mismos me dijeron “si te
+llegan a preguntar quién te dijo esto y dónde fue di que fue saliendo para tu
+
+casa y que dos tipos negros altos -o sea, lo contrario a lo que eran ellos- te
+dijeron todo esto y que no vas a volver abrir” entonces digamos que por eso me
+toco desistir del trabajo, y así de fácil terminó mi empleo allá, que lo quería,
+estaba ahí en mi pueblo con mi familia, todo, no me metía en problemas, pero
+bueno, me toco desistir de él y me dolió mucho también, ya tenía 3 años, yo ya
+me imaginaba que me iba a jubilar ahí, pero bueno, ya otra causa más de toda la
+violencia que se vivió allá.
+ENT:
+¿y qué hiciste después TEST?
+TEST:
+bueno, después me fui para --------- ah no, perdón, eso antes de tener a mi
+hijo estuve en --------- que fue cuando conocí al papá de mi hijo, después creo
+que no sé, me toco quedarme en la casa, volver otra vez a la casa de mi mamá
+porque no habían muchas opciones de trabajo, entonces era a que mi mamá nuevamente
+me mantuviera, con la liquidación que me dieron, mi mamá estaba sin trabajo por
+lo que había pasado, y con mi liquidación vivimos creo que fueron como 3 meses
+o 4 meses, que fueron como millón y algo de pesos, vivimos en la casa todas
+porque mi mamá estaba sin trabajo todavía, ya la habían echado de la alcaldía.
+ENT:
+TEST, retomando un poquito lo de tu tío ¿ustedes han iniciado algún tipo de denuncia,
+algún tipo de búsqueda como para esclarecer y saber qué fue lo que pasó?
+TEST:
+no, porque a nosotros nos amenazaron directamente que no podíamos decir nada y aunque
+ya hubo desmovilización los paramilitares siguen, los grupos armados siguen allá,
+siempre se cambian de nombre pero es lo mismo, o sea, Los Paisas, los yo no sé qué,
+los de Urabá, los Urabeños, Paisas, Águilas Negras, un montón de nombres que
+uno hasta los confunde, a mí me paso de niña, cuando te dije que los vi por
+primera vez pasar, cuando se tomaron ----------- que no conté eso, yo me llené
+de alegría porque ¡ay se metió la guerrilla a -----------!, y veo pasar
+camionetas blancas y negras con un poco de hombres armados, ametralladoras y un
+uniforme azul bonito en estampado militar, y yo “¡qué bien, va el ejército para allá!”, y “no
+niña, quédese callada, eso no es el ejército, eso son los paramilitares”, “ahh”, quedé como
+asombrada, recuerdo eso porque a veces se me escapa y cuento, me adelanto, retrocedo y
+así, pero sí.
+ENT:
+¿TEST tu familia y vos misma cómo afrontaron la desaparición de tu tío?
+TEST:
+creo que no lo hemos podido afrontar, creo que no, creo que uno tener familia
+desaparecida es algo muy complicado porque es con esa esperanza de ¿estará vivo?
+¿en dónde estará?, pero ya nos dijeron que está enterrado, pero ¿en dónde estará
+enterrado? ¿estará sufriendo?, fue muy complicado porque fue un ---------------mi abuela cumplía años el ---------------- pero sé que mi abuela iba a cumplir
+los 100 años, o ya los cumplió, fueron como 3 días sin poder decirle a mi
+
+abuela, o 2 días, y como mi tío siempre iba a la casa, le llevaba algo un dulce
+o algo, era su hijo menor, después de mi tío Nene que también se lo mataron,
+ese si lo dejaron en la casa, lo mataron, lo dejaron en la casa y me partió
+mucho el alma escuchar a mi abuelita tan viejita, con tantos años y decir...
+vernos reunidos y decir “y bueno, ¿ustedes por qué se reúnen?, está bien que
+estamos en navidad, ¿pero por qué como con esa cara, porque no con celebración?
+¿qué me están ocultando?, díganme”, hasta que tocó decirle, no querían decirle
+porque como ya era una persona tan viejita que de pronto tomara mal la noticia,
+y bueno, me acuerdo de ver a mi abuela llorando en el corredor de la casa
+delante de todos “¡ay mi niño!, ¡me mataron a mi niño!” después de que le
+dieron la noticia en pleno diciembre, esa fecha no hubo navidad, ese año no
+hubo navidad en mi casa y bueno, por obvias razones, y nada, fue muy triste,
+muy apagado, estábamos los demás felices en el sentido de que teníamos salud y
+vida, pero había un vacío muy grande que era mi FAMILIAR2 y más con... él
+estaba muy ilusionado porque ya había tenido su niña, FAMILIAR3, e iba tener a su
+niño hombre, FAMILIAR4 y lo quería mejor dicho conocer, se la pasaba hablando
+del bebé que iba tener, fue muy duro.
+ENT:
+¿TEST para ti que ha implicado haber presenciado tantos hechos violentos?
+TEST:
+y de los que no me acuerdo en este momento, que mientras contaba iba recordando,
+pero bueno, como que justamente de tantos hechos es una revoltura que no que más
+decir, de tanto que tengo no sé cómo mencionarlos todos, creo que he contado
+los que me han impactado demasiado, la muerte de otro primo mío, la muerte de
+mis vecinas, de mis amigas, de también como influyó como yo trataba con ellos,
+porque bueno, también traté toda la vida ahí con ellos, era amiga de ellos
+hasta que me di cuenta que ellos no eran amigos de nadie, o sea, por lo que hacían
+tome conciencia y eso me llevo a querer salir de ahí, a querer irme lo más
+pronto posible. Después conseguí un empleo, como el gobernador CONOCIDO9 cuando
+llego a la gobernación de Antioquia, en ese tiempo estaba de alcalde CONOCIDO10,
+el que se iba volver a lanzar que también lo asesinaron a la alcaldía, él le
+comento a mi mamá que CONOCIDO9 había sacado como unos empleos administrativos en
+los colegios del ------ Cauca de todo Antioquia, auxiliares de aseo,
+bibliotecario, secretaria, como para emplear más la gente de los pueblos, que
+hubieran oportunidades, y le dijo a mi mamá CONOCIDO10 un día le dijo a mi mamá “oye,
+hay una convocatoria por si quieres decirle a TEST que se ingrese”, y mi mamá
+me dijo, fui, hice todo el trámite por internet, me postulé, pasé porque lógicamente
+lo que no querían ya sabían que otra parte de otros lugares no podía entrar
+gente extraña en el pueblo, entonces porque cuando entra algún extraño siempre
+lo asesinaban, entonces para evitar eso intentaron contratar la misma gente del
+pueblo conocida para que no hubiera problemas, y bueno, pasé, me mandaron para
+----------- como ----------------------- mientras trabajaba allá una vez me tocó una reunión que
+llegó, porque pasó un hecho no recuerdo que fue, hubo enfrentamientos yo vivía con mi
+
+niño allá en una piecita en ----------- me toco meterme, hacer lo mismo que me toco de niña
+por el hostigamiento de la
+guerrilla, el pueblo es bajito de la montaña y ellos comienzan a hostigar, a
+tirar bala desde la montaña hacia el pueblo, y me toco con mi niño meterme en el
+baño porque no tenía ni cama, yo dormía con mi hijo, él tenía 6 años, 5 años,
+en un colchón en el piso, y me toco llevármelo para el baño con miedo, con
+terror por el hostigamiento y me hizo recordar cuando era niña y ver que a mi
+hijo le estaba pasado prácticamente lo mismo casi en la misma edad que me tocó
+a mí. Entonces creo que al otro día se tomaron los campesinos el pueblo, no querían
+dejar dar clase y vino el secretario de gobierno de Antioquia, que se llamaba Julián, que era
+el secretario de seguridad de CONOCIDO9, llegó en un helicóptero, a mí me tocó presenciar
+la reunión y tomar en un acta una firma, me pidieron firma de las personas de los asistentes,
+de todos los campesinos, de todo y mientras estaba tomando la firma uno de ellos me dijo
+“qué estás haciendo, no firme no firme, están haciendo firmar nada más para llevar esto a la
+policía y que
+puedan hacernos, ¿cómo es? tomarnos bajo algo, como para identificarnos a cada
+uno” porque supuestamente habían guerrilleros ahí acompañando los campesinos
+para ver qué era lo que se decía en la reunión, pero a la guerrilla no los conocía
+porque normalmente los guerrilleros en el pueblo no se presentan, ellos son de
+montaña y tratan de llevar su profesión callados, ellos no son como los
+paramilitares, que los paramilitares si andan en el pueblo con el arma, con
+esto, que ya uno los conoce quien es, y con la guerrilla es diferente, entonces
+simplemente le dijo a los otros mientras yo pedía las firmas “no firmen, no
+firmen y a usted créame que ya le van a mandar hacer algo por estar pidiendo
+firmas y ayudándole a ellos”, yo simplemente le respondí “que pena, yo simplemente
+estoy haciendo mi trabajo simplemente me pidieron que hiciera llenar esto y eso
+es lo que estoy haciendo”, y me dijeron “deje que voy hablar con el comandante”,
+y bueno, me llene de nervios me llene de mucho miedo y nada, después a los días
+hablé con la secretaria de ahí, CONOCIDA11 no sé, cómo ella era de ahí de -----------ella si
+conocía más que todo quien podía ser guerrillero, quien no, y creo que tenía
+como algún conocido de ellos y simplemente hablo por mí, que le dijeran
+al comandante que no me hicieran daño, que no me hicieran ir, que no me
+hicieran nada porque yo simplemente estaba haciendo mi trabajo, me lo habían
+mandado hacer y era lo que yo estaba haciendo, y yo lo que recuerdo fue que
+ella me dijo, CONOCIDA11 me dijo como “TEST no te preocupes no te va pasar nada ya
+hablamos con el comandante y él ya dijo que no, que tranquila que él sabe quién
+sos vos, que sos de LUGAR1, que pasa esto y que tú estabas haciendo tu trabajo”,
+entonces me quede trabajando ahí y ahí dure en la --------casi como dos años y después
+pase a bibliotecaria en la INSTITUCIÓN EDUCATIVA3 en el que antes se llamaba el liceo,
+que era el colegio donde mi mamá terminó, y bueno, por cuestión de política, de
+que CONOCIDO9 terminó su gobierno no sé si iban a seguir con el proyecto, no se sabía,
+y también con las ansias y las ganas de haber vivido todo eso me quería ir decidí,
+una prima me dijo “TEST, en LUGAR2, vente para acá, yo tengo un restaurante acá,
+
+me ayudas, te colaboro en la casa”, yo le ayudaba en la casa a ella y en el
+restaurante todos los días de lunes a domingo y ella me daba la comida y
+solamente me pagaba 30 mil pesos el sábado y 30 mil pesos el domingo, de resto
+me daba casa y comida, entonces fue muy duro para mí porque me toco dejar mi
+niño, pero yo ya había decidido que no quería estar más en el pueblo y bueno me
+fui, me fui para LUGAR2, fue como más de un añito y estando allá en LUGAR2
+que me pasó lo del metro fue que tome la decisión ya y dije me tengo que ir,
+porque ya me habían dicho de venirme para acá estando en LUGAR1, y lo pensé y
+dije que sí, pero lo que no me hacía venirme de una a pensar de que quería
+venirme era mi familia, dejar mi familia, porque el miedo no era solamente
+por mi sino por mi familia, además porque también tengo una hermana que es
+desplazada y otra que hicieron ir una vez del pueblo porque se juntó a vivir
+con un policía, porque en LUGAR1 las chicas no pueden charlar con ningún
+militar, nadie que pertenezca a ningún grupo del gobierno de policía, militar, SIJIN,
+SIPOL, fiscalía, de todas las entidades del gobierno, mi hermana se ajunto a
+vivir con un policía y mi mamá estaba trabajando en el hospital, yo estaba trabajando
+en el colegio en ese momento yo trabajaba en la sede que es el ---------------------- que
+quedaba en frente de la casa del -----------, de CONOCIDO10
+y recuerdo que estábamos ahí en la oficina y alguien fue y me llamo y me dijo “TEST
+paso esto, tu mamá te necesita”, y cuando llegué fue que mi mamá me conté que
+ella estaba trabajando en el hospital, un tipo un paramilitar se le acerco y la
+llamo por el nombre “señora FAMILIAR1, usted a mí no me conoce pero yo a usted si
+la conozco, necesito que le diga a su hija, la menor, nosotros conocemos a sus
+tres hijas, pero necesito que le diga a su hija la menor, a la que está casada
+la que está charlando con un policía que le damos tantas horas para que se vaya
+del pueblo”, mi mamá se llenó de nervios, los médicos, los compañeros de ella la
+tuvieron que llevar a una camilla, darle no sé qué porque se le bajo la presión,
+se puso mal, y la mamá del policía fue la que fue a buscarme a mi trabajo a
+contarme a decirme como “TEST está pasando esto, a tu hermana la amenazaron
+porque está charlando con FAMILIAR5, mi hijo”, “cómo así, no lo puedo creer”, y mi mamá
+en su desesperación “tengo que salir a decirle a mi hija que se vaya ya”, pero
+mi mamá no se acordaba que mi hermanita le había dicho el día anterior que tenía
+que ir a ---------a hacer un trámite en un banco en --------- y mi hermanita no
+estaba en LUGAR1, entonces después fue que mi mamá cayó en cuenta, pero verdad
+que FAMILIAR6 no está, cuando la llamó y habló con ella y le dijo “hija pero no
+puedes venir”, mi hermana le toco ir... ella se había ido a hacer una vuelta a --------al banco, y le toco quedarse, por allá duró no sé si fue un mes, yo fui después
+a llevarle ropa en una moto porque ella se había quedado sin sus cosas, le había
+tocado quedarse por allá porque le habían prohibido la entrada, y bueno, después
+fue que se pudo hablar porque una de mis hermanas charló con un paramilitar,
+tiene un niño con uno de ellos, mi sobrinito, y por medio de él se pudo hablar
+para que no le hicieran daño a FAMILIAR6 y FAMILIAR6 pudiera volver. Entonces digamos
+que eso fue lo que paso después de que mi hermana tenía mi sobrinito pequeñito,
+
+se dejó con él, a él lo metieron a la cárcel, lo capturaron, y mi hermanita se dejó
+con él porque también era muy difícil de que una mujer se desvincule de una
+persona que trabaja en un grupo de esos para poder desvincularse, a mi hermana
+le toco dejar el niño porque el duro en la cárcel como 3 años y mi hermana dejo
+el niño en mi casa con mi mamá y con nosotros, yo me hice cargo del niño con mi
+mamá y mi hermana le toco irse para donde el papá, a la Guajira, para como
+calmar las aguas para que el tipo cuando saliera no le hiciera daño, no le
+hiciera nada porque ella ya no quería estar más con él, y bueno, al tiempo mi
+hermana duró allá como 3 o 4 meses, mi mamá logro hablar con el RANGO4,
+se llamaba porque ya lo mataron en un enfrentamiento, también él salió de la cárcel
+y siguió delinquiendo y bueno, habló con él “mire, mi hija no quiere ya más”, él
+era formal con nosotros, la verdad iba muy poco a la casa, como “vea mi hija no
+quiere más charlar con usted”, le dijo “tranquila doña FAMILIAR1 no se preocupe, dígale
+a FAMILIAR6 que puede volver, que no le va pasar nada”. Al principio nos dio mucho
+miedo porque no creemos en la palabra de ellos, pero bueno, hasta que mi
+hermana tomó la decisión como que hablo con él, le creyó y bueno, un tiempo
+estuvo ahí hasta que el grupo armado al que él pertenecía como que cayeron el
+comandante que estaba con él cayó. Entonces eso es como una pirámide se cae uno
+y montan otro y con sus nuevas reglas y con un nuevo todo, no son guerrilla
+porque no están en el monte, mantienen ahí en la zona urbana porque cada comandante
+creo que tienen dos comandantes, uno para la zona rural y otro para la zona
+urbana, y ellos son visibles, ahí los que mandan en mi pueblo son los
+paramilitares, tantas cosas que puedo decir, pero como le digo son treinta y
+pico de años viviendo allá que créame que pasó de todo que es imposible como
+que uno recordar todo en un momento .
+ENT:
+TEST si pudiéramos hablar de consecuencias que ha traído todo esto que me cuentas,
+¿cuáles
+serían para ti, para tu vida, para tus proyectos?
+TEST:
+Bueno lo primero que me dolió mucho fue que casi la mayoría de mis compañeros fueron
+profesionales, yo no pude, [RISAS] porque si, lo que me paso, lo que le paso a
+mi mamá fue a causa de la violencia del conflicto armado, entonces quizás por
+eso no pude ir a la universidad, quizás por eso me tocó trabajar desde los 15
+años, porque yo decía, bueno, mi mamá, nosotras 3, tengo que búscame un empleo,
+salirme del colegio, trabajar en una papelería como para ayudarle a mi mamá el
+sustento, mi mamá sin trabajo, entonces fue como complicado, mujeres todas, éramos
+4 mujeres en la casa y las mujeres gastamos mucho, que toallas higiénicas, o
+sea, gastamos mucho, entonces es complicado, fue muy complicado, eso fue una
+cosa, después otra cosa, fue como… no, es el miedo que mantengo, el miedo
+persistente en el que mantengo porque todavía estando acá en Argentina todavía
+lo siento. ¿Qué otra cosa?, el estudio, no sé, también algo que sentí fue como,
+que no conté, que me falto también por contar fue la muerte del papá de mi niño,
+
+mientras yo estaba acá que lo asesinaron, él no pertenecía a ningún grupo
+armado, y bueno, hasta el momento está todo en investigación porque ese hecho
+si lo denunció la mamá de él, de mi ex pareja, y bueno, eso es otra cosa que también
+me dolió mucho porque aunque no me pasaba económicamente plata él siempre
+estaba pendiente de mi niño mientras yo estaba acá en Argentina tratando de
+ahorrar para poder traerme a mi hijo, poder sacarlo, porque en el terror en el
+que vivía con pesadillas que todavía tengo a veces, me levanto con pesadillas
+de que una explosión porque me tocó vivirlas mientras trabaja en ORGANIZACIÓN
+PRIVADA1 que
+estaba en la oficina y quizás en tres casa más abajo me toco una vez que
+explotaron, tiraron una granada, había una discoteca también así enfrente, también
+asesinaban gente, llevaban ahí afuera y asesinaban entonces como ese miedo de
+vivir eso también me afectó mucho ya como en lo más… aparte de estudiar, es el
+miedo de saber de siempre me preguntaba ¿hoy me tocara a mí?, ¿hoy voy amanecer
+muerta?, cuando iba a trabajar ¿será que me están persiguiendo?, ¿será que si
+le hablo a este?, porque la policía siempre iba y llegaba a firmar un libro
+donde pasaban revista la policía, entonces el miedo, los vecinos como “TEST, estás
+hablando mucho con los policías, te van a matar, te van a asesinar”, y yo tener
+que responder “no, es mi trabajo ellos tienen que ir a pasar nota allá, que
+fueron a pasar revista a la oficina y no es culpa mía tener que hablarle al
+otro grupo armado como para no sentirme amenazada”, después de que “esta
+solamente le habla a los policías y a nosotros no nos habla”, o sea, es un sin
+fin de cosas. Quizás el progreso que no pude tener en el estudio, en lo económico
+tener que dejar mis estudios, tener que sentir la soledad de mi hijo
+en el pueblo, la inseguridad de los panfletos que llegaban porque se iban a
+llevar los niños menores de tal edad, para que todo niño que vieran solo en la
+calle se lo iban a llevar, de tomar la decisión si mandar a mi hijo a la
+escuela o no, o sea, son muchas cosas que quizás porque mi hermana perteneció...
+tuvo un niño, perteneció a un hombre de ellos, o sea, de un grupo armado que no
+sabemos si es el mismo grupo o no, y bueno, convivió con uno de eso tipos y le tuvo
+un hijo, de saber de que como ya el tipo lo mataron y había otro grupo armado
+pues los mismos pero ya como otra pirámide crean que mi hermana les pertenezca
+a ellos o quizás de que mi hermana podía saber cosas, de que la asesinaran, o
+de que se quisieran meter con mi sobrinito, de que lo tomaran como propiedad de
+ellos porque era hijo de un paramilitar, entones eso algo muy complicado fue...
+dolores todos, todavía los tengo. Cuando llegué a LUGAR2 busqué ayuda psicológica
+porque no me sentía bien mientras estaba en pueblo, digamos que lo veía y lo sentía
+pero no me había dado cuenta, cuando salí del pueblo fue que lo noté más, ahí
+fue donde lo note y me di cuenta que estaba enferma por culpa del conflicto
+armado de mi país, de mi pueblo, por eso ahí me di cuenta, y estar acá ha sido
+una recuperación muy lenta porque no me he podido recuperar todavía, y no puedo
+olvidar la gente de mi pueblo, mi familia, que todavía está allá ya gracias a Dios
+saqué mis hijos, mi hermana pudo salir con sus dos niños y mi otra hermana si
+
+esta allá, pero bueno, ahí con la duda de que va pasar más adelante porque mi
+hermana la menor está en embarazo, va tener otro niño, entonces eso no es la
+vida una vida que un niño merezca, no es….
+ENT: TEST cuando me dices que sales para LUGAR2 y que te das cuenta que todavía el
+miedo te persigue y decides que vas a venir a probar suerte y a la Argentina me
+gustaría que habláramos un poco sobre lo que implicó la salida tuya de Colombia
+para la Argentina
+TEST:
+bueno, fue una decisión muy difícil, primero alejarme de mi hijo, dejarlo en el
+hueco negro con las serpientes y salir primero, que siempre pensé primero sacar
+a mi hijo del hueco del lado de las serpientes y quedarme ahí, pero fue todo lo
+contrario, entonces sabía que si o si lo tenía que hacer de esa manera. En LUGAR2
+no encontré la forma de salir adelante, trabajaba en un super mercado, pero
+era... el horario era muy matador, era muy difícil, en LUGAR2 cada día había más
+desempleados, el miedo que me llevaba porque me encontraba gente de mi pueblo
+en toda parte, si estaba en el metro me encontraba a tal persona de mi pueblo,
+paramilitares, vecinas, de todo entonces era muy complicado… [CORTE DE
+GRABACIÓN]
+TEST: ….
+bueno entonces fue algo difícil, como separarme de mi familia implicó hablar
+con mi hijo, perdón decirle como [INTERRUP]
+ENT: ¿qué edad tenía tu hijo?
+TEST:
+FAMILIAR7 creo que lo dejo como de… ahora tiene 13, que los cumplió este año 13, 12, 11
+creo que tenía como 10 añitos, me había llevado para LUGAR2, allá le celebre el cumpleaños,
+el ultimo cumpleaños lo pasé con él antes de venirme, porque yo
+me vine en ----------, él cumple --------------.
+ENT:
+¿recuerdas el año?
+TEST: no [RISAS]
+con las fechas me va muy mal, bueno, hable con él y dije mira “pasa esto”, lógicamente
+no como “tengo miedo de vivir allá”, todo eso porque él estaba allá, yo
+simplemente lo hacía subir… Bueno, entonces hablé con FAMILIAR7, trate de convencerlo,
+pues de no hacerle dar tanto miedo de porque en realidad me quería ir allá del
+pueblo, sino más que todo hablándole del futuro, de querer estudiar, de que ahí
+también no le podía dar estudio a él, que somos una familia humilde, que no
+tenemos las comodidades para poder progresar tan fácil, que para mí el progreso
+viene es por la parte educativa, siempre lo he sabido, siempre me lo ha dicho
+mi mamá, y bueno, por medio de un amigo de mi mamá médico que trabajo allá me
+dijo me escribió como “TEST voy a tener una bebé y quiero que tú la cuides, veo
+que es una oportunidad buena para que te vengas, para que estudies, yo sé que
+tu toda la vida has querido estudiar y para que salgas de ese pueblo”, porque él
+conoció qué era LUGAR1, y bueno, simplemente me vine le dije a mi niño que iba
+
+durar un año y después mandaba por él o iba y lo buscaba. Mi mamá estaba
+contenta porque quería que yo también tuviera un buen futuro y me fui una
+semana para allá, casi no voy al pueblo, me dio mucho miedo creyendo que de
+pronto pensaran que había ido a LUGAR2 a decir lo que no era y cosas así, fui,
+me pase una semana con mi familia antes de venirme para acá para ------------renuncié, lógicamente había renunciado unos días antes al super mercado donde
+trabajaba, y nada, me quede con mi familia en la casa del miedo que tenia de
+salir a la calle, de que me vieran, o sea, el que me veía en el corredor pasaba
+y me saludaba, el que no como “TEST te fuste para LUGAR2 no te dejaste ver y
+de repente apareces en Argentina mucha rara usted, o sea, no salió a despedirse
+de nadie”, y más porque tampoco quería decir que me venía para acá porque me
+daba mucho miedo, no sabía que podía pasar, entonces digamos que siempre viví
+en ese miedo. Logré venirme para acá, acá mantenía pesadillas no sé si era
+porque estaba alejada de mi niño, de mi familia, de todo eso, por todo lo que
+estaba pasando allá, y bueno, porque mientras estaba acá me comenzaban a mandar
+fotos o veía fotos en el Facebook del vecino, del amigo, del conocido, que lo
+mataron, que lo desaparecieron, que paso esto, que le hicieron esto o la vecina
+o la amiga, es muy complicado, cosas que todavía siguen pasando, y bueno, no
+sabemos cuándo se va acabar todo esto.
+ENT: cuándo sales de Colombia y ya llegas a migraciones acá en Argentina, ¿qué
+sentimientos o pensamientos cruzaron contigo una vez llegaste?
+TEST:
+emociones de tristeza, créame que en vez de tener alegría me dio mucha tristeza,
+hice lo que quizás de pantallera publicar en el Facebook de que estoy acá, pero
+en realidad con el corazón triste, con el pensamiento de ¿qué va pasar después?,
+¿donde le llegue a pasar algo a mi familia cómo hago para devolverme?, porque
+la verdad yo me vine porque el pasaje me lo dieron, si no, no me hubiese podido
+venir porque ya venía con un trabajo, alguien me dijo “necesito que seas la
+niñera de mi hija”, pues el médico, y me pagó el pasaje, pero la verdad yo no tenía
+ningún recurso para salir. Cuando salí de mi pueblo de LUGAR1 para LUGAR2 me
+fui solamente con una maleta pequeña que llevaba ropa y ya y una sábana y de
+resto no me lleve nada más, y con eso fue lo único que salí y estar en LUGAR2
+y pasar necesidades porque las pasé, que viví en casa de una prima las pase, me
+di cuenta que no era el lugar tampoco para estar porque me encontraba a gente
+de mi pueblo en todas partes, o sea, era como estar en LUGAR1 prácticamente, y
+vivir como en un barrio donde vive casi medio LUGAR1 ahí también entonces era
+lago desesperante, quiero salir pero me los encuentro en todas partes, o sea, quizás
+no tanto los paramilitares, pero si a los conocidos, entonces si te encuentras
+con un amigo “¡ay me encontré a TEST en tal lugar!”, no había hecho nada malo,
+pero me sentía como si lo hubiera hecho, me sentía perseguida, me sentía con
+miedo, me sentía mal, terroríficamente mal.
+ENT: ¿y aquí?
+TEST:
+
+acá peor todavía porque me sentía como que me había salvado yo y había dejado a los
+míos allá, o sea, no me dio alegría, créame que no, hasta que no salí me
+mostraron los bosques de --------como ¡wow que lindo!, pero cada vez que veía
+algo más bonito en Argentina me daba más tristeza que alegría, porque decía “que
+rico tener mi familia acá, que rico tener mi hijo acá para que ellos vean esto,
+para que vean que existe algo más bonito que lo que pasa allá”, o sea, fue muy
+duro, fue muy complicado. Tuve depresión, me enferme mucho a causa de eso por
+eso me toco salirme del CBC (ciclo básico común) en la INSTITUCIÓ´N EDUCATIVA2, porque
+no podía concentrarme en el estudio, no podía trabajar y estudiar porque en ese tiempo lo
+hacía, trabajaba de camarera en un restaurant y estudiaba hacia el CBC, y pensar en mi hijo
+y en mi familia y en las noticias que pasaban en el Facebook y todo lo que me comentaban,
+hasta que en un momento
+me toco decirle a mi mamá “mami me están haciendo mucho daño, me están contando
+cosas de lo que sucede”, yo las entendía que ellas me quisieran contar porque allá
+existe mucho el miedo, allá existe la ley del silencio es lo que prima allá y allá
+no se puede hablar, entonces uno entre familia se habla, se comunica, pero
+internamente, no a decírselo al otro porque deporto el otro dice “este me dijo
+esto, esto me dijo esto otro”, y mi mamá siempre desde niña por el pueblo en el
+lugar donde vivimos siempre nos enseñó a escuchar a ver, oír y callar, ese era
+el dicho de mi mamá ver, oír y callar, entonces era muy difícil y fue muy difícil la estadía acá
+hasta que por lo menos ya me traje mi niño, me siento muy contenta. Justamente antes de
+que
+se vinieran estaban con el cuento de llevárselo, mi niño lo tenían que llevar
+acompañado al colegio, yo no dormía, no me alimentaba bien y me levantaba con
+pesadillas de que se lo habían llevado, de que lo habían desaparecido, de que
+le había pasado algo a mi mamá, a mis hermanas y todavía me pasa, pero bueno, ahí
+tratando de llevarle y creo que teniendo a mi hijo acá se sobrelleva ya como el
+peso un poquito más.
+ENT: TEST mencionaste que habías llegado acá porque había una oferta laboral ¿de quién
+era la oferta?, ¿qué paso con ese trabajo?
+TEST: si, era un médico, CONOCIDO12 y con su esposa, que también era médico, ellos ya
+tenían acá como 3 años de estar estudiando y trabajando acá.
+ENT: ¿de LUGAR1?
+TEST: no,
+no él había estado trabajando, ella también trabajó, hicieron el año rural en LUGAR1
+ambos y se hicieron muy amigos de mi mamá y por eso quisieron ayudarme, se
+acordaron de nosotros “TEST te conocemos, sabemos la clase de mamá que eres”, además
+porque yo también tengo un grupo en Facebook de mi municipio como tratando de
+mostrarle lo bonito a la gente de mi pueblo, como para que tenga algo diferente
+de lo que se ve en las redes, aparte del amarillismo de que cada vez que matan
+a alguien montan la imagen o el video, entonces él veía, me dio por armar ese
+grupo, fui voluntaria también en el parque educativo de LUGAR1 donde me llevaba
+los niñitos del barrio y les hacía lectura, cosas que aprendí de cuando fui
+
+bibliotecaria, que eso me comenzó abrir más la mente y darme cuenta que yo no
+era la única que sufría, sino que también estaba los más chiquiticos, y comencé
+con esa necesidad de solidaridad, de querer ayudar, que no solamente era a mí
+la que me afectaba, sino que todos vivíamos con temor sino que simplemente no
+nos lo decíamos, ya lo sabíamos, pero no, no lo decíamos, entonces él se dio
+cuenta de eso, de mis ganas de salir adelante y me hizo la propuesta a mí. Al
+año primero me lo dijo, cuando estaba en LUGAR1, yo le dije que si, después de
+que me dijo “listo, ya nació la bebé, te vas a venir”, dije “no, no soy capaz
+de dejar mi familia, no soy capaz de dejar mi niño”, y después, cuando estaba
+en LUGAR2, ya la niña de él ya tenía un año, todavía necesita niñera me volvió
+a decir “TEST ¿te quieres venir?”, y ahí fue cuando yo hablé con FAMILIAR7, y yo dije,
+bueno, tanto quiero salir de mi pueblo, tanto miedo me da, tanto me quiero ir
+de acá de LUGAR2 por lo mismo, porque me los sigo encontrado a todos, y si no
+tomo la decisión entonces me estoy prácticamente yo misma fusilándome con algo
+que me está haciendo mucho daño y no estoy haciendo nada por generar un cambio,
+entonces sí o sí me voy a ir, y ya, de ahí le dije que sí y bueno, acá estoy.
+ENT: ¿cuánto tiempo estuviste trabajando con él?
+TEST: creo que fue un año, casi un año si, estuve con él trabajando
+ENT: ¿qué ha sido lo más difícil, aparte de estar lejos de tu familia y de haber estado
+distanciada de tu hijo, de haber llegado?
+TEST: fue tomar la decisión de si quedarme o irme, porque él me compro pasaje de venida y
+de regreso, y ellos se iban para Colombia, ellos se devolvieron ya para Colombia,
+porque ellos terminaron sus estudios y acá tuvieron dos niñas, se graduaron, se
+profesionalizaron, ellos ya eran médicos en Colombia, pero acá vinieron hacer
+especialización, él de radiología y ella de dermatología, y lo más difícil fue tomar la decisión
+de valerme por mí misma sin saber si iba poder salir adelante y quedarme y
+perder el pasaje de ida, eso fue lo más difícil, sentarme con él y decirme “TEST,
+¿te vas a devolver o te vas a quedar?, ya está tu pasaje listo”, y como
+pensarlo, qué hago, qué hago, no decirle a mi familia, no decirle a mi
+hijo, qué hago, qué hago, y tomar la decisión, decir, tengo que quedarme porque
+si me voy ya conocí un mundo diferente, una oportunidad de poder estudiar, no
+solamente yo sino también mi hijo, darle quizá la oportunidad más adelante que
+mis hermanas se vengan o que mi mamá se venga, cosa que puede ser muy difícil
+porque ella tiene todos sus muertos y sus desaparecidos y su casita es lo único
+material que tiene mi mamá, su casa de valor, lo único material de valor, entonces
+eso fue como lo más difícil, de arriesgarme, de quedarme para después buscar la
+forma de conseguirme un empleo sin saber si de pronto me lo iban a dar porque
+yo estaba negro, ni siquiera estuve en blanco, de poder saber si iba a
+conseguir un hogar en donde vivir, con quien iba vivir, fue muy complicado y
+saber si quizás ya me quedaba ya sola de por vida por no poder cumplir con
+ahorrar un pasaje para traer a mi hijo, o si me podía devolver, eso fue muy difícil.
+ENT: TEST, ¿cuánto tiempo llevas en argentina viviendo?
+TEST: ya tengo más de 2 años, ya tengo más de 2 años
+
+ENT: ¿y a qué tiempo te reencontraste o te trajiste a tu hijo?
+TEST: él vino en ---------- del 2020, hace unos meses esta acá y fue una alegría, fue
+como llenar un poquito ese vacío que tenía y poder dormir un poquito más.
+ENT: ¿cómo fue ese encuentro TEST?
+TEST: fue muy emotivo, llanto, fue una sensación como… porque ya mi niño ya estaba más
+grande, fue una sensación como si hubiera dejado mi niño, como si mi niño chiquito
+se hubiera quedado allá [LLANTO] y encontrarme un niño más grande acá, fue difícil
+[LLANTO] porque fueron dos años, pero sentí como si me hubiera perdido lo más
+importante, esa protección que quizás yo le daba, y fue muy difícil como
+volverlo a reconocer, sabía que era mi hijo, pero yo no lo había dejado así tan
+grande, lo había dejado pequeñito, en dos años cambio mucho y fue muy duro saber
+que me toco separarme de él por obligación y por beneficio de los dos, pero fue
+muy complicado, eso todavía me da muy duro. Estamos como en ese proceso de
+conocernos otra vez a pesar de que somos mamá e hijo nos estamos volviendo a
+conocer porque cambio también, claro, cambio mucho yo nunca me había separado
+de él, cuando me fui a trabajar a -----------mi mamá no quería por la situación
+tan difícil que se vivía allá también y sin embargo me los llevé, dije “no mami,
+yo no soy capaz de dejar mi niño”, y tener que dejarlo mientras me fui para LUGAR2,
+pero lo mandaba buscar con algún familiar que subiera, que bajara con una persona
+conocida, porque después que subí para LUGAR2 no volví a bajar a LUGAR1 hasta
+cuando me iba a venir para acá, que fui a despedirme de mi familia, por miedo
+porque salí de allá, uno sale de allá pues por lo menos a mí me paso, yo salí
+de LUGAR1 y no quería volver a ir por miedo a represalias, de saber que están
+pensando, así no hubiese hecho nada malo entonces fue muy duro todavía, quizás
+perderme eso dos años con él fue lo más duro.
+ENT: y ahora que esta acá, ¿cómo ha sido ese encuentro entre los dos?
+TEST: ya volví otra vez como si fuera un animal con su hijito, como volverlo a reconocer, el
+olor, la forma, de saber de sus manías, de su obediencia, de su forma de ser, bueno,
+fue como volver de nuevo a sentirme mamá porque aunque ya tenía una pareja acá
+en Argentina esa persona quería que tuviéramos un bebé, pero yo no quería hasta
+no traer mi hijo, porque sentía que si lo llegaba a tener, a quedar en embarazo
+era como engañar a mi hijo, porque yo no había venido hacer familia, no había venido
+a tener más hijos, no venía a deshacerme de ellos, había venido antes a tráemelos
+a ellos, y bueno, fue muy complicado, fue muy difícil. Digamos que ahora nos
+estamos conociendo nuevamente, como el amor nunca se perdió, porque me di
+cuenta que no se perdió, pero si me perdí de muchas etapas que no debí perderme,
+que a veces me pongo a pensar si en el momento en el que estoy en el lugar que
+estoy vale la pena como para... o estar pasando lo que estoy pasando vale la
+pena por esos dos años que me perdí de él, pero creo que siempre llego al punto
+de que si fue lo mejor, porque logramos salir de allá y la oportunidad que se me
+presento a mí no se le presenta, creo que se le presenta una en un millón de
+los habitantes que hay allá, que no son todos, entonces creo que soy muy
+afortunada porque venir sin tener que pagar un pasaje, porque no tenía con qué,
+
+y tomar la decisión que fue muy difícil, quedarme acá después sin un apoyo de
+nadie, y ya tenerlo acá fue un adelanto muy grande, creo que fue la mejor decisión,
+porque si no allá no tuviera vida, y bueno, igual no la tengo del todo porque
+mi familia todavía está allá, entonces es difícil.
+ENT: ¿TEST mencionaste hace un momento tuviste pareja?
+TEST: si, primero lógicamente no precio ahí mismo, me fui con lo que me dio de liquidación
+que en ese momento fueron como 4 mil pesos, 6 mil pesos, no recuerdo bien, hace
+dos años, hace como más de una año acá en Argentina me toco sin trabajo, me
+toco irme a vivir a LUGAR4 porque acá en capital vivir es muy costoso y tenía
+que vivir era con el arriendo, perdón con el arriendo (RISAS) con los ahorros,
+que eran los ahorros que eran para poder traerme a mi hijo, entonces me toco
+irme a vivir a LUGAR4 que me cobraban más unos ahorritos que tenía que ya había
+alcanzado ahorrar para poder tráeme a mi hijo, tenía esos ahorritos y más lo de
+la liquidación y me fui a vivir a LUGAR4 un mes, busque, regué hojas de vida por
+todo el comercio de LUGAR4, no me salió nada, hablando con personas que ya había
+hecho acá colombianos, amigos, uno de ellos trabaja en un restaurante y me dijo
+“mira, hay un lugar acá en capital que están necesitando” y ahí es donde yo
+trabajo, y me ayudó a ingresar, fui pero no estaba en blanco, iba uno o dos
+veces a la semana y dije, bueno, no meda para venirme desde LUGAR4 hasta acá,
+tengo que devolverme para capital, al mes me devolví para acá para ----------, ya
+me llamaban tres, cuatro días a la semana me iba bien con la propinas, con el trabajo,
+trataba hacer el trabajo con mucho amor, en desempeñarme lo mejor, se veía
+reflejado en las propinas, y bueno, seguí ahorrando, alcance ahorrar en dólares
+y ya veía como ya más fácil, me voy a pender traer hasta mi mamá, mis hermanas
+a todo el mundo así sea para que se enamoren y se queden, y bueno, estando ahí
+en el restaurante no me fue tan bien porque ya tenía casi un año ahí y no me
+quisieron poner en blanco, entonces ya me sentía era como que me estaba tomando
+del pelo, como que me tenían era... llegaban otras personas y los ponían en
+blanco, les pagaban mejor, les subían y a mí no, y eso me género como mucho
+dolor y siempre me decían como te vamos ayudar para que traigas a tu hijo, te
+vamos ayudar y era como para que yo no me saliera del trabajo, o sea, les convenía
+porque yo les trabajara, pero no me querían ayudar tampoco, como ponerme como
+legalmente en un trabajo en blanco y ya decidí… y ahí conocí a mi ex pareja, el
+papá del bebe que estoy esperando, ahí entró, lo conocí y comenzamos a
+charlar, a charlar, y después él se retiró y él vivía en ------ él se retiró,
+me propuso como “vente a vivir”, paso una situación allá, yo seguí trabajando ahí,
+seguí estudiando, él tenía una moto y me apoyaba, iba por mi desde ------ él consiguió
+otro empleo acá en capital en un restaurante y salía también a la 1 o 2
+de la mañana, iba en moto y me buscaba después para irnos hasta ------ y llegábamos
+como a las 3 o 4 de la mañana, y así y bueno, era una pareja que me apoyaba de
+cierta manera y yo le veía como perfecto a él, el papa de mi hijo, el padrastro
+de mi hijo me apoya quiere esto, me habla de traer a FAMILIAR7, de ayudarme, igual
+yo iba ahorrando, ahorrando pero la inflación acá cada vez era más alta, el
+
+vuele era cada vez más caro y eso también me generaba mucho estrés, me
+preocupaba, hice varios intentos de tráelo, creo que fueron dos, uno antes de
+poder traerlo a la final, y bueno, ya hasta que llegamos acá ya con él que ya pudimos
+traerlo fue muy duro porque me tocaba eso de con quien lo traigo, no lo puedo
+dejar que venga solo, es su primera vez en un avión, a mí me dio terror porque
+nunca me había montado en un avión y tener que dejar a mi niñito, mi chiquito
+solo en un avión eso me genero más estrés todavía. Felicidad cuando compré el boleto,
+felicidad cuando me dijeron que el equipaje era poquito, a mí no me importo con
+tal de que se venga que no se traiga nada, con tal de que se venga, o sea, si o
+si lo quería sacar de ahí, quería demostrarle que le había cumplido porque él
+me hablaba me decía “mamá usted me abandono, usted me dijo que nada más se iba
+a demorar un año”, creo que fui afortunada en demorarme dos años porque creo
+que muchas mujeres acá que les ha tocado pasar por lo mismo y quizás han durado
+hasta 3 o 4 años sin poder ver a su familia, a sus hijos, más que todo y sin
+poder traerlos, entonces creo que fui afortunada, sé y entiendo esto sea así
+sea pero creo que tres meses es muy duro, más del lugar de donde vengo porque
+no lo deje en un lugar seguro, lo deje en un lugar muy inseguro de Colombia .
+ENT: TEST ya ahora que estas con tu hijo, que me cuentas todas esas dificultades que has
+tenido como con el trabajo, le pueden encontrar un trabajo registrado que te
+permita pensionarte, como con unas garantías laborales ¿cómo te sostienes ahora
+mismo, laboras en este momento?
+TEST:
+bueno, la verdad lo veo muy complicado porque nunca he estado en blanco acá en
+Argentina, nunca, no sé si por ser migrante siento que se quieren aprovechar de
+mí, de pagarme lo que quieren, no sé, además de ser mujer porque eso fue lo que
+me dieron a entender en el restaurante donde estaba, los chicos los ponían en
+blanco a todos primero, me toco llevar a ver una vez que les dieron prima, no
+sé si es prima que dan acá…
+ENT:
+aguinaldo.
+TEST:
+aguinaldos delante de mí, le dieron a todos menos a mí, yo era la única mujer
+en ese momento, me sentí como rechazada como por ser mujer a pasar de que hacía
+bien mi trabajo porque lo hacía, creo que quizás lo hacía más que otros porque
+me tocaba, hacia hasta el aseo del lugar, que acá eso lo pagan por aparte, a mí
+no me lo pagaban, y aparte de camarera hacer el aseo y me sentía mal, y saber
+de qué la persona que me trajo también me prometió que me iba a poner en blanco,
+nunca me puso en blanco, bueno, también uno entiende que acá uno es por cuestión
+de que cobran mucho, no sé qué es lo que le cobran a las personas, a las
+empresas por registrar empleados, pero igual me sentí mal porque me lo prometían
+y ese era mi punto de partida para más adelante poder tener un empleo bueno,
+estable. Y bueno, ahora me separé porque sufrí de violencia intrafamiliar con
+mi ex pareja que es argentino y ahora estoy sola con mi niño y en embarazo, y
+
+nada, me estoy valiendo por la gastronomía de mi país, estoy haciendo arepas,
+empanadas para vender y ese es mi sustento, no estoy trabajando porque lógicamente
+estamos en pandemia, porque también estoy en embarazo, soy población de riesgo
+y tratar de salir adelante con lo que se pueda, con el recurso que está en la
+cabeza he vendo comprendiendo las cosas de a poco, de que estoy enferma por
+culpa del conflicto armado, entonces ahora es que me estoy dando cuenta que soy
+una víctima y que quizás tenga unos derechos, pero me ha llevado tiempo para ir
+comprendiendo de a poquito.
+ENT: ¿tú nunca has realizado una denuncia por los hechos que han ocurrido?
+TEST:
+nunca, porque el miedo nunca me ha dejado.
+ENT: ahora mismo ¿cuál es tu situación migratoria en el país?
+TEST: ya saqué el DNI permanente, estoy esperando que me llegue
+porque el gobierno argentino me colaboro con la situación, ellos me están
+colaborando con un bono habitacional de 7 mil pesos, es la única ayuda que
+estoy recibiendo, y me ayudaron con el trámite del DNI permite, es lo único que
+hasta el momento he recibido, y bueno, de manos generosas de compatriotas y de
+argentinos que han querido ayudar por mi situación en la que me encuentro.
+ENT: TEST ¿cómo es esa relación con tus connacionales acá afuera?
+TEST: a ver, encontrar colombianos no ha sido difícil y no es complicado porque primero,
+no son de mi pueblo, lo más difícil es encontrar gente de mi pueblo, acá si me encontré
+a una chica de mi pueblo y eso si me dio muy duro cuando me la encontré, recién
+llegue, justamente me vengo para no encontrarme a nadie del pueblo y cuando
+llego acá a las semanitas de haber llegado una chica que creció en mi pueblo y
+que vivía en mi pueblo y que se había venido un año antes de yo venir y encontrármela
+así como de “¡ah! ¿usted que hace acá?”, o sea, fue duro porque yo dije, pensé,
+créame que lo que pensé fue, no, ni me salvo ni yéndome para otro país, y no es
+porque crea que todas las personas son malas y me quieran hacer daño, sino que
+es algo que lastimosamente no es que uno quiera pensar, sino que se le viene al
+cerebro, trato de escapar de allá y me persiguen, o sea, es algo por lo que le había
+comentado de que me sentía como enferma, perseguida, y que me sucediera eso no
+fue algo como tan agradable, fue como ya después y ya hablábamos, me conto también
+por lo había pasado, por lo que estaba pasando y todo eso.
+ENT: ¿ella sigue viviendo acá?
+TEST: ella no se quiere devolver tampoco porque sabe también lo que sucedía allá, el lugar,
+que no hay futuro, hasta el momento que yo sepa ella no tiene hijos, ya hace
+mucho tiempo ella se fue para otra provincia y hace mucho tiempo que no sé de
+ella, entonces no encontrarme colombianos, no, antes es muy bueno porque me
+encuentro alguien que conoce de mi cultura y podemos hablar de la comida, de
+las costumbres, y más porque las navidades allá son tan diferentes a las de acá,
+acá son muy apagaditos y nosotros somos muy alegres, entonces bueno, es algo difícil
+cuando me la encontré a ella, pero ya después con el tiempo fue chévere y el
+resto de los colombianos pues bien.
+
+ENT: ¿qué te gusta de estar acá TEST?
+TEST: la seguridad, la seguridad ante todo, acá también roban, acá también matan, pero
+creo que no pertenezco, ya sería como casualidad, allá sentía era que me tocara,
+o sea, te va tocar porque allá lo hacen es por sospecha, acá quizás sea algo,
+no sé, un robo, hicieron algo y nunca sabe porque, yo sé que nacimos para morir,
+en la vida nos va tocar espero que todavía no porque le tengo mucho miedo a la
+muerte, pero es algo que de verdad no me gusta ni hablar de eso, le tengo mucho
+miedo, no sé si fue a causa de todo lo que viví que le tengo un pavor, y eso lo
+estoy manejando con los psicólogos.
+ENT: te iba preguntar justamente eso, que si habías buscado algún tipo de terapias o
+ayuda.
+TEST: si, bueno, por lo que viví acá, por lo de violencia intrafamiliar si estaba
+recibiendo ayuda psicológica, la chica de LUGAR2 que había comentado que me
+ayudaron para que la recibiera ya me dijo en estos día “TEST no te
+voy abandonar, pero ya las sesiones conmigo van hacer más poquitas, o sea, ya
+es cuando quieras hablarme y preguntarme”, porque entiendo que ella lo hizo
+gratuitamente conmigo por ayudarme, y ese es su trabajo, y de eso es que ella también
+vive, sin embargo no me dejo a la deriva me dijo “si algún día quieres hablarme
+me puedes escribir, cuando tú quieras yo lo voy hacer porque no te quiero
+abandonar, pero ya hasta aquí llegamos”, me lo dijo justamente creo que fue
+ayer o antier. Y estoy recibiendo también una señora que es argentina, que es
+del Centro de la Mujer acá por lo de violencia intrafamiliar, pero digamos que
+con ella es diferente, con ella solamente se habla lo de pareja, con ella no se
+habla de lo de conflicto armado, y yo creo que me pesa más lo del conflicto
+armado que lo que me paso en pareja, y creo que en eso si necesito ayuda porque
+de verdad hasta mi hijo lo nota, él sabe que le tengo mucho pavor a morirme y
+ese es el pavor que tengo, eso me da mucho miedo.
+ENT: TEST ahora que está tu hijo acá, ¿cómo es esa relación con Colombia?, ¿cómo la miras,
+aparte de tu familia no de los lazos que están ahí, te comunicas con alguien más
+de tu pueblo, con algunos amigos mantienes relación, me dijiste que tenías una página
+de Facebook, como se da esa interacción?
+TEST:
+bueno, como es el amor por Colombia creo que eso nunca se me va acabar, nunca,
+porque soy de allá y de mi pueblo tampoco, lo amo tanto que me preocupa que todavía
+sigo con la página desde…. cuando tengo tiempo entro, puse tres administradores
+más para que me ayudaran para no se muriera porque de verdad que lo veo como algo
+muy positivo, hay más grupos en Facebook de LUGAR1, pero siempre es como para
+montar cosas de política, de peleas, de chismes, para difamar mujeres de ahí
+del pueblo, las niñas que van creciendo, para hablar de la alcaldía, de lo que
+no se atreven a decir públicamente se crea una página falsa y comienzan hablar
+de la alcaldía, del hospital, de los paramilitares, de lo que sucede, de
+todo pero, bueno no lo cuentan todo simplemente por encimita y tanto quiero mi
+pueblo que bueno, que todavía sigo con la página le sigo prestando atención, trato
+
+de montar… que la idea era estudiar psicología para seguir ayudando como lo hacía
+cuando estaba allá, que no me pagaban, no era un trabajo, pero lo hacía
+voluntariamente, sacar los niños al parque a leer, para que ellos aprendieran a
+leer, para que vieran que el camino no era empuñar un arma, porque
+lastimosamente así como vi mis compañeros profesionales también hubo otros que
+llegan fue y vieron que el camino era estar con esa gente, y bueno, se perdían,
+entonces también como para darle un ejemplo a mi niño, que me daba miedo que quizás
+terminara allá, que se lo decía yo a él y se lo digo, a él a veces le dan ganas
+de devolverse y yo le digo “no hijo, si nos quedamos allá es a verte morir o a
+ver que tu mates a alguien más, o a que estés en una cárcel, entonces me da
+mucho miedo”. Y también sigo como ese amor de querer seguir ayudando de querer
+seguir aportando un poquito desde la distancia para que los que están allá no
+se sientan como de que... siento como que les debo, ya me vine, pero como que
+les debo algo positivo, algo para que ellos vean mi ejemplo de que no me gustaría
+que toda la gente de mi pueblo se fuera, no, no me gustaría pero de que ellos
+vean que se puede vivir en paz, de que no sé, porque ni yo encuentro la forma
+de cómo luchar contra un ejército de hombres armados, o sea, no sé porque
+siempre desde niña me pregunte cómo hacer para poder rechazar esa gente y que
+se fueran, no sé, la verdad no tengo ni idea.
+ENT: ¿TEST en este tiempo que estas acá qué cosas has aprendido?
+TEST:
+de que lo que pensaba allá es bueno, de que uno progresa es por estudiar de que
+uno no debe estar en el lugar donde le hacen daño, he aprendido eso, a tratar
+de luchar por sacar la vida adelante y la familia adelante, eso, lo primordial
+es la familia para mí porque lastimosamente sufrí mucho por mi familia y sigo
+sufriendo por mi familia y sigo sufriendo todavía, entonces aprendí eso, como
+amar más a mi familia, a pesar de que estoy tan lejos creo que ahora el apego
+es mucho más, no tanto por la distancia sino por el miedo que genera uno no
+saber si... no tengo como devolverme y ¿si llegase a suceder algo que hago?, ¿cómo
+aguantarlo desde acá?, o sea, es complicado.
+ENT: TEST, ¿qué papel cree que deben ocupar las victimas en el proceso de reconstrucción
+del país?
+TEST: ¿qué papel? el más importante porque son las víctimas son lo principal, creo que se
+merecen todo, merecen de que los ayuden a salir adelante, ayuda tanto psicológica
+como económica, todo, porque no es culpa de nosotros de estar en un lugar y que
+de repente suceden las cosas, yo tenía una infancia feliz y de repente me
+levanto una madrugada con miedo y “¡usshh!, callada, no diga nada” …. O sea, la
+verdad merecen más cuidado, que les presten más atención, que las escuchen, que
+las dejen hablar, que de verdad las protejan porque mucha gente no habla y no
+dice nada por el miedo a que le hagan algo, a las represalias, entonces creo
+que las victimas merecemos mucho más, porque para mí estamos solos, o sea, no hay
+un apoyo por parte del estado para nosotros, el apoyo mientras estuve en mi
+pueblo era que mandaban un cantante famoso para que cantara en el parque del
+
+pueblo y como que con una canción o 2 canciones nos distrajeran y ya, eso era
+lo que yo sentía que el gobierno hacia, como que mandaran un kit de cuadernos
+para un niño en el colegio para que se hiciera notar el estado de que con eso
+nos estaba apoyado y realmente no, yo creo que necesitaríamos de que mandaran más
+ayudas psicológica como para ir comprendiendo, yo creo que por cada hogar recibir
+ayuda psicológica para que pueda darse cuenta y comprender, porque mucha gente
+que se muere allá que vivió con miedo toda su vida y no se dio cuenta, entonces
+a mí me gustaría eso, que en vez de que mandaran un cantante mandaran una ayuda
+de verdad profesional.
+ENT: ¿te has encontrado o has contado esta historia a alguien más?
+TEST: no, la verdad es primera vez… quizás cuento aparte es cuanto me dicen como “¡ay
+Colombia!,
+¿usted es de Colombia? ¿ay la droga, Pablo Escobar y tal cosa?”, doy como el
+comentario de “jum eso y mucho más”, pero ya Pablo Escobar no está, pero bueno
+si es complicado, o sea, historia tan a fondo como ahora no, la verdad no.
+ENT: ¿te has encontrado con otras personas víctimas que se encuentren aquí en Argentina?
+TEST:
+aparte de mi amiga que vivía allá en el pueblo, que la verdad no sé si
+puntalmente qué sufriría, solamente me conto una vez de algo, pero no muy
+detalladamente, aparte de eso no, ni de otros, ahora solamente que quizás me enteré
+por este medio, por los chicos de mi copa que hay más víctimas, que escuché,
+pero la verdad no.
+ENT: TEST si te preguntara ¿cómo crees que el gobierno colombiano podría tratar de
+reparar a las víctimas que se encuentran en el exterior como en tu caso? ¿cuál
+crees que serían esas medidas que podría hacer el estado colombiano para brindarte
+a ti una reparación?
+TEST:
+primero, yo creo que sería una ayuda psicológica principalmente, tanto como los
+que están allá y como los que están por fuera, una ayuda psicológica porque los
+que huimos es porque estamos buscando algo diferente, necesitamos ayuda, y los
+que están allá no es porque no quieran salir, es porque no pueden, no es porque
+yo sea más fuerte que el otro y lo logré, no, yo estoy acá quizás por suerte,
+porque tuve suerte, no todo el mundo la tiene, para mi creo que primero es eso
+una ayuda psicológica. Y segundo, seria como una ayuda más para que las
+personas puedan conseguir un trabajo más fácil, como para que pudieran sostenerse
+y salir adelante y sentirse que valió la pena salir de allá de ese lugar donde
+se sentía mal, que a pesar de que estas sin la familia sientan ese apoyo del
+gobierno colombiano, pero verdaderamente de una forma de verdad, vamos ayudarle,
+a conseguir un empleo o a que consiga rápidamente la documentación para poder
+conseguir un empleo, o que pueda entrar rápido a la universidad. Para mi creo
+que sería eso, eso sería el apoyo más grande comenzando por el psicológico.
+ENT: TEST, ¿cuáles son esos sueños para el futuro como te imaginas tu futuro?
+TEST:
+
+bueno, seguir retomando la carrera de psicología, viendo mi hijo ya también en
+la universidad, creo que trabajando en una oficina, lo que me gusta hacer,
+ayudando a los demás, en algo administrativo, me imagino con el grupo ya mucho más
+avanzado el grupo de Facebook ayudando desde acá a mi comunidad con terapias
+psicológicas
+gratuitas, que si lo que necesitan que quizás muchos no lo hacen por miedo también
+de ir a contarle las cosas a alguien que está ahí con ellos, me veo como con
+una oficina internacional, pero ayudando a la gente de mi pueblo lógicamente
+gratuitamente, pagando como horas [RISAS] como las horas, me veo así ayudando a
+los demás en el futuro, lógicamente a mi familia.
+ENT: Bueno TEST, no sé si quisieras agregar algo más de la charla que hemos tenido como
+para ir cerrando.
+TEST: bueno no, por el momento si me quedaron más historias por contar, pero bueno.
+ENT: si quieres agregar algo no hay problema.
+TEST: pero no, son muchas, no acabaríamos hoy [RISAS]
+ENT: bueno
+TEST, muchas gracias por tu testimonio por la confianza de permitirme venir en
+este contexto de pandemia de los distanciamientos y las cercanías personales aún
+son más difíciles permitirme estar aquí y sobre todo aportar tu historia para
+la ORGANIZACIÓN SOCIAL1, así que bueno TEST, muchas gracias y seguimos en
+contacto.
+TEST:
+gracias a ustedes, porque la verdad es muy bueno lo que hacen, me desahogue,
+uno cuando sale de allá quiere contarlo todo, pero allá uno no se atreve por
+miedo, digamos que encontré el espacio y eso me genera un poquito de
+tranquilidad porque siento como que voy sanando lentamente, pero necesito sacar
+todo eso que esta acumulado, todo ese miedo, todo ese dolor, alguien que te
+comprenda, alguien que te entienda y que te de confianza entonces no, gracias a
+ustedes, la verdad que sí.
+ENT: bueno
+TEST damos por terminada esta entrevista.
+TEST: gracias.
+
+

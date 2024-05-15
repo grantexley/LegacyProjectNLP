@@ -1,0 +1,742 @@
+ENT: Entonces, tú ahorita vives en -------------, ¿no?
+TEST: Sí.
+ENT: Y ¿dónde vivías antes?
+TEST: -------------.
+ENT: ------------- ¿En la zona urbana o en el pueblo?
+TEST: En el pueblo.
+ENT: Y ¿con quién vivías allá?
+TEST: Con mi mamá, mis dos hijos, mis hermanos.
+ENT: Y, digamos, ¿tú eres víctima del conflicto armado?
+TEST: Violencia sexual y desplazamiento forzado.
+ENT: Y ¿cómo sucedió ese desplazamiento?
+TEST: Un señor que se llama RANGO1, alias RANGO1, me hizo venir del pueblo, porque no
+quise entablar una relación con él.
+ENT: Y ¿te amenazó?
+TEST: Sí, me mandó a matar. A mi casa llegaron dos muchachos a buscarme dos noches.
+ENT: Y ¿tú ya te habías ido?
+TEST: No, mi mamá me decía que él no estaba ahí. Yo estaba ahí.
+ENT: Y ¿ahí ya tenías tus hijos?
+TEST: Sí.
+ENT: Y ¿cómo era ------------- en ese entonces? ¿En qué año fue eso?
+TEST: En el 2015.
+ENT: En el 2015. Y ¿cómo era ------------- allá, el pueblo?
+TEST: Muy bueno.
+ENT: Y ¿había presencia de grupos?
+TEST: Claro, había guerrilla, pero también había Ejército, Policía.
+ENT: Y ¿tú sabes qué guerrilla era la que hacía presencia allá?
+TEST: Héroes de Marquetalia.
+ENT: Ese era el nombre de...
+TEST: De la columna.
+ENT: Y el bloque de cuál era.
+TEST: No me lo sé.
+ENT: Y ¿era FARC?
+TEST: Sí.
+ENT: Y, digamos, ¿ellos cómo interactuaban con la gente del pueblo?
+TEST: Les cobraban, pues, vacunas.
+ENT: Sí. Y ¿les tenían normas, o que no podían salir a ciertas horas?
+TEST: No, eso sí nunca. Lo único que no han tolerado son como las prepagos y los viciosos,
+los ladrones.
+ENT: Y, digamos, ¿qué hacían con esas personas?
+TEST: Pues, les daban la oportunidad muchas veces; si no cambiaban, pues, los mataban.
+ENT: Y ¿pasó mucho eso?
+TEST: Sí.
+ENT: Y ¿tú sabes si, de pronto, allá en ------------- había cultivos de uso ilícito?
+
+TEST: Claro, por las veredas.
+ENT: ¿Sí? Y ¿cómo era eso?
+TEST: Cultivaban marihuana.
+ENT: Y ¿tú sabes quién cultivaba la marihuana?
+TEST: Pues, la mayoría era guerrilla.
+ENT: ¿Sí? O sea, era de ellos.
+TEST: Claro.
+ENT: ¿No había de campesinos?
+TEST: No.
+ENT: Y ¿sabes si, de pronto, había amapola?
+TEST: No, porque no la conozco.
+ENT: Eh, ¿y de qué años hablas de que cultivaban eso?
+TEST: Cuando yo fui violada tenía 14 años y ya la cultivaban; hace como 15 años atrás.
+ENT: Y ¿tú sabes desde qué año ellos empezaron a hacer presencia en el territorio?
+TEST: Pues, desde que yo tengo uso de razón. Mi mamá me decía que toda la vida.
+ENT: Que toda la vida. O sea, desde que tú naciste ya estaban allá.
+TEST: Sí, porque mi mamá tiene ------------- años, y ella dice que desde que ella vivía con mis
+abuelos ya había guerrilla.
+ENT: Pero, ¿las FARC?
+TEST: Sí.
+ENT: Y, digamos, ¿qué otras características ellos tenían ahí en el territorio? Como qué más
+hacían...
+TEST: Pues a los violadores los mataban; eso sí no lo perdonaban. Al sapo tampoco.
+ENT: Y ¿quién se consideraba como sapo?
+TEST: La persona que iba y le daba información al Ejército. A las mujeres de los soldados
+tampoco les daban la oportunidad de cambiar, de una los mataban, por chuleras.
+ENT: O sea, las que fueran novias de soldados.
+TEST: Eso era un peligro.
+ENT: Y ¿el Ejército también hacia presencia allá?
+TEST: Sí, pero en el pueblo; en las veredas la guerrilla.
+ENT: Y ¿en el pueblo no se dejaba ver la guerrilla?
+TEST: Bajaban en civil.
+ENT: Ah, ya, pero ya todos sabían.
+TEST: Claro, y uno, desde un pueblo, ya conoce mucha gente, mucha guerrilla.
+ENT: Digamos, ustedes los veían y ya sabían que eran ellos.
+TEST: Claro, [INAD:04:11] para decir "mire, ese es guerrillero", pa que lo maten a uno.
+ENT: Y ¿el Ejército hacía solo presencia en el pueblo? ¿sí? Y ¿nunca hubo enfrentamientos
+ahí en el pueblo?
+TEST: Sí, cuando recién entró el Ejército, en el parque, y en los barrios que son al pie pa los
+--------- pa [INAD:04:31], que son pegados como a potreros.
+ENT: Y ¿qué enfrentamientos hubo ahí?
+TEST: De Ejército con guerrilla cuando recién dentraron.
+ENT: ¿Como en qué año entró el Ejército?
+
+TEST: Hace como unos 12, 13 años, más o menos... cuando eso, el presidente era
+CONOCIDO1.
+ENT: Ah, fue como despuesito que ese presidente entró.
+TEST: Que ese man ganó, sí. Yo supongo fue más o menos en ese tiempito.
+ENT: Y ¿tú consideras que, pues, la situación fue mejor o peor?
+TEST: Mejor. Antes, cuando estaba la guerrilla, mejor.
+ENT: O sea, cuando entró el Ejército ya...
+TEST: Se dañó mucho el pueblo.
+ENT: ¿Sí? ¿Qué cambió?
+TEST: Mucha prepago, muchos ladrones, mucho vicioso. Entonces, a uno ya le da miedo a
+entrar al pueblo, porque usted va y lo cogen ahí con el cuchillo y lo roban a uno.
+ENT: Claro. Eh, ¿y la guerrilla les hacía reuniones?
+TEST: Pa las veredas, sí.
+ENT: Pero, tú nunca viviste en vereda.
+TEST: Pero sí trabajé en muchas veredas cogiendo café.
+ENT: ¿Sí? Y ¿en qué vereda has trabajado?
+TEST: --------------- --------------- ---------------------------- ---------------------- ----------ENT: Y allá también veías cómo era [INAD:05:42]. Y ¿cómo era, digamos, en esas veredas la
+situación?
+TEST: Pues no se perdía nada. Y no se podía perder nada. El vecino no se podía meter con la
+mujer del vecino, porque también le daban chumbimba.
+ENT: Y ¿allá ellos sí andaban uniformados?
+TEST: Claro, en las veredas, sí.
+ENT: Eh, y tú me cuentas que también fuiste víctima de violencia sexual, ¿cierto?
+TEST: Sí.
+ENT: Y ¿qué fue lo que sucedió?
+TEST: Pues, RANGO2 con tal de no matar a un padrastro, mi mamá me hizo acostarme con
+él.
+ENT: O sea, él...
+TEST: Abusó de mí.
+ENT: [CONT] tenía amenazado a tu padrastro. Y ¿qué le dijo tu mamá a él?
+TEST: No sé cómo fue que hablaron. Lo cierto es que llega al campamento que queda en
+-------------, que es vía -------------, y él había abusado muchas veces.
+ENT: O sea, ¿ella te dijo que fueras a ese campamento?
+TEST: Sí, por unas cosas que le iban a dar a ella.
+ENT: Y ¿tú cuándo te enteraste que era que ella había...?
+TEST: Me enteré fue después. Ya tenía mi [INAD:06:45].
+ENT: Ya habían pasado muchos años...
+TEST: Como 7, 8 años.
+ENT: Y ¿eso como en qué año fue?
+TEST: Yo tenía 13 años, en el 2013.
+ENT: Y ¿tú fuiste a ese campamento?
+TEST: Sí.
+
+ENT: Y ahí ¿qué sucedió?
+TEST: Pues, yo fui [INAD:07:07] llena de mentiras. Cuando llegué, me recibió una muchacha
+apellido del RANGO3. Entonces, ella me dijo que me estaban esperando, pero yo nunca
+pensé que era pa tantas cosas.
+ENT: Tú pensaste que era para darte las cosas.
+TEST: Claro, cuando ya sale RANGO2.
+ENT: Y ¿tú llegaste a dónde?
+TEST: Al campamento.
+ENT: Sí, pero después de que ya te...
+TEST: Al cambuche donde estaba él. Y él me dijo que yo era la mujer de él. Y yo no más
+lloraba, porque yo no quería estar con nadies.
+ENT: Y ¿ahí abusó de ti?
+TEST: Sí.
+ENT: ¿Solo él?
+TEST: Él y RANGO4.
+ENT: ¿Ese día?... Y, después...
+TEST: Muchas veces. Yo me fui como a los 8 días, pero él, cada vez que le daba la gana, me
+hacía subir, porque me tenían amenazada que si yo no subía mataban a mi mamá, mataban a
+mis hermanos. Y yo nunca pensé que mi mamá tuviera mucho que ver en eso. Entonces, yo
+[INAD:08:07]. Que dizque la hubieran matado porque ella lo merecía.
+ENT: Claro. Y ¿cuántas veces te hizo subir?
+TEST: Eso duró como 2 años.
+ENT: O sea, desde que tenías 13, hasta los 15. Y ¿siempre era él?
+TEST: Siempre era él, pero era el hombre que yo más detesto en el mundo.
+ENT: Claro. Y producto de esas violaciones....
+TEST: Un embarazo, y él nos lo hizo abortar.
+ENT: ¿Él te lo hizo abortar?
+TEST: Sí.
+ENT: Y ¿tú querías abortarlo?
+TEST: Pues no, porque yo siempre quería tener un hijo.
+ENT: O sea, no querías hacerlo.
+TEST: No.
+ENT: Sin importar...
+TEST: Lo que hubiera pasado, porque yo digo que un bebé no tiene la culpa de nada.
+ENT: Eh, bueno, y después de eso, o sea, ¿a los 15 años ya él dejó de abusar de ti?
+TEST: No, yo me fui.
+ENT: Tú te fuiste de -------------.
+TEST: ¿Pa dónde? A andar sola con un bolso al hombro de café.
+ENT: ¿Eso fue antes del desplazamiento?
+TEST: Sí.
+ENT: ¿A dónde te fuiste?
+TEST: Me fui por allá pa Antioquia, pal Cauca, para ---------- por allá a coger café sola.
+ENT: Y ¿sabes él que hizo cuando se enteró que te habías ido?
+
+TEST: No, ahorita es que sé otra vez de él.
+ENT: ¿Qué te dijeron que [INAD:09:31]?
+TEST: Hace como unos 3 meses, no sé cómo fue, si él fue a la casa o él llamó, pero, lo cierto
+es que dejó razón: que si yo no me comunicaba con él, o no dejaba que le diera mi número,
+que los que iban a pagar eran mis hijos.
+ENT: Hace poco dijo eso.
+TEST: Como 3 meses.
+ENT: O sea, después del Acuerdo de Paz.
+TEST: Claro, es que él está volado, él está con las armas otra vez. A mí, por eso es que la
+JEP[DUD:09:57] me dijo que fuera y denunciara, pero me da miedo, porque otra vez está por
+ahí.
+ENT: Y ¿tú esa amenaza la has denunciado ante algún....?
+TEST: Nunca, no me atrevo, porque qué día, la niña de la JEP me dijo que fuera y demandara,
+[INAD:10:11] porque no importa el tiempo que haya pasado, pero fue una violación; me la
+reciben en la Fiscalía.
+ENT: Sí, y él no puede acogerse ante la JEP con ese...
+TEST: No, y él ya no tiene beneficios, ninguno, porque se fue. Ella me explicó, más o menos,
+unas cosas que yo no sabía. Pero, yo dije a ella que sí, pero pensándolo bien, yo ya no,
+porque él está libre ¿Quién me garantiza que él no va a venir por acá a buscarme? ¿Quién me
+garantiza que él nunca me va a encontrar? Quizás, en el tiempo pasado, no me lo
+encontraba, porque yo iba pa arriba y pa abajo con mis hijos. Yo vivía en ------ en ----------------.. así la pasada. Porque ya estoy estable acá, y ¿qué me garantiza que él, de pronto,
+ya sepa donde yo vivo? Nada.
+ENT: Y ¿por qué crees que él quiera que lo llames?
+TEST: Porque yo me acuerdo, la primera vez que él abusó de mí, que me dijo que, si yo no
+era para él, yo no era para nadie. Pues yo salí embarazada de mi niño mayor; él me mandó a
+llamar, porque mi hijo mayor es hijo de un soldado, y yo no quise ir. Porque [INAD:11:05]
+que nos hacía abortar también.
+ENT: Y ¿de quién era tu hijo?
+TEST: De un solado.
+ENT: Ah, de un soldado. Te entendí que ahora era soldado. Y, bueno, después de eso, te
+fuiste.
+TEST: Ya cuando yo escuché que el proceso de paz, que todo esto, que se iban a acoger, yo
+me fui pa mi casa, que fue en el 2015.
+ENT: Volviste a -------------.
+TEST: Sí.
+ENT: Y ¿qué pasó cuando volviste?
+TEST: Cuando volví fue donde tuve problema con ese señor.[INAD:11:40] que me hizo salir
+del pueblo, y, desde ahí, no voy a -------------, hace 4 años que no voy a mi casa.
+ENT: Y ¿tú crees que tenga que ver lo que había pasado con esa nueva amenaza?
+TEST: Pues, yo no sé, porque es que él también quería que yo estuviera en una relación
+estable con él, pero él tenía mujer.
+ENT: Ah, él también [INAD:11:58]
+
+TEST: Sí, él era, cómo le digo, como el comandante de los milicianos, él mandaba en el
+pueblo. Le dicen allá un "sapo", un informante de la guerrilla era él.
+ENT: ¿Él es alias RANGO1? Pero, ¿el nombre cómo era?
+TEST: RANGO1
+ENT: Y ¿él por medio de qué te hizo esa amenaza? ¿Te lo dijo en persona?
+TEST: Sí.
+ENT: Que si no eras para él [INTERRUP]
+TEST: Porque, yo [INAD:12:27] jugaba mucho a maquinar [DUD:12:29], y él también.
+Entonces, nosotros nos saludábamos harto, porque él es del pueblo, yo del pueblo, entonces,
+hablábamos. Un día, llegó y me dijo que yo le gustaba mucho. Yo lo tomé en recocha, porque
+yo [INAD:12:38] de él. Cuando, otra vez me lo dijo, ya fue borracho; me lo dijo muy serio.
+Entonces, yo fui y le dije a la mujer de él, y ella no me creyó.
+ENT: ¿Ella no te creyó?
+TEST: No.
+ENT: ¿Qué te dijo?
+TEST: Que ella no creía porque él era muy respetuoso. Que llevaban 14 años [INAD:12:51]
+ellos dos, ¿cómo iba a creer eso de él?
+ENT: Y, luego, ¿qué pasó?
+TEST: Me dijo que me fuera del pueblo o él me mandaba a matar. Yo no le creí. Y un
+-------------2016...
+ENT: ¿Qué pasó ese día?
+TEST: Yo estaba en el parque con una amiga que se llama CONOCIDA2 cuando vimos a un
+muchacho [INAD:13:21] que andaba mucho, que se llama RESPONSABLE1 y el sacó un
+revolver y nos apuntó. Nosotras estábamos muy cerquita de la Policía, entonces, nosotras
+corra pa la Policía. Entonces, allá nos recibió fue un muchacho de apellido CONOCIDO3 de la
+ORGANIZACION PUBLICA1, que nos dijo que él nos sacaba por tierra en unos camiones del
+Ejército, y nos llevaron ------------- Y ahí, cada quien por su lado, y cada quien empezó a
+buscar sus cosas como pudiera.
+ENT: Así los sacaron.
+TEST: Porque él sí me mandó a matar.
+ENT: Y ¿tú ahí ya sabías lo de tu mamá?
+TEST: Sí. Yo lo de mi mamá me enteré cuando yo tenía 20 días de dieta.
+ENT: Y ¿quién te lo dijo?
+TEST: Un guerrillero que ya es muerto. Él bajó al pueblo, y ahí mismo fue y me dijo; que si
+yo sabía por qué me hacían tanto daño. De que si yo sabía por qué ella me odiaba tanto. Yo
+le dije que ella, ¿quién? Entonces, me dijo que era mi mamá, y se lo sostuvo en la cara. Y él,
+cuando yo estaba haciendo dieta, a él lo mataron, y yo sé que mi mamá tuvo que ver mucho
+en la muerte de él.
+ENT: ¿Sí?
+TEST: Sí, porque él la careó.
+ENT: Claro. Y, bueno, entonces, tú te fuiste para ------------- y ¿has vuelto a ------------- o de
+------------- viniste para acá?
+TEST: Me fui pa ------------- y me vine pa acá.
+
+ENT: Y ¿nunca has vuelto?
+TEST: No, ni pienso volver; me da mucho miedo. Y no por mí, yo me muero y vale, pero yo
+tengo tres niños.
+ENT: Claro. Y, ahorita, ¿dónde vives?
+TEST: En -------------, aquí en -------------.
+ENT: ¿Para arriba?
+TEST: Pal sur.
+ENT: Bueno, y ¿tú denunciaste alguna de las cosas ante alguna entidad?
+TEST: El desplazamiento, no más, en -------------.
+ENT: Solo el desplazamiento. Y ¿ante la Unidad de Víctimas?
+TEST: Sí, en la Fiscalía.
+ENT: Y, ahí mismo, ¿lo denunciaste como amenaza o solo como desplazamiento?
+TEST: Desplazamiento no más, porque me daba miedo hablar.
+ENT: ¿No contaste lo de la amenaza?
+TEST: No.
+ENT: Y en la Unidad de Víctimas.
+TEST: Sí señora.
+ENT: Pero, entonces, los otros hechos no, por miedo.
+TEST: No.
+ENT: Y ¿tú qué impactos crees que dejó eso en tu vida?
+TEST: Mucho dolor, mucho rencor, mucha soberbia.
+ENT: Y, de pronto, bueno, al haber sufrido tanto maltrato por parte de un hombre ¿tus
+parejas se vieron afectadas?, ¿tu vida sexual?
+TEST: Sí. No. Como el miedo de estar con ellos.
+ENT: ¿A nivel sexual también?
+TEST: Sí.
+ENT: Eh, y ¿qué otra cosa así a nivel físico tú crees que te dejó eso de secuela, de impactos?
+TEST: Como el psicológico, porque yo nunca he tenido como acompañamiento de nada, pero
+como nunca me atreví a hablar con nadie de eso. Yo eso era [INAD:16:19] sola.
+ENT: Entonces, ¿cómo tratabas de lidiar con eso?
+TEST: Sola. Como la fuerza que me daba mi hijo mayor, de que yo podía y podía.
+ENT: Sí. Entonces, entraste como en la familia.
+TEST: Sí, en él no más, porque yo no tengo familia.
+ENT: Pues es tu familia.
+TEST: Mi hijo, claro.
+ENT: Es tu familia. Y bueno, ¿tenías, de pronto, problemas pa dormir?, ¿o tienes? Que no te
+puedas quedar dormía.
+TEST: Tenía, y aún todavía, porque ahorita que yo sé que él está libre, yo me acuesto a las
+11, y me dan las 2, y yo estoy despierta todavía. Entonces, yo mantengo en mi casa
+encerrada.
+ENT: Entonces, tú comportamiento cambió totalmente. Pero, digamos, tú nos manifestabas
+antes, pues, en espacios más colectivos, como que tú has tenido como una transición, ¿no?,
+en tu comportamiento.
+
+TEST: Por la fundación ORGANIZACION SOCIAL1, ella me ayudó demasiado. No
+psicológicamente, sino con los talleres que nos daban.
+ENT: Sí, porque, igual, tú no habías contado tampoco tu caso.
+TEST: No, a nadie. Y allá no me atrevía a hablar de eso; y me atreví a hablar fue en ------------del año pasado.
+ENT: Y ¿qué te motivó a poderlo hablar?
+TEST: No sé, como que se dieran cuenta, porque es que uno piensa que uno es la única que
+está afectada, pero yo sé que hay muchas mujeres también violadas por esa gente. Pero,
+uno, en el momento, solamente "vea, ¿por qué me pasó esto a mí?, ¿por qué no a otra?".
+ENT: Es que, digamos, también por eso, digamos, la de la JEP, TEST te comentaba que
+denunciaras, porque, pues, entre más denuncias haya de la persona, pues, se sensibiliza
+[INAD:18:05].
+TEST: Es que el dilema es que él ya no está acogido a la JEP.
+ENT: Sí, ese es el problema.
+TEST: O sea, yo a ese man lo alcancé a conocer en 2 años también; que ese man lo que
+quiere proponer, lo logra. Si él viene a matarla a usted, la sigue hasta que la maten. Ese es.
+ENT: ¿Tú supiste de otros casos en que él hubiera hecho lo mismo con otras mujeres?
+TEST: Sí. Una vez, una amiga que se llama CONOCIDA4 [INAD:18:30] que ella es muerta.
+ENT: ¿También?
+TEST: Sí.
+ENT: Y ¿cuándo te enteraste de eso o cómo?
+TEST: Por el finado, por GUERRILLERO1
+ENT: ¿El mismo guerrillero que te contó?
+TEST: Sí.
+ENT: ¿Él qué te contó?
+TEST: Que es que iban a matar a mi papá, yo le dijo, a mi padrastro, y mi mamá le dije que
+como era pa negociar, entonces, le propuso el negocio con tal de que no lo mataran. Y él fue
+y me dijo a mí que él no entendía cómo una mujer [INAD:19:02] para una hija, hubiera
+cambiado el amor de madre por el amor de un hombre.
+ENT: Y ¿a él por qué lo iban a matar?
+TEST: Porque supuestamente era un ladrón de la vereda de -------------.
+ENT: Ya.
+TEST: Y a él no lo mataron [INAD:19:17] del pueblo.
+ENT: ¿Sí? Él todavía vive.
+TEST: Sí.
+ENT: Y ¿tú mamá también?
+TEST: Para mi desgracia, sí.
+ENT: ¿Hace cuánto no tienes contacto con ella?
+TEST: Desde que me vine en el 2016. Por ahí, ella le habla a mis hijos.
+ENT: Y ¿tú nunca la denunciarías a ella?
+TEST: No.
+ENT: ¿Por qué crees que no?
+TEST: Se me vendrían muchas cosas encima; mi familia. Yo lo que menos quiero es perder
+
+como la relación con ellos, que con ellos yo tengo una buena relación, con mis hermanos.
+ENT: Ah, tus hermanos. Y ¿alguna vez les contaste a ellos?
+TEST: El mayor. Él me defiende mucho.
+ENT: Bueno, te iba a preguntar más sobre ------------- ¿Tú tuviste conocimiento cuando el
+Ejército armó a los INDIGENA1?
+TEST: No.
+ENT: ¿No? Nunca supiste de eso. Y tampoco de amapola, solo de marihuana.
+TEST: Sí, porque la amapola no la conozco.
+ENT: Y ¿cómo ellos cultivaban eso? o ¿cómo era la dinámica?
+TEST: A los campesinos, los ponían a trabajar. Los campesinos que incumplieran con la
+cuota alimentaria, con la multa que tuvieran, entonces, lo ponían a trabajar para ellos.
+ENT: Sí, y los ponían a cultivar. Y ¿ellos la procesaban o cómo era?
+TEST: Sí, y el que la vendía en el pueblo era un muchacho, él era guerrillero, y lo vendía a la
+suegra de allá que se llama RESPONSABLE2. Ella vendía la marihuana ahí. Después de que
+yo me enteré que mi mamá había hecho eso, yo fumaba marihuana, y ella me la vendía.
+ENT: Y ¿cómo era como esa red? O sea, los campesinos la cultivaban y ¿quién la procesaba?
+TEST: La guerrilla.
+ENT: Ellos mismos.
+TEST: Y ellos me encargaban de enviarla al pueblo, enviar la panela.
+ENT: ¿También la enviaban a -------------?
+TEST: Claro.
+ENT: O sea, ellos tenían como toda la red. Y ¿los que la distribuían eran los mismos de la
+guerrilla? Que tú me comentas dos nombres. Pero, ¿eran civiles?
+TEST: No. Doña RESPONSABLE2 es la suegra de un guerrillero, GUERRILLERO2.
+ENT: Eh, y ¿ellos se financiaban de esa forma o tenían otras formas de financiarse que tú
+supieras?
+TEST: Vacunas. Los secuestros.
+ENT: ¿Había secuestros en -------------?
+TEST: Sí.
+ENT: ¿Como a quién secuestraban?
+TEST: A los comerciantes.
+ENT: ¿A los grandes comerciantes?
+TEST: A los que más tuvieran plata.
+ENT: Y ¿los dejaban secuestrados harto tiempo o eran secuestros cortos?
+TEST: Por allá un señor que le dicen CONOCIDO5 duró como 2 años.
+ENT: Y ¿lo sacaron por qué?
+TEST: La mujer pagó como 20, 30 millones.
+ENT: ¿Tú por qué crees que había tanta presencia de las FARC justamente en -------------?O
+sea, ¿tú por qué le explicas?
+TEST: Porque allá es donde se fundó los Héroes de Marquetalia. Allá es donde se fundaron
+una parte de la guerrilla, por eso, ellos se llaman Columna Héroes de Marquetalia.
+ENT: Y ¿tú conoces esa historia del origen?
+TEST: Bien, no.
+
+ENT: Me quieres contar, pues., lo que sepas.
+TEST: Pues, allá hay mucha historia es de CONOCIDA6 que ella ya es muerta, que fue la
+mujer que llegó a mandar 500 hombres sola, y le gustaba trabajar con hombres, no con
+mujeres. En cambio, de ella sí se habla muy bien del pueblo. Ella la recuerdan como la gran
+mujer, la gran persona, que tuvo, de pronto, sus muertos, pero nunca le hicieron daño a la
+gente como lo hicieron los hombres directamente.
+ENT: Y ¿ella como en qué año operó?
+TEST: Ella murió más o menos en el 2008, 2009, por ahí en esos años.
+ENT: Todo ese tiempo por ahí.
+TEST: Sí, ella es muy conocida, porque a ella le dio cáncer de seno, entonces, a ella le faltaba
+un seno. Entonces, a ella mucha gente la cuidó porque ella era muy bella persona; hasta
+conmigo fue bella persona.
+ENT: ¿Sí?
+TEST: Ella me puso en contacto a mí con RANGO6 porque yo pensé irme pa la guerrilla,
+solamente por matar a mi mamá, matar a mi papá y matar al RANGO2.
+ENT: O sea, después de que tú enteraste de que tu mamá tenía que ver [INTERRUP]
+TEST: Yo tenía mi hijo ya, y yo me iba a ir pa la guerrilla.
+ENT: Y ¿cómo hiciste ese contacto?
+TEST: Yo [INAD:23:40] CONOCIDA6. Porque yo le comenté todo lo que me había pasado,
+entonces, ella me dijo que me iba a poner en contacto con alguien, pero que lo pensara muy
+bien, porque yo entraba y no salía. Y yo ya tenía alguien que dependía de mí. Que si yo
+quería que algún día le pasara eso a mi hijo. Eso yo fui hasta el campamento de
+-------------------------- [DUD:24:02], que allá es donde le dieron chumbimba a él unos días, y
+yo alcancé a hablar con él y todo, y él me pregunto: "¿estás segura?". La primea vez , yo le
+dije que sí; la segunda ya lo dude.
+ENT: ¿Cómo era el nombre de él?
+TEST: RANGO6 le decían, el nombre no me lo sé.
+ENT: Y ¿qué te dijo él?
+TEST: Que si estaba segura. Yo distingo al hijo de alias RANGO7, a uno de ellos, porque yo
+estudié con dos de ellos. Al mayor no lo distinguía, y no lo distinguí. Y él me decía, por
+detrás, que no.
+ENT: Que no lo hicieras.
+TEST: Entonces, yo le dije que lo iba a pensar, que yo volvía después, y nunca más volví. Me
+acobardé.
+ENT: ¿Por tu hijo?
+TEST: Sí.
+ENT: Y ¿tú querías entrar por qué razón?
+TEST: Por matar a mi mamá y mi padrastro.
+ENT: ¿No tenías alguna razón ideológica o algo así?
+TEST: No.
+ENT: Como que creyeras en la causa de ellos o...
+TEST: Como el rencor, como la ira hacia ellos.
+ENT: Bueno, y a él lo mataron luego: al RANGO6.
+
+TEST: No sé, pero sí he escuchado que ya está muerto. De CONOCIDA6 sí estoy segura
+porque yo sí me di cuenta cuando el bombardeo y todo y ella estaba ahí. Entonces, de ella sí
+estoy segura.
+ENT: Digamos, así como tú me cuentas, había mucha interacción de las FARC con la gente en
+general.
+TEST: ¡Uy! claro, porque es que no era que usted se pusiera a hablar con ellos, pero a usted
+le tocaba. Era [INAD:25:39] que usted le dijera a un soldado: "váyase de acá que usted
+[INAD:25:40], lárguese de acá". Yo [INAD:25:42], o sea, los [INAD:25:44]. Yo a un soldado no
+lo llevo, porque no puedo, no se me da la gana, no lo llevo. Que, en realidad, si se le sube a
+uno tiene que llevarlo, porque qué más, porque no se va a hacer matar.
+ENT: Y allá, pues, ¿el Estado se veía de alguna forma? Es decir, ¿allá se veían unas buenas
+carreteras?, ¿había colegios?
+TEST: Colegios, sí.
+ENT: O sea, el Estado hacía inversión en ------------- o no.
+TEST: No, ------------- es el pueblito más olvidado que había en ------------- Tolima. Ahorita, a
+lo último, es que pusieron unas carreteras por ahí, pero por pedazos.
+ENT: Sí, nosotras estuvimos hace 8 días, [INAD:26:17] y claro, se ha caído la bancada.
+TEST: Y se ve muy... ¿cómo le explico? Se ve perjudicado el comercio, la gente para citas, pa
+muchas cosas, porque si se tapa la carretera, ¿cómo hace uno para salir de ese hueco?
+ENT: Y ¿en esa época era peor?
+TEST: Claro.
+ENT: Y la guerrilla, digamos, ¿qué hacía? ¿Sí ayudaban a carreteras?
+TEST: Sí ponían a trabajar, en eso sí. No pavimentaban, pero, al menos, trataban de tapar los
+huecos. Que se vino un volcán, tratarlo como de destapar.
+ENT: Y ¿tenían puesto de salud?
+TEST: Allá es el radio del hospital en -------------.
+ENT: Y ¿había policía o solo había ejército?
+TEST: Ahí, cuando la guerrilla estaba, habían policías, pero no salían.
+ENT: Se quedaban ahí en el puesto.
+TEST: Eso uno no veía a un policía para nada; lo veía, pero lejos ahí en la estación.
+ENT: Y ¿alguna vez mataron a algún policía?
+TEST: No, que yo me diera cuenta no. También muchos soldados, sí.
+ENT: No en enfrentamientos, sino que los mataban...
+TEST: Utilizaban muchachas para que los sacaran, y los degollaban y todo. Pero era una
+muchacha, la misma guerrillera.
+ENT: Claro, ella misma los mataba. Y ¿también hubo muertes de civiles?
+TEST: Bastantes.
+ENT: ¿Sí? ¿Bastantes? O sea, hubo muchas muertes de civiles, hubo mucha violencia sexual,
+secuestros.
+TEST: Sí.
+ENT: Y desplazamiento ¿Mucha gente se fue?
+TEST: ¡Uy! sí. Aunque en ------------- hay mucha gente que no es desplazada; viven allá y son
+desplazados, y nunca han venido del pueblo.
+
+ENT: O sea, salen como desplazados, pero siempre han vivido allá.
+TEST: O sea, le están quitando la ayuda a alguien que realmente sí la necesita.
+ENT: Claro.
+TEST: Y, ahorita, tantos desplazamientos que han habido otra vez. Y eso a la gente que no le
+dan es a ellos. En cambio, a ellos sí les van a dar y siguen allá.
+ENT: Sí, claro. Bueno, y tú qué dirías, aparte de tu hijo, ¿qué otra cosa te ayudó a afrontar la
+situación? ¿Te metiste, de pronto, en alguna organización de mujeres?
+TEST: No. Solo la fundación.
+ENT: En ORGANIZACION SOCIAL1. Y ¿allá qué hacían? ¿Talleres?
+TEST: Empezamos con unos talleres con CONOCIDA7 Cuando yo llegué la primera vez, yo no
+quise hablar con nadie; dije mi nombre y me senté, no volví a mover para nada. Y ya, a lo
+último, ya eso fueron hablando. El tema, yo ya me tenía porque yo era, mi forma de ser no le
+gustaba. Y el día que yo hablé, que vinieron unas señoras de Holanda, así, como unas
+señoras de por allá, fue porque me motivó una señora que se llama CONOCIDA8 que tiene
+un niño como enfermito, porque él fue abusado por RESPONSABLE3. duró 8 días
+secuestrado por ese man. Eso fue lo que me motivó, porque yo dije: "no soy la única". Pero,
+en el grupo, sí era la única mujer violada por la guerrilla.
+ENT: ¿En ese espacio?
+TEST: Sí. Y una vez, ella me dijo que yo era... un diamante muy fuerte.
+ENT: Sí, la verdad yo también lo creo, porque, digamos, me estás contando cosas muy
+fuertes, y tienes como una firmeza.
+TEST: Yo digo que uno aprende a vivir con las cosas que le toca, y a mí me tocó aprender a
+vivir con eso. Sino que yo tuve el apoyo mucho fue de mi actual pareja; él me entendió
+demasiado. [INAD:29:52] el papá del niño, él [29:53] no entendía nada y yo tampoco le
+aguanté nada. Yo también digo: "¿por qué no le conté?". Me hubiera entendido, pero no
+tenía el valor como de decirle.
+ENT: Pero, pues, también las personas tienen sus tiempos.
+TEST: En cambio, mi pareja actual, sí me produce mucha confianza pa contarle lo que me
+pasa.
+ENT: Igual, todos tenemos nuestros tiempos de cuándo queremos hablar y cuándo nos
+sentimos incómodos.
+TEST: Y yo le conté que iba a denunciar. Él me apoyó. Ya le dije que no. Me dijo: "pues, ya es
+decisión suya -------------".
+ENT: Claro.
+TEST: Yo dije: "qué tal que ese man venga, me mate mis hijos".
+ENT: O sea, prácticamente, tú me cuentas que tú hablaste por pensar en las demás mujeres.
+TEST: Sí, porque yo no soy la única. Yo me he dado cuenta que no soy la única. Pues, yo creo
+que la que más aguanto violencia fui yo, porque yo hablaba con otras y fue en ese momento,
+una, dos veces ya; en cambio, a mí me tocó aguantar 2 años, por no saber la verdad.
+ENT: O sea, tú siempre fue por proteger a tu familia.
+TEST: Sí. No tanto a mi familia, sino a mi mamá.
+ENT: Pues ella era tu familia en ese momento.
+TEST: Sí.
+
+ENT: Eh, y ¿tú qué crees que se necesitaría en Colombia para que no se repitiera todo ese
+daño?
+TEST: Es tan duro, porque están los mismos que hicieron daño y están sueltos.
+ENT: O sea, crees que se necesitaría justicia.
+TEST: Bastante. Pero, justicia que no la va a haber, porque ya ese señor se acoge al proceso
+de paz, no se podía [INAD:31:31]. Y lo que me hizo a mí se lo pudo hacer a otras mujeres.
+ENT: Y ¿tú tenías conocimiento si él era el único que hacía eso?
+TEST: Muchos.
+ENT: ¿Comandantes?
+TEST: Sí.
+ENT: ¿Los combatientes no?
+TEST: Por lo regular, siempre es el comandante.
+ENT: ¿Sí? O sea, ¿era una práctica común?
+TEST: Pues sí, porque si a usted le gustaba el comandante, usted era para él porque él lo
+decía y ya; ¿quién dice que no?
+ENT: Era como ese poder que creían tener.
+TEST: Que creen tener porque lo tienen.
+ENT: Claro, y, bueno, por parte del Ejército, ¿hubo casos de abuso sexual?
+TEST: Escuché uno solo en -------------.
+ENT: Pero ¿era más común por parte de las FARC?
+TEST: ¡Uy!, claro. Y más los pueblitos aporreados por la guerrilla.
+ENT: Bueno, entonces, tú me dices que crees que había tanta presencia de las FARC ahí, era
+porque ahí fue como la fundación.
+TEST: Sí.
+ENT: Y aparte de CONOCIDA6 ¿qué otra cosa sabes así sobre cómo se generó? O ¿cómo fue
+como esa cuna?
+TEST: No.
+ENT: Bueno, entonces, tú crees que para que no se volviera a repetir tendría que haber es
+justicia únicamente.
+TEST: Claro.
+ENT: O ¿qué otra cosa debería haber o cambiar en la sociedad como para que eso no pasara?
+TEST: Que ellos le tuvieran temor a Dios, pero eso es algo que tampoco lo tienen, porque
+una persona que tenga temor a Dios no le hace daño a ninguna.
+ENT: Y ¿tú cómo te sentirías reparada en este momento?
+TEST: Que él pagara, y RESPONSABLE4 porque RESPONSABLE4 están también en
+-------------. Yo me lo encontré dos veces.
+ENT: ¿Él tampoco está acogido al proceso o sí?
+TEST: No, porque él fue, en eso, cuando era la ley ordinaria, él fue en eso en la cárcel, pero
+duró muy poco.
+ENT: O sea, se supone que él pagó...
+TEST: Por cárcel, pero fue muy poco, como un año.
+ENT: Pero, él pagó solo rebelión. Me imagino que no tenía...
+TEST: Denuncias por violación. Un año salió por vencimiento de términos, por eso yo digo
+
+que la ley en Colombia es tan dura, la justicia colombiana, porque allá hay muchos inocentes
+que están pagando, y los que realmente tienen que pagar están por fuera.
+ENT: O sea, también tendría que haber un cambio estructural en la justicia.
+TEST: Y es que uno se da cuenta que muchos jueces, muchos fiscales, o sea, en ------------- se
+acobardan demasiado pa [INAD:34:05] un guerrillero.
+ENT: ¿Sí? ¿En este momento todavía?
+TEST: Claro, sí los fiscales allá no le reciben a usted un denuncio por la guerrilla.
+ENT: Y ¿tú qué has escuchado? ¿Tú crees que ------------- ya está libre de guerrilla?
+TEST: No. Ellos están presencia en veredas.
+ENT: ¿Sí? ¿Lo has escuchado ya?
+TEST: Claro, mi cuñado, aquel día, me día que me cuidara mucho porque él había escuchado
+que ese man iba pal ------------- Tolima otra vez.
+ENT: RANGO2.
+TEST: Entonces, que me cuidara demasiado, que si me podía ir de acá, me fuera; que no
+pensara más en mis hermanos, sino que me fuera con mis hijos. Pa dónde, "no sé", me dijo.
+ENT: Y tú, definitivamente, ¿no quieres denunciar?
+TEST: Me da miedo, porque si se hubiera podido el proceso de paz, entonces, listo. Pero es
+que él se les voló.
+ENT: Claro, no están las garantías para que puedas hacerlo.
+TEST: Y a mí quién me garantiza que él no me va a buscar, después de que yo lo denuncie;
+quién me garantiza que él nunca me va a encontrar. Prácticamente, me tocaría irme de
+Colombia, y pa dónde voy a coger yo con mis tres hijos.
+ENT: Digamos, ahora, ¿eso qué genera en ti?
+TEST: Miedo, preocupación. Yo salgo de mi casa y le digo a mis hijos: "papi, miremos pa
+todos los lados. Y no salimos ni a la avenida; yo cojo la buseta ahí, así mismo, un poquito
+más lejos.
+ENT: O sea, eso cambió tu vida totalmente hasta el momento.
+TEST: Sí. Yo casi no salgo. [INAD:35:30] que la conocí, estaban mi hijos. Ni he debido
+sacarlos.
+ENT: Y ¿alguna vez te repararon de alguna forma?
+TEST: No.
+ENT: Por el desplazamiento, pues. Pero ¿no?, ¿nunca?, ¿ninguna ayuda?
+TEST: No. Pues CONOCIDA9 me estuvo comentando que si yo denuncio, yo hago una
+declaración por mi violación a la Defensoría, o a la Personería, algo así, que ellos me
+reparan, me indemnizan por eso, pero aparte. Y la violación aparte, y el desplazamiento
+aparte. Pero es que el miedo no me deja.
+ENT: Claro, es que es una situación muy complicada.
+TEST: Claro, porque él está otra vez por fuera. Lo mismo RESPONSABLE4 que está en
+-------------. Yo no sabía, y a mí un amigo fue el que hace como [INAD:36:17] semanas, me
+mandó una foto, y él está en -------------. Me dijo: "¿lo conoce? Él es de -------------". Y yo me
+puse fue a llorar, porque fue alguien que me hizo daño. Yo [INAD:36:26] foto, que cambiara
+cédula. Yo le dije: "no, ese número no lo puedo cambiar. Ese número lo tengo en una
+fundación, en [INAD:36:33], acá, entonces, no".
+
+ENT: Y ¿tú recibiste una llamada hace 3 meses?
+TEST: Sí.
+ENT: ¿A ese número? Y ¿era él?
+TEST: De mi casa.
+ENT: Ah, fue el número de tu casa.
+TEST: Porque él quiere mi número. Entonces, yo tengo una hermana que ella es mi
+confidente. Ella no le da mi número a nadies, entonces, ella dice que no habla conmigo, que
+no sabe nada de mí, pero ella mi número no se lo da absolutamente a nadie. Él la llamó y le
+dijo [INAD:36:56]. Entonces, ella le dijo que yo no tenía celular. Que [INAD:36:59] a uno a
+-------------, y que me hacían llegar a mí. Entonces, mi hermana le dijo: "es que yo ni sé donde
+vive TEST porque si ella no me llama, yo no sé nada. Ella me llama por ahí cada año". Yo no
+sé nada de ella más.
+ENT: Y ¿crees que, tal vez, él tenga miedo de que tú vayas a denunciar y por eso te llama?
+TEST: No, yo digo que no es tanto el miedo, porque él no le tiene miedo a nada. Es tanto la
+palabra que él allá algún día me lo dijo, y yo sé que él me la va a cumplir: "que si yo no soy
+para él, no soy para nadie", me mata; porque eso sí me lo dijo muy claro. Es que yo antes de
+tener este tatuaje, él me tatuó el nombre de él acá, porque, supuestamente, yo era para él, pa
+toda la vida.
+ENT: En una de esas veces, ¿te hizo eso? ¿Te amarró o de alguna forma?
+TEST: No, simplemente, me puso un revolver en la cara y me dijo que si no me lo hacía, me
+mataba. Y detrás de este tatuaje hay dos más; un corazón ahí, y ahí decía RANGO2 por
+dentro. Entonces, yo me hice uno, después me hice este.
+[PAUSA:37:59- 38:22]
+ENT: Entonces, ¿él también te torturó?
+TEST: Sí, porque él decía que si no era para él, no soy para nadie. Y ese es mi temor, que
+algún día me cumpla eso. Imagínese que yo me toque irme con él, ¿y mis hijitos?
+ENT: Y ¿tú no crees que, tal vez, si tu denuncias te brinden algún tipo de protección, pues, al
+saber que él está amenazándote en este momento?
+TEST: La verdad, yo no creo en la justicia colombiana.
+ENT: Es muy entendible.
+TEST: Es que yo tengo [INAD:38:51], porque mi niño mayor es hijo de un militar, y yo fui a
+demandar a la casa [INAD:38:54], no me quisieron recibir la demanda, y eso que él trabaja
+con el Estado, me la archivaron y todo.
+ENT: ¿Era una demanda de qué?
+TEST: De alimentación. Y me la archivaron y todo en la Fiscalía de -------------. Imagínese que
+si se le ocurre a un soldado, imagínese a un guerrillero. Entonces, yo no creo ya como en la
+justicia colombiana. Si a mí alguien me dijera: "usted denuncie, le vamos a brindar esto, le
+vamos a brindar una seguridad a usted y sus hijos", porque yo le digo a mi marido: "pa mí,
+mis hijos primero, por encima de cualquier persona".
+ENT: Y ¿tú ahorita estás en alguna organización?
+TEST: No.
+ENT: ¿Tú no hablas con la organización de mujeres de allá, a pesar de que tú estés acá?
+TEST: No, no tengo contacto con nadie.
+
+ENT: Solo en este espacio ¿Con nadie de allá?
+TEST: No.
+ENT: Y, en este momento, en ------------- tampoco, solo ORGANIZACION SOCIAL1TEST: Sí, y
+acá.
+ENT: Bueno, entonces, yo quería agradecerte.
+TEST: Yo quiero corregir algo acá. Mi violencia fue en el 2003, yo tenía 13 años cuando eso.
+ENT: Fue en el 2013.
+TEST: Claro, yo tengo ------------- años, fue en el 2003.
+ENT: 2003.
+TEST: Sí, hasta el 2005.
+ENT: Tienes -------------.
+TEST: Tengo ------------- años.
+ENT: Ah, qué pena.
+TEST: Pequeñita. Yo tenía como 13 años cuando fue la primera vez, y yo quería que eso
+fuera algo lindo, pero jum.
+ENT: O sea, ¿tú nunca habías estado con nadie hasta esa vez?
+TEST: No. Y yo siempre le decía a mi hermana "qué bonito es como uno ve en las novelas".
+ENT: O sea, también crees que como que te quitó esa ilusión.
+TEST: Claro. Esa ilusión de casarme, porque yo digo que yo no me casaría nunca.
+ENT: ¿No? Por qué?
+TEST: Porque yo digo que soy una mujer manchada, porque ese man me marcó de por vida.
+Mi esposo me dice "casémonos". Yo le digo: "no".
+ENT: Pero no permitas que él te haga daño de esa forma en ese momento, porque tú no eres
+una mujer manchada; antes, eres una mujer muy fuerte ¿sí? No cualquier mujer resiste todo
+ese dolor y está aquí sentada con tus hijos y con tu pareja nueva.
+TEST: Ellos son mi fortaleza, mis hijos. Yo no le miento, hay días que yo me decaigo
+demasiado, yo lloro demasiado, pero no delante de ellos; cuando estoy sola.
+ENT: Pero, tú no eres una mujer manchada, antes eres una mujer diamante como te dijeron.
+En serio, un diamante no es manchado, porque igual eso también es como una construcción
+que ha hecho como la sociedad de la vida sexual de las mujeres. Realmente, tú eres una
+mujer fuerte. O sea, no te niegues a cosas que quieras hacer ahora por él; no permitas que él
+te haga daño de esa forma, a pesar de que no está ahí parado al lado tuyo. Si tu quieres
+casarte con tu pareja, hazlo. Antes, no es que tú seas menos ahora por haberte aguantado
+todo eso, antes eres más, porque tuviste la fortaleza que te llevó hasta acá, a este momento a
+estar acá sentada.
+TEST: Es que hay mucha gente que lo critica a uno, lo juzga, pero nadie sabe del pasado de
+uno, nadie conoce los zapatos de uno.
+ENT: Digamos, tú me comentas que tu comportamiento era de rabia, ¿sí?
+TEST: Pero, por ejemplo, acá hay una señora que viene de -------------, y ella me pregunta que
+yo por qué no hablo con mi mamá. Que es la señora CONOCIDA11, ella vive en -------------,
+era vecina de mi mamá ¡Ay! yo digo que "¡ay! no, yo a mi mamá tampoco le hablo", ya,
+porque nosotros, tampoco, darle importancia a eso. Porque es que, la verdad, lo que se habla
+acá, se queda acá, pero muchas veces no es así, muchas cosas salen a la luz.
+
+ENT: ¿Sí? Digamos, tú por eso dijiste la vez pasada de que no [INTERRUP]
+TEST: Porque mi hermana llegó y me dijo, ahora, días, que había escuchado que yo había
+tocado el tema de mi violación acá en -------------.
+ENT: ¿En serio?
+TEST: Sí, hace como 15 días me lo dijo. Yo le dije: [INAD:42:37]. Dijo: "TEST, no sé cómo
+llegó, pero acá tocaron el tema". "De quién". Dijo: "lo escuchó mi hermano CONOCIDO12, y
+lo escuchó una cooperativa de mercados, fíjese".
+ENT: Digamos, también, por eso, son importantes estos espacios más individuales, ¿sí?
+Porque, pues, nosotros sí podemos como prometer eso, que eso no va a salir de acá, pero,
+pues, cómo hace también.
+TEST: Entonces, yo le dije a mi esposo: "yo voy a ir", porque yo [INAD:43:00] estaba muy
+rabona. Yo le dije a [INAD:43:02] que no iba a volver. Me dijo: "¿por qué -------------?". Yo le
+dije: "porque es que yo comenté algo de lo que me pasó, y nombré a dos personas, y allá
+fueron y dijeron exactamente lo mismos", y [INAD:43:13] de mi hermano. Entonces, ella me
+dijo: "TEST, vaya y denuncie". "¿Cuál denuncia mamá? Sea cómo sea, ella le dio la vida a
+usted. Sea cómo sea, usted vivió por ella". Ella decía: "si quiere denunciar, denuncie TEST.
+Cuando denuncie es su mamá". Y así me dijo eso. Entonces, yo dije: "¡ay! monita, yo no voy a
+denunciar. Me da miedo".
+ENT: Claro, muy entendible.
+TEST: Entonces, por eso ahorita que decían [INAD:43:40], yo dije que no, porque todo el
+mundo lo iba a escuchar.
+ENT: No, para nada. Solo yo lo voy a escuchar, y va a estar en un sistema de información
+que, tal vez, lo vayan a escuchar para hacer el análisis, pero, igual no van a saber ni tu
+nombre, ni nada. Cosas exactas, solo la ORGANIZACION PUBLICA2 lo va a tener. Y es muy
+entendible, claro que sí, porque, digamos, si uno da una entrevista, que salga en otra parte,
+pero no. Digamos, en la ORGANIZACION PUBLICA2 se maneja la confidencialidad así. Pero,
+entonces, lo que yo quiero decirte es que no quiero que salgas de acá habiéndole contado
+todo esto, y que antes eso sea algo malo para ti.
+TEST: La verdad, me duele.
+ENT: Sí, es entendible, y va a doler, pero quiero que trates de que esto sea algo positivo para
+ti en el sentido que sepas que me estás contando todo esto; eres una mujer fuerte. Te lo digo
+yo, yo no creo que tuviera la fuerza para, digamos, estar acá sentada enfrente mío. Entonces,
+realmente, no eres una mujer manchada, eres una mujer muy fuerte y te admiro muchísimo,
+en serio.
+TEST: Gracias.
+ENT: No, y te lo digo con sinceridad, va a quedar aquí. Eres de las mujeres más fuertes que
+he escuchado.
+TEST: Gracias.
+FIN: 44:54
+
+

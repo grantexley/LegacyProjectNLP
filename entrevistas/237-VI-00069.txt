@@ -1,0 +1,974 @@
+ENT: Y lo primero que yo quisiera saber es: ¿De dónde eres?,¿dónde naciste?
+TEST: Yo nací en ---------, Cesar, corregimiento del municipio de ------------[INTERRUP]
+ENT: ¿Tú eres de LUGAR1?, yo conozco a LUGAR1, yo he comido pescado en LUGAR1
+TEST: [CONT] ¿Enserio?
+ENT: Viuda de pescado en hoja de plátano en LUGAR1. Yo soy ... yo conozco a LUGAR1,
+--------.
+TEST: Y en LUGAR1 ¿ A quién conoces?
+ENT: En ---------------, ¿cómo es que se llama la señora? ... no sé sí conozca a alguien en si,
+pero he estado allá en eventos, en eventos recuerdo a la orilla de ... de la ciénaga, creo que sí,
+allá estuve una vez con ORGANIZACIÓN SOCIAL1, no me acuerdo y allá hicimos un
+almuerzo, en ------------------ tengo una amiga, bueno ella vive acá ... que es el la esposa de
+CONOCIDO1, CONOCIDO1 es un periodista y CONOCIDA2 es de ---------------- y allá en --------conozco a CONOCIDO3 [INTERRUP]
+TEST: a ----------- ... ¿ CONOCIDO3?
+ENT: CONOCIDO3 ... CONOCIDO3, ¿tú eres algo de CONOCIDO3?
+TEST: Familia de nosotros
+ENT: Bueno en LUGAR2... también ... bueno LUGAR2con razón tiene el nombre bien puesto
+por que está allá ... bien solo
+TEST: Metido por allá [risas], por casualidad ¿no conoció a los pelirrojos [risas], allá hay
+unas pelirrojas?
+ENT: Yo sé que un día fuimos, de hecho estuvimos mucho rato allá, conocimos las esteras,
+todo el trabajo que hacen las mujeres con la estera hay unos cuadros que hacen como
+tejidos, que son cuadros, cuadros pero ... [INTERRUP]
+TEST: Ahh ... en ... en palma esa ...
+ENT: Sí, a mi me parece que es ... de hecho yo siempre hablo mucho de LUGAR2 por que digo
+que ... [INTERRUP]
+TEST: Y hacen individuales también ...
+ENT: Han hecho arte allá ... eso me gusta mucho. Ahhh ... o sea que tu eres de ¡LUGAR1!
+TEST: De LUGAR1, si no que nosotros aparecemos como ... como somos del municipio de
+------------ entonces aparecemos de allá.
+ENT: A claro, pero que bien ...
+TEST: Soy ------------ENT: El pescado de LUGAR3es ... es el pescado de LUGAR3, en LUGAR3 son _---------- _o sea_
+----------, _ya no me acuerdo del apellido y el hermano ... [INTERRUP]
+TEST: ¿Ha estado por allá]
+ENT: Sí claro, yo conozco bastante por allá, me gusta LUGAR3 ademas, en ¿qué fecha naciste
+TEST?
+TEST: El ... ------------ del 75
+ENT: ¡Festivales!
+TEST: [Risas]
+ENT: ¿Te gusta el Vallenato?
+TEST: [CONT]: Sí, me encanta [risas] ... como buena Cesarense
+ENT: Claro ... ¿Te criaste allá en LUGAR1?
+
+TEST: [CONT]: Me crié allá ... ehh ... mis papás, pues mi mamá una señora trabajadora,
+vendía pasteles, vendía bananos [INTERRUP]
+ENT: Ahh ... ¡qué chévere!
+TEST: [CONT]: Mi papá era ... era agricultor, tenía unas vaquitas por ahí y ...y cultivaba
+[INTERRUP]
+ENT:¿Y no pescaba?
+TEST: [CONT]: No, papá no, pues cuando me tuvieron a mi no era pescador, pero ellos me
+cuentan ... (mis hermanas): que papá fue pescador cuando las tuvo a las mayores, pero en
+otro pueblo que se llama LUGAR4 yo no sé ¿sí tu lo distingues?
+ENT: ¿LUGAR4 no es LUGAR3? [INTERRUP]
+TEST: [CONT]: Sí también de ahí de LUGAR3 ...
+ENT: ¿Sí?, ahh
+TEST: [CONT]: Sí es allá metido a la orilla de ...
+ENT: Sí LUGAR4, pero pensé que LUGAR4 no pertenecía
+TEST: [CONT]: ¡Sí LUGAR4!, bueno ellos ...ellos era de allá de LUGAR4, bueno se vinieron a
+vivir a LUGAR1 y ... y mi mamá pues ahí, mi papá como el trabajaba en lo que trabajaba y mi
+mamá pues iba a LUGAR4, venía, vendía Bananos, traía pescado, yo creo que será por eso
+que tiene una enfermedad que se llama: "Alzaimer", pero el ... neurólogo ¿es?, le dijo que de
+tanto peso que ella se puso en la cabeza, [INTERRUP]
+ENT: Claro
+TEST: Por eso le afectó mucho el cerebro [INTERRUP]
+ENT: Sí eso termina afectando también como la médula, señales de que le afecta a veces el
+movimiento. [INTERRUP]
+TEST: Mamá hoy en día es una señora que está de cuido y a ella toca bañarla, toca ...
+[INTERRUP]
+ENT: Claro, el peso lo que hace que le ...
+TEST: Le comprime la médula ...
+ENT: Le comprime la médula ...
+TEST: La médula, entonces nos hemos ido rotanto, ¡el año pasado me tocó a mi!, cuidarla ...
+de cuidarla todo el año ... ehhh cuando ... los paramilitares llegaron al pueblo ehh ellos
+empezaron a ... a hacer sus diabluras por ahí, fue cuando ... ellos vendían gasolina, cargaban
+gasolina, cargaban gasolina en unos camiones y todo eso, llegaban amenazando a la gente,
+que iban a matar los ladrones, que iban a matar a las lesbianas, a los ... "maricas" (decían
+ellos), emm tieraron muchos panfletos, para decir que iban a acabar con esa plaga.
+ENT: O sea... ¿les decían plaga?
+TEST: [CONT]: Sí, entonces que por que eso era una mala imagen para ... para la ... para el
+pueblo, pero ehhh ... vivían transportando gasolina, en esa entonces ellos dijeron que iban a
+acabar con el pueblo que lo iban a bombardear, ehh un día se les prendió un carro de
+gasolina, ¡un camión! y ... preciso en toda la esquina de la casa de nosotros se prendió ese
+carro ... por que ellos llevaban, yo no sé que era lo que ellos hacían, eran las 2 de la mañana
+un, un ----------------- 2002, que no ... no se me puede olvidar, estábamos nosotros
+durmiendo, cuando escuchamos que ... o sea que ... los vecinos que gritaban ... que nos
+pararámos que se estaba quemando el pueblo, o sea se les ha prendido el camión de
+
+gasolina a estos señores y botó mucha gasolina y la casa que estaba al lado de nosotras se
+prendió total, y la de nosotros estaba ya cogiendo candela, y nosotros no hallábamos ni por
+donde salir ... por que nosotros ... era tanto el susto que teníamos [INTERRUP]
+ENT: Ajá, ¡imagínate!
+TEST: Tiramos a coger por el lado del patio, a salir por ... o sea no teníamos por donde salir,
+por que se prendió ... la casa que estaba al lado de nosotros se prendió total, era una tienda y
+se prendió total, total. ...
+ENT: ¡Santo Dios!
+TEST: Aja ... Entonces llegaron ... la gente: "que no que sacaran el, el camión por que se iba a
+prender todo el pueblo", y ellos decían que: "no, que no" ... entonces hubo un primo mío que
+dijo: "que ... no, que él lo sacaba", él lo sacó, el camión se terminó de prender a las afueras
+de... [INTERRUP]
+ENT: O sea ¿tu primo iba conduciendo el camión prendido?
+TEST: [CONT]: Por que ninguno de ellos no quería sacarlo, mirá que ya venían prendiendo
+casas desde a donde lo traían.
+ENT: O sea después ... entonces sí cobarde que te dio miedo ...
+TEST: [CONT]: Sí correcto, entonces que el que sacara ese camión que lo mataban, mi primo
+le tocó irse por que ellos decían que lo iban a matar ...
+ENT: Pero, pero sí eso fue salvar de una tragedia ¿no?
+TEST: [CONT]: No eso como a ellos no les importaba nada, esa gente era muy desalmados,
+entonces sacaron el camión y lo llevaron a las afueras y allá se prendió el camión total ... o
+sea que donde mi primo no saque ese camión se hubiera prendido total el pueblo, por que la
+casa de mi primo cogió candela, por que es que nosotros vivimos cerca [INTERRUP]
+ENT: Todos pegaditos uno del otro ..
+TEST: [CONT]: Sí.
+ENT: Y ... ¿En tu casa cuantos habían?, ¿Cuántas personas estaban durmiendo ese día?
+TEST: [CONT]: Estaba papá, mamá, mi hermana una ... mi hermana estaba embarazada, eso
+mejor dicho, eso fue un desastre, un desastre total, la casa estaba cogiendo, uno allá un
+primo que dijo: "Tía levántese que se van a ... se está prendiendo la casa"; ya la casa de
+nosotros estaba cogiendo candela, o sea eso fue algo, algo traumático, y ellos decían, decían
+que iban a acabar con todo, o sea con toda la plaga estaba haciéndole daño al pueblo.
+ENT: ¿Y antes se habían ya ... habían ellos estado por ahí?
+TEST: [CONT]: Ya, ya ellos llegaban a robar burros, a robarse el ganado, vea ellos llegaban al
+pueblo y recogían todos los burros y los echaban en un camión, a mi papá se le llevaron la
+mula [INTERRUP]
+ENT: ¿Y qué hacían con eso?
+TEST: [CONT]: Yo no sé que hacían ellos con eso, los cogían en un camión y se los llevaban,
+¿qué ellos encontraban el marrano en la calle?, ellos todo eso se lo llevaban, ellos mire ... el
+pueblo quedó sin burros por que ellos se lo llevaban, ¿para que los usaban?, no sé, sabrían
+ellos para que los usaban.
+ENT: Porque el burro no se come
+TEST: [CONT]: Yo no sé para que lo usaban, realmente era algo tan extraño, que ellos
+dejaban el pueblo sin burros.
+
+ENT: Oye pero yo me quiero devolver a tu infancia, ¿qué creciste jugando?, ¡háblame un
+poco de ti!, ¿Cómo era ... cómo era LUGAR1 en tu infancia?, háblame de la LUGAR1 que tu
+recuerdas.
+TEST: [CONT]: Ehhh ... LUGAR1 era una infancia muy bonita [INTERRUP]
+ENT: Ajá
+TEST: [CONT]: Muy bonita por que a pesar de que no había luz ... era un pueblo tranquilo,
+jugábamos en la arena, ehhh nos acostábamos como a las 8 de la noche jugando en esa tierra
+[INTERRUP]
+ENT: Ujummm
+TEST: [CONT]: Pero era algo muy bonito o sea, era un pueblo demasiado tranquilo,
+[INTERRUP]
+ENT: Claro ...
+TEST: [CONT]: ¿Si?, entonces cuando ya empezaron a llegar ellos, fue que ya se fue
+perdiendo la tranquilidad del pueblo.
+ENT: ¿Y antes de los paramilitares había llegado de pronto la guerrilla?, ¿habían sabido algo
+de ...?
+TEST: [CONT]: Llegaron los Elenos [INC: ELN] pero ellos la verdad, nunca le hicieron daño a
+la gente en el pueblo no, ellos llegaron ... hicieron reuniones [INTERRUP]
+ENT: Si ...
+TEST: [CONT]: Ellos hicieron reuniones en el pueblo, pero nunca, nunca le hicieron daño
+[INTERRUP]
+ENT: Nunca afectaron a nadie ...
+TEST: [CONT]: Nada, no, ellos llegaban a ... yo digo que era como a ... a hacerse conocer
+[INTERRUP]
+ENT: Ajaaa
+TEST: [CONT]: Por que ellos como llegaban de por ahí de --------------[INC: ---------------------]
+ENT: ahh ok. ¿--------------es?
+TEST: [CONT]: Es por, por ahí cerca a las -------ENT: Ahhh ya.
+TEST: [CONT]: ¿Tú sabes que antes de llegar a LUGAR1, hay que llegar a -----------?
+ENT: Ajá sí claro
+TEST: [CONT]: Entonces por ahí, tran llegaban de ahí, de -------------- nosotros pues sí ...
+hicieron reuniones, pero nunca, nunca, los Elenos nos hicieron daño, ¿sí?, después fue
+cuando ellos llegaron a tomar se la ... hasta mataron muchas personas en el pueblo.
+[INTERRUP]
+ENT: ¿Los paras?
+TEST: [CONT]: Las sacaron, las mataron fuera del pueblo, pero las mataron.
+ENT: ¿y cómo en qué año llegaron los paras [INC: Paramilirares], ¿mucho antes de lo del
+camión?
+TEST: [CONT]: Como un año antes habían llegado
+ENT: ¿Cómo se dieron cuenta ustedes de la presencia esa allá en el, en el pueblo?
+TEST: [CONT]: Por que ya empezaron a llegar personas ... desconocidas, por que ya usted
+sabe, como usted está en su pueblo usted conoce a todo el mundo. [INTERRUP]
+ENT: Claro ...
+
+TEST: [CONT]: Entonces ya empezaron a llegar, llegaban de noche ehh ... a como es ... ah
+buscar supuestamente las personas que habían tenido problemas con ellos, por que resulta
+que los paras [INC: Paramilitares] que llegaron, habían ex militares y ex policias que
+estuvieron en LUGAR1 [INTERRUP]
+ENT: Ahhh ¿Cómo va a ser?
+TEST: [CONT]: Entonces esa gente, muchachos que tuvieron problemas con ellos, porque
+cuando yo ... cuando llegó ... emm ...En LUGAR1 estuvo la policía
+ENT: Ujumm, ¿habían comandos?
+TEST: [CONT]: Había habido ... primero hubo ejercito
+ENT: Aja
+TEST: [CONT]: Después llegó la policía, resulta que en el pueblo, los del ejercito se iban pa
+los bailes, allá y se ponían a bailar con las muchachas y entonces los civiles, o sea los
+muchachos del pueblo se agarraban con los militares y eso habían una peloteras
+impresionantes [INTERRUP]
+ENT: ¿Entonces después ellos llegaron a vengarse?
+TEST: [CONT]: A vengarse de las personas con los que ellos tenían problemas
+ENT: ahhh
+TEST: [CONT]: Entonces llegaron a vengarse, después llegó la policía, me cuerdo tanto un
+día que había una caseta que así ... o sea como a dos cuadras de la casa o sea y ahí se metían
+los policías a tomar y se agarraron un día y ... con los civiles [INTERRUP]
+ENT: Ujumm
+TEST: [CONT]: Y uno de ellos tiró una granada, tiró una granada en toda la esquina de la, del
+bailadero, hubieron personas heridas, que menos mal que cayó ... eso era mucha tierra,
+[INTERRUP]
+ENT: Claro eso ayudó ah ...
+TEST: [CONT]: O sea, [INTERRUP]
+ENT: Ahh absorber el impacto
+TEST: [CONT]: A absorber y no, no cayó en algo ... por que donde hubiera caído en algo ... o
+sea. [INTERRUP]
+ENT: ¿Pero esos policías y soldados no eran del pueblo?
+TEST: [CONT]: Sí ellos no eran del pueblo, o sea en el sentido que no eran del pueblo por
+que no eran de ahí. [INTERRUP]
+ENT: ¿No eran nacidos ahí?
+TEST: [CONT]: No, no eran nacidos de ahí, era que los mandaban de ... del gobierno, los
+mandaba ... los mandaron ahí a ... a tener un este [INTERRUP]
+ENT: Tú recuerdas como ... como mas o menos en ¿qué época estuvo el ejercito y en qué
+época la policía?¿años?
+TEST: [CONT]: Imagínate que ... el ejercito estuvo, yo estaba haciendo primero de
+bachillerato, eso fue como ... uihs es que [risas] ... [INTERRUP]
+ENT: ¿No recuerdas?
+TEST: [CONT]: Nooo, por que yo terminé mi bachillerado en el 94. [INTERRUP]
+ENT: Aja ...
+TEST: [CONT]: Retrocediendo allá como en el [INTERRUP]
+
+ENT: Estabas haciendo primero, o sea son ... [INTERRUP]
+TEST: [CONT]: Como en el 98
+ENT: ¿6 años antes?
+TEST: [CONT]: En el 98, en el 1900 ....
+ENT: ¿Terminaste en el 94?, entonces en el 88...
+TEST: [CONT]: Como en el 88, ya llegó el ejercito [INTERRUP]
+ENT: Aja
+TEST: [CONT]: y el ... haciendo 4to de bachillerato, llegó la policía, que no se me olvida tanto
+que ese fue el año que mataron a Rafael Orozco, que ellos llegaron allá, allá al pueblo.
+[INTERRUP]
+ENT: En el 94 ... ¿antes no había habido presencia por allá de ninguna autoridad?
+TEST: [CONT]: No, no, no antes no había habido presencia de autoridades en el pueblo.
+ENT: Cuando llegaron la ... el ejercito y la policía, ¿llegaron a mejorar o estaban mejor
+ustedes sin ellos?
+TEST: [CONT]: Estábamos mejor sin ellos
+ENT: ¿Por qué?
+TEST: [CONT]: ¿por qué eso el pueblo era tranquilo, [INTERRUP]
+ENT: No hacía falta tampoco que llegaran
+TEST: [CONT]: No hacía falta nada, por que me cuenta mi mamá que la policía estuvo
+muchos años, yo creo que antes de yo nacer. [INTERRP]
+ENT: Ajaa
+TEST: [CONT]: Estuvo la policía, ¡había puesto de policía en LUGAR1!, y estuvieron ahí,
+resulta que un policía mató a un civil del pueblo en un baile y a ellos los hicieron salir de ahí,
+o sea la gente se rebelizó de ver que me mató al civil que era muy conocido y lo ... y hicieron
+salir a la gente, a la policía ¡perdón!, ehhh ... quemaron el puesto de policía.
+ENT: Claro, la gente se rebeló en esa entonces
+TEST: [CONT]: Claro, entonces desde ahí no había vuelto la policía ni el ejercito al pueblo
+ENT: Ahh ok.
+TEST: [CONT]: Entonces ya después fue cuando volvió a llegar ejercito, después se llevaron
+el ejercito, llegó la policía, ehh ... lo único malo que hizo ... que hicieron los Elenos [INC:
+ELN], en el pueblo ... fue que por ahí metieron el oleoducto, el ---------- ----------; y ellos
+bombardearon una válvula que colocaron en LUGAR1 ehh ... Ecopetrol y ellos
+bombardearon esa ... [INTERRUP]
+ENT: Esa válvula
+TEST: [CONT]: Esa Válvula [INTERRUP]
+ENT: o sea ... cometieron el acto ahí en el pueblo de ustedes.
+TEST: [CONT]: Es correcto.
+ENT: Ven y alguien del pueblo de pronto cedió a las ... a la ideología del ELN, ¿digamos que
+gente del pueblo de haya ido con ellos?
+TEST: [CONT]: No, no, nadie
+ENT: ¿Nadie?, no se fueron ...
+TEST: [CONT]: Que ellos hasta el momento ... por que usted sabe ... todo se sabe ...
+ENT: No claro, [risas]
+
+TEST: [CONT]: Nooo, íban ... íbamos a las reuniones, por que también era ... lo obligaban a
+uno, los esperábamos en la plaza [INTERRUP]
+ENT: Y les tocaba ir
+TEST: [CONT]: y a uno le tocaba ir, entonces eso era lo único que ellos hacían, lo único malo
+que vuelvo y te repito que hicieron fue ... bombandear la válvula, que nos perjudicó en el
+sentido de: hubo mucho crudo que se derramó al río y hubo muchos peces muertos.
+ENT: Entonces eso afectó la economía ...
+TEST: [CONT]: Afectó mucho, mucho, la economía ... usted sabe que eso allá es tierra de
+pescadores, entonces eso fue lo que pasó, eso fue lo malo que ellos hicieron ¿sí? ... pero los
+paras [IND: Paramilitares], ellos sí llegaron a hacer [INTERRUP]
+ENT: ¿Me dice que los sienten que ellos llegaban de noche?
+TEST: [CONT]: Ellos llegaban de noche, a veces estaban los fines de semana los bailes, me
+acuerdo tanto que un día estábamos ahí, yo estaba acostada durmiendo, entonces mis
+sobrinos estaban bailando, porque preciso la tienda que estaba al lado que se quemó, tenía
+una ... un bailadero al lado [INTERRUP]
+ENT: En los pueblos sí está mucho eso, en mi pueblo había un bailadero y la gente va y baila
+allá.
+TEST: [CONT]: Es correcto, entonces llegaron ellos ... buscando a las personas ... que ... con
+quien ellos tenían ... [INTERRUP]
+ENT: Ujum
+TEST: [CONT]: Sus problemas ... ¿puedo decir el nombre de la persona?
+ENT: Noo claro, No hay problema, sí quieres sí, si no ...
+TEST: [CONT]: Entonces, el muchacho el tenía sus problemas en el sentido de que el era
+como payasito [INTERRUP]
+ENT: Ujum
+TEST: [CONT]: y él ... se agarraba con ellos ... con los militares y después con la policía,
+entonces ellos vinieron ... resulta que hubo ... ehh ... hubo un ... para [INC: Paramilitar] que,
+que se hizo muy amigo de un muchachos del pueblo que tenía su pesquera en LUGAR4 ... y el
+decía: "que a el le daba cosa ehh ... matar gente de LUGAR1, por que pues era muy, muy ehh..
+[INTERRUP]
+ENT: Matar a sus paisanos
+TEST: [CONT]: Sí, muy conocidos, entonces ... él le contó a CONOCIDO4 le dijo: "mire, yo lo
+quería matar" o sea no quería matar a ese muchacho, pero él nos dijo, o que lo mataramos
+pero que a el le pidieron a que lo ingresara a las filas de ellos.
+ENT: Las filas de las FARC
+TEST: [CONT]: Y el le dijo a no ... que prefería que lo mataran.
+ENT: Y lo mataron ...
+TEST: [CONT]: Y lo mataron, ese mismo día, esa misma noche se llevaron a otro muchacho, a
+otro señor que le habían dicho que dejara de expender droga, por que estaba vendiendo
+droga [INTERRUP]
+ENT: Ujum
+TEST: [CONT]: Y no lo había dejado, se los llevaron ... a los dos los mataron juntos, a ellos
+dos sí los mataron juntos [INTERRUP]
+
+ENT: Claro ...
+TEST: [CONT]: Después llegaron, sacaban a las personas que pues ... yo tengo entendido que
+decían que vivían robando.[INTERRUP]
+ENT: Ujum
+TEST: [CONT]: Y se las llevaban y las mataban pues después ... después [INTERRUP]
+ENT: ¿Sí eran personas ladronas?
+TEST: [CONT]: Un ... ese muchachos que dicen que mataron, dicen que supuestamente venía
+de por acá, de ------- que había hecho no se qué, que había robado acá en ------- total que lo
+iban siguiendo, pero ... o sea no entiendo el porque los paras [INC: Paramilitares], cogen lo
+sacan y se lo llevan.
+A excepto que la persona, que ... a quien él le robo le haya pagado para que ellos
+[INTERRUP]
+ENT: Serían ellos a ejercer justicia
+TEST: [CONT]: Es correcto, al muchacho lo mataron, ehh ... después mataron otro muchacho,
+pero él sí por que se estaba haciendo pasar por los paras [INC: Paramilitares], usted sabe
+que .. que la humanidad hay tanta gente que vive ... se meten unas ideologias en la cabeza ...
+mire ellos supieron que el muchacho se vivía ... dos muchachos se vivían haciendo pasar por
+ellos [INTERRUP]
+ENT: Ujum
+TEST: [CONT]: Y ... y vinieron y ... y se llevaron uno de ellos, por que el otro sí no se dejó
+[INTERRUP]
+ENT: Ha sucedido bastante que la gente queriendo aprovechar ...
+TEST: [CONT]: Aprovechar el momento [INTERRUP]
+ENT: Meter miedo y lograr cosas ...
+TEST: [CONT]: Y resulta que ese muchacho lo mataron también, o sea mataron mucha
+gente ... otros dicen que por venganza, otros que por que ... eso se volvió un solo desorden
+terrible.
+ENT: Con esa presencia ya que empezaron a llegar ellos cometiendo ese tipo de cosas, de
+atropellos, ¿cómo empezó a cambiar el pueblo?
+TEST: [CONT]: Terriblemente, por que ya uno se acostaba a las 7 de la noche, ya uno no
+podía estar en la calle, de solo pensar que le podían hacer daño a uno, y ellos decían que la
+gente se tenía que acostar temprano.
+ENT: ¿Pero ellos no llegaron a poner ahí base en el pueblo?
+TEST: [CONT]: No, no, no ... ellos la base la tenían en --------- ellos vivían ... andaban era en
+--------- y desde allá comandaban en LUGAR4 y LUGAR1.
+ENT: ahh _Ok_.
+TEST: [CONT]: Ellos no, o sea nunca llegaron a ... a quedarse en LUGAR1, de saber que o sea
+a pesar de todo los ---------son muy rebeldes.
+ENT: Ujum, ¿llegaron de pronto a organizarse y a enfrentarlos o a ...?
+TEST: [CONT]: Claro, el día que, que quemaron el, el camión, o sea que se quemó el camión
+de, de la gasolina, o sea la gente se le enfrentó a ellos, por que ellos no querían dejar sacar el
+camión, ¿sí?, entonces la gente se enfrentó con piedra y machete y ellos decían que yo me
+iba ... venían, iban a venir el día siguiente a bombardear el pueblo por que ellos tenían que
+
+acabar con LUGAR1, por que ningún pueblo se les había ... se les había enfrentado.
+ENT: y ¿qué tantos eran?, ¿qué tantos iban esa noche?
+TEST: [CONT]: Esa noche, habían 10 personas de esas [INTERRUP]
+ENT: 10 Paras [INC: Paramilitares], y ¿que tanta gente del pueblo salió?
+TEST: [CONT]: Estaba casi todo, toda la gente del pueblo [INTERRUP]
+ENT: ¿sí?
+TEST: [CONT]: Toda la gente del pueblo rebelizada.
+ENT: Ya ...
+TEST: [CONT]: Y ellos pues de todas maneras, esa gente como vio que el camino estaba
+prendido, o sea ya no podían hacer nada o sea como vamos a apagar este camión sí sabe que
+la gasolina no se apaga con agua [INTERRUP]
+ENT: Si ... la gasolina no se apaga con agua
+TEST: [CONT]: No, y hubieron muchas casa quemadas, imagínese esa gente que podía
+hacer, con la gente encima o sea con el pueblo encima, [INTERRUP]
+ENT: Aja
+TEST: [CONT]: Ellos se fueron, pero ellos dijeron que iban a llegar a bombardear a LUGAR1.
+ENT: ¿y volvieron?
+TEST: [CONT]: No ellos, mire que el día siguiente ellos no volvieron, ellos no volvieron
+después volvieron pero ya ... era como haciendo presencia, como quien dice no nos van a
+venir a intimidar nada más por que a un pueblo se le da la gana [INTERRUP]
+ENT: Pero el pueblo ya estaba también así como "mal entonado".
+TEST: [CONT]: Claro, mal entonado por que como que van a llegar solo por andar vendiendo
+gasolina robada, por que se supone que la gasolina que ellos vendían era gasolina robada en
+el pueblo, tenían su bomba allá y venían y traían los camiones y descargaban allá
+[INTERRUP]
+ENT: ¿Y tenían la bomba dónde?
+TEST: [CONT]: En el pueblo, o sea para el lado del puerto [INTERRUP]
+ENT: Ajaa
+TEST: [CONT]: O sea este para la orilla del rio, allá la tenían.
+ENT: ¿O sea se robaban por la carretera o algún lado y vendían en los caminos ?
+TEST: [CONT]: En las tuberías esas que que pasan por ahí cerca a -----------[INTERRUP]
+ENT: Ahh _Ok_
+TEST: [CONT]: Y ellos iban allá y montaron su, su venta de gasolina allá, y quién les decía
+nada sí eran los que estaban armados ... [INTERRUP]
+ENT: Claro, eran los dueños del contrabando ...
+TEST: [CONT]: Los dueños del contrabando, y ahí que usted dijera algo pa que viera por que
+no falta el "sapo", que lo mal informa a usted que por ahí usted fue la que dijo.
+ENT: Ven ... esa, ese paso ... eso de los paramilitares de pronto ¿rompió un poco las
+relaciones entre la comunidad?, decir no sé ... que la comunidad de LUGAR1 era más unidad
+y de pronto con eso se volvió más desunida o al contrario la gente ...?
+TEST: [CONT]: No, al contrario, el pueblo se volvió más unido, por que ya la gente, o sea la
+gente vivía como preparada [INTERRUP]
+ENT: Aja
+
+TEST: [CONT]: Para en caso de ... de ... la llegada ... de algún grupo, o sea vivía uno ehh como
+a la espectativa. [INTERRUP]
+ENT: Claro
+TEST: [CONT]: O sea aquí no nos van a hacer salir, pues igual muchas personas, entre esas
+yo, yo me fui porque, pues por mi género de todas maneras yo me fui, por que ellos decían
+que [INTERRUP]
+ENT: ¿Estaban en amenza?
+TEST: [CONT]: Es correcto, íban a acabar con nosotros, entonces papá y mamá nos dijeron
+esto que: " a usted le toca que se vaya" por que ... [INTERRUP]
+ENT: Claro ...
+TEST: [CONT]: Entonces, en ... en ese tiempo ellos se fueron para LUGAR5 pues también
+estaban muy asustados, nosotros tenemos una hermana que vive en LUGAR5[INTERRUP]
+ENT: Ujum
+TEST: [CONT]: Y ellos se fueron para LUGAR5 y yo decidí venirme para, irme para Bogotá.
+ENT: ¿Saliste de una vez para Bogotá?
+TEST: [CONT]: Salí de una vez para Bogotá, por que de todas maneras, ya varias personas en
+la casa de mi hermana ... pues usted sabe que es ... [INTERRUP]
+ENT: Ujummm
+TEST: [CONT]: y me fui para Bogotá a trabajar, desde eso entonces ... [INTERRUP]
+ENT: ¿Había más LGBTI ahí?
+TEST: [CONT]: Sí claro, había más personas LGBTI [INTERRUP]
+ENT: ¿Se fueron todos?
+TEST: [CONT]: ehhh una amiga se fue para ------------(SANTANDER) ehh ... otros cogieron
+para acá para ------------ otros pa ------- y así o sea ... [INTERRUP]
+ENT: ¿O sea el hecho es que lograron de pronto con ese panfleto sacarlos ...?
+TEST: [CONT]: Sacar a la gente, es como por ejemplo ahorita, ahorita ellos volvieron a meter
+panfletos [INTERRUP]
+ENT: ¿Ahora, ahora, ahora?
+TEST: [CONT]: Sí, claro, ellos por ejemplo hace ... esta semana se llevaron a unos muchachos
+con engaños, yo no sé ¿sí tu vista la noticia del enfrentamiento que hubo de la guerrilla con
+los ... con los rastrojos [INC: Rondas Campesinas Populares RPC] en Cúcuta?.
+ENT: Ay no, no me fijé
+TEST: [CONT]: Bueno resulta que se llevaron 7 muchachos del pueblo, con engaños
+diciéndoles que les iban a ... a .... a pagar 1'200.000 para raspar coca, y resulta que no, que
+eso de que los rastrojos [INC: Rondas Campesinas Populares RPC] estaban, están ... como le
+llaman, ehhhh reclutando personal y han matado a los muchachos [INTERRUP]
+ENT: ¿Cómo va a ser?, ¿de ahí?
+TEST:[CONT]: De ahí del pueblo
+ENT: ¿Y eso fue la semana pasada?
+TEST:[CONT]: Ayer avisaron de que estaban en la morgue de Cúcuta, que los fueran a
+recoger [INTERRUP]
+ENT: Ay Dios mío ...
+TEST:[CONT]: Están metiendo panfletos por que ellos dicen que van a acabar con los
+
+ladrones [INTERRUP]
+ENT: Otra vez ...
+TEST:[CONT]: Otra vez, y con los marihuaneros y los expendedores de droga y con la
+comunidad ... [INTERRUP]
+ENT: LGBTI
+TEST:[CONT]: Otra vez
+ENT: ¿Allá no hay ahora puesto de policía ni nada?
+TEST:[CONT]: Están afuera, pero allá llegan ... mmm cuando los llaman a algo ¿sí?
+ENT: ¿Cómo que tantos qué mas o menos cuanta gente vive en LUGAR1?
+TEST:[CONT]: En LUGAR1 vivimos muchísima gente
+ENT: ¿Cómo cuantas familias? no tienes ni idea ... mas o menos
+TEST:[CONT]: Uy no, o sea LUGAR1 se ha engrandecido mucho mucho [INTERRUP]
+ENT: Claro
+TEST:[CONT]: Porque después que dejaron de llegar los para [INC: Paramilitares] otra vez,
+la gente ... [INTERRUP]
+ENT: ¡La gente volvió!
+TEST:[CONT]: Volvió, volvó ha hecho sus casa, LUGAR1 a crecido ... [INTERRUP]
+ENT: Ujum
+TEST:[CONT]: Pero otra vez ahorita que ellos se están metiendo otra vez, metieron otra vez
+los panfletos, la gente está preocupada [INTERRUP]
+ENT: ¿Y son los rastrojos o son otros?
+TEST:[CONT]: Dicen que son los rastrojos de Cúcuta, pero es que todo el mundo se pregunta
+o sea ¿por qué de ellos de allá?, ¿por qué ellos de allá? y ¿por qué se llevaron los muchachos
+por allá? [INTERRUP]
+ENT: Ellos están retiraditos ...
+TEST:[CONT]: Sí, están retirados, porque sí eso es en Cúcuta y nosotros pues somos límite
+con -------------------por ahí pero ... [INTERRUP]
+ENT: Pero más abajo ...
+TEST:[CONT]: Claro, más cerca está ------ bueno pero [INTERRUP]
+ENT: Bueno, uno no entiende esas cosas ...
+TEST:[CONT]: No entendemos, no, no ,no o sea no llegamos, o sea todavía no hemos podido
+entender porque ... ayer que me llamó así, quedamos así, todos ... ¿cómo así que se llevaron
+todos esos muchachos? y hay un muchacho que es ladrón ... [INTERRUP]
+ENT: Ujum
+TEST:[CONT]: Pero el pelao se había ... [INTERRUP]
+ENT: ¿Se había recompuesto un poco?
+TEST:[CONT]: Sí, ehh otro, otro es ehh ... expendedor de droga [INTERRUP]
+ENT: Ujum
+TEST:[CONT]: Entonces eso es lo raro o sea esas personas que estaban ... han sido ladrones,
+expendedor de droga, un muchacho que dicen que acabó de llegar del ejercito y como a el le
+ofrecieron el trabajo pues el pelao dijo que sí y se jue, también lo mataron.
+Pues o sea, eso es lo raro, no entendemos quién está detrás de todo eso [INTERRUP]
+ENT: ¿Pero como sí los hubieran seleccionado?
+
+TEST:[CONT]: Eso.
+ENT: Pues es que uno no entiende
+TEST:[CONT]: Pero sí han metido los panfletos, que van a acabar con ... o sea pero no
+sabemos de donde ... de donde vienen
+ENT: Claro
+TEST:[CONT]: O sea quien es el que está ... haciendo la presencia, sí son los de allá o es
+alguien por ahí ... [INTERRUP]
+ENT: ¿Y cómo saben la información de a quienes?
+TEST:[CONT]: Es correcto.
+ENT: Raro, pero bueno.
+TEST:[CONT]: Sí o sea es rarísimo, y han mandado videos de paras [INC: Paramilitares] que
+se están identificando y hablan con nombres propios de personas del pueblo con personas
+que están expendiendo droga en el pueblo.
+ENT: ¿y hay mucho expendio de droga y mucho movimiento de droga en el pueblo?
+TEST:[CONT]: Sí, últimamente sí, últimamente sí que el pueblo se estaba dañando con eso,
+eso me cuentan ... eso por ejemplo, yo no voy a los bailes, por que yo la verdad a mi me da
+mucho miedo ir a los bailes, pero me dice mi sobrinos que cuando van allá, o sea eso
+públicamente la gente no le da ... [INTERRUP]
+ENT: ¿La venden ahí en ...?
+TEST:[CONT]: Los pelaos vendiendo, o sea es algo como ... [INTERRUP]
+ENT: Ven y ¿allá hay escuelas, colegios? [INTERRUP]
+TEST:[CONT]: Clarooooo
+ENT: ¿Los pelaos cómo, dónde estudian y esas cosas?
+TEST:[CONT]: Allá tenemos ehh un colegio, ehhh se llama INSTITUCION EDUCATIVA1
+[INTERRUP]
+ENT: Ahh _Ok_
+TEST:[CONT]: Y está el bachillerato, toda la vida ha estado por que yo estudié mi ... mi
+primaria y mi bachillerato allá [INTERRUP]
+ENT: Ahh _Ok_
+TEST: Pero ... bueno, nosotros estudiamos era algo muy tranquilo [INTERRUP]
+ENT: Era más sano
+TEST:[CONT]: Era sano, no había ... pero ahora en día hay mucho ladrón y no... [INTERRUP]
+ENT: Todo se ha deteriorado mucho, es verdad, también en todos lados.
+TEST:[CONT]: Sí, se ha deteriorado y uno no entiende, no entiende realmente
+que es lo que está pasando con la comunidad, los otros días ... señores que no son del pueblo
+llegan a expender la droga y supieron de un señor de -------- que estaba expendiendo droga
+ahí y la gente se le fue allá, o se iba o lo sacaban.
+ENT: Oye pero ... salió algún ejemplo muy bonito de ... de resistencia de ... [INTERRUP]
+TEST:[CONT]: De afrontar a esa gente [INTERRUP]
+ENT: ¡Sí!
+TEST:[CONT]: Y el señor, él se mudó, después dijeron que se había ido, pero después dijeron
+que llegó otro, estaba pero resulta que llegan unos señores dizque comprando chatarra,
+todos los días llega el señor comprando chatarra y ya la gente se pilló que no es ningún
+
+comprador de chatarra [INTERRUP]
+ENT: Aja
+TEST:[CONT]: Sí no el es el que, los que traen la droga al pueblo, ¿cómo la ves?
+ENT: Clarooo
+TEST:[CONT]: Es que todo el mundo dice: "No pero ni que aquí hubiera la chatarra del
+mundo aquí en LUGAR1 todos los días pa que salga chatarra".
+ENT: Ven TEST y ¿la población LGBTI es grande en LUGAR1?
+TEST:[CONT]: No, es pequeña
+ENT: ¿Es pequeña?
+TEST:[CONT]: Sí, es pequeña, no, no es grande.
+ENT: ¿y todos se fueron?
+TEST:[CONT]: Todos se fueron [INTERRUP]
+ENT: Ya
+TEST:[CONT]: Ahorita hay otros muchachos, ahorita hay otros muchachos por ahí que ... que
+son nuevos que están en el ...
+ENT: Claro ya les están sacando panfletos
+TEST: Y les están sacando panfletos, que se tienen que ir
+ENT: ¿Tú te fuiste entonces en el 2002.
+TEST:[CONT]: En el 2002
+ENT: ¿Qué te fuiste a hacer?, ¿Qué hace una persona pueblerina cuando se va y sale de su
+pueblo y se va para Bogotá desplazada?, ¿Qué te fuiste a hacer?, ¿Cómo fue eso?, ¡Cuéntame!
+TEST:[CONT]: A ver ... en ese entonces nosotros teníamos una prima que era ella
+fisioterapeuta y resulta que ella tuvo, ella tuvo ... dos niños, dos gemelos [INTERRUP]
+ENT: Ujum
+TEST:[CONT]: Ella no vivía con el papá de los niños, entonces una tía le dijo a mi papá: "que,
+que o sea que pues en el momento del problema, que sí yo me podía ir a cuidarle ..."
+ENT: Ahh a trabajar con ella ...
+TEST:[CONT]: Primero que todo yo me fui pa donde unas primas ... y yo estaba allá ...
+[INTERRUP]
+ENT: Ajá
+TEST:[CONT]: Y yo estaba allá buscando trabajo [INTERRUP]
+ENT: Claro
+TEST:[CONT]: Entonces este mi tía le dijo a mi papá: "que sí me llamaba a mi para que le
+cuidara los niños a FAMILIAR1" [INTERRUP]
+ENT: Ujum
+TEST:[CONT]: Entonces empecé con eso, con cuidarle los niños a FAMILIAR1 pero pues
+antes de cuidarle los niños a FAMILIAR1, trabajé en un restaurante, en un asadero de pollo
+[risas] trabajé en un asadero de pollo, después le cuidé los niños a FAMILIAR1, después
+[risas] volví a trabajar en un asadero de pollo, después trabajé en un laboratorio
+farmacéutico, cuidé dos niñas, mejor dicho en que no ... [INTERRUP]
+ENT: Mejor dicho tu de dedicaste a trabajar
+TEST:[CONT]: Claro, que podía hacer en una ciudad tan grande [INTERRUP]
+ENT: Claro, ¿y cuanto tiempo duraste allá desplazada?
+
+TEST:[CONT]: Allá [INTERRUP]
+ENT: ¿Sin volver?
+TEST:[CONT]: Sin voler yo duré ... 23 años. [INTERRUP]
+ENT: ¿Cuanto tiempo?
+TEST:[CONT]: 23 años, de eso ... y el año pasado que vine acá a cuidar a mi mamá y me dio
+durísimo, porque ya uno se acostumbra a la cuidad.
+ENT: ¿O sea que hasta el año pasado volviste? Oh por Dios
+TEST:[CONT]: Entonces uno ... [INTERRUP]
+ENT: ¿Te fuiste en 2002?
+TEST:[CONT]: Sí
+ENT: Y regresaste el año pasado ... Dios mucho tiempo
+TEST:[CONT]: Sí porque uno con el miedo de volver al pueblo y que uno sabe que no han
+dejado de existir esas personas en, en el pueblo, aunque a mi me decían que, que pues que
+ya no, no habían paras [INC: Paramilitares] pero tu sabes que uno vive con el miedo.
+ENT: ¿Nunca se te quitó el miedo?
+TEST:[CONT]: No, porque yo, yo le tengo mucho miedo a lo que es la guerrilla, a los
+paramilitares, por que de todas maneras uno no, uno nunca sabe [risas] [INTERRUP]
+ENT: Sí claro
+TEST:[CONT]: Entonces le da uno mucho miedo con esas personas.
+ENT: ¿Cómo fue volver?. ¿Cómo encontraste el pueblo?
+TEST:[CONT]: O sea más crecido, diferente, taba calmado osea estaba ya calmado, pero ...
+estando ahorita, el año pasado viviendo ahí, ehh decían personas que escuchaban,
+personas ... un muchacho dice que él iba pasando y lo pararon unas personas con ropa ... que
+no sabe uno sí es la policía ¿quienes son? [INTERRUP]
+ENT: O sea uniformados.
+TEST:[CONT]: Uniformados, porque no se identifican, lo único que le dijeron al muchacho
+fue que dejara de andar tarde de la noche en la calle.
+Entonces ahí usted que va a saber quien está haciendo presencia en el pueblo de noche.
+ENT: Y la ... digamos el pueblo ha logrado recuperar, como tu me cuentas que antes se ... se
+empezaron a meter a las 7 de la noche, a meterse en sus casas [INTERRUP]
+TEST: Claro el pueblo llegó o sea a [INTERRUP]
+ENT: ha recuperado de pronto un poco la libertad de sentirse más [INTERRUP]
+TEST:[CONT]: La libertad y la tranquilidad.
+ENT: ahhh
+TEST:[CONT]: Pero ahorita otra vez que ellos metieron los panfletos, la gente está
+preocupada otra vez.
+ENT: Está otra vez empezando la cosa
+TEST:[CONT]: Está preocupada otra vez y más por lo que pasó, o sea que se llevaron los
+muchachos ... por que a los muchachos se los llevaron y llaman para decir que ... que están
+en la morgue de Cúcuta.
+ENT: Rarísimo eso
+TEST:[CONT]: Es que es rarísimo o sea todo el mundo dice: "¿Cómo así?, se los llevan con
+engaños pa decirles que les van a dar trabajo pa pagarles 1'200.000 y despues resultan con
+
+que no, con que los muchachos están muertos".
+ENT: ¿O sea esto es parecido a lo que sucedió con las ejecuciones extra judiciales, con los
+falsos positivos?
+TEST:[CONT]: Parece así, parece como los falsos positivos, se acuerda que [INTERRUP]
+ENT: Que les ofrecían trabajo ...
+TEST:[CONT]: Que les ofrecían trabajo y resultaban muertos, por ejemplos los de Soacha
+que resultaron muertos por allá en Ocaña ¿fue? [INTERRUP]
+ENT: ¿Y sabe dónde ... quién les ofreció trabajo, alguien ha ... ha encontrado como quién fue
+que les ofreció ese trabajo?, ¿no se ha sabido?
+TEST:[CONT]: No se ha sabido quién les ofreció el trabajo a ellos.
+ENT: Claro ... TEST con motivo de ser miembro de LGBTI ¿tú has tenido otro tipo de
+victimización, o sea te han, te han inlu... se incluye también el de palabras, el de
+señalamiento, todo eso... ?
+TEST:[CONT]: El de señalamiento, como he vivido en Bogotá, allá no ... o sea, no discriminan
+a la persona con su género ¿sí?
+ENT: Ujum
+TEST:[CONT]: Hasta el momento no, sabes que en Bogotá uno ve muchas personas, muchos
+hombres que son gays, las ... o sea allá es normal, allá la gente vive normal [INTERRUP]
+ENT: Hay más libertad y ... [INTERRUP]
+TEST: Más libertad de expresión, sí me ... no como en los pueblos, en los pueblos lo
+discriminan a uno mucho
+ENT: emmm ¿en tu pueblo, tu de pronto tuviste algún tipo de padecimiento, de decir yo
+mejor me escondo o pudiste ser como eras libremente?
+TEST:[CONT]: En el ... el ... antes de llegar los paras [INC: Paramilitares] uno vivió, o sea lo
+viví tranquilamente, [INTERRUP]
+ENT: Ahhh _ok_
+TEST:[CONT]: Sí, lo viví tranquilamente porque nadie te señalaba
+ENT: O sea no hay ese señalamiento en tu pueblo ...
+TEST:[CONT]: En el pueblo no, no lo hubo para que ...
+ENT: Ahh Ok
+TEST:[CONT]: Pero ya cuando ellos llegaron, que empezaron a ... a señalar a todo el mundo a
+espiar los de la comunidad, todo el mundo ... pues tu te asustas ... porque como, es como
+que ... que tu estás tranquila en tu casa y alguien viene a ...a incomodarte.
+ENT: Y siendo libre, que no puedes ser como te da la gana de ser
+TEST:[CONT]: Es correcto ...
+ENT: Sí no que llegan a ... [INTERRUP]
+TEST:[CONT]: Llegan a ... [INTERRUP]
+ENT: A incomodarte
+TEST:[CONT]: Es correcto, entonces uno dice pero ... como dice el dicho: "los de la ... ¿cómo
+es? llegarán de la calle ... [risas] ¿cómo es que es el dicho?"
+ENT: El que tiene el arma es el que da con ella
+TEST:[CONT]: Es correcto.
+ENT: Ven y ... ¿expresiones de pronto que hayas escuchado?, ¿cómo para tratar mal a las
+
+personas LGBTI?
+TEST:[CONT]: Para ofenderlas ...
+ENT: Aja
+TEST: Tu sabes que las expresiones de ellos hacia uno, hacia una persona gays, los maricas,
+las lesbianas, son o sea ... tienen que desocupar el pueblo por que es que ellos están, le están
+o sea le están dando mala imagen al pueblo, o sea según ellos: nosotros le damos mala
+imagen al pueblo [INTERRUP]
+ENT: ¿Ellos no?, o sea ustedes sí y ellos no
+TEST:[CONT]: A es correcto, sí, según ellos, ellos eran la Ley, ellos son los que imponen la ley
+en el pueblo por que ellos son los que mandan. [INTERRUP]
+ENT: Claro
+TEST:[CONT]: Entonces nosotros eramos la mala imagen
+ENT: ¿Y supiste de algún otro miembro de la comunidad que de pronto lo afectaran?, ¿de
+manera más directa? .. ¿Qué lo golpearan o lo torturaran?.
+TEST:[CONT]: No, no. no.
+ENT: _Ok_
+TEST:[CONT]: A una amiga fue la que le dijeron que, pues o sea la vivían señalando de que
+como ella es de la comunidad, que era que vendí droga pero ella o sea ella sí dijo: " yo no, yo
+no vendo droga", porque o sea le metían ... solo por que era amiga del expendedor ese de
+droga [INTERRUP]
+ENT: Ujum
+TEST:[CONT]: Decían que ella vendía droga
+ENT: Ahhh _ok_
+TEST:[CONT]: Entonces por eso a ella la metieron en el cuento de que ... que a ella la iban a
+matar también, cuando sacaron al ... al muchacho expendedor droga, por que es era amigo
+de ... ehh ... ese que mataron expendedor de drogas que te estaba comentando.
+ENT: Ujum
+TEST:[CONT]: A él lo mataron, el amigo de mi amiga
+ENT: Finalmente lo mataron
+TEST:[CONT]: A él sí, y ella le tocó, fue cuando también le tocó salir, por que dijeron que la
+iban a matar, porque también expendía droga a parte de ser lesbiana.
+ENT: TEST ¿en algún lugar tú has denunciado esto?, ¿denunciado desplazamiento?, ¿Tú
+apareces como víctima?.
+TEST:[CONT]: No, no
+ENT: ¿O sea tú no estás en registro de nada como una víctima del conflicto?
+TEST:[CONT]: No, pues nosotros estuvimos, lo hicimos en LUGAR1.
+ENT: Aja
+TEST:[CONT]: Pero no, o sea yo estuve averiguando sobre: ¿de qué sí yo estaba metida? y
+no, no aparezco.
+ENT: ¿O sea denunciaron en LUGAR1?
+TEST:[CONT]: Sí
+ENT: ¿En, en qué personería o en qué?
+TEST:[CONT]: No ahí que .. que llegaron unas personas de LUGAR3 y que para los del
+
+conflicto y lo que había ... lo que yo te estoy redactando de lo que pasó, de la quema y todo y
+a la final no salió nada.
+ENT: ¿Pero no sabes que entidad era? que ...
+TEST:[CONT]: No, no
+ENT: ¿y cuando fue?
+TEST:[CONT]: Uy eso hace ... como en el ... a ver ... eso hace como unos 7 años atrás, que
+nosotros hicimos eso, estuvimos en esa reunión y todo y llegaron esas personas
+ENT: ¿Y tú lograste ahí denunciar que eres víctima de desplazamiento?
+TEST:[CONT]: Siii ... que esa vez fui, ahhh ... fui a ... volví al pueblo porque ... se había muerto
+un sobrino [INTERRUP]
+ENT: Ujum
+TEST:[CONT]: Volví ese día al pueblo a que se había muerto el sobrino.
+ENT: Ujum
+TEST:[CONT]: Pero duramos 2 días ahí y nos volvimos para Bogotá.
+ENT: ¿O sea que tú no apareces en el histórico de ellos ...?
+TEST:[CONT]: No, yo no aparezco por que yo averigüe y no que yo no aparezco metida en
+ningún lado.
+ENT: Este ... este hecho, este desplazamiento, haberte sacado de tu pueblo, ¿cuales han como
+los impactos, las afectaciones para ti? ... de esto que te pasó
+TEST: [CONT]: No osea el impacto que me dio fue no poder haber vivido más tiempo con
+mis padres y salir a una ciudad que yo decía que a la última ciudad donde yo iría sería
+Bogotá por que era una ciudad muy frío ... fue a la primera donde me tocó ir [risas]
+ENT: ¿Cómo le hiciste con el frío?
+TEST:[CONT]: Durísimo, me dio muy duro, muy duro por que cuando en ese tiempo Bogotá
+era demasiado fría, demasiado. Bogotá usted va ahora y Bogotá no es fría.
+ENT: Sí, ahora ya no es tanto
+TEST:[CONT]: Sí, pero usted va, usted hubiera ido 23 años atrás a Bogotá, fue .. era una
+ciudad que no se veía el sol
+ENT: Sí era gris
+TEST:[CONT]: Total, era todos los eran gris y llovía a parte de hacer frío, llovía.
+ENT: O sea ese cambio muy fuerte.
+TEST:[CONT]: Eso fue un cambio muy fuerte para mi, por que vuelvo y te digo yo decía que a
+la última ciudad que yo llegaría sería Bogotá.
+ENT: ¿No había más opciones verdad?
+TEST:[CONT]: No había más opciones
+ENT: ¿En tu salud, cómo fue?, ¿te afectó en algún ... entre falta de sueño, depresión, todo eso,
+dolor de cabeza, todo eso?
+TEST:[CONT]: Noo, por que de todas maneras cuando es que está joven ... usted ya no siente
+nada [INTERRUP]
+ENT: Vamos pa lante
+TEST:[CONT]: Sí, vamos pa lante, lo único que sí viví fue un día, un ... como es cuando
+trabajaba en el restaurante
+ENT: Ujum
+
+TEST: Fue una experiencia muy fea, porque yo salía a las 10 de la noche y yo cogí el bus de la
+68 pa ------------y yo me subí y se subió un muchacho morenito, así como de churcos, y
+pues ... venía el, venía yo, otra persona pero se bajó antes, el señor se bajó también dónde
+me bajé yo y yo seguí mi ruta y yo también pensé que el señor iba, por que el también siguió
+por la misma ruta, faltando dos cuadras antes de llegar a la casa, cuando el me tiró el brazo,
+yo le dije: ¿a usted que le pasa?, ¿me va a robar?, le dije: "sí me va a robar tome el bolso por
+que yo no llevo nada", no el tipo era ... era a violarme, fue algo ... créeme que eso fue lo que
+viví tan feo, que yo ahí ... o sea yo forcejé con ese hombre, yo no sabía ni que, o sea el tipo
+sabe de que me salvo yo: que el tipo no llevaba cuchillo porque él me decía, déjese o no la
+chuzo, yo le decía: ¿pero qué es lo que quiere? ... sí quiere ... yo no tengo plata, tome el bolso,
+lo que yo tengo es el bolso, yo no tengo más nada, ese hombre me arrastró ... de una casa
+salieron ... sacaron un perro, el perro se le botaba, el tipo no me soltaba, fue algo feo, ese fue
+lo más feo que yo pude vivir en Bogotá, pues sí yo era una china, o sea imagínese ...
+ENT: Claro, y ¿fue al cuanto tiempo de haber llegado allá?
+TEST:[CONT]: Ese mismo año que llegué, a los 20 años
+ENT: Es que eso también es violencia sexual
+TEST: Sí eso fue algo horrible, créame ENT que yo al día siguiente amanecí con esto
+hinchado, la cara hinchada, el pantalón lo había comprado ... era nuevo y de acá, de tanto
+que ese señor me arrastró, por que yo no me dejaba se pelaron las rodillas, o sea fue algo ... a
+mi me salva es que viene dos personas ... no sé quienes eran ... y el tipo vio a los dos
+hombres que venían y me soltó, pero fue una vivencia horrible, horrible, fue algo que jamás
+en mi vida lo había vivido, imagínese usted recién llegada a una ciudad
+ENT: O sea sales huyendo de una y llegas y te vuelve a pasar eso
+TEST:[CONT]: Y me pasó eso, eso fue algo feo, feo, o sea ... eso ... fue una, una cosa que yo
+digo que Dios estaba conmigo, porque aparecer esos dos señores que venían, o sea sí el tipo
+no ve a los dos hombres, el tipo me hubiera violado,
+ENT: Es que ellos son Ángeles
+TEST:[CONT]: Me hubiera violado por que no le digo que soltaron un perro de un ... de una
+casa y el tipo no me soltaba, el perro se le botaba y no me soltaba
+ENT: Que susto
+TEST:[CONT]: No eso fue algo, yo dije Dios mio sí yo no sé sí fue algún Angel que yo tenía,
+que me cuidaba.
+ENT: Un Angelito que te mandaron pa que te cuidara
+TEST:[CONT]: Por que créame ENT que sí ese señor no ve a esos dos señores que venían,
+por que ellos venían lejos, yo los alcancé a ver y ellos venían, y el tipo los vio y de una me
+soltó y se fue.
+ENT: Ay Dios ... uno siempre tiene una motivación para seguir en la vida, ¿qué te motiva a ti
+para seguir? , ¿qué te da fuerza y te hace levantarte todos los días y decir no me voy a rendir
+y voy a seguir adelante?
+TEST:[CONT]: Mi hijo, mi hijo ENT, mi hijo y mi mamá
+ENT: tienes un hijo, háblame de tu hijo
+TEST:[CONT]: Tengo un niño de 8 años, es un niño o sea tuve un ... un cuento con el papá
+como por querer tener alguien en la vida o sea parte de mi mamá por quien vivir y el nunca
+
+me respondió ehhh ... [INTERRUP]
+ENT: ¿Tú quisiste tener un hijo, por tu hijo?
+TEST:[CONT]: Sí, pero tu sabes que uno de todas maneras estando uno ... solo para sacar un
+hijo adelante es muy bravo
+ENT: Claro
+TEST:[CONT]: Entonces
+ENT: ¿Ahora me entiendes?
+TEST:[CONT]: [risas] pero es que ENT, tu tienes tu profesión, yo no soy profesional ENT
+[INTERRUP]
+ENT: Pero eres una berraca que eso es lo que cuenta
+TEST:[CONT]: Nunca tuve la oportunidad de que mis padres me dieran estudio [INTERRUP]
+ENT: Pero hiciste el bachillerato y ...
+TEST:[CONT]: Ya, por que ellos tampoco tenían la forma de como darme, entonces ahí que
+puede hacer uno
+ENT: Claro que sí
+TEST:[CONT]: Entonces eso fue ... algo que me dio muy duro a mi por que yo quería
+estudiar...
+ENT: Ujum
+TEST:[CONT]: Yo quería estudiar, ser licenciada en sociales, pero nunca se me dió la ...
+[INTERRUP]
+ENT: ¿Por qué sociales?
+TEST:[CONT]: Me gustaba mucho, me gustaba mucho y no sé sí es que de la familia les ha
+gustado mucho ser educador porque de mi descendencia la familia de nosotros ha sido ..
+[INTERRUP]
+ENT: ¿ha sido profesores?
+TEST:[CONT]: Profesores
+ENT: A que bien
+TEST:[CONT]: Entonces como que yo digo eso se trae en la sangre.
+ENT: Igual nunca es tarde TEST
+TEST:[CONT]: Sí, pero me daría muy duro por el niño ENT, por que para mi toda mi
+prioridad es él, mi lucha es por el y es un niño que es muy consentido, por que como o sea el
+también por lo que no ha tenido el, el apoyo del papá
+ENT: Ujum
+TEST:[CONT]: El se ve refugiado mucho en mi
+ENT: Claro
+TEST:[CONT]: Entonces eso es lo que pasó.
+ENT: Cuando tu elegiste y no sé sí preguntar esto, o si no quieres no me cuentas, tú quisiste
+tener un hijo pero teniendo claro que tu eres una persona LGBTI [INTERRUP]
+TEST: Sí, es correcto
+ENT: ¿y las otras personas también lo sabían?, ¿el papá sabía que era algo? ...
+TEST:[CONT]: No, no el no sabía
+ENT: ¿Tu no pensabas nunca en formar un hogar con ese hombre?
+TEST:[CONT]: No, nunca, nunca, no nunca por que de todas maneras el era menor, yo no no
+
+tenía mi cabeza tener, nunca lo he tenido, de tener hogar con un hombre, no. Salir adelante
+con mi hijo, o sea igual usted sabe que cuando uno tiene su ...
+ENT: ¡Tú tienes claro lo que eres!
+TEST:[CONT]: Es correcto
+ENT: claro ... ¿y él ya tiene 8 años? y sí en 8 años lo has llevado bien, serás capaz con el
+también.
+TEST:[CONT]: Ay yo confío en Dios que sí
+ENT: Dicen que las mamás, y eso lo saben las mamás que sacan fuerza de donde no las
+tienen
+TEST:[CONT]: Y me ha dado duro por que de todas maneras ahora que volví a Bogotá,
+tuve ... vivía donde una sobrina, porque me dio hospedaje y con el esposo de ella tuve unas
+palabras, también por que el tiene a su hija y el sí la hija le dice mentiras, él le cree todo lo
+que le dice la hija, entonces cuando usted está en casa ajena [INTERRUP]
+ENT: Claro
+TEST:[CONT]: O sea usted como que es un estorbo
+ENT: Ujum
+TEST:[CONT]: Entonces el ... la hijo le dijo que mi hijo niño:FAMILIAR2, no la quería dejar de
+entrar, entrar al cuarto, ella es como, ella no es como, es mentirosita la niña, entonces como
+ella se siente protegida por el papá entonces el papá dijo que iba a hablar con mi sobrina
+por lo que estaba pasando, por ya él lo tenía aburrido eso, esa pelea de FAMILIAR2 con
+FAMILIAR3.
+ENT: Ujum
+TEST:[CONT]: Entonces el niño me contó, porque nosotros habíamos salido a la tienda,
+entonces: "Mami que el papá de FAMILIAR3 dijo esto y esto", entonces yo le dije, yo ... mi
+sobrina estaba escuchando entonces: ¿Qué fue lo que pasó?, me preguntó; entonces ella
+dice, ella le contó, entonces ella le dije a el: "ven a ver ¿qué fue lo que pasó?", entonces el
+dijo: "ay yo le dije eso o sea ... repitió lo mismo", entonces yo le dije no se preocupe que para
+todo hay solución menos para la muerte le dije así, yo mañana mismo me voy de su casa y
+así lo hice, porque, porque usted no le gustaría que ... que cogieran y maltrataran a su hijo o
+que lo fueran a discriminar por que usted no tiene un trabajo...
+ENT: Claro sí, eso es cierto
+TEST:[CONT]: o a humillarla a usted por que usted no tiene un trabajo, solo por que a usted
+le anda colaborando unos diitas a la persona.
+ENT: Sí, eso es cierto ... ¿Y ahora entonces qué estás haciendo?, ¿buscando trabajo?
+TEST:[CONT]: Estoy buscando trabajo, estoy quedada donde mi hermana pero ya estoy
+desesperada, por que de todas maneras ... [INTERRUP]
+ENT: ¿Y hace cuanto te regresaste?, para Bogotá ... o sea tu viniste un año a cuidar a tu mamá
+TEST:[CONT]: Yo me regresé el ------------- para Bogotá, ehh pero ya tengo un mes y nada, no
+me sale nada [risas]
+ENT: Bueno, tu sé que sabes de la paciencia
+TEST:[CONT]: Ay sí, pero Dios mío, le pido es a Dios que me ayude pronto porque ya estoy
+desesperada
+ENT: ¡Has sido una berraca!
+
+TEST:[CONT]: No, yo te digo que he sido demasiado berraca con todo lo que me ha pasado
+en la vida
+ENT: ¿Tú familia?, ¿Qué dice?, ¿Te han apoyado?
+TEST:[CONT]: No sí, mis hermanas me han apoyado, porque siempre hemos sido una familia
+unida, a pesar de todo, nosotras somos unas hermanas unidas, nos ... nos apoyamos la una a
+la otra, que sí la una no tiene y necesita en el momento y yo lo tengo ... tómelo, o sea no hay
+ningún problema.
+ENT: ¿Y ellas dónde están?, ¿están en el pueblo?
+TEST:[CONT]: No, hay una que está en LUGAR5 es educadora; tengo otra en Bogotá, que es
+la donde me estoy quedando.
+ENT: Aja
+TEST:[CONT]:Tengo un hermano también en Bogotá, otro vive en -------------- otro en
+Venezuela (la mayor), mejor dicho estamos repatriados.
+ENT: Están regados todos
+TEST:[CONT]: Sí [risas]
+ENT: ¿Tus padres viven?, tú papá si y tu mamá
+TEST:[CONT]: Todos dos
+ENT: Ahhh bien
+TEST:[CONT]: Papá tiene 90 años, mi mamá tiene 86 años [risas]
+ENT: ¿Y tu mamá está enfermita?
+TEST:[CONT]: Mi mamá está enferma, tiene alzheimer.
+ENT: ¿Sientes que alguno de ellos mas también ha sufrido las consecuencias del conflicto
+armado?
+TEST:[CONT]: Ehhh mi papá un día si, estuvimos en la casa, pues antes de que pasara de que
+... de, de irme ... llegó uno de esos muchachos, de esos para [IND: Paramilitares] que ehh iba
+a montar prácticamente por la, prácticamente por el, por la, por el, por la puerta de la casa,
+entonces mi papá le dijo: "¿qué por qué, por qué no lo hacía por allá?, entonces le dijo: "ay
+cállese viejo hijuepu..., que usted no manda aquí, aquí los que mandamos somos nosotros",
+entonces le sacó un arma a mi papá entonces llegaron mi sobrinos, que que era lo que
+pasaba ... ¿sí?, ya de todas maneras la gente se le enfrenta al otro
+ENT: Me imagino que eso de pronto les molesta más
+TEST:[CONT]: Claro, eso es lo que a ellos les ha dado rabia toda la vida, que la gente en el
+pueblo no se les ha dejado, o si no ya ellos hubieran acabado con el pueblo.
+ENT: Claro
+TEST:[CONT]: ¿Si?
+ENT: Ven TEST ... tú que has vivido esto, el conflicto en carne propia y todas sus
+consecuencias de estar en otro lugar, desplazada, desterrada, ¿qué crees tú qué debería
+pasar?, en el país, no sé quien, ¿cual sería la recomendación para que no se repita y para que
+la gente no siga viviendo lo que tu has vivido?, para esa no repetición ¿cómo crees que se
+puede hacer?
+TEST:[CONT]: Es complicado aquí ENT, en el país, por que en el país se está manejando una
+mafia terrible, que es el narcotráfico y eso es muy difícil para que se acabe ... y tú lo sabes
+muy bien, porque, por que eso es lo que les produce dinero a ellos, muchísimo dinero.
+
+ENT: ujum
+TEST:[CONT]: Y eso para acabarlo es complicado, ¿si?, y eso no es del grupo ese ni del grupo
+tal, tu sabes que eso es una mafia brava que hay en nuestro país, y eso para acabarlo ... hay
+que acabarlo tu sabes desde donde.
+ENT: O sea que esa no repetición está complicada
+TEST:[CONT]: Complicadísima.
+ENT: Ven, en la zona de LUGAR3 de LUGAR1, ¿allá han sembrado cultivos ilícitos?
+TEST:[CONT]: No
+ENT: ¿o simplemente van y venden allá?
+TEST:[CONT]: No, por ahí no se ha sembrado cultivos ilícitos, van y venden, llevan de
+---------... lo llevan, pero que hayan sembrado por ahí no, o sea nunca se ha escuchado que
+por esa zona se haya sembrado ... hayan tenido cultivos ilícito, ni que el ejercito y la policía
+hayan encontrado cultivos ilícitos.
+ENT: ¡anda! y ¿qué vamos a hacer nosotros como sociedad?, ¿cómo lo resolvemos?, ¿cómo
+logramos tener esa paz que anhelamos tanto?
+TEST:[CONT]: Esa paz, Dios mio es ... muy berraca
+ENT: Nosotros en este informe debemos sacar un capítulo de recomendaciones y estas
+recomendaciones las dan las personas que entrevistamos, ¿qué le recomiendas al país, a la
+sociedad, alguna recomendación?
+TEST:[CONT]: La recomendación, Dios mio es muy berraca, porque para que esa gente
+entregue las armas, sería una recomendación, pero tu sabes que la gente en el país vive es
+por el dinero, o sea es una guerra muy berraca por que es una lucha por el dinero, por que
+ellos no tienen esa lucha solo por querer matar o querer acabar con, con lo que le estén
+haciendo mal al pueblo, no, si no es por obtener sus beneficios.
+ENT: Claro
+TEST:[CONT]: ¿Si?
+ENT: Así es.
+TEST:[CONT]: Entonces, que entreguen las armas [risas]
+ENT: Quizás
+TEST:[CONT]: De pronto ... lo pueden hacer, aunque hay muchos que se han ido acabando
+ENT: Sí, se han dado procesos de desarme
+TEST:[CONT]: De desarme sí
+ENT: El reto como sociedad es mantenerlo
+TEST:[CONT]: sí, hay muchos que por ejemplo en LUGAR1 hubo un tiempo de ahí de --------que eran ... se entregaron, habían unos que se mataron hubieron otros que mataron o sea y
+se calmó, y ahorita otra vez están en su proceso de ...
+ENT: Están volviendo ahí
+TEST:[CONT]: Volviendo a su ... a su arte, pero uno quisiera de verdad que se acabara ya ese
+conflicto armado en este país
+ENT: Sí, este es el anhelo de todos
+TEST:[CONT]: Es el anhelo de todos nosotros los Colombianos, que se acabe ya ese conflicto
+armado.
+ENT: Ojalá podamos aportar a eso y en la ORGANIZACIÓN PUBLICA1, pues la idea de
+
+construir este informe y mostrando como todo ese tipo de violencia de impactos, es también
+conocer un poco todo lo que nos ha pasado, a ver si de pronto conociendo lo que nos ha
+pasado, logramos como trascender eso y ya buscar otra forma de vida, y tu testimonio
+también ha sido importante y te lo queremos agradecer mucho.
+TEST:[CONT]: Gracias a ustedes.
+ENT: Gracias por venir, gracias por darnos tu testimonio
+TEST:[CONT]: Gracias ENT [risas]
+
+

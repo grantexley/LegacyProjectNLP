@@ -1,0 +1,1467 @@
+ENT:
+Buenos días, es el día ----------- del 2020, estamos en el ------------------------------del -------, en
+el ------------ de -----------, Risaralda. Bueno, buenos días
+TEST1: Buenos días
+TEST2: Buenos días
+ENT: Bueno, empiécenme contando un poquito de su vida actual, ¿qué hacen?, ¿qué
+ocupación tienen?
+TEST1:
+Bueno, pues nosotros en estos momentos tenemos un pequeño negocio y pero acá la
+economía es muy baja, acá mejor dicho, como pueden ver ahora ustedes que
+salgan, acá ya no hay comercio después de tantos años que nos tocó vivir acá la
+toma guerrillera, a pesar de que han pasado tantos años la economía acá está
+muy baja, acá no hay trabajo, muy poco trabajo en el campo también, entonces
+por eso es que acá el pueblo no tiene esa economía, los negocios acá son, lo
+que uno vende acá es muy poquito, de pronto no se dé el sustento acá, pues el
+esposo es agricultor y trabaja por ahí en la tierra sembrando comidita como se
+dice y entonces así nos vamos pasando los días, los meses y los años, con ese
+poco sustento
+ENT: ¿Y el negocito de qué?
+TEST1: Pues yo tengo un negocio ahí donde vendo, hay veces que vienen
+ENT: ¿Una tiendita?
+TEST1:
+Vendo comiditas por encargo, vendo heladitos y tengo por ahí un pequeño almacencito
+donde vendo lociones como yo vendo de catálogo, entonces con eso fui recogiendo
+cositas y tengo un pequeño almacén así
+ENT:
+¿Qué fecha nacieron ustedes y en qué lugar?
+TEST1:
+Yo nací el ------------ de 1965 en --------------------------Yo nací el -------------- de 1955, en ------------------ ---------ENT:
+¿Hace cuánto están ustedes acá en ----------------------?
+TEST1:
+Yo tengo, yo llegué en 1980 a este pueblo
+ENT:
+A los 15 años
+TEST1:
+A los 15 años
+TEST2:
+Yo tengo 42 años de vivir acá, 42 años que llevo acá
+ENT:
+¿Y por qué se vinieron para acá?
+TEST1:
+
+A ver, yo llegué a este pueblo porque mi mamá trabajaba en salud, ella en estos
+momentos es enfermera pensionada, a ella la trasladaron para el puesto de
+salud de acá de ------------ entonces en 1980 llegamos a acá a -----------ENT: ¿Usted, TEST2?
+TEST2:
+Yo me vine de Antioquia porque papá, estando yo muy niño me vine con mi papá
+para acá y mi familia, hasta entramos por la trocha los productos en bestia,
+porque mi papá tenía los padres aquí viviendo y se brotó una oportunidad de
+manejar la finquita donde mis abuelos estaban, entonces por eso fue que
+nosotros llegamos acá a Risaralda
+ENT:
+¿Y nunca se han ido?
+TEST2:
+Ya aquí nos quedamos y aquí vamos a morir, porque de aquí nos vamos a morir ya,
+no nos vamos a mover para ninguna parte
+TEST1:
+Acá nos conocimos y nos hicimos novios año y medio nos casamos
+ENT:
+Ah bueno y cuéntame un poquito
+TEST2:
+De hijos también tenemos 4 hijos, 3 hombres y una niña
+ENT:
+Bueno, cuéntame un poquito ¿cuál fue la situación como de violencia que ustedes
+tuvieron que vivir acá?
+TEST1:
+A ver, a nosotros nos han tocado 3 tomas acá en ---------------------- la
+primera fue del EPL [INC: Ejército Popular de Liberación], eso hace ya muchos
+años la EPL
+ENT: ¿Por ahí en qué año, más o menos no recuerda?
+TEST1: No me acuerdo
+TEST2: ¿Fue en el 2000 o qué?
+TEST1: No
+TEST2: ¿Antes?
+TEST1: La EPL yo tenía el segundo niño que tenía 16 meses de nacido y él en estos
+momentos tiene 34 años
+ENT: O sea, casi como hace 33 años
+TEST2: Más o menos como 33 años
+TEST1: Sí, como 32 años más o menos
+ENT: Como finalizando los 80, ¿será?
+TEST1: No
+ENT: Él tiene 34
+TEST1: Sí, él tiene 34, él nació en el 85
+ENT:
+
+Nació en el 85 y tenía 16 meses
+TEST1:
+16 meses, casi como el 87 casi, ¿no es cierto?, fue esa primer toma
+guerrillera, ya después
+ENT:
+¿Y cómo fue esa toma?
+TEST1:
+Pues a ver, este pueblo no tenía ni energía, así de la ORGANIZACIÓN PÚBLICA1 [INC:
+ORGANIZACIÓN PÚBLICA1], era que funcionaba un dinamo que generaba la energía
+con agua para acá para el corregimiento y cómo te parece que eso cuando menos
+pensaba uno se le quebraban como unas cucharas que tenía así de hierro ese
+dinamo que hacía girar
+TEST2:
+Asbesto, asbesto [DUD: 05:12] que volteaba eso
+TEST1:
+Y entonces eso se le quebraban a cada rato y ahí estábamos hacían 5 meses sin
+energía, porque habían llevado esas cucharas de hierro a --------para que las
+reorganizarán y ahí fue la toma guerrillera
+TEST
+2: La primera toma guerrillera, la primera
+ENT:
+¿Y eso fue de día de noche?
+TEST1:
+Eso fue a medianoche, ¿no es cierto?
+TEST2:
+A medianoche fue, esa fue la de EPL, ¿cierto?
+ENT:
+¿Cómo fue?
+TEST1:
+La del EPL que fue medianoche hasta por la mañana que ya estaba de día cuando
+todavía ellos estaban por ahí en ese filo ya altos por la mañana
+ENT:
+¿Pero ellos entraron al pueblo?, ¿hubo combate o qué ocurrió?
+TEST2:
+Atacaron el cuartel de la policía
+TEST1:
+Atacaron el cuartel de la policía que era aquí enseguida
+TEST2:
+Y las balas sobraban por todas las casas, casi me matan a mí con el niño
+pequeño que yo me bajé con él y de por allá un filo me hicieron un tiro y pegó
+en la puerta, por un ladito pasó, me hubieran matado al niño, me hubieran
+matado a mí también
+ENT:
+
+¿Y usted estaba en su casa durmiendo?
+TEST2:
+Estábamos en la casa cuando vimos la gente armada allá, como la casa era de una
+tabla muy mala, entonces dije yo "vea FAMILIAR1 yo me vuelo con el niño de
+acá, volémonos de acá porque las balas nos pasan acá y cuando estaba bajando
+por una escalita con ellos, pegó el tiro en la puerta y no nos pegaron, yo
+logré meterme a una casa de bahareque que había allá muy fina
+TEST1:
+Yo también
+TEST2:
+De tapia, entonces ya nos logramos meter ahí
+ENT:
+¿Y ustedes antes de esa toma habían escuchado hablar del EPL, o sea, ya sabían
+que existía ese grupo hacía presencia por acá?
+TEST1:
+Pues uno acá la verdad, la verdad una nunca veía esa gente por acá, esto por
+acá era muy sano y pues de pronto hablaban que la guerrilla, pero uno decía
+"¿la guerrilla y qué es la guerrilla?" pero que por allá lejos para
+otras partes
+ENT:
+O sea, no bajaban al pueblo
+TEST1:
+No, acá no
+TEST2:
+Cuando nos fuimos conociendo ya que era la guerrilla porque yo tenía un hermano
+que se llamaba FAMILIAR2 que era inspector de policía en ---------TEST1:
+En -------------Y entró el EPL y lo sacó, lo mató y lo acribilló ahí
+ENT:
+¿Por esos mismos años?
+TEST2:
+Por ser funcionario del gobierno lo mató
+TEST1:
+Sí, después de la toma de acá,
+ENT:
+¿Después de la toma de acá, también hubo una toma allá en -------?
+TEST1:
+No, allá había nada más una oficina de inspección
+TEST2:
+En la que trabajaba mi hermano, ahí llegó la guerrilla y lo fusiló ahí
+ENT:
+
+¿Y en ese tiempo quién se escuchó hablar?, ¿quién era el comandante que operaba
+acá?
+TEST2:
+Esa era un tal RANGO le decían, algo así, de ese si no, pues de esa guerrilla
+no tenemos mucha visión de cómo se llamaba esa gente porque no era muy conocida
+cuando eso
+TEST1:
+Es que ellos hicieron la toma acá y se desplazaron de por acá, se fueron,
+hicieron la toma y se fueron para otro lado por allá
+TEST2:
+Río arriba
+ENT:
+O sea que no volvieron a hacer como presencia acá constante
+TEST2:
+No, ellos no hicieron presencia
+TEST1:
+Por acá no volvieron
+TEST2:
+Hicieron los daños que quisieron y se fueron y se fueron desapareciendo porque
+ya llegaron otras fuerzas ya como fue las FARC [INC: Fuerzas Armadas
+Revolucionarias de Colombia - Ejército del Pueblo], el ELN [INC: Ejército de
+Liberación Nacional]
+TEST1:
+El ERG [INC: Ejército Revolucionaria Guevarista]
+TEST2:
+El ERG, entonces esos se fueron desapareciendo, pero sí hicieron los daños
+que quisieron también
+ENT:
+Entonces la segunda toma
+TEST1:
+La segunda toma fue la más fuerte
+ENT:
+Que fue en qué año y por parte de quién
+TEST1:
+La segunda toma guerrillera fue la de las FARC en 1998, fue esa toma un ---------- de 1998,
+esa toma fue, pues nosotros tampoco no sabíamos nada de lo que
+eran las FARC, nada, sabíamos, teníamos conocimiento de que había elenos, el
+ELN y el ERG pero para abajo para el cañón; el cuartel de la policía volvió y
+la organizaron acá
+TEST2:
+Acá, el vecino acá
+TEST1:
+Aquí enseguida y esto acá eran unas instalaciones del INSTITUCIÓN EDUCATIVA1 [INC:
+
+INSTITUCIÓN EDUCATIVA1] y hasta por allí era la caseta comunal, por este
+costado de acá y acá en INSTITUCIÓN EDUCATIVA1 y al lado de allá era el cuartel de la
+policía, acá habían como 24 o 25 policías y acá esto era un pueblo de mucha gente, de
+mucho comercio muy bueno, pero bueno, de lo bueno era este pueblo, eso sí
+era muy bueno este pueblo
+ENT:
+¿Y ya era así de grande o él ha ido creciendo?
+TEST1:
+No, así lo mismo, pues de pronto acá hay más casas porque después de la toma
+guerrillera la mitad del pueblo se fue y las casas se cayeron, no quedaron sino
+los solares y esto acá los que nos quedamos fue los, como se dice, los más
+berriondos
+TEST2:
+Valientes, lo más valientes nos quedamos acá
+TEST1:
+Porque no teníamos para donde irnos, lo poquito que teníamos, lo teníamos acá
+para irnos a otra parte a sufrir, a pasar necesidades con los hijos, ya
+nosotros ya teníamos 3 hijos, los 3 muchachos los hombres, teníamos un niño,
+teníamos el niño de 3 años el más pequeño y nosotros estábamos, nosotros
+teníamos allí en esa esquina de allí, trabajamos ahí nos habían alquilado toda
+esa casa, el dueño de esa casa se había ido para --------que porque
+supuestamente nos dijo él que los elenos le habían pedido 5 millones de pesos y
+que él se iba y nos alquiló a nosotros, nosotros quedamos a ir trabajando y
+entonces nosotros trabajábamos ahí, llevábamos cómo 6 meses, ¿cierto?, 6 o 7
+meses trabajando ahí cuando la toma guerrillera de las FARC. Acá hacían unos
+campeonatos muy buenos de micro, femenino y masculino, mucho deporte, mucho,
+mucho, mucha gente, mucha juventud
+ENT:
+Que venía de otras partes también
+TEST2:
+Sí a estudiar acá
+TEST1:
+Sí, venían y acá, muy bueno
+TEST2: Buen
+colegio y todo teníamos
+TEST1:
+Mucha gente, mucha, mucha por acá por esta región. Y entonces yo le dije a él,
+ya por la tardecita, por la noche, le dije yo "yo me voy a ir a ver
+el partido que..." yo tenía una hermana acá estudiando en INSTITUCIÓN EDUCATIVA1,
+entonces yo le dije "ve, que la muchacha van a jugar los partidos y ponga
+cuidado ahí" y me dijo "ah sí, váyase que yo lavo la greca y organizó
+todo"
+TEST2:
+
+Era una cafetería que teníamos allá
+ENT:
+Cafetería
+TEST1:
+Y yo me fui
+TEST2:
+Mira que lindo el pajarito, mira ve
+TEST1:
+Yo me fui y yo me eché un _Halls _a la boca y me fui, cuando yo
+llego allá y por ahí a los 10 minutos, ¡Tran! la primera explosión, eso fue a
+las 8 y 12, 8 y 15 más o menos
+TEST2:
+8:15 de la noche
+TEST1:
+Cuando esa explosión, explotó una cosa por acá, cuando explotó por todas
+partes, yo me tragué el _Halls_ no me di cuenta, yo me tiré al
+suelo y yo me agaché, a mí se me vinieron las lágrimas y yo dije "la
+guerrilla" yo me acordaba que en mi casa estaba mi mamá con el niño
+pequeño que ya estaba dormido, estaba el hijo mayor con un compañero haciendo
+un trabajo para el colegio y me acordaba que mi hermana estaba jugando y el
+otro hijo el del medio estaba ahí en la cancha también. Y ese gentío, yo
+levanté la cabeza, yo lloraba y yo veo un tumulto de gente al lado de allá, ni
+para dentro ni para fuera, bregándose en la salida y eso hacía tan espantoso,
+toda la santa noche fue hasta que se amaneció, nos tocó amanecer allá tirados
+en esa cancha, eso fue un susto
+ENT:
+¿Y era cilindros o no se sabe?
+TEST1:
+Yo no sé, eso explotaban unas cosas muy miedosas
+TEST2:
+Eso eran como bombas que tiraban, porque eso no, en ese momento no se
+usaba tanto el cilindro
+TEST1:
+Sino como unas canecas
+TEST2:
+Unas bombas, porque después decían que si hubieran sido cilindros, habían
+acabado con todo el pueblo. Pues mire que a mí en la cafetería, un muchacho que
+trabaja aquí en este espacio, en este INSTITUCIÓN EDUCATIVA1, se llamaba CONOCIDO1 se
+llama CONOCIDO1 me dice "yo voy a ir allá arriba al INSTITUCIÓN EDUCATIVA1 a traer un
+encargo que hice ahí, una soldadurita para un señor allí" y vino y yo le dije “CONOCIDO1,
+sabe qué, no se vaya para allá, para acá para este INSTITUCIÓN EDUCATIVA1 no se vaya
+porque no tengo mucho pintado una greca y venga tome pintado, componelo algo para que
+no
+
+se me quede eso ahí" me dijo "ah, bueno" en ese momento que
+estaba terminando, la explosión aquí, o sea que si hubiera entrado lo matan
+también acá, entonces ya cuando la explosión de todo eso, yo bregué a cerrar el
+negocio para que no se me fuera a entrar la guerrilla ahí o alguna cosa, y esos
+machuelos con la explosión eso se abrían, a mí me tocó amanecer ahí con
+dos muchachos más ahí, cerré todo eso y yo pensando en el niño que estaba
+encima de la casa, pensando en la señora que estaba también allá y toda la
+familia en esa cancha tirados y ese abaleo toda la noche, a nosotros nos tocó
+una cosa muy dura también le digo y fuera de eso, cuando ya al otro día en la
+mañana yo me asomé por una ventanita cuando veo que la señora mía cruzó hacia
+allá, y yo tenía mis padres allí detrás por donde estaba el abaleo, yo no sabía
+que atenderle, ¿cierto?, si al hijo, a la señora, la familia o mis padres que
+están allí, yo me levanté por la mañana así pues, me asomé cuando ya de pronto
+abrí la puerta para que ella entraran, ya la guerrilla se estaba retirando en
+ese momento, ¿cierto?
+ENT:
+¿Pero ellos bajaron hasta acá hasta el pueblo?
+TEST2:
+Sí, claro todo esto lo rodearon, se metieron, todo esto se llenó de guerrilla,
+esto le metieron unos, tumbaron estas paredes, todo porque el cuartel queda
+aquí enseguida ellos tomaron este y por ahí se metieron para poder ir a matar
+la policía ahí, ¿cierto?, de ahí no mataron sino netamente en el cuartel
+mataron a un policía nomás, los otros lo mataron por la parte de arriba, porque
+logró pasar el refuerzo de -------- cuando ya se dieron cuenta que el refuerzo
+había pasado, ellos ya se fueron retirando para arriba para allá donde ellos
+tenían los voladeros, para donde iban a volar, ¿cierto?, tenían todo planeado
+por donde tenía la salida ellos, entonces ya nosotros pudimos salir a mirar la
+familia como estaba, yo fui a visitar a mis padres a ver si estaban vivos,
+bueno, gracias a Dios ellos estaban vivos, y no el sangrero por todas partes,
+las balas porque no ve que toda la noche previendo a tumbar ese puesto de
+policía hasta que lo tumbaron, ¿cierto?, y ahí murió un policía, luego sacaron
+a otros allá de la casa, que era CONOCIDO2 que se llamaba él, lo sacaron y lo
+acribillaron allá arribita también, lo mataron allá arribita, luego llegó el
+refuerzo y se fueron
+ENT:
+O sea más policías
+TEST2:
+Los policías de -------- llegó el refuerzo, ya se había retirado la guerrilla
+ya se había retirado, entonces se fueron detrás persiguiéndolos y por allá más
+arriba les hicieron una emboscada a ellos y mataron 4 policías, eso fue en un
+segundo que los mataron, este pueblo quedó desolador acá, nosotros ya no
+sabíamos qué hacer
+ENT:
+
+¿Y hubo muertos civiles o heridos?
+TEST2:
+Sí
+TEST1:
+Uno
+TEST2:
+Sí, aquí hubo uno también que mataron a un civil acá
+TEST1:
+Un muchacho, un muchacho que trabajaba en construcción, él se vino porque,
+cuando es la muerte, ¿no es cierto?, él estaba en un billar y dijo "uy no,
+me voy a ir a sacar la ropa" él dormía acá, acá en INSTITUCIÓN EDUCATIVA1 y cuando entró
+así por el corredor de acá de INSTITUCIÓN EDUCATIVA1, cuando vio el tumulto de gente,
+entonces él se asustó y se abrió a correr y pensaron que era un policía y lo mataron
+TEST2:
+Ahí quedó muerto también
+TEST1:
+Ahí quedó muerto
+TEST2:
+Y comenzó ya la desolación en este pueblo porque este cuartel quedó en el
+suelo, nosotros ya más tardecito nos fuimos mirando, mirando por allá para la
+Iglesia, allá había una cantidad de muertos allá y usted se tropezaba en las
+cocas del fusil de lo que salía del abaleo que hubo, usted se tropezaba así,
+era por costalados
+TEST1:
+Era por costalados
+TEST2:
+Porque la gente vació pertrecha toda la noche con la misma policía,
+también a bregar a tomar todo el cuartel, ellos pelearon hasta que amaneció
+hasta que la gente se retiró y ya, bueno, todo fue pasando ya cuando la gente
+se retiró, eso fue un lunes por la noche, ya el martes cierto
+TEST1:
+Vea, al otro día de la toma llegó la orden de que los policías que estaban
+vivos debían de salir de aquí y a nosotros nos dejaron solos, acá no volvió a
+entrar nada del gobierno, ni ejército, ni policía, ni nada, a nosotros nos
+dejaron solos, a nosotros los poquitos que nos quedamos en este pueblo nos tocó
+convivir con la guerrilla
+ENT:
+¿Y por ahí cuántas familias se desplazaron en ese momento?
+TEST1:
+Pues la mitad más o menos del pueblo
+TEST2:
+Sí, más de la mitad
+ENT:
+
+¿Y eso por ahí cuánto es?
+TEST2:
+70% se fue del pueblo
+TEST1:
+Se fue
+TEST2:
+Al otro día estaban empacando ya maletas y todo
+TEST1:
+Se fueron la gente
+TEST2:
+Y, bueno eso fue el lunes, el martes, ¿el martes fue que llegó esa gente?, ¿el
+martes o el miércoles?
+TEST1:
+El martes por la tarde
+TEST2:
+El martes por la tarde nosotros estábamos en un negocito ahí en una panadería
+donde le decía que trabajábamos
+TEST1:
+La cafetería
+TEST2:
+Cuando nosotros miramos así de la plaza, cuando vimos que venía unos
+uniformados por esta plaza hacia abajo y por aquí, venían por todas partes cerrando
+ya, la guerrilla, ¿cierto?, porque nosotros dijimos "uy, es
+guerrilla" porque mujeres y todo armadas y todo, eso no es ejército,
+entonces el ejército no, cuando ya fueron llegando al negocio de nosotros,
+nosotros teníamos el negocio muy bien surtido, de todo fino teníamos nosotros
+ahí, cuando llegaron ahí, saludaron, nosotros muertos del miedo porque no
+sabíamos a qué llegaban, ¿cierto?, y ahí mismo llegaron, llegaban por tumulto
+de mujeres y de hombres, de esa guerrilla y ahí mismo "denos acá todo lo
+que desea, lo que haiga ahí en el negocio", todo por caja de chicles,
+paquete de cigarrillos finos, todo lo que teníamos, todo se fue yendo ahí y
+sirva y sirva y sirva panes, pasteles, nosotros teníamos bien surtido el
+negocio y eso ya, y ya nos acabaron con nosotros acá, y verdad, acabaron con
+nosotros porque eso ya comenzó
+ENT:
+O sea, no pagaban, ellos no pagaban
+TEST2:
+El problema, ahí comenzó el problema ya nadie les preguntaba de quién es esto
+cuánto es, ya no, entonces
+ENT:
+¿Pero ellos le pagaban eso o no?
+TEST2:
+¿Ah?
+
+ENT:
+¿Ellos le pagaron esos productos?
+TEST2:
+Nosotros, lo que fue esos productos no nos pagaron, nos pagaban después ya
+cuando quedaron acá, ya nos pagaban de pronto un tinto que tomaran, pero lo que
+fue lo grande eso todo se perdió, y siga contándole más usted, más de lo de la
+panadería cómo nos fue
+TEST1:
+Ah, no y ya después uno recibía boletas, que necesitaban tanto, tanto pan,
+tanto de pan y hágale
+TEST2:
+Lo que llamaban GUERRILLERO DE LAS FARC
+ENT:
+¿ GUERRILLERO DE LAS FARC?
+TEST2:
+Sí [audio: ujúm]
+TEST2:
+Mandaba a pedir 500.000 pesos de parva, listo, despáchela porque si no la
+despachaba, se podía estar en la lista de que lo mataban, ¿cierto?, y uno por
+miedo pues, mire que yo trabajando en la panadería, muerde duro uno ahí sacando
+plata de donde, una boleta, "necesitamos 4 o 500.000 pesos de parva"
+ENT:
+Y eso en ese tiempo era mucha plata
+TEST2:
+Y vienen los recogen, venían y los recogían y listo, ya nosotros "¿pero y
+qué?" para nosotros después pagan, pagan, nadie venía a pagar y así
+sucesivamente se nos fue yendo todo el tiempo ahí trabajando y ya para que
+viejos si mirá que nos acabaron, nosotros estamos bien planteaditos y nos
+acabaron del todo
+TEST1:
+No y ya empieza la, a nosotros nos tocó también algo muy duro que fue con el
+hijo mayor, él sacó grado de 16 años y pues ya estaba acá el apogeo, ya estaban
+las FARC, estaba el ERG y estaban los Elenos, entonces, pues ellos no se
+mantenían diario aquí tampoco metidos pero venía un grupo y se iba ese y venía
+el otro así, entonces ya los muchachos, usted sabe que el muchacho se va
+enamorando, se van cantando por cualquier cosa que les dice, y a nosotros nos
+tocó ese golpe tan duro que se lo llevaron a ese muchacho, nosotros sufrimos
+mucho, nos lo llevó los Elenos se lo llevaron
+ENT:
+¿Cómo era el nombre de él?
+TEST2:
+FAMILIAR2
+TEST1:
+
+Acabando de graduarse
+ENT:
+¿Pero vinieron y lo sacaron de la casa o lo engañaron?
+TEST2:
+No
+TEST1:
+No, ellos vinieron
+TEST2:
+Sí
+TEST1:
+Sí, y así más de un muchacho se fue yendo con ellos de acá
+TEST2:
+Contando que él está vivo todavía pero más de uno de los amiguitos de él
+los mataron
+TEST1:
+De acá no se veía sino los papás y las mamás llorar, porque se iban perdiendo
+los muchachos, se iban yendo, se iban yendo y entonces hasta que nos tocó a
+nosotros
+ENT:
+¿Y eso fue en qué año?
+TEST1:
+Eso fue en el 2000, en el 2000 fue eso
+ENT:
+¿Y cómo se dieron cuenta ustedes que eso había pasado, o sea, él se fue y
+ustedes no se enteraron sino luego?
+TEST2:
+Cuando no estaba ese muchacho por ninguna parte
+TEST1:
+Nos dijo que iba para allí, para una finca que se llama ----------- que ahí
+tenía unos amigos y a él le gustaba ir a ver esas riñas de gallos y todo eso,
+que iba para allá como allá tenían un poco de gallos, y mentiras cuando nos
+dimos cuenta nosotros ya era de noche
+TEST2:
+Por la noche ya
+TEST1:
+Que lo habían visto por allá abajo, por el ------------- ¡ay! usted no se
+alcanza a imaginar lo que nosotros sentimos, Dios mío, y desde ahí fue una
+lucha, pero una lucha horrible y no lo quisieron entregar
+ENT:
+¿Pero ustedes fueron a hablar con alguien, con algún comandante?
+TEST1:
+Claro nosotros andábamos por todas partes, buscábamos la forma de encontrarnos
+con esos personajes
+
+TEST2:
+Con los comandantes
+TEST1:
+Y le digo que nos decían que sí, que vea, mentiras que lo echaron para el
+Chocó, se lo llevaron para el Chocó y eso fue el sufrimiento más horrible, 8
+meses y nosotros sin saber qué hacer
+TEST2:
+Enloquecíamos
+TEST1:
+Cuando así como se largó por allá con ellos, así yo no sé cómo hizo él y se
+voló, él se voló de allá
+TEST2:
+A mí me llegó una boleta de una amiga, "váyase que FAMILIAR2 está en tal
+parte, para que lo recojan la moto" entonces yo ahí mismo, había guerrilla
+aquí en ese momento, entonces dije yo "y yo como me vuelo" yo cogí la
+moto, a mí me dieron el punto donde estaba y yo ahí mismo salí en la moto y me
+fui y lo cogí y me lo llevé hasta cierta parte lejos, lo dejé por allá
+encaletado, ¿cierto?, entonces luego ya me vine de allá para acá después de
+que lo encaleté por allá, ya le dije a otro muchacha de acá, "hermano,
+hágame un favor bien grande, acábeme de sacar a ese muchacho de ---------, está
+en tal parte", entonces le di las coordenadas bien y él se fue y donde
+está, donde él estaba ya más lejos, más alto, porque le dio miedo que de pronto
+subía la guerrilla y lo mataba, ¿cierto?, entonces de ahí, él fue ya y le gritó
+y gritó hasta que ya se ubicó con él, lo sacó y lo sacamos hasta ---------esa
+noche, sígale contando TEST1
+TEST1:
+No y eso fue una cosa muy horrible y de ahí lo sacamos para --------- después
+que él le dijo para yo irme con el niño pequeño para ---------para despacharlo,
+imagínese, para despacharlo para España, en ese entonces un pasaje a España nos
+costó 12 millones de pesos
+TEST2:
+Era mucha plata
+ENT:
+Sí es caro
+TEST2:
+Todo el ganadito que teníamos
+TEST1:
+Todo lo que teníamos se nos fue, y ahí sí que acabamos de quedar más, nosotros
+no sabíamos qué hacer y ya era pague intereses, pague intereses y pague
+intereses y pasamos años y años pagando intereses de esas platas, eso fue una
+cosa muy horrible
+TEST2:
+Ese ganadito no duró para nada, nosotros lo vendimos, le dije "no le
+
+hace" le dije yo a TEST1 lo agendamos el ganado, lo que haiga, es para
+salvarle la vida a ese muchacho, ya que dé cuenta de nosotros, váyase para
+España, lo despachamos, me tocó que ir a, yo me quedé acá, vendí el ganado,
+TEST1 estaba en ---------con él y entonces yo le giré la plata a ella
+para comprar los pasajes para que se fuera para España, eso de todas maneras,
+eso nos tocó una cosa muy berraca, nos tocó vivir una cosa muy dura pero
+gracias al Señor él está en este momento está vivo, está allá, nosotros estamos
+en este momento, nos agarraron los años ya, por cuestión de la guerrilla lo
+poco que teníamos lo quemamos todo, pero gracias al Señor él está rescatado,
+¿cierto?
+TEST1:
+Después la lidia para yo venir al mes, yo decía
+ENT:
+¿Pero usted se fue para España también?
+TEST1:
+No
+TEST2:
+Para --------TEST1:
+Yo estuve un mes con él en ---------hasta que lo despachamos para España y
+después yo decía "FAMILIAR2, cuando llegué a ---------yo le dije "yo
+no me quiero ir para allá, a mí me van a matar" él decía quesque "no
+mija, que le van a hacer" y dije yo "no, de pronto me matan por yo
+haber sacado a ese muchacho "
+TEST2:
+Y eso fue
+TEST1:
+Eso fue mucho susto
+TEST1:
+Y le digo una cosa que cuando yo, cuando saqué a FAMILIAR2 esa tarde que lo saqué,
+al otro día llegaron los Elenos, a donde mí llegaron y me dijeron "hágame
+el favor y me entrega al hijo, dónde lo tiene" le dije "yo no sé, él
+se fue con ustedes, entonces ustedes deben saber de él" yo haciéndome el
+fuerte, así como le estoy hablando usted, pero ya tenía toda mi conciencia
+encima que yo ya lo había sacado y "yo no sé", el tal Flaco ese,
+"hermano, ustedes saben del hijo dónde está, él se voló antier algo
+así, él se voló de la fila de nosotros" ah, le dije yo a él "yo
+no sé, yo no me volaría porque ustedes fue que se lo llevaron" y entonces
+le dije yo "pero si nos tenemos que ir del pueblo dígame hermano, pero
+nosotros no tenemos, yo no tengo nada que ver con eso, mi señora ni yo" me
+dijo "no, que no hay problema pero ustedes deben saber",
+"nosotros no sabemos nada" y nosotros en esa nos aferramos, que
+nosotros no sabíamos nada, siendo que yo mismo lo había acabo de sacar,
+
+¿cierto? [risa]
+TEST1:
+Una cosa grande
+TEST2:
+Y de todas maneras gracias al Señor pues seguimos viviendo acá en el pueblo ya
+y cuente más historias TEST1, es que las historias son muy largas que no
+acabamos
+ENT:
+Tranquilo. ¿Y él nunca denunció, hizo pues de que él había sido víctima de
+reclutamiento forzado?
+TEST2:
+No
+TEST1:
+Nosotros sí estuvimos hace como un año
+TEST2:
+Un año y más
+TEST1:
+Fuimos a -------TEST2:
+A -------TEST1:
+Y denunciamos eso porque CONOCIDO3 nos dijo que fuéramos, él nos colaboró,
+pero eso no ha llegado respuesta de nada de eso
+ENT:
+Ustedes hace un año hicieron esto de
+TEST2:
+Sí, más del año y fuimos y declaramos todo eso, lo mismo que estamos hablando
+acá, lo declaramos allá en ORGANIZACIÓN PÚBLICA2 [INC: ORGANIZACIÓN PÚBLICA2] y
+pues no, eso no, porque verdaderamente
+en este conflicto que hay, es como decir ORGANIZACIÓN PÚBLICA3 [INC: ORGANIZACIÓN
+PÚBLICA3], en esto hay mucha gente que ha tenido ayudas y no ha sido del conflicto para
+nada, a los que nos tocó vivir directamente no nos han colaborado vea, nada,
+mire esas casas de ahí, eso fue pasado por las balas, todos esos techos de
+nosotros todo eso fue pasado por bala y todo eso, en este momento más de una
+casa se mojó, porque ve esas casas de barro, eso los cogió la bala, como esos
+quemaban por cualquier parte y eso no, nunca fuimos beneficiados por nada, pero
+ahí estamos viviendo
+TEST1:
+No, y bueno y ya por ejemplo con lo que nos tocó vivir a nosotros
+personalmente, lo otro ya cuando toda esta gente tomó posesión de todo este
+territorio, las cosas eran muy horribles o cuando tocó que nos sacaban a todos
+de las casas a reuniones a cualquier hora que ellos quisieran
+
+ENT: ¿Pero quiénes o qué grupo?
+TEST1:
+Las FARC
+TEST2:
+Las FARC
+TEST1:
+Ellos no sacaban a la cancha, al parque, otras veces nos llevaban hasta el
+colegio a todos, todo el pueblo paraban los carros, hacían bajar a toda la
+gente y para la reunión
+ENT:
+¿Y qué les decían?
+TEST2:
+Nosotros nos podíamos digamos, yo tenía el negocio abierto y ahí mismo
+"por favor cierre y camine para la cancha, ahorita vamos para allá"
+no puede haber negocio abierto, ahí llegaban, ¿cierto?, nos salían a contarnos
+las historias de ellos, que ellos eran el ejército del pueblo ya, y eso que
+tenían que combatir
+TEST1:
+Los ideales
+TEST2:
+Los ideales de ellos, que ellos es muy diferentes a lo que uno ha vivido,
+¿cierto?, ellos los hacían conocer los ideales de ellos pero no
+TEST1:
+Uno callado
+TEST2:
+Uno callado, nosotros teníamos que pasar por lo que ellos dijeron
+ENT:
+¿Y hacían ajusticiamientos públicos también, o sea, de personas que los
+ajusticiaban ahí delante de todo el pueblo?
+TEST2:
+No, a un muchacho lo mataron ahí en frente de mi negocio, lo mató GUERRILLERO DE LAS
+FARC que yo mismo vi
+ENT: ¿GUERRILLERO era de las FARC?
+TEST2:
+Sí, él lo mató ahí el muchacho y entonces, cómo yo tenía el negocito en frente
+de donde lo mataron, él entró y guardó el arma aquí adentro metió su arma y
+entró, yo me recuerdo que en esas estaba el hijo de nosotros en ---------con
+ella, yo estaba solo ahí, y había unas ferias, había ganadito y todo, había
+unas ferias ahí cuando él mató a ese muchacho ahí, que dejó en el suelo ahí,
+entonces entró y me dijo "deme una gaseosa" me dijo GUERRILLERO DE LAS FARC,
+entonces yo le serví la gaseosa y fui inmediatamente yo estaba poniendo una música, yo
+apagué la música y me dijo estas palabras "hermano, siga la música, eso no
+vale la pena lo que se murió ahí" entonces le dije yo "no GUERRILLERO DE LAS FARC, que
+
+pena, yo no hago eso -así le dije- yo no hago eso, porque ese muchacho fue
+compañero de fútbol mío y mi amigo, yo no hago eso" yo apagué la música
+inmediatamente y ahí quedó estendido todo el día, hasta que ya por la noche
+nosotros le pusimos sábanas, velas y todo eso
+ENT:
+¿Y por qué lo mataron?
+TEST2:
+Lo mataron que por un problema de unas mulas que se llevó sin permiso por allá,
+entonces lo ajusticiaron y usted sabe que a esa gente, el terror que vivimos
+fue muy duro, ¿cierto?, ¿a usted le ha tocado vivir el conflicto también?
+ENT:
+No
+TEST2:
+Nosotros lo vivimos en carne propia, tanto que mi señora me dijo "sabe
+qué", yo le dije "váyase con los niños, váyase para ---------,
+que allá vivía la mamá de ella, "váyase para --------- que yo me quedo
+acá, porque de pronto vienen y nos matan a los hijos, la matan a usted también,
+yo me quedo acá" entonces ella me dijo "no, yo no me voy, si nos van
+a matar, que le voy a hacer, que nos maten a todos" y todos nos quedamos,
+¿cierto?, gracias al Señor no nos mataron ni nada porque nosotros vivíamos
+tensionados diario, por una parte de que la misma guerrilla y por otra parte
+porque ya los paramilitares estaban amenazando a entrar y todos, dígame uno
+compartiendo aquí con toda esa gente qué, cuánta gente vino a este pueblo que
+no volvieron a salir nunca, llegaban ya esposados para matarlos allá por el río,
+nos tocó a nosotros vivirlo, nos tocó salvarles la vida, a mí cuando yo era el
+presidente de la ORGANIZACIÓN SOCIAL1 [INC: ORGANIZACIÓN SOCIAL1], también me
+tocó presidente en esas, yo una vez llegué de ---------como a las 7 de la noche,
+¿usted estaba en embarazo de la niña?
+TEST1:
+De la niña, tenía 4 meses
+TEST2:
+Sí, cuando yo llegué ahí el negocio, cuando la señora, yo me bajé de la moto,
+me sequé la brisa que me cayó porque era de noche, cuando yo llegué y apagué la
+moto, iba a entrar cuando veo a la señora llorando ahí, le dije "¿pero qué
+pasó?" le dije yo, me dice "no, no lo dejen matar" le dije
+"¿pero a quién?" y miré yo allá, cuando ya pasaban con un muchacho
+que por apodo le decían CONOCIDO4, lo llevaban acá ya, amarrado así
+ENT:
+¿Pero quiénes lo llevaban?
+TEST1:
+La guerrilla
+TEST2:
+La guerrilla, las FARC, lo pasaron ahí por todo el parquecito ahí, entonces
+
+como yo era el presidente de la Junta, yo le dije "oiga compañerito, ¿qué
+pasa con ese muchacho?" pues yo de asustado le dije así, ¿cierto?, y me dijo
+"no, es que este muchacho"
+TEST1:
+"¿Es que es hijo suyo?"
+TEST2:
+Entonces uno me preguntó "¿es que es hijo suyo?", le dije "no,
+no es hijo mío pero yo tengo que responder por la comunidad, es que yo soy el
+presidente de la ORGANIZACIÓN SOCIAL1 y yo tengo que saber que le va a pasar a este
+muchacho" me dijo "no, es que este muchacho la debe, la orden de este
+muchacho es asesinarlo y no sé qué" me dijo así, le dije "no, no, no
+hay por qué, camine y hágame un favor", entonces ya el señor me entendió
+la conversa que yo le dije, era como un costeño porque él hablaba como los
+costeños, así un guerrillero pero como costeño y me dijo "hermano vea, la
+orden de este muchacho es para asesinarlo" y le dije yo "¿pero por
+qué van a matar a ese muchacho? si yo vivo aquí en el pueblo y yo, ese muchacho
+es mucho trabajador, en este momento no está trabajando porque no hay empleo
+para trabajar", entonces él a los que lo llevaban amarrado les dijo "háganme
+un favor, esperen ahí, siéntenlo ahí" en una banquita lo sentaron y lo
+tenían allá y me dijo "camine conversemos los dos por acá", entonces
+ya en la conversa le dije "hermano, usted están tan embolatados, que
+qué días vino el ejército y dijo que él era un colaborador de la guerrilla y
+ahora usted viene y dice que es un colaborador del ejército, hermano, entonces
+en qué mundo vivimos hermano, porque no le pone buen cuidado a eso hermano
+antes de cometer un daño" entonces el man se quedó pensando ahí y sacó un
+radio, así como se lo estoy contando, ahí mismo sacó un radio y se puso a
+llamar a comunicarse con el comandante de ellos, cuando le contestaron le dijo
+"oiga que acá no se le puede hacer la vuelta al muchacho este porque el
+presidente de la ORGANIZACIÓN SOCIAL1 dijo que ese muchacho no debía nada" entonces
+se quedó un rato esperando ahí, cuando el man le contestó, "sí, que no se le
+puede hacer nada, entonces que se quede ese muchacho y que responda él por
+él" entonces me dijo el guerrillero "¿usted responde por ese
+muchacho?" y le dije "yo respondo por él", bueno la cosa se fue
+quedando así, entonces ya preguntaron por un viejito que vendía verduras que se
+llamaba don CONOCIDO5 y me dijo "pero el viejito a dónde vive este tal
+señor" "él vive por allá arriba, pero" a mí me dejaron solo
+porque ninguno de la comunidad, se encerró yo me quedé solo ahí hablando con la
+guerrilla, cuando los guerrilleros tenían a ese muchacho amarrado, entonces ah,
+entonces le cortó, entonces le dijeron al muchacho, ya cuando dijeron
+que yo respondía por él entonces lo soltaron, porque tenía las manos así, lo
+soltaron ahí, bueno ya se fueron por el viejito de las verduras, salieron allá
+y como el viejito estaba por allá abajo, no estaba en la casa sino por allá
+abajito en otra parte cuando ellos subieron, yo volé a donde el viejito y a la
+
+señora le dije "vea, van por ustedes pero no se vayan a asustar que
+le van a hacer algo, usted no le va a pasar nada, no se van a salir del
+pueblo", entonces cuando ya bajaron "no, que ese señor no está
+allá" ya salieron ellos, le dije "vea, ellos no tienen tampoco porque
+hacerlo, porque este señor vende unas verduritas ahí, le vende al
+ejército, le vende a la guerrilla, le vende a todo mundo, entonces qué va
+a hacer el pobre señor, cómo lo van a herir" "Ah no, pero es que él
+tiene un hijo en la policía" entonces le dije "él sí tiene un hijo,
+lo tenía, ya no trabaja en la policía" y verdad, ya no trabajaba, ya se
+había salido de la policía, cierto caso a mí me tocó, hablándolo aquí me tocó
+ir con, agarré la ambulancia con otro muchacho y "lleveme para
+abajo", hasta donde nos encontramos a ellos y ya aclaramos las cosas y ya
+lo salvamos al viejito, no le pasó nada, no se tuvo que ir, y al muchacho
+tampoco, en este momento está viviendo, sígale, cuéntele otro poquito más
+ENT: ¿Y la tercera toma? usted dijo que habían pasado por 3 tomas
+TEST1: La tercera toma esa no fue acá, sino allá, ya había entrado el
+ejército acá, ya había entrado acá, porque para entrar acá el ejército entraron
+4 batallones, estuvo la vía cerrada 8 días para poder entrar el ejército,
+entraron 4 batallones, 1 entró por allá por Antioquia y los otros 3 por allí,
+estaba ubicado el ejército allá en ese filo había ejército
+TEST2: En todo el morro allá enfrente, al -----[DUD: 39:02] se llama el
+morro ese
+TEST1: Acá había ejército y arriba para ese lado de arriba había más
+tropa, bueno, un ----------------que no me acuerdo de qué año fue, solo me
+acuerdo que fue un ---------------- estamos acostado, ¿no es cierto? como a las
+2 de la mañana, cuando ¡PUM! eso explotaban y dijimos "qué pasó"
+nos levantamos, claro, era allá al frente, allá si volaron pipetas
+TEST2: Sí, volaron pipetas
+TEST1: Allá si volaron pipetas
+TEST2: Allá estaba el ejército en ese filo que le llaman -----------UD: 39:38], estaban y allá de
+cierta parte lanzaron pipetas porque el pueblo
+temblaba cuando caían las pipetas
+TEST1: Y eso fue muy horrible porque entonces acá había ejército,
+entonces el ejército de acá se fue a ayudarles allá y no los dejaban pasar por
+allá abajito, del cementerio para abajo y eso era un voleo de plomo muy
+horrible, a esos de arriba también no los dejaban pasar, los taparon, los
+taponaron mejor dicho y encerraron a los de allá
+ENT: ¿Pero la guerrilla al ejército o el ejército a la guerrilla?
+TEST1: La guerrilla al ejército
+TEST2: La guerrilla al ejército
+TEST1: Eso le rodearon todo, como todo ese
+TEST2: No dejaban pasar al refuerzo por ninguna parte
+TEST1: Todo ese refuerzo, refuerzo nadie y los que estaban allá, creo que hubieron
+
+muchos muertos porque
+TEST2:
+Muchos muertos
+TEST1:
+Porque imagínese que vino el refuerzo fue la UNIDAD MILITAR DEL EJÉRCITO entró
+TEST2:
+De --------- ¿no es cierto?
+TEST1:
+La UNIDAD MILITAR DEL EJÉRCITO entró
+TEST2:
+Fue entrando al amanecer, fue entrando acá, entonces ahí sí logró retirar a la
+guerrilla porque ya comenzó el ejército
+TEST1:
+El avión
+TEST2:
+A fumigarlos y luego este avión como que se le acabó lo que fue la
+TEST1:
+El combustible
+TEST2:
+La munición, todo eso
+TEST1: O el combustible y él iba a -------- cargaba y volvía
+TEST2: Entonces fue a --------y ya se vinieron fue dos aviones, entonces
+ya ellos estuvieron volando ¿cómo hasta qué hora sería, TEST1?
+TEST1: Como hasta las 10 de la mañana
+TEST2: Sí, los dos aviones ya bombardeando por todas partes y como que
+hubo una cantidad de muertos de la guerrilla como que hubo mucho muerto
+TEST1: Y del ejército
+TEST2: Y del ejército también hubo mucho muerto porque llegó un avión
+del ejército
+TEST1: Un helicóptero
+TEST2: Un helicóptero y subió todo el morro y alzó los que tenían, los
+pobres soldados que mataron y pagaron
+TEST1: A esos los alzaron allá
+TEST2: Eso fue una cosa espantosa lo que nos tocó vivir. Mija pregúntenos
+también que escuchar
+ENT: No, tranquilo, pero no, tranquilo. ¿y cómo fue el ingreso de los
+paramilitares?, ¿qué grupo ingresó acá?
+TEST2: Ah, no, no
+TEST1: Acá solamente una vez, nosotros estábamos, yo estaba en la casa y
+usted se había quedado en el negocio, cuando entraron dos camionetas
+desconocidas con unos hombres de camisetas blancas y pantalón negro y con
+fusiles y entró una por acá y otra por allá y dieron la vuelta aquí así y
+volvieron, salieron y se fueron. Dicen que eran los paramilitares
+
+TEST2: Porque directamente entraron hasta -------que si se llevaron un
+poco de cosas de ahí, pero nosotros gracias al Señor esa cocho [DUD: 42:12] con
+los paramilitares no nos tocó acá, sino nos hubiera tocado vivir otra cosa más
+amarga
+TEST1: ¡No!, nos hubieran matado, no estuviéramos contando acá la
+historia
+TEST2: Sí, porque somos un pueblo bien pequeño y como cuántos años nos
+quedamos nosotros así en poder de la guerrilla
+ENT: ¿O sea que acá no hubo que homicidios o desapariciones?
+TEST1: Claro
+TEST2: Claro
+TEST1: Acá hubo de todo
+ENT:
+¿O falsos positivos?
+TEST2:
+De todo
+TEST1:
+Masacres, falsos positivos, por acá hubo de todo
+TEST2:
+De todo hubo
+ENT:
+¿Pero por parte entonces de la guerrilla o qué grupo? o de las fuerzas públicas
+TEST1:
+De la guerrilla
+TEST2:
+De la guerrilla, más de la guerrilla y ya las personas de acá
+TEST1:
+Ya después los falsos positivos del gobierno
+TEST2:
+Y también las personas por ejemplo, muchas personas por acá que hubo, en la
+pasada por ------los agarraban los paramilitares y los mataban, gente de acá
+porque aquí hubo una señora que manejaba el carro, que la pararon los
+paramilitares de ------ la mataron de ------por allá
+ENT:
+¿Pero era de acá?
+TEST2:
+Era de acá
+TEST1:
+Ella manejaba un carro
+ENT:
+O sea se la llevaron
+TEST2:
+Un carro de acá, y varias, varias personas en las busetas los bajaban, ellos
+
+iban en las busetas a hacer sus compras, los paramilitares los agarraban en
+------y los asesinaban
+TEST1:
+Por acá hubo de todo lo que usted se alcanza a imaginar hubo por acá
+ENT:
+Y cuéntame un poquito más de los falsos positivos, ¿eso en qué año fue?, ¿qué
+se escuchó?, ¿qué batallón o unidad militar?
+TEST1:
+Se llevaron a todos esos presos
+TEST2:
+Ah, eso hace un poco de tiempo ya
+TEST1:
+Hace como unos 10 o 11 años que hubo unos falsos positivos por acá y vino la
+ley y se llevó 11 personas de por acá
+ENT:
+Cuando dice por acá se refiere a ------------o de vereditas
+TEST1:
+De ------------ debajo del cañón, del ------------TEST2:
+Por afuera no, acá lo que nos pertenece acá
+TEST1:
+Todo de por acá, de todo este hasta donde el de ---------de se llevaron como 11
+o 12
+ENT:
+Personas pero eran civiles
+TEST1:
+Civiles, sí
+ENT:
+¿Y qué batallón o que unidad fue?
+TEST1:
+Pues eso vino que, eso vino ORGANIZACIÓN PÚBLICA4, eso vino de todo
+TEST2:
+Eso vino de todo, sí
+ENT:
+¿Pero cuando se llevaron a esos muchachos?
+TEST1:
+Cuando se lo llevaron, claro
+ENT:
+¿Y qué pasó con ellos?
+TEST1:
+Los tuvieron en la cárcel 3 años y ya cuando no los pudieron, cuando no tenían las
+pruebas suficientes el estado para condenarlos, entonces le dieron casa por
+cárcel y estuvieron 3 años en la cárcel y 6 casi 7 años en las casas
+
+ENT:
+¿Que por qué?, ¿por qué supuestamente, porque eran guerrilleros o?
+TEST2:
+Esos eran los falsos positivos. Que porque eran colaboradores
+TEST1:
+Colaboradores de las guerrillas, que esto y lo otro, por eso fue que los
+condenaron, pues que los metieron a la cárcel y se los llevaron, en falsos
+positivos y en estos momentos están en puros pleitos con el estado
+ENT:
+Pero yo digo por ejemplo, falsos positivos, digamos que se llevaban a los
+civiles y que luego aparecen muertos en otros lugares, como supuestamente
+guerrilleros muertos en combate y así, o ejecuciones extrajudiciales, ¿nunca
+han escuchado de eso?, como los que se llevaron en Soacha, sí, que luego
+aparecen muertos en otros lados como que los visten como si fueran
+supuestamente guerrilleros, ¿aquí no?
+TEST2:
+No, por acá tanto no vimos todo eso
+TEST1:
+Pues no, pues acá fue que mataron a mucha gente
+TEST2:
+Pero sí de todos los muchachos que vivieron en este pueblo que se fueron a la
+mayoría los mataron, pues los mató, los mató la misma guerrilla
+TEST1:
+A los muchachos que se llevaron
+TEST2:
+Y a los otros lo mató el ejército, la misma guerrilla mató muchos
+muchachos porque en esas, aburridos ya la forma para ellos volarse y a la hora
+de volarse
+TEST1:
+Qué le pasó a FAMILIAR2, Y a la hora de volarse se daban cuenta que ellos iban a volar y ahí
+los mataban
+ENT: ¿Y
+cuál fue el grupo que más muchachos se llevó?
+TEST1:
+Ah, eso fue todos, parejo, más que todo Elenos
+ENT:
+¿Y el ERG cómo operaba acá?, ¿habían como diferencias entre esas 3 guerrillas
+en la forma que actuaban, las cosas que hacían?
+TEST2:
+No, de ellos 3, como que esos 3 se coordinaban bien
+ENT:
+¿Sí?
+TEST2: Se
+
+coordinaban bien porque aquí el ERG, los Elenos y las FARC, encontraban aquí y
+ellos los veían todos los males
+ENT:
+¿Y recuerdan algunos alias del ERG?, ¿recuerda algunos comandantes del ERG?
+TEST2:
+¿Del ERG?, decíamos que el tal RANGO1 DEL ERG, ¿cierto?
+TEST1:
+RANGO1 DEL ERG
+TEST2:
+Sí
+TEST1:
+Y estaba el otro, RANGO2 DEL ERG
+Sí, ese negro no me acuerdo yo del apellido de ese negro, pero como que el
+comandante de eso era el tal RANGO1 DEL ERG
+TEST1:
+Y ese RANGO, ¿RANGO2 se llamaba RANGO2 no?
+TEST2:
+Yo no me acuerdo cómo se llamaba el RANGO2, porque es que en eso aparecía tanta
+gente, ¿cierto?
+ENT:
+¿Y por qué esta zona era tan, qué creen que tenía esta zona que era estratégica
+o por qué para los grupos armados?
+TEST1:
+¿Sabe por qué?, porque esto es un corredero para ellos, no porque esto para acá
+haya mucha riqueza, no, o gente rica, no, porque esto es un corredero, Al
+Chocó, Antioquia, para Caldas, también se pasa para el Valle
+ENT:
+¿En algún momento se dan cuenta que era como para transporte de las tropas o
+transportaban armamento, droga
+TEST2:
+No, por aquí de droga no fue mucho, de por acá en esta parte no, por aquí no
+hay droga en esta parte, la estrategia de ellos era, pelear por quedar con ese
+territorio acá porque era para subir a Antioquia, podían mandar por todas
+partes, ¿cierto?. Me recuerda también de que le cuento ahí de una amiguita de
+nosotros que era muy querida en este pueblo que se llamaba CONOCIDA6, ella
+tenía un ganadito en una finca por allí, por arriba digamos por la parte del
+cerro y la guerrilla se trajo un ganado de otra parte y lo metió a ese mismo
+potrero, póngale cuidado como le costó la vida a esa señora, entonces la señora
+cuando ya llegó el ejército, el ejército se fue, allá sabía que estaba el
+ganado, la guerrilla se fue, se trajo el ganado de la guerrilla y ahí venía el
+ganado de ella también, entonces cuando llegó el ejército con el ganado acá, le
+dijo la señora, "no, es que vea, ese ganado, ahí está el ganado mío, mire
+las marcas que yo tengo mi ganado marcado" entonces sacó el ganadito ella,
+
+el de ella le dije que ahí está el ganado mío ahí tengo mi ganado marcado
+entonces la señora sacó ganadito ella, el de ella y ahí mismito dijeron que
+ella le había echado el ejército allá, ella bajó para abajo a llevarle surtido,
+porque ella surtía para abajo lo que eran las cervezas, la gaseosa, todo eso y
+allá abajo pues se le reveló la guerrilla por el ---------- se le subió a
+la camioneta y más abajito la bajaron, delante de las dos niñas la fusilaron
+ahí, de las dos hijitas que ella llevaba, le digo, muertes las que usted se
+imagina de amigos de nosotros por este cañón, los mató la guerrilla
+ENT:
+Pero la guerrilla dejaba los cuerpos para que la familia después lo recuperarán
+o desaparecían también como los paramilitares
+TEST2:
+Sí, hay unos que los... desaparecidos
+TEST1:
+Hay unos desaparecidos
+TEST2:
+Por ejemplo a un muchacho que se llamaba CONOCIDO7, a ese lo
+desaparecieron no se lo entregaron a la familia
+ENT:
+¿Pero quiénes?, ¿las FARC?
+TEST2:
+La guerrilla, la guerrilla
+ENT:
+¿Las FARC o?
+TEST2:
+Las FARC, a ese muchacho que trabajaba que le decían ------- que era de allí de
+--------, a ese también lo desaparecieron, la misma guerrilla, esa gente no le
+entregan, eso las partes de abajo tienen muchos muertos por ahí que
+solamente sabía la guerrilla dónde los enterraba porque no se lo entregaban a
+la familia
+ENT:
+Pero aquí se ha escuchado de fosas comunes y eso, o sea, en la región
+TEST1:
+Claro
+TEST2:
+Sí, pero eso está para la parte de abajo del ------------- -------------- por
+todas esas partes
+ENT:
+¿Pero más hacía ---------o qué?
+TEST1: Abajo
+TEST2:
+No, más para abajo
+
+ENT: O sea, ¿como yendo para ------?
+TEST1:
+No
+TEST2:
+No, no, no
+TEST1:
+Por aquí para abajo donde ----------------Por esta parte de la misma ---------------TEST1:
+Yendo para -----------TEST2:
+Una parte que se llama -------------por todas esas partes que fue la parte que
+era más montañosa de donde ellos estaban ubicados, entonces por ahí toda la
+gente que bajaban de camiones, de gente que no les pagó las vacunas, bueno,
+extorsiones, toda esa gente la mataron, ellos mismos, todos quedaron por
+allá enterrados todos, venía la familia a reclamarlos y no, no los entregaban y
+así
+TEST1:
+Por acá hubo un tiempo muy, nosotros tuvimos un tiempo muy duro también, para
+entrar a un familiar uno tenía que pedir permiso con 8 días de anticipación
+ENT:
+Que venían a visitar, o sea, tenía que pedirle permiso a quién, ¿a las FARC?
+TEST1:
+A la guerrilla
+ENT:
+¿Pero a las FARC?
+TEST1:
+Sí
+ENT:
+O sea, ellos eran los que tenían como el principal control de acá
+TEST2:
+El mando de ellos era, ellos eran más mandos que el ELN y que el ERG, primero
+que todo aquí por ejemplo, a las horas de la mañana a las 6 de la mañana ya
+usted se levantaba, si usted salía a la parte para ---------tenía que salir a
+dar una vuelta, ahí ya habían 3 o 4 apuntando ahí "para dónde iba, qué iba
+a hacer?
+ENT:
+¿Y quiénes más operaban acá aparte de GUERRILLERO DE LAS FARC, ¿ GUERRILLERO DE
+LAS FARC, cierto?, ¿qué otros
+alias habían?
+TEST1:
+Mucha gente, muchos comandantes
+TEST2:
+
+No, eso eran muchos comandantes que aparecían ahí, eran demasiado
+TEST1: RANGO1 DE LAS FARC
+ENT: ¿ RANGO1 DE LAS FARC?
+TEST1: RANGO1 DE LAS FARC
+ENT: ¿RANGO1?, ¿Y mujeres comandantes también?
+TEST1: RANGO2 DE LAS FARC
+TEST2: Sí, RANGO 2 DE LAS FARC
+TEST1:
+Había una que era una negra, ¿la RANGO 3 DE LAS FARC era?
+TEST2:
+RANGO3 DE LAS FARC no estuvo aquí
+TEST1:
+¿No?, ave María mijo, sí yo la vi cuando pasó para acá varias veces
+TEST2:
+Sí, de pronto sí,
+TEST1: Como
+esto era un corredero
+TEST2:
+Una que se llamaba RANGO1 DEL ELN que era de los Elenos, esto no queda publicado en
+ninguna parte, verdad, bueno sí queda pues que quede, pues ya qué, ¿cierto?,
+esa también eran otras, no era una cosa, yo trabajé, en ese tiempo está
+trabajando yo con las ORGANIZACIÓN PÚBLICA1 [INC: ORGANIZACIÓN PÚBLICA1], yo era
+---------------, a mí me tocaba bajarme por todas esas partes, yo andaba en la moto
+por todas partes, recogiendo los -------, llevando ---------, a los que iban a
+suspender ------, me tocaba a mí todas esas tareas, y yo conocí mucha gente
+de esa ahí pero en ese momento que trabajaba con la empresa y que yo movía
+platica para la ORGANIZACIÓN PÚBLICA1 nunca me llegaron a hacer nada, entonces yo
+tengo que decirlo muy claro
+ENT:
+¿Y aquí había gente que los apoyaba de la región, que los financiaba?
+TEST2:
+No, la financiada de ellos, ellos mismos la buscaban por allá lejos, ellos se
+quedaban sin plata, se iban para Antioquia por allá a traer gente de por allá,
+pero acá este pueblo era muy pobre para financiarlo
+TEST1:
+No, por acá no
+TEST2:
+Este pueblo es muy pobre
+ENT:
+¿Y ustedes cómo?, o bueno, termine... [risa]
+TEST1:
+Lo que pasa que por acá no hay ricos, ricos, no, hay gente que tiene más o
+menos por ahí sus, pero rico, rico para financiar una organización de esas no,
+
+eso se tienen que rebuscar por otros lados
+TEST2:
+Sí, los peces gordos los traían de otras partes, pero por acá nos traían
+TEST1:
+Que traían, claro, secuestrados y eso
+ENT:
+Pero secuestrados
+TEST2:
+Claro, secuestrados si traían
+ENT:
+¿Y por aquí cerca había una base de ellos, una base guerrillera como un
+campamento permanente de ellos o qué?
+TEST1:
+Ah, pues ahí sí no, que va a saber uno de esos montes tan extensos
+TEST2:
+Sí, ellos tenían campamentos donde iban a vivir
+ENT:
+Pero los secuestrados los pasaban por aquí ¿o ustedes cómo se daban cuenta?
+TEST1:
+Algunas veces
+TEST2:
+Sí, por aquí pasaron, por aquí no tuvieron a ese ----- cómo se llama
+TEST1:
+Mmm, -----------¿Cómo se llamaba ese mmm, ¿qué, era qué?
+TEST1:
+Mmm, era un viejo de Caldas
+TEST2:
+Era un diputado o que era él
+TEST1:
+Como algo así
+TEST2:
+Es ----- algo así
+ENT:
+Como un político
+TEST1:
+-----TEST2:
+------, aquí estuvo y a mí me tocó verlos, yo tengo unos amigos míos de
+Antioquia que los trajeron cuando los largaron ya que eran amigos míos que los
+habían tenido por ahí guardados en el monte y cuando menos estaba en la calle
+"usted que hace man", "no, me tenía la guerrilla secuestrado, me
+tocó pagar tanto, ya me largaron" y así tenía, pues la vida iba cogiendo
+
+así, hasta este momento pues que ya hay una paz más tranquila
+ENT:
+¿Y desde qué año está como más tranquila la zona?
+TEST1:
+No, después de que, mejor dicho después de que entró de presidente Álvaro Uribe
+fue que barrió con todo, Álvaro Uribe fue el que barrió con todo porque
+metió toda la fuerza pública por acá, las brigadas móviles, batallón de altas
+montañas y de todo, entonces ahí fue donde empezaron la limpia
+TEST2:
+Y a matar guerrilleros también, mataron a mucha guerrilla, al GUERRILLERO DE LAS FARC
+lo mataron
+por allá por la parte de ----- [DUD: 55:38] de que un financiero de ellos
+mismos de la guardia y también mataba a la gente, era financiero y el que le
+tocaba a matar lo mataba
+ENT:
+Y aparte de lo que usted cuenta que tenía que pedir permiso, ¿qué otras reglas
+les imponían ellos ustedes?
+TEST1:
+No, pues eso era como todo, ¿cierto?
+TEST2:
+Sí, nosotros teníamos que ir muy al mando de ellos, porque
+TEST1:
+Es que el que abra la boca se muere, uno tiene que estar muy callada
+ENT:
+¿Cómo sienten ustedes que les cambió la vida toda esa situación que tuvieron
+que vivir, el proyecto de vida de ustedes, de sus familias?
+TEST2:
+Hartísimo
+TEST1:
+Pues vive uno más en paz, ¿no es cierto?, está un poquito más tranquilo
+ENT:
+Pues desde que no están, sí
+TEST1:
+Y por ejemplo pues en lo económico pues muy mal, pero ya en la tranquilidad sí
+vivimos más tranquilos
+TEST2:
+Sí, volvió ya la tranquilidad
+ENT:
+Pero ustedes dicen que el pueblito no ha vuelto a ser el mismo, ya nunca
+TEST1:
+No
+TEST2: El
+pueblo cambió del todo ya, económicamente no sobrevivimos, sobrevivimos pero
+
+muy pobremente ya, por acá ya no
+TEST1:
+Si quiera que uno por acá va a estar bien económicamente, no
+TEST2:
+Digamos los dueños de fincas, que anteriormente tenían la finca surtida de
+ganado, si tienen ganadito pero ya pobremente, ya se mermó mucho porque
+primero, barrían las fincas en todo, yo me recuerdo de dos señores
+TEST1:
+Que dos veces le desocuparon la finca
+TEST2:
+La finca y le hicieron volver a [INAD: 57:22] tuvo que volver a surtir de
+nuevo, porque el señor iba a vender la finca para irse después que le barrieron
+todo el ganado, como 120 reses y no le dejaron vender la finca, le dijeron que
+tenía que surtir y tuvo que surtir y volvieron y le barrieron la finca
+TEST1:
+Y aparte a uno lo dejaron acá en la ruina, los dueños, aquí ahí en la esquina
+había una proveedora con de todo, usted encontraba de todo ahí, tenía una
+finquita el señor, tenía pesitos, se los consiguió trabajando y qué hicieron,
+se quedaron en la ruina y les tocó irse de aquí porque los iban a matar los
+‘paracos del Eleno’, se fueron para ---------, diciendo que las guerrillas les
+había robado todo
+TEST2:
+La guerrilla se les llevó las vaquitas, las mulas, todo se lo llevó
+TEST1:
+Los cerdos
+TEST2:
+Toda la finca, todo le barrieron
+TEST1:
+Y de ahí llegaban y tenían que empacar en modo turbo, turbo lleno de mercado
+porque para ellos y como quedaron en la ruina, les tocó irse de acá a --------con una mano atrás y otra adelante, porque los iban a matar los paracos, y si
+no le daban a estos mal, y si le dieron malo con los otros y ahí están, ese
+señor resultó en Venezuela sin nada, le tocó irse para Venezuela, por allá se
+murió el año pasado, va a hacer un año que se murió, acá volvió a la familia,
+la señora con los hijos y no tienen nada, no tienen nada, ni siquiera en eso de
+ORGANIZACIÓN PÚBLICA2 [INC: ORGANIZACIÓN PÚBLICA2] les dan las cositas, ni siquiera
+esas ayudas, le han dado 3 ayudas y
+no más, entonces yo me pongo a analizar las injusticias
+TEST2:
+A ellos le dieron 3 ayudas a nosotros no nos dieron nada [risas]
+TEST1:
+Póngale cuidado, hay personas que uno sabe que no les tocó vivir nada acá y son
+los que reciben todos los beneficios como ahí en --------- porque en ---------
+
+---------- llega a la cabecera municipal le llegan todas las ayudas, todas las
+que usted alcanza a imaginar, por víctima, hay de todo y en la cabecera
+municipal no pasó nada, a los que nos tocó todo este -------------------------El conflicto lo vivimos nosotros, y nosotros no fuimos beneficiados con nada
+[risa]
+TEST1:
+Y vaya a mirar y no, por acá es muy escasito el que ha sido beneficiado con las
+ayudas de las víctimas y en --------- usted ve cosas, hay hasta microempresas y
+de todo, pero no se acuerdan de este ---------------------TEST2:
+Que fue el victimario de la guerra, que fue
+TEST1:
+Y nosotros que fuimos los golpeados, entonces uno por ejemplo primero salía y
+disque "Ay, ---------------------son puros guerrilleros, puros
+guerrilleros" todos éramos guerrilleros
+ENT:
+¿Pero quién decía?
+TEST1:
+La gente de afuera y esa era la chapa de nosotros, eso fue lo único que nos
+tocó a nosotros, la chapa
+ENT:
+El estigma
+TEST1:
+Sí
+ENT:
+Estigmatización
+TEST2:
+Y ya ahora que estaban repartiéndole, los repararon, reparación de víctimas
+TEST1:
+Eso resultó todo mundo que eran víctimas
+TEST2:
+Ahí sí les tocó todo, pero así de violencia normal, porque
+ENT:
+Pero ustedes contaban ahorita al principio que sí intentaron hacer la
+declaración pero no
+TEST1:
+Pero nada
+TEST2:
+Sí, claro
+ENT:
+Pero lo hicieron por lo de su hijo, el reclutamiento o
+TEST2:
+Sí, todo, todo, así mismo como le contamos así, le decimos
+
+TEST1:
+Así mismo lo dijimos allá
+ENT:
+Y todavía están esperando que, o sea, no saben si los incluyeron en el registro
+de víctimas, no saben nada
+TEST2:
+No
+TEST1:
+No, nada
+TEST2:
+Hasta este momento no, no hemos recibido respuesta de nada
+TEST1:
+Nada, a nosotros no nos han dado nada. Hicimos también vea, nosotros hicimos
+con irme y todo de la ORGANIZACIÓN PÚBLICA5 en -------- hicimos hace por ahí
+dos años o tres, todo, todo hicimos, todo el mapa de todo lo que nos tocó vivir
+acá, para una reparación colectiva y no nos han dado respuesta de nada
+TEST2:
+Ni la respuesta siquiera
+ENT:
+¿Pero eso lo pasaron a la ORGANIZACIÓN PÚBLICA2?
+TEST1:
+Sí y nada, ni para reparación colectiva en --------------------ENT:
+Ni colectiva, ni individual. Ustedes estaban contando ahora que aquí había un
+INSTITUCIÓN EDUCATIVA1, ya no hay tampoco
+TEST1:
+No, INSTITUCIÓN EDUCATIVA1 ya no hay acá, de acá
+ENT:
+Ya de eso no hay donde estudien
+TEST2:
+Eso lo tumbó, ni la caseta
+TEST1:
+Ni la caseta comunal que era a este lado de acá
+TEST2:
+Es que INSTITUCIÓN EDUCATIVA1 quedó todo en el suelo
+TEST1:
+Todo, todo, todo, con el cuartel
+TEST2:
+Con el cuartel de la policía, todo quedó en el suelo, en escombros
+TEST1:
+INSTITUCIÓN EDUCATIVA1, la caseta comunal y allá el cuartel de la policía
+[PAUSA:
+01:01:59-01:02:05]
+
+ENT:
+¿Y ustedes actualmente pertenecen a alguna organización?, ¿usted sigue siendo líder
+alguno de los dos o no están metidos ya en nada?
+TEST2:
+Nosotros somos líderes de acá
+TEST1:
+Él, pero él trabaja, pero él está en la ------ del ----------TEST2:
+Yo soy el ------------- de la ------------, del ---------------- de acá de -----------nosotros ya y qué, trabajo la tierrita ahí pequeña, una herencia que nos dejó
+ahí mi papá, la estoy trabajando en este momento, pero muy suave, trabajando
+como se dice, con las uñas [risa]
+ENT:
+¿Y ustedes creen que hay algo que se pueda hacer para solucionar la situación
+de violencia que vive el país, para mejorar esas formas de reparación?
+TEST2:
+Sí, sí hay formas, sí el gobierno quisiera sí hay formas, por ejemplo, este
+pueblo lo podemos revivir de nuevo, creando unas microempresas donde la gente
+pueda trabajar, lo podemos revivir de nuevo, pero de resto, no haiga
+microempresas no hay forma
+TEST1:
+De resto no
+[PAUSA:
+01:03:05-01:03:24]
+TEST2:
+Sí, no, la única forma de recuperar estos pueblos por acá, estos corregimientos
+muy olvidados
+ENT:
+Tendría como una economía mejor
+TEST1:
+Sí
+TEST2:
+Los gobiernos a esto le meten muy suave, por ahí de vez en cuando una ayudita
+poquita, que va a servir eso así, para nada
+TEST1:
+Vea, por ejemplo, no vamos muy lejos, -------es un caserío por donde pasaron
+ustedes
+ENT:
+Sí, sí señora
+TEST1:
+Allá hicieron por ahí 7 casas de un programa de esos de víctimas, y acá donde
+sucedió todo no alcanzaron sino a hacer 2, entonces eso es lo que uno se pone a
+analizar, pero ¿por qué?, siendo que la mayor parte del conflicto armado se
+
+vivió en todo este ------------------- porque no vienen a reparar a este cañón
+del --------- siendo que --------- nosotros pertenecemos a ----------, pero es
+que a la cabecera municipal no le tocó vivir lo que nos tocó vivir a nosotros,
+yo creo que ni a -------porque a -------tiraron ahí como una granada y ya,
+entonces por eso ya ahí llega un poco de reparaciones allá, en cambio aquí, dos
+tomas guerrilleras, más la otra de allí que también que susto tan horrible,
+cada rato esos enfrentamientos por todos lados
+TEST2:
+Acá por la --------- también un abaleo, por aquí arribita y eso
+TEST1:
+Y entonces nosotros no, entonces yo me pongo a analizar, pero porque a ---------------TEST2:
+Nuevas
+TEST1:
+Hicieron por ORGANIZACIÓN PÚBLICA2 y porque en ------------apenas 2, y hay que ir,
+hay familias tan pobres también, de este cañón para abajo no es sino que miren
+y verán todo lo que hay, entonces uno ve como las injusticias, sí ve, el más
+vivo, eso siempre, el pez más grande se traga al más pequeñito, y de pronto acá
+la falta de organización, sí ve, porque si aquí la gente fuera bien unida y
+hablaran todos el mismo idioma, se pidieran muchas cosas para este pueblo pero
+empiezan muy bien y cuando empieza el uno se desvía para allí, este empieza a
+hablar a jalar para este otro lado este otro para este otro lado, por eso es
+que no se da nada acá pero si nosotros lográramos que en este corregimiento
+hubiera una microempresas bien buenas, seguro que habría economía acá, porque
+había empleo para muchas personas
+TEST2:
+[INAD: 01:06:07] no, sí uno se pusiera la mano en el pecho y tiraban algunas
+partes para ----------------------podríamos revivir de nuevo, de resto no, no
+veo forma, ya hemos bregado por todas partes, de alcaldía, gobernaciones, de
+todas partes le hemos luchado y entre más días más peor, la misma ruina sigue
+acá en -----------ENT:
+Bueno, digamos que ya eso era todo, les agradezco mucho por habernos brindado
+ese testimonio, muchísimas gracias
+TEST1:
+Con mucho gusto
+TEST2:
+Mi niña, bien pueda
+
+

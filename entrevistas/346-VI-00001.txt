@@ -1,0 +1,1318 @@
+346-VI-00001
+ENT: Bien, doña TEST ¿me recuerda su nombre completo?
+TEST: TEST.
+ENT:
+[Llenado de datos personales 00:24 - 00:59]
+[Consentimiento informado 01:01 - 02:07]. Entonces
+vamos a comenzar, doña TEST ¿se acuerda en qué fecha nació su persona?
+TEST: Soy del 51 del -------------.
+ENT: Estuvo de cumpleaños.
+TEST: [risas] sí ya pasó.
+ENT: Cerca, cerca. O sea que doña
+TEST tiene unos 68 años bien vividos.
+TEST: Sí señor.
+ENT:
+¿Dónde nació doña TEST?
+TEST: En una vereda que se llama LUGAR1 hacia abajo.
+ENT: ¿Eso es municipio de LUGAR2?
+TEST: Municipio de LUGAR3.
+ENT: ¿Y vivió hasta qué edad ahí en
+--------?
+TEST: Por la edad de unos 8 años, de ahí ya me fui de la casa,
+estuve niñera en -------- unos varios, después vino una tía mía de LUGAR4 y me
+sacó para LUGAR5. Allá me jovencié.
+ENT: ¿Hasta qué edad estuvo en
+LUGAR5?
+TEST: Hasta los 16 años.
+ENT: ¿Y de allá volvió otra vez?
+TEST: Volví acá, ya me conocía al papá de mis hijos, ya me quedé
+por acá con él.
+ENT:
+¿Cuántos hijos tiene doña TEST?
+TEST: Tuve 17 hijos. 10 varones y 7 mujeres, pero una niña se me
+murió de 11 meses y mi hijo que me lo mataron de 19 años.
+ENT: ¿En qué año fue la muerte de su
+hijo?
+TEST: Eso fue en el 2007. Ya iba a cumplir los 20.
+ENT:
+¿Cómo es el nombre de su hijo?
+TEST: FAMILIAR1.
+ENT: Tenía 19 años me dice ¿y él dónde
+murió?
+TEST: Él apareció muerto atrasito de donde nosotros vivimos.
+ENT:
+
+¿En el LUGAR6?
+TEST: En el LUGAR6, hacia el río LUGAR7.
+ENT: ¿Eso ya es municipio LUGAR2 o
+sigue siendo LUGAR3?
+TEST: Municipio LUGAR2 es ahí. En el ----------- se dividen los
+dos municipios, LUGAR3 con LUGAR2, o sea LUGAR3 manda hasta ahí, hasta el
+--- y de ahí manda LUGAR2.
+ENT:
+Ahí es donde hay 2 escuelitas ¿una de LUGAR3 y otra de LUGAR2?
+TEST: Ahí sí, hay un... sí la de LUGAR3 queda más arribita, ahí
+son las dos escuelas, los límites, ahí es donde uno va a dar las votaciones en
+la que le pertenece a LUGAR2, ahí es donde nosotros votamos siempre.
+ENT: ¿Usted ha vivido todo el tiempo
+ahí en el -----------?
+TEST: Sí, ahí.
+ENT:
+¿Qué era lo bonito o cómo era la vida en esa época cuando usted llegó a
+vivir?
+TEST: Pues... la gente en ese tiempo eran todo mundo atrasado,
+mucha pobreza, inclusive a mí me tocó con mi esposo trabajamos por ahí unos 15
+años sierra de mano, serrucho y nos tocaba a los 2 transportar la madera hacia
+el camino.
+ENT: ¿La sacaban de adentro?
+TEST: Sí, de adentro, de la orilla del río LUGAR7 nos tocaba 2
+kilómetros subir loma y sacar como 2 kilómetros en planada y sacar la madera
+afuera, así sobrevivimos, criando gallinitas, marranitos, así.
+ENT:
+¿Pero la vida sobre todo era el tema de la madera?
+TEST: En ese tiempo reinaba era la madera, no es como ahora que
+reina es la coca. [risas]
+ENT: Cambió diga. [risas]
+TEST: Cambió.
+ENT:
+¿Y la mayoría de las familias cuando usted llegó ahí en el 87 de dónde eran?
+¿eran oriundas de ahí o venían de otra parte?
+TEST: No, era la gente de ahí ya con el tiempo que no sé quién
+trajo esa semilla, no sé cómo dentraría eso, ya comenzó "que había una
+mata que daba plata" y que había sido expandiendo ya los grupos armados,
+había sido eso y ya la gente comenzó a sembrar eso y ya no quisieron varia
+gente ni escuchar de madera y yo seguía con mi madera todavía.
+ENT: ¿Usted siguió con la madera con su
+esposo?
+TEST: Sí, con él y pues yo con el tiempo porque como él comenzó a
+
+maltratar y todo eso, entonces yo lo saqué a él de la casa, dije "no, de
+pronto él me va a salir matando a mí o a un hijo" él se iba a tomar y
+llegaba desmentizado a la casa y eso para mí era una tortura, yo decía
+"pero es que dios mío, yo no tengo un domingo de paz en esta casa" y
+va que un día que un domingo de ramos me pegó en la calle, llegué yo, iba con
+un bulto de remesa, llegué asenté eso, le arreglé todo lo que era de él y le
+saqué así afuera una maleta grande, ahí le metí todo, incluso hasta una ruana
+que tenía se la metí a él, le metí sábanas, cobijas, la ropa de él "esta
+es su ropa, aquí no lo necesito". Yo dije que qué estoy haciendo, si él va
+y se toma la plata, yo rebusco comida pa' mantenernos todos, que con lo que él
+se come puedo mantener a 2 hijos, yo lo saqué de la casa y me quedé trabajando
+yo ahí con mis hijitos, de lo que conseguía comíamos y así pobremente les di el
+estudio y todo eso.
+ENT:
+¿Qué edad tenía usted cuando pasó eso?
+TEST: Por ahí debí haber tenido unos 35 años.
+ENT: Muy valiente usted.
+TEST: Eso me dice el hijo mío.
+ENT:
+¿Qué edad tiene su hijo mayor ahorita?
+TEST: Tiene 58 años él... yo lo tuve a los 18 años a él.
+ENT: ¿Viven algunos de sus hijos en el
+87 [INC: LUGAR6]?
+TEST: Sí los que viven ahí uno tiene esposa, tienen unos hijos que
+estudian en LUGAR4, tiene 3 hijos, 2 hijas mujeres y un varoncito, ellos están
+en LUGAR4, inclusive ante noche llegaron las 2, el varón todavía no ha llegado.
+ENT:
+¿Cuántos nietos tiene?
+TEST: Nietos son hartísimos, si en LUGAR8 hay por ahí
+unos... 25 o 30 nietos, porque son varias ellas y tienen de 5, de a 6, de a 8
+hijos. Y tengo bisnietos, bisnietos son hartos.
+ENT: Tiene bisnietos ya... ¿y alcanza a
+ver tataranietos?
+TEST: De pronto sí, porque ya una está así... [risas]
+ENT:
+[risas] Volviendo a lo que... cuando llegó al 87, la mayoría de las familias me
+dice que eran de ahí de la zona.
+TEST: La familia GRUPO FAMILIAR1, la familia GRUPO FAMILIAR2 eran los de ahí.
+ENT: ¿Su esposo de dónde es?
+TEST: Él es de ahí nacido y criado ahí. Él era de los GRUPO FAMILIAR1 y yo
+de la familia GRUPO FAMILIAR2.
+ENT:
+¿La mayoría de las familias eran familias afro o habían indígenas?
+
+TEST: Sí indígenas pero hacia el otro lado del río LUGAR7 y los que
+salen de acá de LUGAR8, porque ellos son de un resguardo, del resguardo del río
+LUGAR7 que nos queda atrás de nosotros y el de LUGAR8 nos queda de frente, pero
+ya la gente está toda mezclada, indio con negro... [risas]
+ENT: Ya hay una mezcla.
+TEST: Ya hay una mezcla grande porque por lo menos yo pues el
+marido mío él era indio, pero indio de los civilizados, él se cantaba y de todo
+y se grababa de las canciones y nunca se olvidaba nada y cuando estaba tomado
+parecía que estaba despechado, llegaba a cantar y cantaba y cantaba, decía
+"este marido como que vive más enamorado" decía yo y cantaba y
+cantaba y así. Entonces ya mezclamos los 2, porque él era indio pero INDIGENA1, porque la
+mamá de él fue CONOCIDA1 de los GRUPO FAMILIAR1, el que ya había
+sido renegrido que era de raza indio era el papá, mi suegro, pero él salió bien
+blanco a la mamá y civilizado.
+ENT:
+¿Cuándo es civilizado es que ya viven como más cerca a la carretera?
+TEST: No, no, que a él le decían que él no era indio que él era
+paisa, porque los que son rasgados así son los paisas, entonces la mayoría de
+la gente creía que él era de los paisas, pero no él era indio de acá, nacido y
+criado ahí y yo también soy de por ahí mismo, más arribita.
+ENT: Estos paisas cuando usted llegó a
+vivir ahí al 87 ¿había o no había lo que eran los blancos, mestizos?
+TEST: No, en LUGAR2.
+ENT:
+¿Pero en la región no?
+TEST: No, por ahí no habían, solo era indígenas, negros y la
+familia GRUPO FAMILIAR1 que son ya de color, gente blanca.
+ENT: ¿Usted me dice que llegó a vivir
+cuando tenía más o menos 16 años?
+TEST: Sí ya me quedé ahí en el 87.
+ENT:
+¿Cuándo usted llegó a vivir ya estaba el oleoducto?
+TEST: Ya estaba, eso fue en el 70, antes de yo llegar. Inclusive
+el marido él trabajó en eso, en contrato, en el 70 fue eso ¿o qué le puedo
+decir? más antecito, eso lo vinieron terminando como en el 69, algo así fue,
+pero la gente dice que es del 70.
+ENT: O sea tiene como unos 50 años.
+TEST: Sí, le ponen un año más.
+ENT:
+¿Y la carretera se acuerda cómo era?
+TEST: Claro, destapada, que eso los buses cuando venía de LUGAR12
+era un tiempero y en la noche llegábamos. A las 9 de la noche estaba entrando
+
+el bus de ahí de LUGAR2 acá, yo me acuerdo de eso y pues esa vía era muy mala,
+tenía mucho hueco y eso no... esos buses no les rendía y esos buses pasaban
+cerquita por el río LUGAR7, uno miraba ahí el río abajo, esas vías así como la
+gravita y por ahí se metían.
+ENT: ¿Y se acuerda más o menos cuándo
+comenzaron ya la construcción de la carretera?
+TEST: Sí claro. Inclusive yo pa' mi patio me metí un poco de
+piedras, arreglé un patio de pura piedra de esa carretera. [risas]
+ENT:
+¿Mejoró eso la vida de las comunidades en que hubiese la carretera?
+TEST: Claro, más que todo cuando pusieron la energía eso comenzó a
+entrar una cantidad de gente. Ahí fue que entró gente de otras partes, gente
+que uno no las conocía.
+ENT: ¿En qué año fue eso de la
+energía?
+TEST: Eso fue... venga yo le digo, eso fue como en el 82, de eso
+no me acuerdo bien.
+ENT:
+¿Era energía por planta o la energía que viene de los postes?
+TEST: No, la que viene ya en los postes de lo alto.
+ENT: ¿Y antes de que hubiera la energía
+se utilizaba planta?
+TEST: Pues había el que tenía su platica compraba su planta, su
+televisor y miraban, pero los que éramos pobres no teníamos nada de eso.
+ENT:
+Pero me dice que cuando llegó la energía entonces comenzó a llegar más
+gente.
+TEST: Comenzó a llegar gente que uno no los había conocido.
+ENT: ¿Qué hacía esa gente a qué se
+dedicaban?
+TEST: A sembrar coca, entraron a eso.
+ENT:
+¿Pero fue en el 80 o en el 90?
+TEST: No, eso fue como... venga yo le digo ¿usted se acuerda de un
+paro que hubo en todo eso?
+ENT: Sí algo me acuerdo.
+TEST: Es que no me acuerdo la fecha, por eso es que es bueno,
+claro yo no sé leer, porque por eso es bueno anotar con fecha las cosas ¿no?
+cuando pasan, no me acuerdo bien en qué año fue, pero mis hijos sí se acuerdan.
+ENT:
+¿Se acuerda cuando empezó a entrar la energía cuál era el hijo más
+pequeño?
+TEST: FAMILIAR2, el último. Como de año y medio
+
+ENT: ¿Y ahorita cuántos años
+tiene?
+TEST: Ya cumplió los 25 años.
+ENT:
+O sea unos 25 años entró la energía.
+TEST: Sí.
+ENT: Sería como en el año 94, 93.
+TEST: Algo así.
+ENT:
+¿A esa época se terminó la carretera?
+TEST: Sí en eso...
+ENT: Y junto con la terminación de la
+carretera ¿llegó la energía?
+TEST: Eso llegó la energía, pero le cuento que por esa energía
+hubieron muertos, a los líderes los mataron.
+ENT:
+¿Por qué doña TEST?
+TEST: No sé por qué, ahí murió la líder la mataron entrando a
+LUGAR2, mataron al esposo que ya era la que como [INAD:
+16:10] por la energía.
+ENT: ¿Se acuerda el nombre de
+ella?
+TEST: Sí ella se llamaba CONOCIDA2, a ella la mataron
+entrando a LUGAR2 con el esposo.
+ENT:
+¿De dónde era doña CONOCIDA2?
+TEST: Ella era del ----- y él era de acá de los GRUPO FAMILIAR1.
+ENT: ¿Y la lucha era porque les
+colocaran la energía?
+TEST: Sí y ella era la que hacía las vueltas y todo eso y habían
+dicho que ella estaba involucrada con una gente y que por eso fue la muerte de
+ella.
+ENT:
+En esa época que llega la energía y comienzan a llegar unas personas de fuera
+¿ya comenzaron a llegar la coca? ¿o la coca no llegaba todavía?
+TEST: Esos entraron junto con su coca, ya llevaban su semilla.
+ENT: ¿De dónde eran estas personas?
+¿eran nariñenses? ¿de otras partes?
+TEST: LUGAR9, LUGAR10, de LUGAR11, de LUGAR12, de
+LUGAR13... así de todas partes.
+ENT:
+¿Y personas de ahí de la comunidad también comenzaron a sembrar la coca? ¿o
+cómo llegaron ellos?
+
+TEST: Venga le digo yo, ellos llegaron comprando tierras para
+sembrar maíz decían ellos, pa' sembrar yuca y la yuca había sido la coca,
+nosotros no sabíamos y qué le digo, mucha gente comenzaron a vender las
+tierras, les decía yo "no vendan las tierras porque, dentra gente que uno
+ni las conoce y de ahí van a venir las muertandades" y fue dicho y
+hecho, así fue, comenzaron a matar gente y eso se robaban esas semillas, se la
+robaban de noche y sin saber quién era iban matando a la gente, así fue todo.
+ENT: O sea ¿ellos llegaron comprando
+tierra?
+TEST: Sí y ese mismo engaño se lo hicieron a los que vivían al
+lado del LUGAR14 llegaron a comprar por hectáreas "¿en cuánto me vende
+una hectárea de monte?" "necesito una hectárea, necesito dos
+hectáreas" había sido pa' llevarse todo el oro, metieron retroexcavadora y
+se llevaron todo el oro. Don CONOCIDO3 le dijo "¿y usted no fue capaz de
+decirles que le dejen hecho un puente?" ese pobre señor le toca pasar por
+un río todos los días, va y viene, va y viene por la mañana y por la tarde.
+ENT:
+Y no hay puente.
+TEST: "Don CONOCIDO3 ¿usted no fue capaz de decirles que le
+hagan un puentecito pa' usted pasar? aunque angostico pa' que de pronto se
+puede llevar a alguien que esté grande" que no que no lo había hecho
+"mire que se le llevaron todo su oro, usted vendió fue una hectárea ¿en
+cuánto la vendió? en un millón ¿verdad? y mire ellos cuánto se están llevando en
+oro, cuánto" eso le dije yo a él y se me quedó calladito y me dice
+el hijo mayor "vea, yo le dije a mi papá que no venda la tierra" y
+ese señor había tenido buen oro en el pedacito de él, esos que se llevaron ahí
+trabajando sacaban por kilo y así están haciendo todo por allá, se dejan llevar
+su riqueza.
+ENT: ¿Y antes no sacaban oro?
+TEST: Sí, de vez en cuando unido sí. Porque por ejemplo sí, yo
+cuando no estaba con la sierra, el serrucho ese, yo cogía mi batea y me iba al
+río, inclusive me llevaba mis muchachitos, todos me los llevaba pa' allá a la
+finca a la orilla del río LUGAR7, eso sacaba mi poquitico de oro y los iba
+montando, cuando tenía 4 gramos ya iba y los vendía.
+ENT:
+¿Dónde los vendía doña TEST?
+TEST: Se los vendía a una señora que es allá de --------, ella me lo
+cambiaba por ropita, por cobijitas, cositas pa' los niños, que una ollita, lo
+que me hacía falta a mí, con eso cambiaba, ella me recibía el oro a cambio.
+ENT: Doña TEST, usted tiene una muy
+buena memoria, o sea llega la coca y también llegan los compradores de tierra
+¿esos territorios eran propiedad colectiva?
+
+TEST: Tenían dueños por decir, no "yo mando aquí en esta
+mesa, esta mesa es mía, de aquí no me va a entrar nadie porque esto es
+mío" y cuando ya entraron la gente, comenzaron a vender pedacitos que una
+hectárea, que dos hectáreas, así, eso era, porque yo no voy a mentir, lo que yo
+tengo ahí, mi pedazo de monte, yo le dije un día al marido mío "FAMILIAR3
+¿quién manda aquí?" "no" dijo "esto es de la nación"
+yo cogí mi pedacito de monte, lo trabajé yo misma, cogí mi machete y eche
+machete y siembre hierba a ver si me hacían un préstamo pa' ganado, pero no
+logramos eso porque en ese tiempo salieron muchos ladrones, iban a hacer
+préstamo a LUGAR2 que 60 millones, que 70 millones y se desaparecían, ahí se
+dañaron los préstamos, yo que lo hice de buena fe ya no pude.
+ENT:
+Me decía que esa tierra era una tierra del Estado y ustedes fueron ampliando.
+TEST: Pues del Estado decían allá que pues no tenía dueño y que
+uno podía trabajarla y mire que en ese pedacito que cogí me comenzaron a salir
+dueños y tocó arreglarles para que me dejaran eso en paz porque ya estaba
+trabajada.
+ENT: ¿Dueños de ahí mismo de la
+comunidad o de dónde?
+TEST: Sí, de ahí mismo y me tocó comprarles y ya me quedé yo con
+el pedacito de monte, pero ¿qué pasa? como ahora tengo hartos hijos ya eso es
+pa' ellos, cada uno que coja su pedazo.
+ENT:
+¿Y eso no está como territorio colectivo? ¿no pertenecen ustedes a un consejo
+comunitario?
+TEST: No, venga le digo, yo no estoy metida en nada, con ninguna
+clase de ley ni con nada, nosotros somos aparte y por eso la gente de ahí no la
+va con nosotros.
+ENT: O sea ¿allá no hay consejo
+comunitario? ¿o les pidieron que se conformaran como consejo? ¿o cómo está
+conformada la comunidad?
+TEST: Pues como le digo, ahí en ese punto yo no lo entiendo yo
+¿consejo es tener como qué es eso?
+ENT:
+Es parecido a los resguardos indígenas, que las comunidades afro determinan que
+esos territorios que usted decía que eran territorios de dueños nadie, pero que
+ya vivían ustedes muchos años el Estado reconocía la propiedad pero de manera
+colectiva, o sea usted no solo era la dueña sino toda la comunidad. Eso se le
+ha llamado consejos comunitarios ¿eso no lo han hecho ustedes?
+TEST: Eso solo lo tienen los indígenas, nosotros no.
+ENT: Ustedes no ¿allá qué hay? ¿ORGANIZACIÓN SOCIAL1?
+TEST: Sí.
+ENT:
+
+No hay presencia de consejo.
+TEST: Pero yo entiendo consejo comunitario ¿que sea una madre
+comunitaria?
+ENT: No doña TEST, es algo parecido a
+los resguardos, pero según lo que usted me comenta no han hecho ese proceso de
+consejos comunitarios.
+TEST: De eso no.
+ENT:
+Bueno, no se preocupe, era un poco para entender cómo era la propiedad de la
+tierra. Entonces la tierra ustedes llegaron y no estaba...
+TEST: ¿Se puede decir baldía? porque no tenía dueño.
+ENT: Exacto.
+TEST: Estaba montaña.
+ENT:
+¿Y entonces ahora ustedes ya tienen una propiedad sobre ella?
+TEST: Sí, o sea de eso quería hablarle. Que como mi esposo él
+murió, a él lo mató un carro y no supimos quién fue de noche y pues yo no había
+hecho por él tampoco, de lo que él se murió pa' acá muy enferma o sea, yo lo
+traje a él aquí a una cita médica y con esta serían 2 veces que he venido, yo
+casi no vengo acá a LUGAR12, en una parte que el frío me hace malísimo, otra
+parte falta de recursos pa' salir, entonces tengo el título ahí, le quiero
+cambiar el nombre mío, pero esa tierra es pa' mis hijos yo ya hago de cuenta
+que tengo nada. Y también una cosa que le quería preguntar, yo no sé qué
+posibilidad de aquí, porque la casita que tengo está muy mala, esta comida de
+un poco de animalitos que botan aserrín y eso todo ese aire y toda la madera de
+la pared está comida porque mi rancho es de madera.
+ENT: Toca buscar cambiar esos portales.
+TEST: Pero ahí está.
+ENT:
+Pues ahora que terminemos de conversar de otros temas podemos conversar también
+sobre eso.
+TEST: Esas dos inquietudes son las que yo tenía, la cambiada del
+título a mi nombre porque la que trabajé fui yo ¿y él? no... cuando yo hice
+titular él no firmó a nombre mío porque yo no tenía cédula, firmó a nombre de
+él y él se hizo el dueño.
+ENT: No, pero usted como es la esposa
+es legítima propietaria.
+TEST: Claro, ahí mis hijos se jovenciaron, ahí tengo nietos y
+todo eso.
+ENT:
+Más o menos usted me cuenta, usted vive ahí en el 87, unos 40 años más o menos,
+un poco más.
+TEST: Yo llegué ahí de 16 años.
+
+ENT: Entonces más de 40 años.
+TEST: Entonces yo comencé apenas tuve mi primer hijo comencé yo a
+trabajar ahí, cogí mi machete y me troche ese monte, el día de derribar tenía
+sembrado hierba, me busqué 8 personas me derribaron eso, porque el esposo mío
+no estaba ahí, él trabajaba en una compañía ORGANIZACIÓN PRIVADA1 o una cosa así.
+ENT:
+¿Pero era encargada del flujo de ORGANIZACIÓN PÚBLICA1?
+TEST: No, no, no, él estaba donde perforan pozos de crudo, en eso
+estaba trabajando.
+ENT: Doña TEST, me hace acuerdo,
+llega este tema de la gente que no era del territorio a comprar tierras, a
+decir que iban a sembrar maíz y terminaron sembrando coca.
+TEST: La gente la cogieron inocente pues.
+ENT:
+¿Nadie conocía que existía?
+TEST: Nadie conocía de coca, no sabía nadie de eso.
+ENT: Doña TEST ¿usted recuerda si a
+la llegada de estos compradores llegaron inmediatamente los grupos armados? ¿o
+llegaron después?
+TEST: Llegaron juntos con esa gente.
+ENT:
+¿Casi que juntos? como decir "llegué yo a comprar"... [INTERRUMP]
+TEST: Llego yo hoy o mañana y usted llegó a comprarme, yo le vendí
+y por ahí al mes o a los 2 meses ya aparecieron esa gente. Yo ni sabía la gente
+de qué era que hablaba, que esos iban a venir a quitarle a la gente a mitaciarle
+[DUD:28:10] lo
+que tenían y un señor que era chistoso decía que al que tenía la nariz más
+larga le iban a quitar un pedacito y yo decía "¿pero de qué será que
+hablan?" y que sí, que esos se llaman guerrillas y que iban a venir a
+quitarle a la gente y que yo no sé qué. Y sí, él ya había sabido eso y eso ya
+se expandieron esa gente.
+ENT: ¿Y era más o menos a la edad que
+tenía su hijo pequeñito? ¿qué edad tenía FAMILIAR2?
+TEST: FAMILIAR2 todavía no nacía todavía.
+ENT:
+Cuando llegó la guerrilla FAMILIAR2 no nacía.
+TEST: Exacto.
+ENT: ¿Y qué edad me dice que tiene
+FAMILIAR2?
+TEST: Él tiene 25 años.
+ENT:
+¿Quiénes llegaron? ¿se acuerda eran algún grupo específico? ¿se identificaron
+con algún nombre? ¿o solo se llamaban guerrilla?
+
+TEST: Como le digo yo con esa gente no he tenido contacto, no sé
+cómo llegarían, la verdad es que cuando comenzaron a decir que "ve, que
+por aquí andaba la guerrilla, que yo no sé qué, que la guerrilla había dentrado
+para dejar sembrar coca a la gente que viene de afuera" eso.
+ENT: O sea, se puede decir que la
+guerrilla ayudó a cuidar a quiénes vinieron a sembrar coca en este territorio.
+TEST: Pero había sido con la intención de que les den plata a
+ellos.
+ENT:
+¿Ellos cobraban?
+TEST: Sí.
+ENT: ¿Esos miembros de la guerrilla
+eran gente de fuera o había gente de la comunidad?
+TEST: Eso sí no sé cómo llegarían, pero la verdad es que ya
+comenzaron a cogerse los jóvenes, a llevárselos.
+ENT:
+¿Pero los primeros que llegaron eran todos gente de afuera?
+TEST: De afuera, o sea según yo oí la conversa que venía un jefe y
+recogía a su gente de acá.
+ENT: ¿Y comenzó a llevar jóvenes de las
+comunidades?
+TEST: Sí, por eso nosotras hemos hecho todas las formas de sacar a
+los jóvenes de acá, hombres y mujeres, por ejemplo yo le dije a mi hijo
+"ya los niños salieron bien, pa' afuera" mi hijo último está
+estudiando en LUGAR15, él estudió en LUGAR2 como quedo [INAD:
+30:28] y me lo pasaron en la sede
+LUGAR15.
+ENT:
+Para evitar un poco ese peligro.
+TEST: Para evitar que no se lo lleven "que ahora que en este
+año van a reclutar" que yo no sé qué... no, yo mi hijo lo mandé a
+estudiar, el otro lo mandé a estudiar que a LUGAR12, aunque yo no tenía cómo,
+vea, yo lloraba, lloraba él, pero lo saqué de allá.
+ENT: ¿Era muy fácil que se fueran los
+jóvenes con la guerrilla?
+TEST: Claro, los conquistaban, primero dizque les dan plata pa'
+podérselos llevar y después no les dan nada, eso es y yo pa' mi hijo, hubo un
+profesor de aquí que me le hizo un préstamo de 20 millones pa' que él estudié
+aquí en la INSTITUCIÓN EDUCATIVA1 y él vive aquí está, por ahí tiene un local que con otro
+señor y ahí trabajan. Y mi hija también vino, como en forma de desplazada y le
+dieron aquí, a la última le pasaron algo pero ella no alcanzó a recibir nada,
+la otra, la que anda conmigo.
+ENT:
+
+Doña TEST ¿esos guerrilleros que llegaron reunían a la comunidad, conversaban
+con ustedes? ¿o los llamaban?
+TEST: Pues eso decían pero yo nunca estuve en eso.
+ENT: ¿Nunca los llamaron a reunión?
+TEST: A nosotros no, nosotros donde vivimos somos aparte, nosotros
+somos lejos, lejos.
+ENT:
+Doña TEST cuando llega la guerrilla, llega la coca ¿cambia la vida de la comunidad
+ya? ¿de lo que usted había vivido de joven? ¿cambió?
+TEST: Pero ni mucho que va a cambiar eso, sino que hay un problema
+y es que la madera ya se acabó y los que vendieron hicieron terminar la madera
+en derriba, toda la madera se fue ya al piso para sembrar la coca.
+ENT: ¿O sea lo que se produce ahora en
+la comunidad es la coca?
+TEST: Todo mundo casi vive de la coca, cuando poquitico su media
+hectárea o su hectárea pero de eso se mantienen porque no hay más de otra cosa,
+ahoritica reina solo la coca. Pues yo lo que tenía lo entregué.
+ENT:
+Pero digamos ¿la comunidad lo hace porque es la única manera de subsistir?
+TEST: Sí de subsistir para la comunidad. Imagínese que en los
+resguardos ya hay porque ellos se mantienen ya de eso, porque ellos ya no
+tienen madera para exportar y así.
+ENT: ¿O sea de la madera lo remplazó
+fue la coca? ¿no ha habido otro producto?
+TEST: No, bueno la yuca pero donde se pega, pero acá donde
+nosotros la yuca no se pega. Acá usted siembra una yuca y cuando la va a
+arrancar son dos o tres yuquitas y lo demás es pura raíz y usted dice
+"esta yuca sí tiene" y jala y jala un poco de raíz que sale. [risas]
+ENT: Nada, diga. [risas] Cuando
+entonces entra ya el conflicto, entra la coca, entran los grupos armados ¿qué
+cosas comienzan a cambiar en la comunidad? ¿qué hechos se acuerda usted que
+hayan sido muy duros para ustedes?
+TEST: Pues qué le digo... pues no, yo como de todos modos yo me
+sabía ya mi río, yo oía como de guerrilla y todo eso y yo como me iba pa' allá
+a sacar mi orito cuando parábamos de cortar madera y pues cuando ya me abrí de
+él, ya me quedé yo sola trabajando con mi maderita cargaba, así a partir, ya
+salieron las motosierras, yo así partía un día, dos días, tres días, le pagaba
+a dos señoras que me ayuden a jalar la madera pa' fuera, éramos ya 3 y así
+mantuve yo a mis hijos, tenía una señora que me llevaba la remesa, ella me
+recogía la maderita, yo dejaba una arrobita de frijol, una arrobita de harina,
+una arrobita de arroz, así o haciendo mi remesita lo que más me hacía falta pa'
+que a mis hijos no les faltara nada y así los levanté yo y hasta ahora no más
+por la enfermedad yo me iba al río con mi batea y ya pues por la muerte de mi
+
+hijo y todo pues yo ya me quedé así y la muerte del marido también.
+ENT: ¿Me quiere comentar cómo fue la
+muerte de su hijo? ¿qué sucedió, qué pasó?
+TEST: [INAD:35:39] el
+papá de ellos vendió un terreno ¿no? y el hijo mío dijo que pues que allá
+teníamos una fuente de agua y que no queríamos que nos la envenenen, entonces él
+dijo que él iba a volver poco a poco la plata, dijo el man "no, si me la
+volvís ahorita te dejo eso ahí y si no no, me la vuelves ahorita sí" pero
+como bravo, le dijo "y no se preocupe ¿oyó?" así le dejó diciendo,
+así es que lo iban a matar, a los poquitos días amaneció muerto el
+muchacho.
+ENT:
+Usted me dice que él tenía 19, era muy joven su hijo.
+TEST: Pues yo no sé cuánto le habrán puesto en la necropsia pero
+yo no lo tengo, porque yo lo llevé a LUGAR2.
+ENT: ¿En qué año fue?
+TEST: En el 2007, tampoco tengo bien, bien presente.
+ENT: ¿Y las personas responsables? no
+digamos con nombres, pero la responsable de la muerte ¿estaban asociados a
+grupos armados?
+TEST: De que yo me dé cuenta sí, estaban con esa gente.
+ENT: ¿Con guerrilla, con autodefensa,
+con... otro tipo?
+TEST: Pues yo creo que con la guerrilla, porque esos eran los que
+andaban por ahí, ellos eran los que se tenían tomado todas esas zonas, el
+------ y todo eso.
+ENT:
+O sea que cuando tocaba arreglar un problema con plata o con linderos ¿se
+acudía a la guerrilla?
+TEST: Pues la mayoría de la gente sí lo ha hecho, pero nosotros
+no, inclusive ahí en mi terreno está metido un pelado que hizo una casa sin
+tomarnos el conocimiento a mí, no me dijo ni véndame ni nada y yo no le he
+querido hacer problema y ahí está viviendo.
+ENT: La muerte de su hijo ¿la
+denunciaron ustedes, se registraron como víctimas en la ORGANIZACIÓN PÚBLICA2?
+TEST: Sí.
+ENT: ¿Qué produjo esa muerte de su
+hijo? ¿qué produjo a ustedes como familia?
+TEST: No, eso es un caso muy duro pa' nosotros... toda la familia
+perdió [llanto], todos con esa tristeza, hasta ahora ha sido un vilo, hasta
+ahora lo recuerdo y yo todos los días me acuerdo de él, se me salen las
+lágrimas cuando me acuerdo de él, un muchacho juicioso, trabajador, cogió la
+plata y cuando lo miramos llegaba era con sus dos bultos de remesa y le cuento
+
+que la muerte de él fue todo pa' atrás nosotros, él era el que permanecía
+conmigo, los demás todos se iban a algún lado a pasear o al río y siempre
+quedábamos los dos ahí, no sabíamos sentar así él en la mesa y yo hacia acá,
+conversábamos y era un muchacho muy colaborador, yo siempre que me acuerdo de
+él me da mucha tristeza, como ellos a mí no me dicen mamá sino "doña TEST"
+decía "doña TEST ahí traje tal cosa" muy triste, pa' mi ha sido
+como si me hubieran cortado los dos brazos, para mí es muy doloroso. Cuando yo
+encontré a mi hijo, lo habían dejado hundido en el agua, yo como hasta los 2
+meses miraba pa' donde él se iba a bañar pa' ver si de pronto venía y nunca
+llegó, nunca. [llanto] Y yo hasta ahora se me hace que él va a volver a la casa
+pero digo yo ya cuánto... en el fin del mundo será que va a venir digo yo, él
+era el que trabajaba, el que me ayudaba pa' los hermanos que estaban
+estudiando, él daba pa' los transportes, él me ayudaba para los últiles y todo
+eso y que era un muchacho imagínese.
+ENT: ¿Él era qué de la mitad de los
+hijos?
+TEST: Sí de la mitad.
+ENT:
+Muy juicioso.
+TEST: Porque los demás... FAMILIAR4 ya tenía mujer, FAMILIAR5 también,
+ya de las mujeres se habían ido, solo que había ella y la última que está aquí,
+ya de las mujeres no habían, ya cada una se había ido con su marido y los
+varones también, el mayor, el segundo, el tercero ya no estaban con nosotros,
+él era de los del medio.
+ENT: ¿La ORGANIZACIÓN PÚBLICA2 hizo alguna
+reparación económica a usted?
+TEST: Sí nos dieron ahí, no sé si fueron 21 o 22, nos dieron
+repartido allá, les dieron a ellos de a 800 a cada hermano y a mí me dieron
+como 700, 77 pesos algo así y al esposo también, él también fue a recibir.
+ENT: ¿Fue una única reparación? ¿no les
+dieron más?
+TEST: No, nada más, eso fue muy poquito, como decía el hijo mío.
+ENT: ¿Usted siente que con eso hay algo
+de reparación para usted?
+TEST: Pues a nosotros nos dieron unas cartas pa' que reclamáramos
+por lo menos vivienda o pa' los estudiantes, pero yo no lo he hecho eso, allá
+las tengo las cartas.
+ENT:
+¿Por qué no lo ha hecho?
+TEST: Pues como le digo yo, por hacer haciendo vueltas falta la
+plata porque como yo tengo mi hijo estudiando y yo cualquier cosita que reúna
+es para estarle enviando mensual a él, pa' pagar arriendo, pa' la comida de él,
+eso.
+
+ENT: ¿Siente usted que hay una responsabilidad
+del Estado, del gobierno de que la violencia como en el caso de su hijo y otros
+jóvenes haya sucedido? ¿que el gobierno es responsable porque la violencia haya
+estado en el territorio?
+TEST: Pues cómo le sabría decir yo, por una parte diría yo que sí
+porque si el gobierno con tiempo hubiera evitado todo esto, hubiera cuadrado
+con esa gente no habría habido tanta muerte como la que ha habido, mucha
+muerte, muchas madres que sufren y hasta ahora, pues yo no sé, en el caso
+mío yo espero que el gobierno me ayude con algo más.
+ENT: Me dice que aparte de su hijo ¿hay
+casos de otros jóvenes que fueron asesinados -hombres, mujeres- en la
+comunidad?
+TEST: Vea si hace como 2 meses fueron a dejar tirados arribita de
+la casa mía 4 mataron ahí, mataron una mujer y a 3 hombres, el carro lo habían
+hecho puro plomo decían.
+ENT: ¿Y eran personas de ahí de la
+comunidad?
+TEST: Eso se los habían llevado más abajo del ------ y los mataron
+allá yo no sé por qué sería.
+ENT:
+¿O sea que las muertes violentas siguen?
+TEST: Todavía siguen matando y hace 8 días mataron a un mono, a un
+taxista, buena persona ese señor, le robaron el carro y lo dejaron tirado en la
+alcantarilla, pero el señor no había muerto y que había pasado un señor y lo
+miró, no sé cómo lo miraría allá dentro de esa alcantarilla, porque hay un dicho
+que dice que todo el mundo tiene un ángel de la guarda ¿no? y ya dio parte y
+fueron y lo sacaron y él dio el informe, quiénes eran, de dónde eran y dio todo
+el detalle y se murió, ya lo agarraron con el carro al uno y así pues había
+sido ese por la placa del carro lo agarraron y se iba volando allá.
+ENT: ¿Son personas de la comunidad las
+que hacen la delincuencia?
+TEST: Sí él dizque dijo que eran una pandilla de atracadores del
+------.
+ENT: O sea ¿que después que sale ya la
+guerrilla lo que hay ahora es delincuencia?
+TEST: A base de esa gente ya los otros se tomaron esos mandos de
+hacer cosas de no hacer y ya uno vive con miedo, porque mire ahí donde yo vivo
+una señora hizo una casa al frente y la señora muy buena, ella pasaba inclusive
+ella se bañaba en la casa, me pedía agua, yo le decía "CONOCIDA4, no me vengas
+a pedir agua, lleva toda tu agua que quieras, ahí está la manguera pa' que
+cojas tu agua y si quieres venirte a bañar, ven y te bañas acá" y yo hacía
+mucho tiempo que la conocía a ella y me decía "doña TEST, usted es buena
+persona pero me da pena con sus hijos que dirán" "ellos no dicen
+
+nada, si quiere venga" ella sabía llegar ahí cuando ellos no estaban a
+conversar, buenas amigas, cuando salía a su tierra me llevaba papa, cebolla, me
+llevaba así cositas, así maní y yo también de lo que ahí de la casa, si tenía
+un plátano le daba plátano, le daba granadilla, de lo que haiga.
+Y llegan a esa señora y la matan
+adentro de la casa, estaba sentada en una silla que son bajitas a recostadas,
+tenía la bebé en la falda y le llegan de cerquita, tenga, tenga 7 balazos, la
+mataron. El señor ese mismo día llamó a la funeraria, le hicieron el
+levantamiento y la trajo de la tierra de ella que decían que era LUGAR9 y a
+de creer que yo a los 15 días o a los 8 días que la mataron me enfermé de esto
+y yo no podía pararme, yo qué dolor de esas rodillas y me decían que eso eran
+nervios y desde ahí quedé sufriendo de las rodillas por la muerte de ella, me
+dio mucha tristeza y más por la niña chiquitica, muy pequeñita.
+ENT: La gente que no es de ahí que, esa
+gente primera que sembró primero la coca ¿se quedó o se fue?
+TEST: Ya la mayoría se han ido, viven por -------, por allá por
+-------, ya de ahí se han ido hartos pa' allá, por allá dicen que están que
+los han visto por allá que tienen finca, ya por ahí quedaron unos poquitos no
+más.
+ENT:
+Ya no quedan muchos.
+TEST: Ya no.
+ENT: ¿Y a parte de esos hechos el vivir
+cerca al oleoducto o a las torres de energía? ¿han sido afectados también por
+eso?
+TEST: Claro, nosotros sí no tenemos agua limpia, en la quebrada
+que yo jabonaba la ropa de los hijos que crie ya no se le puede utilizar porque
+es negra esa quebrada.
+ENT: ¿Porque cae crudo?
+TEST: Todo eso cae, sí, está de crudo, nosotros hicimos un pozo en
+la tierra y lo tapamos porque el humo cae dentro del agua y eso lo vuelve
+natoso de puro crudo por encima, entonces nosotros lo tapamos con unas hojitas
+de zinc, perforamos la tierra y de ahí traemos el agua con electro bomba, acá
+jabonamos porque no hay más a donde, ahí se jabonan las cobijas y todo porque
+la quebrada está dañada por el derrame de crudo.
+ENT: ¿Y ese derrame de crudo ha sido
+porque se daña el oleoducto, porque lo han atentado? ¿por qué roban?
+TEST: De todo, lo rompen, el derrumbo también lo truezan, los
+derrumbos que hay por arriba, por acá, lo rompe esa gente que no sé por qué
+será, lo explotan ese tubo.
+ENT:
+¿Le tocó a usted a veces explosiones, atentados o sea que lo hayan
+explotado el tubo?
+
+TEST: No, el tubo no, pero la carretera sí la han dañado.
+ENT: ¿De qué forma?
+TEST: Bombas que ponen y eso lo que hay en la casa, ollas,
+todo, va cayendo al piso, eso es un estruendo que hace.
+ENT: ¿Se ponía muchas bombas?
+TEST: Sí, esa gente, andaba el ejército, le ponían bombas, una vez
+habían volteado una tanqueta pa' un hueco y que la habían mandado, yo no miré,
+la voltearon y así, ese tubo lo tienen ya como es la refinería, ya lo tienen
+todo pedaciadito y bien soldándolo, los otros lo tapan, yo esto no debería de
+decir porque... ay dios.
+ENT: ¿Y atentados contra las torres
+también les afectaba a ustedes?
+TEST: También han derrumbado, un día derrumbaron ahí una torre,
+pero pobre esa señora que vivía al lado de esa torre, dios mío. Eso fue un
+estruendo muy duro y la mandaron al piso y nos quedamos sin energía.
+ENT:
+¿Fueron varias veces?
+TEST: Varias veces que dejaron hasta 3 o 8 días a oscuras, dos
+semanas porque volteaban esas torres.
+ENT: ¿Era muy continúo?
+TEST: Sí. No sé por qué lo hacían pero eso lo hacían.
+ENT: ¿Y qué les causaba a ustedes eso?
+¿la voladora de torres?
+TEST: Pues problemas pa' nosotros, porque por lo menos el Estado
+es de ahí que hace arreglar esas torres, porque el Estado es el que reúne toda
+esa plata y otra que nos quedábamos nos perjudicaban porque nos quedábamos en
+oscuras, ya no habían los mechones pa' alumbrarnos, tocaba correr a comprar
+velas a la tienda, así. No, eso ha sido muy duro, la derrumbada de torres y eso
+del tubo, todo eso ha sido tenaz pa' nosotros, por el derramamiento de crudo en
+el río LUGAR7 se han muerto muchos pescados, dice el hijo mío que habían así
+unos pescadotes muertos ahí.
+ENT: ¿Es eso no ha habido recuperación
+del río? ¿el gobierno no ha hecho planes para recuperar el río?
+TEST: No, nada, no han dicho.
+ENT:
+O sea del río que usted conoció al de ahora ¿es un río que está...?
+TEST: Contaminado, porque ni que estuviera alentada ni orito
+podría ir a sacar, porque el oro no sé qué pasa con el crudo, uno ya no lo
+encuentra, pero eso no es de ahorita que en el río baja crudo, eso ya viene
+desde hace muchos años bajando.
+ENT: O sea independientemente de los
+atentados que se han hecho ¿siempre ha habido contaminación del crudo por el
+oleoducto?
+
+TEST: Se va toda al río LUGAR7, porque el río LUGAR7 acá en
+LUGAR16, LUGAR17, el ------, donde quiera hagan un atentado con el tubo, todo
+se va al río LUGAR7, cuando la gente baja "vea que el río va puro crudo,
+que el río le echaron crudo otra vez" ya la gente no puede pescar, porque
+eso de antes también lo ayudaba mucho la pesca del río porque cualquiera se iba
+a pescar y ya traía su comida pa' dos o tres comidas.
+ENT: ¿Qué clase de pescados?
+TEST: Se cogía... hay uno que es carnudo, que le dicen el cubo,
+unos animalotes, es como decir la corvina del mar, es un pescado blanco, pero
+es pulpito y es muy rico, el sábalo que tiene más espinas, pero también es un
+pescado muy rico, uno hace su caldo y muy rico, hay otro que se llama la
+-------, la más grande se da así, la pequeñita así, muy buena pa' comer, pero
+ahora ya no se puede pescar, ya no hay eso y lo mismo en las quebradas también
+están contaminadas, la gente cogía su pescadito en los veranos, ahora ya nada,
+ya todo está contaminado, ya todo el pescado se ha muerto, está contaminado.
+ENT: ¿Y en ese caso qué toca? ¿comprar
+al que viene vendiendo en el carro?
+TEST: Ya ahora toca los pejeros [DUD:
+54:59] que suben en bandeja, a ellos toca
+comprarles el pescado, porque acá ya no se puede buscar el pescado en las
+quebradas ni en el río, todo está allá dañado, pérdida pa'l pobre.
+ENT:
+Doña TEST de las otras familias que han tenido víctimas así como su personas
+¿ustedes se asociaron? ¿formaron una organización? ¿o no lo han hecho?
+TEST: No, no lo hemos hecho.
+ENT: ¿Y el gobierno ha hecho algunos
+procesos con usted? por ejemplo acompañarlos, irlos a visitar, entidades del
+Estado que habían ido.
+TEST: Nada de eso, nada, nada. Pa' uno sería mejor que llegaran a
+su casa a preguntarle algo, a investigarle algo, porque ¿a dónde está la plata
+uno pa' correr a LUGAR2 o pa' venir a LUGAR12? no hay, no hay plata, entonces si
+el gobierno hiciera eso pa' uno sería mucho mejor, favorable y todo eso, pero
+no.
+ENT: O sea que usted sepa no hay un
+programa ni de apoyo a las familias ni en lo económico, ni de crear empresas.
+TEST: No, el gobierno ayuda, pero todo lo que llega a LUGAR2 eso
+se queda allá, el alcalde se queda con toda esa plata, a nosotros nunca nos
+llega una ayuda de nada y llega ORGANIZACIÓN PÚBLICA1 da buena ayuda a LUGAR2 ¿y a
+dónde
+nos llega a nosotros una ayuda de ORGANIZACIÓN PÚBLICA1? nunca.
+ENT: ¿No? no hay ayudas de ORGANIZACIÓN PÚBLICA1 a
+pesar de que el oleoducto pasa por ahí.
+TEST: Pero si eso lo coge todo el alcalde, a nosotros no nos dan
+
+nada, eso se queda como pa'l bolsillo de ellos, qué será qué hacen, o de pronto
+hacen por ahí cualquier pozo y dicen que se acabó la plata.
+ENT:
+¿Y no se ha mejorado por ejemplo la escuela? ¿cosas de esas con dinero de
+ORGANIZACIÓN PÚBLICA1?
+TEST: No, de pronto dicen que regalías de ORGANIZACIÓN PÚBLICA1, pero apenas
+un librito pa' cada niño, un borradorcito y un lapicito, eso es todo lo que
+vienen a dar ¿usted cree que ORGANIZACIÓN PÚBLICA1 va a dar para un solo libro para un
+niño? eso se llevan toda la plata.
+ENT: ¿Usted son de las comunidades
+digamos límite ya de LUGAR2, las últimas veredas?
+TEST: El 92, el 87 y 88, son las últimas.
+ENT: ¿Y usted siente que el municipio
+de LUGAR2 tampoco los atiende?
+TEST: Si aunque uno vaya no le hacen caso, dicen que no, que no
+está y él sale por otra puerta y a uno lo dejan esperando y es mentira que ha
+salido rato por otra puerta, pa' no atender a la gente.
+ENT: En el tema de salud, cuando se
+enferman ¿dónde van?
+TEST: Sí yo con esta rodilla fui a LUGAR2 y me hicieron sentar en
+el hospital, en el --------- nuevo y me tuvieron como 2 horas, le digo a la
+hija mía "vámonos a LUGAR16" recuerdo, en LUGAR16 sí hay buena
+atendencia pa' los que llegan, vea eso no demoran, tal vez un minuto y ya lo
+están atendiendo, yo siempre he venido a LUGAR16.
+ENT:
+¿Cuánto queda de LUGAR16 al --?
+TEST: De kilómetros no sé, pero así de horas sí sé que son una
+hora pasadita.
+ENT: ¿Es más cerca LUGAR16 que
+LUGAR2?
+TEST: Es lo mismo que a LUGAR2, las mismo tiempo se gasta, pero
+las atendencias que hay en LUGAR16 son muy buenas, yo le digo a la gente,
+váyanse a LUGAR16 que allá es bueno. Eso es lo que nos hace falta, aun cuando
+sea un hospital pequeño en la vereda que nosotros vivimos, nos hace falta el
+acueducto porque agua buena no tenemos y acá en el ------, hay un río que se
+llama --------, de ahí nos pueden poner agua la que sea el acueducto, inclusive
+ahí en el patio de mi casa, que cuando vaya usted se lo voy a mostrar, ahí hay
+una plaqueta que dizque era pa'l acueducto y eso qué, nunca hicieron nada, solo
+pusieron eso y no más, no aparecieron más. Hay otro río que se llama ---------, eso
+es un agua muy buena pa' poner acueducto de ahí y esa agua puede llegar hasta
+LUGAR2, pero yo no sé el acueducto qué están haciendo de dónde irán a coger el
+agua.
+ENT: ¿Y a cuánto escuela? ¿el docente
+
+dónde es? ¿de ahí de la comunidad?
+TEST: Vienen de LUGAR2, son ----------.
+ENT: ¿Y qué tanto van?
+TEST: Y las de -------------------- también son de LUGAR2.
+ENT:
+¿Y van, no van a la escuela?
+TEST: Pues yo oí en el --- ahora en la reunión de la coca [DUD:1:00:19]
+que dijeron que las profesoras no están enseñando bien a los niños, que no
+vienen todos los días, que hay días que vienen y hay días que no ¿y que
+entonces los niños cómo van a aprender? eso las oí yo diciendo allá entre
+ellas, no sé eso a qué se haya... la gente no va para allá, pero LUGAR2 es un
+[INAD:1:00:42],
+acá en LUGAR12 es que le paran bolas uno las quejas de que ponga, porque acá es
+mejor.
+ENT: Doña TEST, ahora que usted
+mencionaba la coca ¿qué tanto ha funcionado el tema de la sustitución de cultivos?
+¿está funcionando en su comunidad?
+TEST: Venga le digo, sí nos visitaron, nos visitaron de parte
+de... ¿quiénes son ellos? los de afuera...
+ENT: ¿De la misión de verificación de
+la ONU [Organización de las Naciones Unidas]?
+TEST: Eso, los de la ONU, estuvo en mi casa, les preparé un jugo
+que les gustó muchísimo, sí a lo bien, el señor que nos vinieron a visitar,
+donde se va a hacer el galpón también, le dije yo "la plata se nos acabó
+¿y a dónde están las gallinas pa' nosotros comer y vender? esta es la hora de
+que yo ya tuviera sacándole producto a las gallinas ¿a dónde están? no nos han
+traído para hacer galpón, nada, eso como que ya se quedó... ¿pero cuándo irán a
+venir?" eso le dije yo al de la ONU.
+ENT: ¿Y eso ayudará a mitigar a hacer el
+cambio de sustitución de cultivos o usted cómo lo ve?
+TEST: Eso nos dan sobre lo que arrancamos la mata, pero hay un
+problema ahorita, nosotros estamos reclamando que eso... porque dicen que a
+nosotros nos prometieron hacernos las piscinas, mandar una retroexcavadora
+y resulta ser que nos han dicho que la piscina tenemos que hacerla nosotros con
+palendra, le dije yo al señor "¿y a dónde está la plata que era pa' pagar
+la retro? porque nosotros no vamos a hacer piscina con palendra" y ya todos
+protestaron que no, porque a nosotros nos prometieron mandarnos una retro y
+hacer las piscinas, nos prometieron a entregarnos los galpones hechos, no que
+nosotros... ahora que nosotros tenemos que hacer los galpones, les dije
+"no, a nosotros nos prometieron sobre nuestra matas que hemos arrancado a
+entregarnos todo pa' nosotros seguir produciendo" entonces estamos
+reclamando los 9 millones que nos los den en plata, con eso mejor nosotros
+hacemos nuestro galpón, si queremos hacer una cochera pa' marranos la hacemos,
+
+compramos nuestros marranos y los criamos y ahora ellos mire... ya se acabó el
+año y no salieron con nada, eso es.
+ENT:
+Y eso, lo que le preguntaba hace un ratico ¿eso ayudará a que las personas...?
+TEST: ¿Que cambien o dejen de sembrar?
+ENT: Sí.
+TEST: ¿En el concepto mío? yo digo no [risas] pero los demás no sé
+qué tendrán pensado, pero...
+ENT: O sea ese tipo de proyecto muy
+difícil que haga que las personas sustituyan el precio de la coca.
+TEST: Realmente sí, porque el otro día un mansito dijo "yo
+aunque el gramo se ponga a 500 pesos no dejo de sembrar" dijo ¿y él qué va
+a hacer con 500 pesos que le paguen un gramo de eso? nada, eso no da nada. Dijo
+el hijo mío "eso está es loco ¿qué va a hacer él con un gramo de 500
+pesos? sale como a 500.000 el kilo, está es loco".
+ENT: La llegada de coca usted me dice
+pues para ustedes como de agricultores trajo algo de recursos, cuando ya no
+hubo madera... logro que hubiera algunos recursos.
+TEST: Pues claro que todo mundo se mantenía, de la matica, uno lo
+hace por mantención no por otra cosa.
+ENT:
+¿Y qué cosas han sido las negativas que llegó con la coca para la comunidad?
+TEST: [risas] los grupos ¿por que qué más va a hacer negativo de
+eso?
+ENT: ¿Y con los grupos qué cosas?
+TEST: Porque ha muerto mucha gente, por la muerte de la gente... y
+pues dicen que sí, yo sí digo que por la coca la mortandad de la gente, hasta
+por montes se montan y la gente tiene un mal vicio que en medio de un
+problemita se va a dónde esa gente ¿y qué hace esa gente? cogen y matan a la
+gente, eso es lo que ellos hacen y ya todo el mundo se está yendo, gente por
+allá no está quedando, unos se van de miedo, otro porque no los vayan a matar,
+ese es el miedo ¿no? y es así, pues otros porque de pronto deben algún delito y
+se van, anochece y no amanecen, no llevan nada, queda casa ahí, queda todo ahí,
+queda finca, abandonado todo. Vea, usted viera de la ------------------ pa' arriba, hay
+unas casas que ya tienen monte, que los han desterrado esa gente... si no
+quieren morirse.
+ENT: ¿Para dónde se va la gente la
+mayoría?
+TEST: Pa' la ciudad.
+ENT: ¿Para el Valle? ¿para LUGAR5?
+¿vienen para acá?
+TEST: LUGAR5, aquí, otros se van para Ecuador que porque allá no hay
+violencia, otros se van a LUGAR4, otros se van pa'l Putumayo, así, toda la
+
+gente está repartida.
+ENT:
+O sea la gente nativa, la gente que usted conoció de su vereda...
+TEST: Ya casi no... casi no hay, porque de ahí al frente no hace
+mucho que desterraron a un muchacho que lo iban a matar, lo vinieron a buscar
+tres veces pa' matarlo y los niños dijeron que no, que no estaba y como a él no
+lo encontraron, la mujer de él está en la cárcel y como a él no lo encontraron
+que le han dicho que le van a venir a matar los hijos, entonces la señora se
+dio cuenta la que está en la cárcel y mandó a decir a los abuelos que saquen a
+los niños porque corrían peligro y ya están allá con el papá en LUGAR5. Esa casa
+ya la dejaron ahí arrendada, ahí venden bebida ahora.
+ENT: ¿Sufren mucho los niños con esta
+violencia?
+TEST: Pues claro, si ellos son los que sufren, ellos son los
+afectados también, porque ya no pueden vivir donde están, ya no están... si con
+el vecino jugaban, ya se van y el vecino ya no tiene con quién jugar el niño,
+eso afecta todo. Ya al colegio no va porque ya se fueron... eso es un desastre
+lo que está pasando, o lo que han pasado, ha sido un solo desastre yo nunca,
+nunca en la vida me imaginé que esto iba a pasar ni esperé.
+ENT: O sea cambió totalmente la vida.
+TEST: Todo, totalmente, todo cambió, para mí sí, yo medio que oigo
+por ahí un tiro dios mío, yo ya digo "¿a quién matarían? dios poder en
+cristo" y así... el otro día había una plomacera abajo en la ----, claro,
+mataron a 3, acá se habían metido, a 3 mataron, el uno no había quedado muerto
+el viaje, porque era gordo, ese le habían quedado las balas en la manteca, aquí
+como que lo tienen el LUGAR12 al muchacho, lo sacaron, eso es en todo.
+ENT: Ya para ir cerrando algunas cosas
+[INTERRUMP]
+TEST: Ya no se sabe si el gobierno no controla esto... no se sabe
+a dónde iremos a llegar el resto y es que un día decían que dizque iba a haber
+un combate más tarde, sí, le dije yo "la primera que va a morir soy yo,
+porque yo del susto me muero" le dije, así estaba diciendo un loco por
+ahí, no sé si sería verdad o sería que andaba loquiando y nada, no pasó.
+ENT:
+Pero existe ese miedo continuo, de que va a pasar, que suceda algo... ¿desde
+que llegó la coca y la guerrilla no ha parado la violencia?
+TEST: No para la violencia hasta ahora, ese cementerio dela -------------------me dice una señora, una amiga que tengo "está lleno de jóvenes" de
+jóvenes que han matado ¿quién los mata? en el combate, ahí mueren, mueren 5,
+mueren 6, mueren 7, en el combate ¿y quiénes mueren? los jovencitos, ellos son
+los que mueren.
+ENT: Ya no son los mayores, los
+adultos.
+
+TEST: Los que llevan son los pequeños. Qué día iba bajando, pillé
+a la --------- y traían a 2 muchachos, el uno venía así con la mano acá y el
+otro venía con las 2 manos así agachado lo traían, lo habían agarrado, decían
+que eran guerrillero [llanto] y que en la semana que se acabó que han cogido a
+4 otra vez, jovencitos... como de 14 a 15 años, yo digo al menos el gobierno
+controlara eso con las madres de los hijos pa' que ellos no se vayan a la
+guerrilla, que tengan un buen estudio o sacarlos a estudiar a algo ¿no? yo
+digo, si el gobierno controlara todo esto, se acaba la guerrilla, se acaba la
+coca, se acaba todo. Si él por ejemplo pusiera su mano derecha en el peso de
+controlar, de ayudar a los pobres, no pasaría lo que está pasando, digo yo ¿no?
+no sé. Porque imagínese se van hombres y mujeres, que porque en medio de un
+disgustico en la casa o con la mamá... "no, yo me voy a la
+guerrilla" con eso amenazan a la mamá y es que se van, por eso es que
+ellos tienen tanta gente.
+ENT: O sea de lo que hubo, se acuerda
+estos acuerdos de paz y que la guerrilla iba a entregar armas, todo eso ¿no ha
+disminuido?
+TEST: Pero qué le digo don ENT, eso fue en la presidencia
+de Santos, hubo mucha... mermó matanda, es que Santos estaba ayudando mucho a
+la gente también. En mi vereda no, pero él sí controló harto eso, yo le digo a
+la gente que el único presidente que controló todo y se vio paz fue Santos y yo
+voté por él, yo fui la primera, yo le decía a la gente "votemos por Santos".
+ENT: ¿O sea que ese acuerdo sí
+disminuyó la violencia?
+TEST: Sí.
+ENT:
+¿Pero después de la firma del acuerdo la violencia volvió a subir otra
+vez?
+TEST: Más que todo cuando él salió de la presidencia, siguió la
+violencia otra vez, más que todo, eso sí yo lo he notado, día a día lo noto
+eso.
+ENT: ¿Y cuánto fue el gobierno del
+presidente Uribe esos 8 años?
+TEST: No, eso todos los días había muerte, entraban los paracos a
+----------- y mataban gente, los destrozaban y que los enterraban ahí, que hacían
+huecos y los únicos que los sacaron fue esa otra gente, los habían sacado
+corriendo y no habían acabado con medio -----------, es que buscaban esos cholitos
+"ve ¿este qué es? ¿guerrillero?" decían "sí, que sean los
+cholitos" y los despedazaban ahí mismo con pura motosierra y por esta
+gente que soltaron que tenían 15 amarrados pa' destrozarlos y esta gente los
+liberaron, los del monte.
+ENT: ¿Hubo combates duros?
+TEST: Pues combates no sé si habría pero yo le cuento que ahí en
+
+----------- hay combates a cada rato.
+ENT: Pero en ese tiempo que estaban las
+AUC ¿usted escuchaba combates de Autodefensas contra guerrilla?
+TEST: Sí ¿no le digo? que a cada rato más que todo en -----------,
+ahí siempre ha habido combates, inclusive de ahí se fue hartísima gente, ahí
+hay unas casas que están cerradas.
+ENT:
+¿Por la entrada de autodefensas?
+TEST: Sí.
+ENT: ¿Al LUGAR6 llegaron las
+autodefensas o no alcanzaron?
+TEST: Llegaron, un día estaba viajando yo pa' la --------- y
+estaba sentada afuera con mi niña la que está aquí en LUGAR12 y de un carro se
+bajaron un poco de gente armados y eso iban así y yo creía que era el ejército
+y habían sido era ellos, a quién veían correr pa' dispararle. Yo me quedé ahí
+sentada, porque yo no sabía qué eran, yo creía que era el ejército y habían
+sido era ellos y que llega uno "ve ¿pa' dónde va? devólvete pa' aquí"
+le dijo y él se devolvió y que un poco se habían regado así pa'l monte y los
+recogieron enseguida y se fueron, después es que supe que aquí llegaron los de
+las autodefensas, pero tiros no hubo, nada, solamente bajaron como hacer un
+vistazo y se parcaron y se fueron, pero no hubo nada más, pero lo que se oye
+que dice la gente es que vea que ahorita vienen los paracos otra vez, que ya
+están listos pa' venir, yo digo que como yo no le debo a nadie de aquí no me
+voy a mover de mi casa, pueden pasar por aquí y yo no me voy a mover de
+aquí. Me dice un señor ayer "¿usted se va yendo? que se
+va" le digo "no, yo cuando me vaya de aquí es pa'l panteón" le
+dije "yo no me voy yendo" se quedó calladito
+ENT: ¿Y en ese tiempo que estaban las
+autodefensas y las FARC estaba más abajo había mucho control en la carretera?
+habían controles de unos y de otros...
+TEST: De pronto sí.
+ENT: ¿No le tocó a usted ver o vivir
+esos momentos?
+TEST: Yo no he visto, pero sí he escuchado, de ver con mis ojos
+no... yo ya me hubiera muerto no, yo un combate de pronto no lo aguanto, a mí
+me coge agitación. Y me dice un señor "usted no tiene que morirse"
+dice no ve que yo curo la culebra, curo las picaduras "usted no se nos va
+a morir" me dice.
+ENT:
+¡Usted es la sabedora!
+TEST: Sí.
+ENT: La curandera de la comunidad.
+TEST: Sí yo la preparo la contra, pero ahí no, la gente que no se
+
+la van con uno se lo llevan a LUGAR2 y de allá los suben muertos y los que yo
+he curado no se me ha muerto ni uno, yo estuve acá en ORGANIZACIÓN PÚBLICA3 por
+eso y por partera.
+ENT: Y es partera.
+TEST: Partera y curo, por eso me ayudo un poquito para el estudio
+de mis hijos, porque yo he sido partera, curandera más que todo, la gente
+indígena salen ahí, yo los curo y curo las mordedura de culebra, la última niña
+que yo le he pedido a dios que no pique ese animal a la gente, tenía un año 8
+meses, la niñita pequeñita y yo la curé y al papá ya lo había curado de
+mordedura de culebra, yo mismo preparo mi contra, es en polvo, yo voy y saco
+una papa que hay en la tierra, se le encuentra a 60 centímetros y es así, tiene
+un poco de huequitos ella, yo la traigo, la lavo bien, la tajeó bien como el
+plátano pa' poner a secar plátano, así y la pongo a secar al sol, son de 4
+especies de papa, son 2 que la mata es así pequeña y la otra es así grande, hay
+una negra grande y la negra chiquita, amarilla grande y amarilla chiquita, eso
+lleva esa contra, químico y vegetal, la mayoría es vegetal, yo la preparo.
+ENT: ¿Y quién le enseñó doña TEST?
+TEST: El abuelo de mi esposo.
+ENT: ¿Hay más curanderas?
+TEST: Porque yo a él lo tuve un buen tiempo en la casa, yo le
+cocinaba y todo eso, entonces en medio de eso, él me fue diciendo y las plantas
+son para cuando se hincha el picado, son 32 plantas que hay que irlas a
+agarrar, bueno que todas no las va a encontrar uno porque cuando hay un
+picado de culebra se le pierden, hay unas que la encuentra a la ida y otras a
+la vuelta de la casa, entonces uno tiene que pararse una olla grande, las lava
+y las echa ahí y las cocina y ahora sí cuando ya se enfría eso a bañar al picado
+y eso es de una que le baja la hinchazón, hay unos que se ponen bien hinchados,
+esa culebra en el momento le envenena la sangre, eso los ojos se le ponen con
+sangre, le comienza a salir agua sangre por todo esto y se le moretea, el que
+es blanco le salen aquí moretones todos los pañotes rojos en sangre y las
+venitas usted las mira negritas, negritas, entonces la contra mía es, ahorita
+la recibe, a la media hora otra toma, a la otra media hora por dos horas de a
+media hora ya el veneno queda... ya corta el veneno ahí y y ya toca cuidarlo,
+matarle su gallina, darle caldito de gallina criolla pa' que le limpie por
+dentro con la contra, así, la mayoría que he curado son niños de 11, 12 años,
+de año, de 3 años y de un año y medio.
+ENT: ¿Y la partería todavía la
+ejerce?
+TEST: No, iba a sacar una niña de emergencia que vino la señora de
+la ---------- por no dejar morir la señora y la bebé vine a verla, pero el
+problema por la rodilla que no puedo encunclillarme, arrodillarme, nada de eso,
+todo lo hago agachada, inclusive vea, este estómago se me está subiendo acá
+porque todo lo hago agachada, agachada.
+
+ENT: En relación a esos saberes que
+usted tiene ¿el que haya habido el conflicto disminuyó su trabajo, su labor?
+¿también se vio afectado su trabajo?
+TEST: Claro, porque gente... pues yo, pues ¿cómo le digo? gente
+que curaba, hay señoras que se hinchan, las he curado y esa gente ya con el
+conflicto se han ido yendo, pero me han dejado buenas recomienda "vea, la
+señora" a un señor que curé de esto, ese tenía artritis, todo esto rojo,
+rojo, rojo y ese señor sí me ha recomendado, el man maneja una combi de
+--------- a LUGAR2 "esa negrita que la ven ahí, que era mujer de FAMILIAR3,
+por ella estoy vivo yo" les dice a la gente "vayan a buscarla a ella
+que ella sabe curar" es que dice.
+ENT: Doña TEST, acá en confianza ¿los
+actores armados no la buscaron para curar a veces?
+TEST: No, a mí no.
+ENT: ¿Nunca?
+TEST: No, eso sí... le he dado gracias a dios que ni siquiera pa'
+una inyección, pa' nada, nosotros somos aparte de la demás gente y esa gente
+con nosotros no ha pegado, nunca.
+ENT: ¿Y usted tuvo de pronto en algún
+momento temor de que...?
+TEST: Eso, de que vaya a caer de pronto...
+ENT: O que la llevaran a curar a
+alguien.
+TEST: Eso, eso yo le he pedido a dios de que no vaya a aceptar de
+que yo vaya a ver una señora que esté de parto y que vaya a ser mujer de una
+gente de esa, gracias a dios no. Lo que le decía de la señora indígena, llegué
+y la niña estaba la cabeza prendida acá, llegué, la saqué, la saqué, la saqué
+bonito, no duró ni 20 minutos y nació esa niña y ellos "que ya nació, que
+ya nació" contentos.
+ENT: ¿Alguna vez sus hijas o hijos
+aprendieron de sus saberes?
+TEST: No, pero es que yo les digo "traigan un cuaderno"
+"vengan un medio día, un día a sentarse conmigo a aprender pa' explicarles
+cómo se cura" allá me llegaban niños con soltura, me llegan niños con
+vómito, con fiebre, que los médicos no le han podido cortar la fiebre, me los
+llevan a mí, yo preparo con huevo criollo, sencillo la curación, yo cojo un
+huevo, lo parto y lo pongo aquí, le saco toda la clara y la yema la aparto,
+ahora sí cojo con una cuchara y lo bato hasta que hace ponche, luego le agrego
+una pizca de sal, luego le agrego limón y eso es pa' la fiebre, a los 10, 20
+minutos no tienen fiebre ya se les ha ido. Anoche me llamaron de LUGAR5 pa' eso,
+un señor que está con fiebre, yo le di el remedio, yo le doy a cualquiera el
+remedio, aunque estén lejos yo se los doy, no queremos que la gente se muera
+sino que vivamos.
+
+Y sí yo curo los niños y cuando están
+con la soltura, yo tengo una planta ahí que la cocino, o sea la coloco, el
+botoncillo usted lo habrá de conocer, al botoncillo le arranco toda esas pepas
+y la hoja, la raíz y solo dejo el tallito, ahora sí lo amarro con él mismo,
+cojo en un recipiente bien limpio, las lavo bien y las coloco ahí, paro a
+hervir en otro el agua, cuando ya va hervir el agua saco un poquito y le
+echo a las ramitas y riego esa agua, cuando ya hierve le echo ahí a la rama y
+"tas" lo tapo, hasta que no enfrié no se puede, se llama botoncillo
+apagado, para matarles el bicho a los niños, porque ellos comen mucho dulce.
+ENT: Yo estoy sufriendo ahorita de
+eso.
+TEST: [risas] o es de amor.
+ENT: De comer [risa]
+TEST: Ahorita tengo que llegar a preparar para una señora de
+-----------, mandarle que me pidió. Una señora que me llegó ¿de dónde es de eso?
+del ---------- que estaba con vómito, le mandé preparada la... y de una le quitó
+el asco, el vómito y ya está bien.
+ENT: ¿Y en el caso de espanto
+también?
+TEST: Sí, yo los curo, yo les cojo el pulso y ahí me doy cuenta si
+están espantados. Cuando ya se les coge el pulso ya les queda normal.
+ENT: ¿Solo con coger el pulso usted
+cura?
+TEST: Le miro... no, no, no, yo le miro y yo les cojo el pulso,
+les pongo unos remedios, eso lleva tabaco, hierba buena y así, les cojo el
+pulso y les digo "mañana me lo trae" ya vienen normal, eso curo.
+Curaba el mal viento pero mi hijo no me deja porque como soy cristiana yo me
+hice cristiana y ya del mal viento no me dejan curar, solo el espanto, pa' la
+fiebre y pa' la soltura.
+ENT: ¿El mal viento no?
+TEST: No, por las hierbas que toca limpiar y señoras que van con
+dolor de matriz eso sí lo curo.
+ENT: ¿Piensa que esos saberes se están
+perdiendo?
+TEST: Porque nadie los quiere aprender, yo he llamado... una
+señora sí me dijo "vea, yo sí quisiera aprender lo que usted sabe"
+"vaya un día con un cuaderno y yo le enseño pero me va a enseñar usted,
+porque yo la coral no la sé curar, me enseña cómo se cura la coral" y no
+ha venido. Es indígena, el indígena es egoísta, lo que él sabe se lo lleva a la
+tierra, no se lo enseña a nadie, por eso también es que...
+ENT: Y cuando se curaba de espanto y
+todo eso ¿por las divinidades? ¿los espantos que hay en el...?
+TEST: No, ellos se espantan porque los hacen asustar los mismos
+
+hermanos, o se caen de la casa abajo o de la cama que es alta, ahí se espantan
+los niños, el resto no.
+ENT: ¿Y los de mal viento?
+TEST: Eso sí son espíritus malos.
+ENT: ¿El espíritu del duende todavía
+habita en el territorio?
+TEST: Sí el duende se llevó a un hermano mío, yo lo miré cuando...
+era una duenda y yo a esa sí la miré cuando venía dizque con un sombrero
+grandote una cositica así que venía y yo digo "¿y eso qué es?" y
+dizque unas cintas por aquí, cuando mi mamá venía a dejar almuerzo nos gritó de
+afuera, me nombró, se desapareció, venía ya a llevárselo a él, hasta 15 días lo
+tenía en el monte ella y él decía que dizque le jalaba el coso y por eso ya la
+familia de mi papá se regaban y el único que pudo desterrar a la duenda que no
+se lo lleve más fue mi abuelo el papá de mi papá, no sé, si es que él sabía o
+le enseñaron la oración del duende y no se lo llevó más nunca, él es conmovido
+de la cabeza, él es enfermito, yo lo tuve dos años en la casa y se me vino, él
+no para con las hermanas, él le gusta con la gente que no son nada pa' él, ahí
+es que él vive por años, así.
+ENT: ¿Pero usted ya no cura de ese mal
+viento?
+TEST: No, de mal viento no, pero tengo que buscar una persona que
+lo haga.
+ENT: Claro.
+TEST: Es como el caso de la hija mía, yo le dije que subiera, voy
+a ver si ahora que vaya la convenzo pa' que anote, porque yo ya me siento como
+mal, se me hace como al rato como que me llega como... algo me asfixia y el
+corazón me comienza a hacer así a cada ratico, entonces yo... pues ahorita ando
+escasa de plata digo yo, quería ir al médico pero voy a subir a LUGAR16, es que
+yo tenía para un examen magnético algo así, dizque lo meten a una cápsula a uno
+y que ahí le ven toda la enfermedad, pero no lo he hecho, no sé si acá habrá en
+LUGAR12.
+ENT: Sí señora, acá sí hay, para
+la resonancia. Pues tiene mucha sabiduría doña TEST, ojalá no se pierda esa
+sabiduría.
+TEST: Y yo le cuento, yo en esta vida... vea yo criaba antes
+marranos, cuyes, gallinas, criando los hijos, me tocaba jabonar, cocinar y a
+cargar madera, hasta la leña me tocaba poner, yo ponía harta leña que me dure
+harto y yo he hecho trabajos varios porque ahí en la derriba que hubo crió
+harta esa vara negra, eso también vendía bastante yo, con eso me ayudaba yo,
+con mi madera, con mi vara, con mi orito, pues es que el LUGAR7 no tiene harto
+oro, es poquitico, pero uno lo reúne, no es como en LUGAR3 que dicen que
+sacan medio adarme, un gramo de una bateada, dos adarme, allá no, allá son
+poquiticos y uno los va reuniendo, hasta los 8 días se saca su... sus 3 gramos
+
+o 4, de ahí no pasa, eso es mucho lo que uno saca allá.
+ENT: ¿Qué es un adarme doña
+TEST?
+TEST: El adarme se trata de 2 gramos. Los dos adarmes son 4
+gramos. O sea que esa es costumbre de los viejos, pero ahora solo va por gramos
+y una dilecima, no sé qué dicen, así lo pesan ahora.
+ENT: Doña TEST le agradezco mucho
+¿algo más que agregar de lo que hemos conversado?
+TEST: Pues yo lo que quiero no sé, ustedes qué dirán, yo quiero
+una ayuda pa' mi casa, quiero una ayuda pa' acabar esto de esta muchacha que se
+casó en Ecuador y le fue mal y yo la hice salir de allá y ahora está aquí, va a
+seguir estudiando pero yo estoy escasa de plata pa' ella.
+ENT: Es lo que hablábamos hace rato
+que el gobierno necesitan que le repare más, lo que usted siente que el
+gobierno no ha reparado todo lo que debería reparar.
+TEST: Porque a nosotros nos prometieron que pa'l estudio y pa' vivienda nos
+iban a ayudar y eso no se ha dado, a la casa no ha llegado nadie a decir
+"vea" ni por mi teléfono que yo nunca cambio mi _simcard _se me daña y el mismo número
+lo hago
+ingresar y nunca me ha llegado una llamada pa' decir "vea, doña TEST
+usted tiene un apoyo, una ayudita" yo diera gracias a dios y diera
+bendiciones pa'l que me ayudara en algo, que aunque sea cada dos meses me
+llegara una ayudita, pero es que no me llega nada.
+ENT: Sí falta.
+TEST: Esos 2 millones que estuve recibiendo que eso ni lo pagaban
+cumplidos si no cuando ellos querían a los 6 meses.
+ENT: ¿O sea que no les dieron
+completo?
+TEST: A nosotros nos deben todavía.
+ENT: Caray.
+TEST: Nos deben los 10 millones y los 9 millones. No nos han dado
+del huerto casero el millón 800 no nos lo han dado tampoco, yo ya tengo la
+limpia donde voy a sembrar mis hortalizas que es que dicen y no me ha llegado nada,
+lo que sí me dicen estos días, me sembré fue unas semillas de chileno y manzano
+porque como estoy pensando a ponerme a criar gallinas criollas, entonces me
+dicen en la última reunión que yo soy la señora de las gallinas que yo no sé
+qué "¿yo?" les dije "sí, yo siempre tengo unita, sino que hay un
+problema, ya me las estoy comiendo porque me van dar gallinas nuevas" y
+una risa que les daba. [risa]
+ENT: Se está comiendo el capital
+[risas]
+TEST: Era un chiste, una risa que les dio a todos, todos se reían.
+No, yo mis gallinas, hay veces que vendo 10 huevos, 15... y comemos nosotros,
+
+ya no estamos comprando casi huevos de la tienda, están a 500 y esos huevos que
+no, que casi no sirven, vienen contaminados de puro, esa comida que les dan,
+concentrado.
+ENT: Una cosita que se me
+escapaba, las personas que fueron responsables de la muerte de su hijo ¿usted
+sabe si fueron capturadas? ¿han sido condenadas? ¿o eso ha quedado en la
+impunidad?
+TEST: Uno solo hay en la cárcel, pero ese lo cogieron con unas pomas
+de crudo, pero no por el caso de mi hijo, ese lo tienen acá en el Cauca.
+ENT: ¿Y era miembro de las FARC?
+TEST: Esos estaban todos con esa gente ¿no ve que a ellos les dan
+plata? les pagan vacuna del crudo.
+ENT: Y doña TEST ¿sabe el
+nombre?
+TEST: No, después de pronto le digo, pero no quiero ¿sabe por qué?
+porque él en la ORGANIZACIÓN PÚBLICA4 me pidieron los nombres que si les hacían algo a
+ellos, les dije "no, porque yo tengo mis otros hijos y no quiero que mis
+hijos corran peligros".
+ENT: ¿Usted siente que denunciar a esta
+persona es un peligro para usted?
+TEST: Claro.
+ENT: La entiendo y no se preocupe, no
+lo vamos a mencionar.
+TEST: Pero nosotras sabemos quién son, no es ni uno, ni dos, son
+como 4 hombres y algo más, hasta mujeres.
+ENT: ¿Eran miembros de la comunidad?
+TEST: Uno sí, pero otros no. Esos se fueron, los que no están en
+la cárcel se fueron y no han vuelto más, ahí hay otra clave más, yo le dije a
+mis hijos el día que fuimos a enterrar a mi hijo "pongan cuidado esto que
+les voy a decir, el primero que se vaya de aquí a 15 días o 8 días, ese es uno
+de la muerte de FAMILIAR1" y fue dicho y hecho, se fueron yendo así como por
+así, se desaparecieron "todos los que se vayan en estos días son los
+culpables" y se fueron, se fueron 2 mujeres y los demás eran
+hombres.
+ENT: Pues doña TEST yo le agradezco
+mucho, paramos la grabación.
+TEST: Yo creo que eso ya es todo [risas].
+ENT: [risas]
+TEST: Sería bueno escuchar un pedacito ¿no se puede?
+ENT: Sí, sí claro, a ver y escuchamos.
+TEST: A los hijos míos no les gusta que yo de informaciones, pero
+como no estamos nombrando personas...
+ENT: Sí.
+
+

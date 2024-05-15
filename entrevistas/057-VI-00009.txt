@@ -1,0 +1,997 @@
+057-VI-00009
+ENT: Buenos días.
+TEST: Buenos días.
+ENT: TEST, hoy es --------- de 2019, 9:00 am, estamos en LUGAR1 (SUCRE) y vamos a
+empezar la entrevista, ya te expliqué qué hace ORGANIZACIÓN PUBLICA1, cuál es nuestro
+propósito, sé que estás triste por tener que recordar y por eso te agradezco muchísimo que
+a pesar de esa tristeza hayas aceptado continuar y dar la entrevista... eso me parece de
+mucho valor y como te dije ahorita, es posible que empieces a dejar de ser esclava de ese
+dolor, sí, porque no te mereces seguir siendo esclava de ese dolor, te voy a hacer, si ya
+comprendiste qué en ORGANIZACIÓN PUBLICA1... ¿te queda claro?
+TEST: sí.
+ENT: ¿tienes alguna pregunta?
+TEST: no señora.
+ENT: entonces te voy a preguntar 3 cositas... ¿estás de acuerdo con darme esta entrevista?
+TEST: sí señora.
+ENT: sí. ¿estás de acuerdo con que grabemos?
+TEST: sí, señora.
+ENT: ¿estás de acuerdo con que esta entrevista la utilicemos sin tu nombre para el informe?
+¿para decir lo que les pasó a las mujeres?
+TEST: sí señora.
+ENT: sí. Entonces TEST por favor, fírmame aquí... TEST ¿qué?
+TEST: -------------------------.
+ENT: [datos 01:52 - 02:04] hoy estamos a ---------------------Bueno, tú, nosotros
+diferenciamos entre datos personales y datos sensibles; los datos personales son, por
+ejemplo: tu fecha de nacimiento, ¿tú naciste qué día?
+TEST: -------------...
+ENT: ahorita ya casi... tu naciste el ------------ pero hay mucha gente que nace el -----------entonces ese es un dato personal, pero no es un dato sensible, nosotros también
+consideramos que hay datos que son ¡sensibles!, por ejemplo: las preferencias políticas, la
+religión, la violencia sexual, en algunas personas la orientación sexual... que si son hombres
+gay, mujeres lesbianas, esos ya son datos sensibles, ¿bien?, y nosotros diferenciamos esos
+datos, yo te voy a preguntar, yo te voy a decir dos cosas para las cuales nosotros podríamos
+usar la información y te voy a decir si tú aceptas que usemos tus datos personales y
+sensibles para, ¿si me entiendes?
+TEST: sí.
+ENT: ok, entonces, por ejemplo, nosotros podemos con lo que me vas a contar, lo podemos
+utilizar para analizarlo, compararlo, contrastarlo con otros datos e información, es decir, tu
+información junto con la de otras mujeres para analizarla... compararla... ¿tú estás de
+acuerdo con que la usemos para eso?
+TEST: sí.
+ENT: y para elaborar el informe, ¿sí?
+TEST: sí.
+ENT: y nuevamente por favor la firma...
+
+TEST: ¿a dónde?
+ENT: aquí en esta rayita... a ver yo pongo otra vez tu nombre acá, TEST [datos sensibles
+04:23 -04:26] bueno TEST y ahora te voy a hacer unas preguntitas... ¿------------es tu fecha de
+nacimiento?
+TEST: sí.
+ENT: ¿en qué año naciste?
+TEST: en 1987...
+ENT: 1987, ¿dónde naciste?
+TEST: en Córdoba...
+ENT: en Córdoba, ¿en qué municipio?
+TEST: eso se llama -------------.. eso es de ------- corregimiento de ------- ---------------ENT: Ok, -------------¿tú sabes lo que significa la orientación sexual, ¿sí? que si te sientes
+atraída tu como mujer por hombres o por mujeres, en tu ¿por hombres o por mujeres?
+TEST: por hombres, porque ajá...
+ENT: por hombres, ¿te consideras indígena, te consideras de alguna etnia o no? no. ¿eres
+colombiana cierto?
+TEST: sí.
+ENT: ¿estado civil? ¿casada, soltera, separada?
+TEST: soltera.
+ENT: ¿nunca te has casado?
+TEST: no.
+ENT: ¿tienes algún tipo de discapacidad? ¿consideras?
+TEST: pues lo único es el defecto e' la boca...
+ENT: eso te impide comer... ¿hablar o alguna cosa?
+TEST: mucho sí, bastante, de comer, dormir, a veces es difícil pa' dormir...
+ENT: ¿por qué lo de tu boca te hace difícil dormir?
+TEST: porque como yo tengo dos dientes apretados así cerrado entonces a veces para
+dormir me estoy como asfixiando...
+ENT: ¿te han hecho algún tipo?... los médicos, intervención, tratamiento...
+TEST: a mí me han hecho 4 operaciones...
+ENT: 4 cirugías...
+TEST: y ahora me falta la última y no me han operado, he hecho derecho de petición, he
+hecho de todo y nada.
+ENT: ¿vives aquí en LUGAR1?
+TEST: sí.
+ENT: ¿en qué barrio?
+TEST:--------------- [inad: 07:02]
+ENT: ah, verdad que me habías dicho ahorita cuando nos saludamos... ¿cuál es tu nivel de
+estudio, TEST?
+TEST: yo llegué hasta 6°
+ENT: ¿hiciste bachillerato completo o 6° es 1° de Bachillerato?
+TEST. 6° es 1° de Bachillerato... pero prácticamente no lo terminé, yo digo que hasta el 5°...
+ENT: o sea, primaria...
+
+TEST: sí, hasta 5°....
+ENT: ¿a qué te dedicas?
+TEST: ¿qué le digo? oficios varios porque me buscan pa' hacer aseo, me buscan pa' planchar
+y así, oficios varios... no puedo tener un trabajo fijo por el niño...
+ENT: por el hijo, sí. ¿en este momento perteneces a alguna organización de víctimas, cierto?
+¿cómo se llama?
+TEST: eh, -----------..
+ENT:ORGANIZACIÓN SOCIAL1...
+TEST: ORGANIZACIÓN SOCIAL1...
+ENT: ¿cómo llegaste a esa organización?
+TEST: por medio de CONOCIDA1
+ENT: ¿y cómo conociste a CONOCIDA1?
+TEST: eh, por medio de una amiga, que ella asistía a las reuniones, asistía a muchos
+proyectos que CONOCIDA1 tenía y me llevó y pa qué, CONOCIDA1 desde que me conoció,
+conoció mi caso, esa señora conmigo ha sido, uff, como una madre para mí...
+ENT: ¿hace cuánto?
+TEST: se puede decir como dos años que la conocí...
+ENT: ¿2 años... y para ti pertenecer esa organización te ha servido?
+TEST: uff, me ha superado en muchas cosas...
+ENT: excelente, ¿te ha permitido superar muchas cosas?
+TEST: superar muchas cosas...
+ENT: si naciste en el 87 ¿cuántos años vas a cumplir ahorita?
+TEST: supuestamente 37
+ENT: no...
+TEST: yo tengo 35, no sé...
+ENT: vas a cumplir 32... 87, 97, 2007, 30... 31, 32... vas a cumplir 32, TEST te subiste un
+montón de años... ¿a qué edad sucedió el hecho del que vamos a hablar?
+TEST: se puede decir a los 15 años...
+ENT: yo ya voy a soltar estos papeles, ya no los necesitamos más, ya ahora sí vamos a hablar
+mirándonos a los ojos, que es lo que realmente importa. TEST, yo sé que hoy estás aquí por
+ser víctima de violencia sexual, pero también sabemos tú y yo, que eso no sucede sino en un
+contexto social donde hay conflicto, ¿sí?, más bien que lo que a ti te sucedió en un contexto
+donde había actores armados, entonces yo te voy a pedir que antes de llegar a la situación
+puntual del abuso me cuentes dónde vivías tú en ese momento...
+TEST: pues yo vivía con mi mamá, con mi papá, en una finca que mi papá cuidaba...
+ENT: a ver, tú naciste en ------------TEST: Córdoba...
+ENT: y viviste siempre, siempre, siempre....
+TEST: toda mi vida, mi niñez...
+ENT: ¿tienes más hermanos?
+TEST: sí, pero son pequeños, menores que yo...
+ENT: sí... o sea, ¿tú eres la mayor? ¿la única mujer?
+TEST: sí, cuando me sucedió lo que me sucedió, todavía había unos hermanos pequeñitos,
+
+de un año, de meses, bueno...
+ENT: ¿cuántos hijos son? ¿cuántos hermanos pues?
+TEST: somos 5...
+ENT: 5, tú eres la mayor... bien, naciste allá en ------- -------- el ---------- y tu papá y tu mamá
+cuidaban una finca... ¿había cerca colegio? ¿estudiabas?
+TEST: sí, yo me tenía que ir a pie, a veces en burro, a veces a pie...
+ENT: ¿cuánta distancia te tocaba recorrer, cuánto tiempo?
+TEST: una hora, más o menos.
+ENT: una hora para ir al colegio y una hora para regresar... ¿en la mañana o en la tarde?
+TEST: en la mañana, porque yo estudiaba la primaria...
+ENT: era en la mañana... para poder estudiar ¿el colegio quedaba dónde? ¿en el propio
+-------.?
+TEST: Retiradito, o sea, porque eso es en -------------, --------- quedaba a una hora al ---------bueno el colegio quedaba retiradito a donde nosotros vivíamos...
+ENT: tú estudiabas en -------y vivías en ---------------TEST: sí.
+ENT: ok, ya entendí... ¿qué se hablaba en ese momento? tú eras pequeña... ¿qué actores
+armados estaban por ahí? ¿qué se hablaba de ese tema de violencia?
+TEST: ¿qué recuerdo? no, que esa gente se metía, a veces...
+ENT: ¿cómo se metían?
+TEST: se ocupaban el lugar, había lugares así por ejemplo que se hacían como dueños y los
+dueños tenían que matarles si había chivos, la mejor gallina, se llevaban cosas pa su casa,
+bueno totalmente había lugares también que ellos hacían fiestas, llevaban mujeres y así.
+ENT: eso escuchabas tú en ese momento...
+TEST: eso escuchaba... bueno...
+ENT: esas historias se escuchaban... y por ahí por la finca y por -------qué pasaba... o sea, ¿qué
+actores habían? ¿tú veías algún tipo de persona que no eran de por ahí? ¿cómo era?
+TEST: cuando yo me iba pa'l colegio, muchas veces se me atravesaban por el camino...
+preguntaba, porque íbamos varias compañeras, y nos preguntaban pa dónde íbamos y nos
+comenzaban a molestar...
+ENT: ¿qué es molestar?
+TEST: o sea, algunas de las compañeras las molestaban, las piropeaban. que quería que la
+acompañaran y como las compañeras las veían con esas cuestiones puestas...
+ENT: ¿qué cuestiones?
+TEST: sus armas...
+ENT: tenían uniformes como de... ¿camuflados?
+TEST: botas, sí...
+ENT: tenían algún tipo de insignia en el brazo...
+TEST: sí, tenían como un cosito aquí apretado...
+ENT: ¿y qué decía ese cosito? no recuerdas qué palabras decían o qué letras decían?
+TEST: decía a veces su nombre o las iniciales de su nombre...
+ENT: y esa gente que los paraba, ¿ustedes sabían si pertenecían?
+TEST: no, como jóvenes no, cuando yo llegaba a donde mi papá si le comentaba "papi, en el
+
+camino nos presentaron esto y esto..."
+ENT: ¿y él qué decía?
+TEST: él se ponía asustado y decía "no le preste atención, mija, cuando esa gente le hable,
+usted quédese calladita, no diga nada..."
+ENT: ¿igual nunca te acompañó al colegio tu papá o sí?
+TEST: a veces sí nos acompañaba o iba mi mamá a acompañarnos... pero como tenían que
+estar pendiente a la finca no podían dejar la finca sola, entonces, nos íbamos con los
+compañeros... y bueno...
+ENT: hacían un grupo...
+TEST: para acompañarnos las unas con las otras...
+ENT: estas personas que las paraban y decían todo esto, voy a decirlo de esta manera... tú,
+en este momento las reconocían ustedes como malos o como buenos, o sea, ¿eran como del
+ejército, militares, entre comillas "buenos", o eran de un grupo ilegal, entre comillas "malo"?
+TEST: yo digo que era como malo...
+ENT: o sea, no era como el ejército...
+TEST: no, no...
+ENT: no sientes que no era eso... tú los reconoces como malo...
+TEST: porque ya habían sucedido varios casos, que, por ejemplo: llegaban a la finca de
+noche, y cuando las gentes no les querían preparar lo que ellos decían o algo, amanecían
+muertos, algunos amanecían ahorcados, cortados por aquí, algunos amanecían todos
+picoteados...
+ENT: ¿eso lo escuchabas también?
+TEST: sí...
+ENT: sí, hoy en día casi a tus 32 años... ¿tienes idea de cuál era el grupo, ese
+específicamente? qué grupo era el que estaba por ahí?
+TEST: la guerrilla...
+ENT: la guerrilla, hoy en día tú sabes que era la guerrilla, ¿cuál de las guerrillas?
+TEST: mmm
+ENT: porque hay FARC, hay ELN... no sabes cuál, pero guerrilla... hoy en día tienes esa
+comprensión, sí... listo, continuemos.
+TEST: bueno, eh, mi mamá a pesar que estaba en la finca ella vendía minutos, ponía recargas
+y llegaban esa gente a poner, supongamos, 10.000 de recarga, y no le pagaban a mi mamá, o
+sea, pedían el número, hacían la recarga y después que mi mamá se las hacía, no se la
+pagaban...mi mamá, tu sabes que uno como pobre uno se rebuscaba, uno se rebuscaba con
+eso, y ajá 10.000 que ella perdía, ella le daba rabia, y entonces ella ponía la cara toda
+enojada y le decía que [si] quería perder eso o perder más... o querían perder uno de los
+seres queridos, que cuál era el cuento, que si se iba a poner guapa entonces se iba a poner
+más si quería perder uno de los hijos, cuando ya ella se ponía así, ajá, ya ella tenía que poner
+y hacer lo que ellos dijeran, porque ella no quería que ninguno de nosotros le pasara nada...
+ENT: algo más, además de eso, ¿pasó en la finca allá donde ustedes vivían?
+TEST: los dueños de la finca dejaron una carta ahí...
+ENT: ¿una carta?
+TEST: una carta, sí, como un aviso, que los dueños, que... que los cuidanderos que no se
+
+fueran, que ellos no respondían, porque ellos no hacían lo que ellos le dijeran... o sea, mi
+papá, por ejemplo, ellos querían llegar a cocinar, llegaban así y mi papá no quería...
+ENT: ¿de quién era esa finca? ¿de tu papá y tu mamá?
+TEST: no, ellos cuidaban esa finca...
+ENT: ¿y de quién era?
+TEST: de una gente que era de -------..
+ENT; no te acuerdas del nombre de los dueños...
+TEST: no me acuerdo...
+ENT: ni los apellidos de ellos...
+TEST: no, no, bueno, eran de plata, tenían varias fincas, mi papá tenía esa finca ahí como a
+medias porque él también tenía sus buenos animales, sus vacas, mi papá perdió un poco de
+animales, cantidades, porque le pagaban su liquidación a él, porque mi papá ya tenía años
+de estar trabajando ahí, entonces eso lo compraba en animales, él decía que la plata no, sino
+que eran los animales lo que se mantenía, bueno, entonces le dijeron así, que si ellos no se
+iban que ellos no respondían. Bueno, totalmente que, mi papá dijo "no, ¿quién dijo que esa
+gente nos va a hacer nada? esa es pura amenaza falsa, así, no sé qué" bueno, mi papá fue
+rebelde, mi papá no comía de eso, dijo "no, aquí no vienen a hacer nada... que no sé qué..."
+ENT: qué año era ese, ¿te acuerdas? ¿qué edad tenías tú?
+TEST: yo tenía, yo tenía, si el niño tiene 16 años, yo tenía 15, 16 años...
+ENT: o sea, la carta diciendo eso tú tenías 15 años, más o menos...
+TEST: sí...
+ENT: o sea, vamos a sumar, 97... tenías 10, eh, 2001-2002, aproximadamente, es el... tú ya
+tenías 15.
+TEST: 15 años, y bueno, totalmente que la amenaza seguía, una vez llegaron a una finca,
+tardecito ya eran como las 6:00 de la tarde, mi papá nos iba a recoger, ya nosotros
+estábamos acostados, cuando llegaron esa gente, se escuchaban las botas cuando llegaron
+como 5...
+ENT: ¿en qué llegaban?
+TEST: llegaban en caballos...
+ENT: en caballo...
+TEST: bueno, y le dijeron a mi papá que me cuidaran mucho, porque ellos no respondían...
+ENT: ¿qué te cuidaran a ti mucho?
+TEST: mucho, porque ellos sabían a qué hora salía pa' ir pa'l colegio y a qué horas regresaba
+yo de para acá... y le dejaron, le dejaron, una carta ahí pa los patrones de ellos, pero esa carta
+nunca supe qué fue, bueno...
+ENT: ¿una carta a los dueños de la finca?
+TEST: a los dueños de la finca.
+ENT: ¿tu papá la entregó?
+TEST: sí, mi papá la entregó...
+ENT: o sea, fue hasta -------a entregarla.
+TEST: sí, fue hasta -------porque ellos casi no venían acá a la finca, porque ellos sabían que la
+finca estaba bien cuidada y casi no venían, mandaban a buscar la leche eso sí, pero no, ellos
+no venían, bueno totalmente que llegaron, le dejaron eso a mi papá, una mañanita, mi papá
+
+le dijo "no, yo voy a tener que llevar mi hija a su colegio, a llevarla y a traerla, ella no le va a
+pasar nada..." bueno, total que así fue, mi papá duró una semana que me iba a llevar y me
+venía a traer, pero ya mi papá dijo "no, eso ya se les olvidó..."
+ENT: te pregunto algo, ¿tú supiste que ellos habían llegado y habían dicho eso en ese
+momento o te enteraste después?
+TEST: yo escuché a mi mamá por la mañana diciéndole a otro, que habían llegado así y así...
+ENT; o sea, tú sabías.
+TEST: ajá...
+ENT: y tu papá te empezó a llevar y traer, una semana...
+TEST: una semana... cuando ya mi papá le dijo a mi mamá "no, yo no creo que ya, ya se le ha
+olvidado, no sé qué..." bueno, pasó como un mes, cuando una mañanita yo iba pa'l colegio,
+iba con unas compañeras...
+ENT: ¿cuántas compañeras?
+TEST: éramos como 7...
+ENT: 7 ¿todas mujeres?
+TEST: iba compañeros e iba compañeras también... 7 u 8...
+ENT: ¿todos de la misma edad?
+TEST: la misma edad, unos más pequeños, unos más grandes...
+ENT: ¿ningún adulto? niños...
+TEST: ningún adulto, éramos puros jóvenes... bueno, totalmente que cuando escuchamos
+unos caballos, en la ida de FAMILIAR1 cual es...
+ENT: ¿iban ya llegando a -------iban apenas saliendo de -------------.?
+TEST: íbamos apenas saliendo de ----------------(LA FINCA).
+ENT: por la vía principal...
+TEST: íbamos por una finca, como eso era pura finca... y llegaron y dijeron "¿quién es la hija
+de FAMILIAR1?” y yo me quedé callada y las compañeras "no, es la que va aquí..." cogieron y
+me llevaron pa una finca...
+ENT: a ver, ¿tú te quedaste callada por qué?
+TEST: porque mis papás me dijeron que cuando ellos hablaran, yo me quedara callada...
+ellos me habían dicho más antes, que cuando ellos hablaran yo me quedara callada, que lo
+que me dijeran yo me quedara callada... que no les respondiera nada...
+ENT: o sea, tú en ese momento obedeciste... y dices "me llevaron" ¿cómo te llevaron? ¿ellos
+estaban en caballo, te subieron al caballo?
+TEST: no, uno había así se bajaron del caballo, entonces me llevaron...
+ENT: "me llevaron" ¿cómo? te hicieron caminar?
+TEST: sí, me dijeron "vamos que te voy a llevar donde tu papá, que tu papá te mando a
+buscar... necesitamos hablar con tu papá y contigo"...
+ENT: ¿cuántas personas eran?
+TEST: había 2 caballos, 4 hombres...
+ENT: 4 hombres, 2 caballos, ¿el resto de jóvenes siguieron pa'l colegio?
+TEST: siguieron no, se regresaron asustados...como que avisar a mi papá a ver si era verdad
+o no era verdad, bueno, ellos se devolvieron, estaban asustados, que también pensaban que
+también les iban a hacer algo a ellos, una parte salieron corriendo y otra quedaron ahí
+
+traumatizados, bueno, cuando a mí me llevaron yo pensé que me iban a llevar donde mi
+papá, no me llevaron allá, me llevaron fue a una finca sola ahí...
+ENT: ¿cerca? lejos de tu casa?
+TEST: retirado, estaba retirado...
+ENT: o sea, ¿cuánto tiempo caminaste?
+TEST: más o menos como media hora.
+ENT: ¿te decían algo durante esa media hora?
+TEST: no, que mi iba a pasar nada, que no me asustara, tranquila...
+ENT: ¿se burlaban o algo?
+TEST: sí, se burlaban, algunos decían "que mira, que cuidado le vas a hacer algo..." otro decía
+"no, no le va a pasar nada que no quiera..." y yo me quedaba viendo y me ponía a llorar...
+ENT: estabas llorando todo el camino...
+TEST: llorando, sí, yo lloraba por todo el camino...
+ENT: ¿te decían algo por estar llorando?
+TEST: me decían "¿por qué vas a llorar si todavía no te he hecho nada?, ¿por qué vas a llorar
+si aún no te ha hecho nada?"... y yo no, yo apenas me quedaba viendo y se me salían las
+lágrimas, y yo bueno, yo asustada y yo "dios mío, ¿cuándo viene mi papá?" y yo les
+preguntaba a ellos "¿falta mucho pa llegar a donde mi papá?" me decían "no, ya no falta
+mucho..." cuando me llevaban a la finca esa donde yo le digo, ellos me amarraron.
+ENT: te pregunto una cosa, perdóname interrumpirte... ¿en esa finca vivían personas?
+¿estaba como abandonada?
+TEST: estaba como abandonada...
+ENT: no vivía nadie...
+TEST: no, había otros tipos ahí armados también...
+ENT: todos armados, ¿tenía cosas como muebles o estaba vacío?
+TEST: estaba vacío, solamente había era hamaca...
+ENT: una hamaca... ¿te amarraron a dónde? ¿a qué?
+TEST: en una finca, o sea, como un cuarto...
+ENT: en un cuarto... ¿te amarraron es las dos manos?
+TEST: las dos manos...
+ENT: ¿en la espalda o contra algo?
+TEST: eh... no, me amarraron como en una silla... y me tapaban la boca...
+ENT; ¿con qué?
+TEST: con un trapo negro, bueno, cuando a mí me amarraron...
+ENT: ¿podías respirar? sí? porque tú tienes tu dificultad...
+TEST: en ese momento no, eso me pasó por eso...
+ENT: ok.
+TEST: que ellos me golpearon toda...
+ENT: te golpearon y por eso quedaste con eso... ok.
+TEST: bueno, cuando...
+ENT: tranquila... ¿te sientes capaz de seguir o suspendemos un momentico?...
+TEST: mi papá no apareció, llegó a la noche...
+ENT: estuviste todo el día ahí...
+
+TEST: no me dieron comida, me dieron fue agua y se reían de mí... me quitaron el uniforme,
+lo rompieron todito...
+ENT: ¿con qué quedaste puesto?
+TEST: me pusieron un suéter verde...
+ENT: solamente el suéter, arriba y abajo... ¿nada?
+TEST: [llora] como yo gritaba cuando ya, porque me iban a dar comida ya en la nochecita...
+como a las 6:00 yo no quería, yo le aventé el plato y yo decía que no quería comida, yo decía
+que yo quería era a mi papá y me dijeron que a mi papá lo habían matado... que mi papá no
+venía, dije mi mamá, que también la habían matado a mi mamá...
+ENT: ¿te dijeron eso?
+TEST: me dijeron, que no iba a ir nadie porque ya habían matado a toditos dos... como yo no
+me dejaba, no me dejaba amarrar me golpearon todita...
+ENT: ¿no te dejabas qué?
+TEST: amarrar porque ellos me iban a amarrar otra vez... y me golpearon todita.
+ENT: ¿con qué te golpearon?
+TEST: con la mano...
+ENT: con la mano, ¿una sola persona te golpeó o varias?
+TEST: varias personas me golpearon...
+ENT: ¿en qué partes del cuerpo te golpearon?
+TEST: me golpeaban la espalda, me golpearon la cabeza, la boca...
+ENT; ¿solo con la mano? ¿ningún objeto ninguna cosa...? sí, y ¿decían algo mientras te
+golpeaban?
+TEST: se reían de mí, que habían matado a mi papá, que ahora venía yo, que si yo no
+obedecía lo que ellos dijeran me iban a matar también... porque ellos se lo advirtieron a mi
+papá, que si ellos no hacían lo que ellos le dijeran la iban a cobrar era conmigo... y mi papá
+no quería creer, bueno, entonces ahí está la prueba, que sí era verdad lo que ellos dijeron.
+Bueno, esa noche abusaron de mí...
+ENT: ¿esa noche? perate un momentito, te estaban golpeando, te golpearon, quedaste
+ensangrentada, ahí fue... ¿no?
+TEST: no.,
+ENT: no, te reventaron en ese momento la boca ya como me dijiste... sino que te golpearon,
+¿había sangre? ¿te reventaron alguna parte?
+TEST: me habían partido la boca...
+ENT: ¿los labios?
+TEST: sí...
+ENT: ¿y seguiste ahí amarrada?
+TEST: sí, amarrada, después así amarrada abusaron de mí, amarrada...
+ENT: después abusaron de ti... ¿se fueron? ¿te dejaron golpeada y volvieron más tarde o ahí
+mismo mientras te golpeaban?
+TEST: ahí mismo...
+ENT: mientras te golpearon... sí, TEST voy a hacer unas preguntas incomodas frente a eso...
+tú me dices "abusaron de mí" ¿tú no habías tenido relaciones sexuales?
+TEST: porque era una niña...
+
+ENT: eras una niña, tenías 15 años... ¿a ti ya te había llegado la menstruación...? ¿ya tú
+menstruabas...? sí. ¿a qué edad fue tu primera menstruación...? ¿te acuerdas?
+TEST: yo me desarrollé a los 12 años...
+ENT: a los 12 y tú ya tenías 15, o sea, que ya tú tenías el periodo en ese momento... en ese
+momento cuando tú me dices "abusaron de mí", yo no voy a meterme en detalles que sean
+dolorosos, pero quiero saber, por ejemplo: si había varias personas mirando mientras eso
+pasaba. o solamente había una sola persona ahí?
+TEST: varios hombres ahí y no fue una sola persona, fueron como 2 o 3 personas que
+abusaron de mí... mientras que uno abusaba el otro se reía...
+ENT: alguno... los demás que no estaban en ese momento, siendo los que te abusaban, ¿te
+agarraban? ¿te aguantaban? ¿te tapaban la boca? ¿te golpeaban? o ¿solamente se reían?
+TEST: se reían, alguno me aguantaba porque yo no me dejaba coger... y uno me golpeaban...
+pa que me dejara...
+ENT: me dices que ahí no había muebles, entonces estabas en el piso, ¿sí?
+TEST: bueno, cuando...
+ENT: perdóname, ¿además de eso te obligaron...? del abuso, penetración, ¿te obligaron a
+hacer alguna otra cosa distinta? no, y otra pregunta más, mil disculpas por ser tan incisiva...
+además de la penetración, que tuvo que ser dolorosa y fuerte, vaginal, intentaron hacer por
+otra parte de tu cuerpo, ¿penetrar? no, solamente, eh, fue violencia sexual de esta manera...
+bien, eso fue durante mucho tiempo tú sentiste que pasó mucho tiempo o la misma noche...
+TEST: yo duré un mes ahí secuestrada...
+ENT: ¡un mes!!
+TEST: un mes.
+ENT: un mes, esa primera noche, ¿cómo duraste el resto del mes? ¿en la misma habitación...?
+TEST: en el mismo cuarto, ahí me llevaban la comida, me llevaban agua... yo no quería
+comer, duré varios días que no comía...
+ENT: ¿te podías bañar... te podías lavar? sí. ¿en dónde?
+TEST: ahí mismo en el cuarto me llevaban agua...
+ENT: para bañarte... y tú te bañabas...
+TEST: sí
+ENT: después del abuso, ¿te podías limpiar? ¿te podías bañar o no te lo permitían?
+TEST: no me lo permitían...
+ENT: solo al otro día. ¿los abusos eran solo en la noche?
+TEST: solo en la noche....
+ENT: o también en el día...
+TEST: en la noche...
+ENT: ¿durante el día qué pasaba? ¿comías? ¿te llevaban comida y agua o nada más?
+TEST: me llevaban comida y yo ahí amarrada... y no me dejaban salir acá fuera ni nada,
+porque pensaban que yo me iba a escapar...
+ENT: ¿esa habitación tenía ventanas, tenía...?
+TEST: nada...
+ENT: encerrada....
+TEST: encerrada, no se veía nada...
+
+ENT: oscuro...
+TEST: oscuro, a veces se escuchaba cuando hablaban, cuando ellos les leían... pero no veía
+nada...
+ENT: ¿esas personas que entraban eran siempre las mismas durante ese mes o eran
+distintas?
+TEST: eran diferentes.
+ENT: como que unos se iban, otros venían, nunca eran iguales... ¿y estaban bajo los efectos
+de alguna sustancia...?
+TEST: a veces tomaban...
+ENT: o sea, cuando llegaban tú sentías que estaban...
+TEST: tomados.
+ENT: tomados... ¿solo hombres... no llegaron mujeres? nunca... ¿nunca viste una mujer?
+TEST: No. Bueno, cuando [interrup]
+ENT: ¿cómo supiste que duró un mes?
+TEST: yo digo que fue un mes, o no sé, fueron varios días...
+ENT: fueron varios días, pero los suficientes como para tú sentir que fue un mes...
+TEST: pa mi fue como un año, no un mes...
+ENT: en qué fecha fue tu secuestro.... tú me dices un día... ¿te acuerdas de la fecha? ¿te
+acuerdas el mes más o menos...? no, no te acuerdas del mes ni el año...
+TEST: la que se puede acordar es mi mamá, pero mi mamá no me lo quiere decir...
+ENT: tu mamá no te lo quiere decir, ok... bueno, continuemos...
+TEST: bueno, cuando papá me salió a buscar y nadie le decía... las compañeras sí le decían
+que le dijeron cómo habían pasado las cosas, que me habían llevado, que esto... y mi papá
+me salió a buscar y no me encontraba por ninguna parte, después ellos fueron allá a
+buscarlo "¿quiere saber dónde está su hija?, vamos a llevarlo..." y mi papá salió a buscarme...
+ENT: ¿con ellos?
+TEST: con ellos... cuando mi papá llegó, lo amarraron...
+ENT: ahí en el mismo lugar contigo, en la misma habitación...
+TEST: en el mismo lugar...
+ENT: tú en ese momento te habían dicho que él estaba muerto...
+TEST: que estaba muerto...
+ENT: ¿cómo fue verlo? ¿qué pasó en ese momento?
+TEST: cuando yo me enteré que mi papá estaba ahí yo gritaba, intentaba gritar, pero no, yo
+tenía la boca tapada, entonces yo escuché cuando preguntaba "¿dónde está mi hija? ¿dónde
+está? ¿qué me le hicieron a mi hija?... dios quiera que no me le hayan hecho algo, nada,
+porque soy capaz de matar y que me maten a mí también, pero a mi hija que no me le hagan
+nada" y yo intentaba gritar y no podía..., cuando mi papá lo llevaron a donde yo estaba, yo
+lloraba, lloraba con toda fuerza porque yo pensé que mi papá lo habían matado... y yo
+intentaba de hablar y nada, después me quitaron el trapo y yo "papá, ¿cómo está mi mamá?
+¿cómo están?" -"no, tu mamá está bien..." Bueno, total que [interrup]
+ENT: ¿y qué más te dijo él?
+TEST: mi papá me preguntó "¿qué te han hecho?"... y yo lo miraban a ellos, y lo miraba a él y
+no me atrevía a decirle nada... y como yo pasaba era llorando y llorando, me decía "mija, te
+
+pasó algo ¿cierto? ¿qué te hicieron?" y yo los miraba a ellos y no me atrevía a decirle nada,
+mi papá rabia y les dijo que, si me habían hecho algo que no respondía, cuando mi papá dijo
+así "ah sí, mucho valor, ¿no?, ahora verás lo qué te va a pasar...", lo amarraron y le dieron
+una golpiza alante de mí...
+ENT: golpiza, ¿también con las manos?
+TEST: con las manos, lo golpearon todito, lo patearon... y lo amarraron...
+ENT: una pregunta, tú me hablaste de la golpiza de la primera noche, ¿después de eso no te
+golpearon más a ti? ¿también te seguían golpeando?
+TEST: me golpeaban porque yo, cuando me quitaban el trapo comenzaba a gritar... era
+cuando yo gritaba era cuando ellos me comenzaban a golpear a mí...
+ENT: ok, o sea, las golpizas fueron frecuentes... todo el tiempo...
+TEST: sí, porque cuando yo me intentaba de soltarme, yo siempre gritaba, siempre como
+que quería defenderme o algo, gritar, pensé que por ahí había alguien que me podía salvar, y
+yo... gritaba y cuando yo gritaba ellos me golpeaban pa' que yo no gritara, que yo me
+quedara callada... bueno, totalmente que mi papá esa noche lo amarraron, lo golpearon y al
+día siguiente lo mataron...
+ENT: a ver, ¿esa noche hablaron algo? los dejaron solos en algún momento? nunca los
+dejaron solos, siempre estuvieron ahí... con ustedes... ¿frente a tu papá abusaron de ti? sí.
+TEST: por eso fue que a mi papá lo mataron...
+ENT: ¿qué pasó?
+TEST: mi papá se puso guapo... [llora]
+ENT: ¿cómo fue esa situación?
+TEST: papá en vista que me estaban haciendo eso, él se llenó de ira y dijo que mejor lo
+mataran a él que no me tuvieran haciendo nada malo a mí... y que con ella no se estuvieran
+metiendo, que si quería algo que mejor se la desquitara con él, que, a mí, por favor, me
+soltaran, que si querían algo mejor que se lo desquitaran con él que yo era la única hija
+hembra que tenía él, que por favor me dejaran quieta... ante mí, lo mataron...
+ENT: mientras él gritaba y todo eso...
+TEST: lo mataron, le dieron 8 tiros...
+ENT: frente a ti... ¿dijeron algo? ¿te dijeron algo a ti? ¿le dijeron algo a él antes de matarlo?
+TEST: le dijeron que, si él quería morir, que lo iban a hacer delante de mí, pa que yo
+supieran que con ellos no se metía nadie, o sea, ellos no los desafiaba nadie... y que después
+iban a matar a mi mamá, iban a buscar a mi mamá pa matarla también, iban a matar a
+toditos... pa quedarse con la finca y con los animales que mi papá tenía
+ENT: ¿y le dispararon? sí. ¿tú qué hiciste en ese momento?
+TEST: ellos me llevaron pa' otra parte...
+ENT: tú no, o sea, ¿le dispararon y tú estabas ahí? sí... ¿qué hiciste en ese momento preciso?
+TEST: ellos delante de ellos no me tapaban la boca, me soltaron... cuando mi papá lo
+mataron y yo daba gritos, yo decía que porqué lo habían matado ante mí... que porqué me lo
+mataron, que si era mi papá, que porqué eran así tan malos...
+ENT: ¿te decían algo? nada.
+TEST: se echaban era a reír...
+ENT: ¿qué hiciste en ese momento? ¿lograste tocar a tu papá, abrazarlo... algo?
+
+TEST: yo lo abracé, le decía "papito, no te me mueras... resiste"
+ENT: ¿él alcanzó a decir algo? no.
+TEST: se murió de una vez, enseguida... y a mí me llevaron pa' otra parte...
+ENT: te pregunto una cosa... esos 8 tiros, en distintas partes del cuerpo... ¿te llevaron a otra
+parte en la misma finca o en otra finca?
+TEST: en otra finca...
+ENT: ¿muy lejos? ¿cerca?
+TEST: como que cerca...
+ENT: ¿en carro? ¿caballo?
+TEST: a pie...
+ENT: caminando...
+TEST: me tapaban los ojos...
+ENT: ¿sabes qué pasó con el cuerpo de tu papá?
+TEST: se lo llevaron a mi mamá...
+ENT: se lo llevaron a tu mamá...
+TEST: se lo llevaron a mi mamá... y mi mamá cogió a mis hermanitos que estaban pequeños,
+les empacó la ropa y los mandó pa -------hasta que yo no apareciera no...
+ENT: ¿y ella se quedó ahí?
+TEST: se quedó...
+ENT: esperándote a ti... y a ti, te taparon los ojos y te llevaron... ya luego es que tú te enteras
+que le llevan el cuerpo a...
+TEST: sí, porque ellos me dijeron, que a mi papá se lo iba a llevar a mi mamá, pa que mi
+mamá supiera qué había pasado... ellos le pidieron, le pidieron una plata a mi mamá...
+ENT: ¿sabes cuánto? no...
+TEST: pa poderme solta', que si quería que no me mataban que tenían que dar una plata, mi
+mamá asustada tuvo que vender ganado, tuvo que vender un poco de animales, pa poderme
+dar la plata pa que me soltaran, bueno. fue que me demoraron unos días hasta que mi mamá
+no pudo vender lo que tenía que vender'...
+ENT: en ese otro lugar que te llevaron, ¿continúo el abuso o ya no?
+TEST: continúo...
+ENT: ¿ese otro lugar también era una casa donde vivía otra gente o eran solo ellos o qué...?
+TEST: ahí, sí había una gente ahí... como pa cocinar y eso...
+ENT: que era como de ahí mismo, ¿que los obligaban o que eran de ese grupo...?
+TEST: yo creo que era como obligados porque ellos los trataban mal... los trataban también
+mal. Un día me soltaron y yo me intenté escaparme, yo me subí a un caballo y me intentaba
+escaparme, cuando ellos se dieron de cuenta, agarraron el caballo y me tumbaron, yo
+cuando yo me caí, yo sufro de esta pierna, esta pierna... sufro de esta pierna...
+ENT: ¿la pierna izquierda? cuando te caes del caballo...
+TEST: cuando me caigo como del mismo golpe, se me fue todita, me dio un calambre aquí,
+bueno, me bajaron del caballo, fue cuando me golpearon duramente, fue cuando...
+ENT: ¿te golpearon en la cara?
+TEST: en la cara, me dieron duro, duro...
+ENT: ¿con qué?
+
+TEST: con la mano, con una cosa gruesa que ellos tenían ahí, como un... como pa cerrar la
+puerta, algo así...
+ENT: como una madera...
+TEST: unas maderas me dieron duro aquí, todo esto me lo partieron... y me privaron.
+ENT: te dieron en la cara y te señalas el pómulo del lado izquierdo... o sea, te partieron todo
+esto, el hueso, ¿sí? y del otro lado, ¿no? solo este...
+TEST: solo este. Cuando me desarmaron toda la boca por dentro...
+ENT: se desencajó la mandíbula...
+TEST: toda se sangró del mismo golpe que me dieron, ellos hasta me privaron...
+ENT: ¿perdiste dientes?
+TEST: sí... y bueno, ellos asustados me curaron, yo cuando reaccioné, me estaba curando una
+muchacha, una señora ya, una señora me estaba curando y a los dos, tres días, me mandaron
+pa donde mi mamá...
+ENT: ¿en qué te mandaron?
+TEST: en caballo.
+ENT: te quiero preguntar, yo te veo una cicatriz aquí...
+TEST: esa fue la misma operación, me tuvieron que...
+ENT: fue la misma operación, o sea, esta cicatriz que tienes aquí en la garganta fue de una
+cirugía posterior...
+TEST: fue de una cirugía porque mi mamá me tuvo que mandar a operar enseguida, porque
+yo me estaba desangrando toda...
+ENT: te mandaron a donde tu mamá ¿a ti sola caminando o alguien te llevó?
+TEST: alguien me llevó...
+ENT: ¿de ellos mismos?
+TEST: de ellos mismos...
+ENT: ¿qué te decía en ese trayecto...? nada, nada, nada... en silencio todo el tiempo... ¿cuánto
+tiempo caminaron hasta tu casa?
+TEST: como dos horas...
+ENT: ¿estabas cerca a ------- lejos ya de ------TEST: lejos de ------ENT: ¿en otro municipio o no sabes? ¿no sabes, o sí en otro municipio?
+TEST: no sé.
+ENT: listo, llegas a donde tu mamá, ¿le dijeron algo a tu mamá?
+TEST: le dijeron que, si había conseguido la plata, mi mamá le dijo "que no.." le dijeron "te
+damos unos días para que la consigas..."
+ENT: ya tú estabas ahí...
+TEST: y mi mamá tuvo que llevarme esa misma tarde, tuvo que llevarme pa' -------pa que me
+operaran porque yo me estaba desangrando toda... y por eso fue que ellos me llevaron,
+porque ellos estaban asustados y mi mamá tuvo que, esa misma noche tuvieron que
+hacerme dos operaciones porque casi me muero por el sangrando que me dio... cuando salí
+de la operación y eso...
+ENT: ¿te atendieron en ------TEST: en -------------.
+
+ENT; te hicieron dos cirugías en el hospital de ahí... ¿tu mamá explicó por qué te había
+pasado o.…?
+TEST: le dijeron que yo me había caído porque yo ellos dijeron que no tenía que decir nada
+porque no respondía...
+ENT: entonces a los médicos y todo eso solo dijeron "no, se cayó"
+TEST: "se cayó isque de un caballo"...
+ENT: de un caballo...
+TEST: y mi mamá tuvo que conseguir la plata pa' poder pagar eso... eh, el secuestro mío,
+cuando mi mamá les pagó eso, habló con los patrones que ya habían matado a mi papá, que
+ella no iba a morir también con lo mismo, que los hijos no iban a morir por estar cuidando
+finca, que ya habían matado al esposo y que ya no iba a perder los hijos por estar cuidando
+finca, bueno, mi mamá con los otros hermanitos míos cuando ya me recuperé y eso...
+ENT: ¿en ------TEST: en --------...
+ENT: ¿dónde estuvieron en ------- en qué lugar? ´ ¿dónde quién?
+TEST: donde una tía mía... me escondió ahí...
+ENT: ¿los patrones estos dijeron algo, ayudaron con algo? ¿la cirugía?
+TEST: sí, todo lo que a mí me pasó ellos lo cubrieron... le dieron también una platica buena
+pa que nosotros nos fuéramos y nosotros nos fuimos, un tiempo, pa ANTIOQUIA [dud_
+49:09 ] no me venía el periodo, mi mamá me dijo” TEST por qué no te ha venido el periodo...
+yo estoy notando que tú no estás comiendo nada, te veo pálida, te veo diferente..." me llevó
+el médico, una prueba, cuando me dijeron que estaba embarazada, yo me quería morir...
+porque ya, como es, ella me decía que yo no quería tener ese peladito, que yo no tenía novio,
+pa tener yo un embarazo, que yo nunca tuve novio pa quedar embarazada, que yo ese
+peladito no lo quería, yo le dije que matarlo no podía porque ese era un pecado de dios, que
+mi mamá era cristiana, que no se podía deshacer de esa criaturita porque eso era un castigo
+de dios, que si él venía por algo que no, que el niño no tenía la culpa... el bebé no tenía la
+culpa...
+ENT: ¿cómo hiciste para enfrentar, entonces, ese embarazo si tú no querías...? ¿dónde
+buscaste ayuda?
+TEST: mi mamá tuvo que ir a hablar con un psicólogo...
+ENT: fuiste a psicología...
+TEST. porque todo lo que a mí me pasó con mi papá, yo pasaba llorando, yo no quería
+comer, yo quería que mi papá otra vez estuviera vivo... pasaba todo el día llorando,
+llamando a mi papá, echándome la culpa a mí, que por culpa mía fue que mataron a mi
+papá... mi papá por salvarme a mí, lo mataron
+ENT: ¿eso piensas en este momento o eso pensabas en aquel momento?
+TEST: siempre he pensado eso...
+ENT: en este momento todavía piensas... que, por salvarte a ti, lo mataron a él. O sea, es
+decir ¿sientes culpa de algún modo? [silencio prolongado] ¿tú eres consciente en este
+momento que NO ES TU CULPA, TEST?... yo te voy a pedir, me disculpas que te voy a tocar,
+voy a parar la grabación un momento, ¿te parece?
+
+Volvemos a la entrevista, después de darle un tiempito a TEST para expresar lo que estaba
+sintiendo y llorar un poco. Entonces se fueron a ---------(ANTIOQUIA) quedaste en
+embarazo, tu mamá te dijo, porque ella es cristiana, que no, ¿cómo viviste tu embarazo?
+TEST: para mí fue feo, no me quise meter a control, yo decía que yo era muy niña pa tener
+hijos... que el pelaito yo no lo quería tener, yo me intenté varias veces de matarme...
+ENT: ¿cómo lo hiciste? ¿cómo intentaste?
+TEST: me tomé unas pastillas, no sé de qué eran, me tomé un poco de pastillas, me llevaron
+a la clínica... gracias a dios me limpiaron el estómago, no me pasó nada, luego me amarré de
+un, mi mamá nos mandó a hacer un camarote, a mi hermana y a mí, me amarré del camarote
+pa ahorcarme, mi hermano se dio, uno de ellos se dio de cuenta y gritaban a mi mamá, mi
+mamá me gritó y me solté del cáñamo, me corté aquí también, aquí está la señal...
+ENT: en las muñecas, ujum, ¿todo durante el embarazo...?
+TEST: como decía usted, me sentía culpable de lo de mi papá, luego el embarazo, todo
+momento muy difícil para mí, todo eso, el niño, todo lo que yo viví, mi niño me nació con
+problemitas...
+ENT: ¿el parto fue...?
+TEST: mal...
+ENT: ¿natural? sí... en --------- (ANTIOQUIA). Cuando dices "me nació con problemitas..." ¿a
+qué te refieres?
+TEST: o sea, qué le digo, él nació bien, bien de peso... como yo no le quería dar seno, yo no lo
+quería ver, yo no le quería dar el seno, mi mamá le daba puro pote...
+ENT: ¿tu mamá lo cuidó?
+TEST: porque yo no lo quería coger, no lo quería cargar, yo decía que eso no era nada mío,
+yo no lo quería dar seno, el niño no se pegó nunca en el seno mío... y el niño como a los 3
+meses, fue cambiando, fue cambiando, mi mamá lo llevó al médico, porque decía que el niño
+no era como normal... el niño se le apretaron las manitos, la cabecita no se sostenía... le
+mandaron terapia, le mandaron un tratamiento que era muy costoso... mi mamá trabajar
+pa'l niño...
+ENT: ¿y qué diagnostico le dieron?
+TEST: le dijeron que, ah, le preguntaron a mi mamá qué problema tenía yo... mi mamá le dijo
+"no, lo que pasa es que la niña no se metió a control... no se alimentaba bien... seguro que era
+por el embarazo" le dijo mi mamá, entonces fue que "no, seguro que como ella no se
+alimentaba bien el niño nació sin líquido, o sea, sin liquido..."
+ENT: cefalorraquídeo... el de la cabeza...
+TEST: exactamente, le faltó oxígeno, le faltó líquido, no sé qué fue...
+ENT: ¿y él tiene la cabeza más pequeñita de lo normal...? ¿o normal?
+TEST: no, gracias a mi dios él tiene la cabecita normal..., bueno, él físicamente se ve normal,
+a ver si lo tengo aquí en una foto...
+ENT; tienes una foto... ¿en qué momento tú empiezas a acercarte a ... él? ¿cómo se llama?
+TEST: FAMILIAR2...
+ENT: ¿el nombre lo puso tu mamá? ¿era el nombre de alguien conocido o no?
+TEST: no...
+ENT: ¿en qué momento empiezas a acercarte a él?
+
+TEST: cuando ya.... ahí está.
+ENT: ah, es grande... ¿y ella es?
+TEST: esa soy yo.
+ENT: ay caramba, cómo te ves de diferente... sí se ve grande.
+TEST: se ve grande, se ve normal, físicamente se ve como normal. cuando ya el niño tuvo
+con su problemita, mi mamá me obligaba, que me acercara, que de pronto necesitaba de mí,
+me fue hablando, yo lo fui cogiendo como poco a poco... ¿qué le digo? yo al niño lo quiero,
+porque ajá, es un niño lindo, pero a veces cuando lo veo así me acuerdo, como difícil...
+ENT: es difícil.
+TEST: él no tiene la culpa, yo digo que ajá, a veces, él no tiene la culpa de lo que me haya
+pasado, es un niño inocente...
+ENT: ¿él habla? no habla... ¿se comunica de alguna manera?
+TEST: se ríe, cuando así cosas... así, así... no, cuando me ve se echa a reír, cuando me río con
+él, también, a veces salgo pa' la tienda "FAMILIAR2, espérame aquí, ya vengo que voy pa la
+tienda..." y cuando yo llego digo "buenas, ¿cómo estás? ¿está FAMILIAR2?!” y él busca y se
+echa a reír conmigo...
+ENT: o sea, es cariñoso... ¿no dice mamá?
+TEST: no se expresa en ninguna clase de palabras...
+ENT: solo se sonríe contigo... tú sientes que él te quiere... ¿tu mamá...?
+TEST: mi mamá está en ---------(ANTIOQUIA)..
+ENT: está allá en ---------.. ¿hace cuánto te viniste de ---------o por qué te viniste de --------(ANTIOQUIA)?
+TEST: ya hace ratico que me vine...
+ENT: ¿por qué?
+TEST: porque no me hallaba allá, no me hallaba allá, imagínese que también la guerrilla
+estaba allá y yo le dije que yo no iba a sufrir lo mismo otra vez... y yo me vine de allá, acá sí
+estoy un poco mejor, porque acá no hay eso...
+ENT: viniste a LUGAR1 ¿hace cuántos años?
+TEST: ya hace como 5 años, ella a veces me manda pa las cosas del niño, mis hermanos
+también están grandes, uno está en ---------que es policía, y el último que aún está en el
+colegio... bueno.
+ENT: y tú. ¿no estudiaste más?
+TEST: no, no quise estudiar más.
+ENT: te voy a preguntar algo, tú me dijiste que tu mamá te había llevado al psicólogo y todo
+eso, ¿en qué momento ya te reconocen como víctima...?
+TEST: ¿qué le digo? yo a víctimas reconozco cuando yo vine aquí a LUGAR1 (SUCRE), porque
+yo no quería, lo que a mí me pasó, me daba temor que, si nosotros íbamos a declarar o algo
+nos iban a matar, porque mi mamá se fue huyendo pa que no la mataran y nosotros como
+que echamos tierra a la cuestión, porque todo el mundo temeroso que nos fueran a matar,
+por medio de la declaración nos iban a buscar y nos iban a matar a todos, mi mamá...
+ENT: ¿o sea, no confiaban en la institución?
+TEST: en nadie, en nadie... nosotros nos fuimos, supuestamente dizque a trabajar porque en
+el pueblo no había trabajo, esa fue la excusa de mi mamá...
+
+ENT: ¿y en --------- (ANTIOQUIA) conocían a alguien o por qué decidieron ese lugar?
+TEST: por un, supuestamente, lejos... por lejos...
+ENT: por lejos, ya. y entonces te presentaste como víctima fue aquí en LUGAR1?
+TEST: ¿Aquí en LUGAR1 (SUCRE) ?
+ENT: ¿cómo llegaste a hacer eso? ¿quién te orientó?
+TEST: una vecina...
+ENT: ¿qué te dijo?
+TEST: ¿una vecina porque ella me veía el niño, “otra vez? ¿usted no tiene la carta de
+desplazada?", yo le dije "no, vecina, no tengo eso..." yo le dije "a pesar que me ha pasado
+tanta cosa que yo debería tenerla, pero no la tengo..." y ella me preguntó "aja y qué?" lo
+único que le dije "no, lo único fue que a mi papá lo mató la guerrilla y eso es pa' que yo la
+tuviera..." -"no, TEST usted está perdiendo, usted puede declarar la muerte de su papá aquí
+en --------pa que la ayuden, por su niño..."
+ENT: ¿tú vives en -------TEST: no, que dizque en --------es que se declaraba... que se declaraba me dijo la vecina,
+porque ella declaró fue dizque en --------.. bueno, totalmente que yo...
+ENT: ¿fuiste?
+TEST: sí, fui y me llevé al niño, declaré y me dijeron que declarara todo lo que me había
+pasado, en --------también declaré todo lo que me ha pasado...
+ENT: ¿hablaste de la violencia sexual? ¿también? ¿tuviste ese valor de hacerlo...?
+TEST: también lo comenté...
+NET: ¿en este momento estás en el Registro Único de Víctimas? ¿sí?
+TEST: sí.
+ENT: ¿apareces como víctima de qué?
+TEST: del conflicto.
+ENT: ¿pero de desplazamiento?
+TEST: desplazamiento...
+ENT: aparece la violencia sexual en tu....
+TEST: sí, también.
+ENT: ¿has recibido algún tipo de indemnización? ¿dinero?
+TEST: dinero...
+ENT: por esa reparación a víctimas... ¿te dieron la reparación o todavía no?
+TEST: todavía no.
+ENT: no te han dado eso...
+TEST: estoy en la espera, según CONOCIDA1 me está ayudando pa' que me...
+ENT: indemnicen...
+TEST: exactamente, pidiéndole a dios que sí...
+ENT: ¿y has participado algún tipo de programa de psicología? ¿de todos los que hacen en
+reparación a víctimas o son los de la organización de CONOCIDA1?
+TEST: de la organización de CONOCIDA1.
+ENT: pero no son de la Unidad de Víctimas...
+TEST: no.
+NET: ¿defensoría del Pueblo?
+
+TEST: no, no...
+ENT: las actividades que tú vas son de la organización a la que perteneces...
+TEST: ajá.
+ENT: que conociste a CONOCIDA1 por esa vecina ¿me dices?
+TEST: ujum...
+ENT: por la misma vecina... conociste a CONOCIDA1; tú me has dicho que estar en esa
+organización te ha...
+TEST: me ha servido, sí, pa' muchas cosas porque yo era muy tímida, yo no salía, yo no, no
+era la misma, así, mientras que con CONOCIDA1 sí, me ha servido como que pa abrirme un
+poquito más, he conocido compañeras que nos hemos comentado las cosas, sí, ya, nos
+hemos ayudado mucho. Porque allá en ---------(ANTIOQUIA) yo no salía, yo pasaba en el
+cuarto, yo me pasaba era encerrada, en cambio que acá no, acá he salido un poquito más,
+con CONOCIDA1 con los cursos que nos hace, me ha respetado más, ahorita no mucho
+terminó un curso de belleza... que aprendí cuestión de belleza, duré un mes, conocí
+compañeras... hacer trenzas, cepillado...
+ENT: me vas a hacer una trencita, porque mira este pelo... pues sí.
+TEST: Bueno, conocí compañeras, o sea, pa qué, las veces que iba al curso me reía con mis
+compañeras, a veces me apartaba por allá y las compañeras me llamaban "que yo por qué
+me aportaba por allá" yo le decía "que ajá, no sé"...
+ENT: y hablan de... de los que les pasó a ustedes o solamente se integran...
+TEST: sí, nos integramos, nos reímos de otras cosas...
+ENT: has aprendido sobre tus derechos como mujer, como víctima...
+TEST: como víctima...
+ENT: tú crees que por qué te pasó lo que te pasó... ¿tú qué explicación le das? ¿le das alguna
+explicación? ¿por qué pasó contigo y con tu familia eso? o ¿no le tienes ninguna explicación?
+no entiendes por qué.... y una pregunta más, ¿tú qué crees que tendríamos que entender en
+Colombia, TEST, para que esto que te pasó a ti no le vuelva a pasar a nadie más? ¿qué
+tendríamos que entender los colombianos...?
+TEST: imagínese... todo lo que yo viví, yo viví en sangre propia, no quisiera que le pasara a
+más nadie, eso es muy feo perder a un ser querido alante de uno, eso es trágico, feo... feo,
+feo.
+ENT: tu familia, tú me dices que tu mamá con el niño te apoya... ¿tu familia te dice algo con
+respecto a la muerte de tu papá o ellos...?
+TEST: no...
+ENT: o sea, los únicos que te convencieron de tu culpa fueron esa gente... sí, es importante
+TEST que seas consciente que la palabra de esa gente no tiene credibilidad, porque en ese
+momento lo que ellos querían eran violentar, entonces cómo le vas a dar tanto poder a la
+palabra de una persona de estas, dale poder a las personas que te miramos con cariño, no le
+des poder a las personas que te miraron de esa manera, por eso libérate de esa culpa, yo sé
+que tú puedes librarte...
+TEST: yo he ido al pueblo, yo a veces pa' diciembre me voy con el niño...
+ENT: ¿a -------(CORDOBA)?
+TEST: sí
+
+ENT: ¿hace cuánto volviste a ------TEST: yo fui ahora pa' diciembre...
+ENT: ¿por primera vez?
+TEST: no, ya yo tengo días, tiempos, como yo tengo 5 años de estar aquí, yo pa' los
+diciembres me voy pa allá porque acá en LUGAR1(SUCRE) me siento como sola... no tengo
+familia.
+ENT: o sea, hace 5 años volviste a ------- (CORDOBA)..
+TEST: sí, yo todos los diciembres me voy pa allá...
+ENT: ¿y con quién? dónde llegas?
+TEST: donde mis tíos por parte de papás...
+ENT: esa familia tuya, ¿te cuida? ¿te quieren? ¿te respetan?
+TEST: me quieren mucho, no quieren fiesta conmigo, más por el problema que yo tuve, más
+que mi papá lo mataron...
+ENT: ¿te han apoyado?
+TEST: me apoyan, sí...
+ENT: ¿y en aquel momento también?
+TEST: sí.
+ENT: ¿sientes que alguna persona te rechazó? ¿te humilló, pero de la familia? no del grupo
+armado, de la familia, de los vecinos... o todo el mundo te apoyó...
+TEST: de los vecinos, vecinos algunos se reían de mí, algunos como que me querían
+reprochar lo que me pasó, hubo como muchos cambios...
+ENT: ¿pero la familia?
+TEST: la familia no.
+ENT: ¿la familia te acompañó?
+TEST: me apoyó, me acompañó [en] muchas cosas... aun cuando vaya pa allá pa' diciembre
+es como si estuviera mi papá, mis tíos me tratan como si fueran mi papá, mi abuelo me trata
+como si fuera mi papá, y dicen "no, mija, si usted no tiene a su papá, nos tiene a nosotros,
+cualquier apoyo, cualquier cosa que usted necesite no dude en decírmelo..." y bueno, con
+ganas de irme otra vez pa'l pueblo, que sí me gustaría otra vez pa'l pueblo, pero uno pa' irse
+pa' allá uno como que necesita tener un recurso para poderse mantener allá, porque eso
+está bastante acabado...
+ENT: ¿-----------? ¿o ------------TEST: El ---------------... está bastante acabado, ¿en qué forma? en que no hay trabajo, no hay
+un sustento, por ejemplo, yo con el niño que tiene su problemita, ¿qué trabajo me puedo
+poner allá?
+ENT: ya que aprendiste curso de belleza, podrías...
+TEST: pero a mí como me gusta mucho los animales, yo eso lo heredé de mis papás, mucho
+me gustan los animales, dije "ahora que sí me indemnizan la carta... hago mi ranchito allá y
+compro unos animalitos" me gustan mucho los animales, me gusta mucho el cultivo... y
+quiero vivir de eso.
+ENT: quieres hacerlo... te motiva hacerlo, ¿te sientes capaz de volver a tener tus animales a
+tener tus cosas?
+TEST: sí, porque yo diría "esto lo aprendí de mi papá, esto lo llevo en la sangre..." y quisiera
+
+hacer lo mismo que mi papá hacía...
+ENT: hay algo que no te he preguntado, tú me dijiste antes de comenzar la entrevista que no
+has podido volver a tener hijos... eh, ¿tú has tenido parejas? ¿tú has tenido novios?
+TEST: he intentado, no le voy a decir que no, he intentado de salir... mejor dicho tengo, voy
+pa 4 meses que terminé con un muchacho del pueblo, conocí en el pueblo, muy buena gente
+el muchacho...
+ENT: ¿de allá de ------- (CORDOBA)
+TEST: sí, de ------- lo conocí pa' un diciembre, eh... el muchacho apenas que me vio, o sea,
+preguntó de dónde era, de qué familia era y le dijeron, bueno, total que iba a visitar a mis
+tías... y de paso iba a hablar conmigo y yo ahí, yo le decía que yo no vivía ahí, que yo vivía en
+--------- (ANTIOQUIA) que trabajaba en --------- que yo venía era por temporadas acá a visitar
+a mi familia... entonces cómo era pa conocernos, esto, lo otro... yo casi no hablaba con él y le
+preguntó a mi tía que si yo tenía novio, si yo era casada, si era soltera, si tenía hijos; mi tía le
+dijo que sí, que yo tenía un hijo... y bueno, totalmente... que me, bueno, ya después de
+hablar... y me decía que yo porqué era tan tímida, que yo por qué no me expresaba con él,
+que perdiera el miedo, que cuál era el miedo... yo le decía que era por el problema que yo
+tenía, que de pronto por mi problema él me fuera, como que...
+ENT: ¿cuál problema?
+TEST: de la boca...
+ENT: ah, lo de la boca... o, sea, ¿que él te fuera a qué?
+TEST: como que a, o sea, es que de pronto, que él me fuera a utilizar y ya después...
+ENT: ¿por utilizar te refieres a?
+TEST: a jugar con mis sentimientos, de pronto quererme como enamorar y ya después
+dejarme, ilusionarme se puede decir...
+ENT: y eso cómo lo relacionas que por tu problema de la boca... ¿por qué dices que iba a
+jugar contigo por tu problema de la boca? ¿cómo lo estás relacionando?
+TEST: porque usted sabe que con lo que a mí me pasó, yo digo que de pronto ningún
+hombre, de pronto, yo veo a todos los hombres como por igual...
+ENT: ¿cómo los ves por igual? ¿qué significa eso?
+TEST: eh, no sé... con lo que a mí me pasó, no confío en nadie, ¿me hago entender?
+NET: sí, te entiendo.
+TEST: entonces bueno, nosotros hablábamos y él me decía que él me quería mucho, que él
+me quería conocer, que yo le parecía una buena mujer, y cuando él me decía así a mí se me
+salían las lágrimas, porque yo tengo un corazón tan sensible, me decía "TEST, yo a usted la
+quiero mucho, he aprendido a conocerla en estos días que no son muchos, pero me pareció
+una buena mujer, viene de buena familia y yo no voy a jugar con sus sentimientos, al
+contrario, te doy un concejo, no es por ofenderte ni es por mucho menos, nada, usted es una
+mujer como cualquier mujer, usted no es mocha, usted es una mujer como cualquier mujer,
+usted no se debe sentir menos que otra, quiérase mucho, porque lo más importante de un
+ser humano es los sentimientos..." y él fue el que de pronto también me ayudó...
+ENT: ¿y cuánto tiempo estuviste junto con él?
+TEST: pues, nosotros íbamos como pa un año conociéndonos, pero él se tuvo que ir pa
+Bogotá, aún está en Bogotá... entonces me decía "TEST, yo me voy a trabajar para poder
+
+comprar las cosas, para que aquí en el pueblo... las cosas del pueblo no es que dan pa
+muchas cosas, yo quiero comprarte las cosas, quiero esto... y cada cuando que yo me vaya pa
+Bogotá..." yo le dije "si te vas para Bogotá me da muy duro porque ajá, ya eso es como que
+ajá, irse bien lejos..." los primeros días me dio duro cuando él decidió de irse a Bogotá, me
+dio duro porque pa qué, lo aprende a querer, su forma de ser, y allá en Bogotá a los meses
+me dijo "TEST vente pa acá... yo te mando los pasajes pa que te vengas pa Bogotá..." pero yo
+no me he querido ir, ya va pa' dos años de estar allá, pero ya nosotros ya no tenemos nada,
+porque le dije que yo pa' allá no iba, entonces me dijo que si yo no me iba que las cosas se
+terminaban... y yo decidí que mejor fuera lo mejor y está trabajando en Bogotá y yo no me
+quiero ir porque acá tengo todos mis proyectos, de pronto con ayuda de dios me van a
+indemnizar la carta... estoy en proyecto de una vivienda y yo no voy a dejar eso tirado pa'
+irme a, como que a, flotar digo yo... no tiene una casa, ta trabajando, yo digo "no, yo no, no
+estoy para irme atrás de un hombre..."
+ENT: sientes que no...
+TEST: que no...
+ENT: voy a hacer una pregunta muy íntima, sí. ¿lograste tener una vida sexual con esta
+persona?
+TEST: sí, pasó dos veces, estuvimos dos veces... pero ¿qué le digo? no me sentí bien, cuando
+yo lo hacía, él me decía que qué me pasaba... yo nunca le he contado lo que a mí me pasó...
+ENT: nunca le dijiste...
+TEST: nunca le dije, porque no estaba preparado, apenas lo estaba conociendo.
+ENT: y en este momento ¿cómo le explicaste? lo del caballo que les dijeron a todos...
+TEST: yo le dije que yo había tenido un accidente en un caballo y bueno, creo que se comió
+el cuento [risas] en pocas palabras se comió el cuento, porque todo el mundo lo sabía y
+supongo que se comió el cuento, pero nunca tuve el valor de decirle, yo dije "no, todavía no
+hay tiempo para comentarle, no sé si más adelante, pero ahora no".
+ENT: quiero entender por qué me comentaste que no has podido tener más hijos, ¿has
+tenido más parejas y no más hijos o es que no has tenido más parejas?
+TEST: no he querido, o sea, sí estuve con él, pero él se cuidó, porque yo le decía que yo no
+quería tener más hijos... que no podía, que en el momento no quería tener más hijos, porque
+ajá, el niño era con su problemita y yo no podía tener...
+ENT: ¿tienes... te han hecho tus controles médicos? ¿tú tienes algún problema?
+TEST: no, prácticamente no, yo estoy bien...
+ENT: ¿te viene el periodo?
+TEST: sí, normal, normal, yo puedo tener más hijos...
+ENT: ¿dolores... no tienes dolores? de pronto, así como que... físicamente es esto, lo de la
+boca, básicamente. Para cerrar la entrevista, ¿hay algo más que me quieras decir? ¿algo más
+que quieras comentarme a mí? ¿algo más que sientas que es importante?
+TEST: importante ¿qué le digo? que esto que a uno le pasa no es fácil, a uno no quisiera que
+nadie le pasara, eso es muy duro, muy difícil superar esto... porque aún yo no, para mí como
+si fuera ayer, a pesar de tantos años que han pasado, es muy duro de superar eso. Perder
+uno a su papá, casi pierdo a mi mamá... bueno, yo perdí poquito, conozco muchos que
+perdieron más, más familia... pero gracias a dios yo perdí solamente a mi papá; pero perdí
+
+mucho de mí, porque perdí mi felicidad, que esa felicidad no la he podido recuperar, no soy
+la misma de antes. No he podido tener más hijos porque cuando uno se cae la primera vez
+ya la segunda vez es difícil porque piensa uno que se va a volver a caer y con el mismo
+raspón anterior.
+ENT: ¿tienes miedo de volver a caer y eso te ha impedido tener, como, la confianza de
+retomar tu proyecto?
+TEST: parece mentira, pero eso lo marca, yo, de pronto sí, ser feliz con alguien, tener mi otro
+chamaco, pero no.… cuando recuerdo todo lo que yo viví, se me quitan las ganas.
+ENT: se te quitan las ganas.
+TEST: hay unas compañeras que sí ha tenido más hijos, que sí son casadas, yo a veces digo
+"y ¿yo por qué no lo puedo hacer?"...
+ENT: ¿y ellas qué te dicen?
+TEST: no, que para ellas tampoco ha sido fácil, pero ajá, tampoco se van quedar trancadas
+con el recuerdo.
+ENT: ¿tú sientes que esas compañeras eran, tal vez, un poco mayores cuando les pasó eso o
+eran de la misma edad tuya? ¿de pronto la edad...?
+TEST: no, ellas dicen... yo casi tampoco les pregunto, poco les pregunto así, cómo le digo: yo
+soy muy tímida así, muy reservada de estar preguntando.
+ENT: ¿pero ellas te hacen sentir acompañada?
+TEST: sí.
+ENT: y te hacen sonreír, tú cuando me hablas de ellas... te sonríes.
+TEST: sí, con ellas la pasó bien, cuando estábamos en el proyecto de curso a veces nos
+reíamos y así.
+ENT: ¿qué otros cursos has hecho?
+TEST: no, nada más ese y ese no sé ni cómo lo hice, porque... por el niño, no tengo quién me
+lo cuide, por eso yo no he seguido estudiando más, porque el niño me ha trancado en
+muchas cosas.
+ENT: ¿para trabajar haces cosas muy rápidas?
+TEST: rápidas porque a veces me lo tengo que llevar, a veces lo tengo que dejar dormidito,
+aprovechar que como él se levanta tarde, es más flojo que la mamá, se levanta tarde y
+aprovecho que está dormido, me levanto tempranito si tengo que ir a hacer aseo, hacer todo
+lo posible que cuando sean las 11:00 que yo esté desocupada, me ha tocado duro en la vida...
+duro.
+ENT: y toda la tarde y todo el resto del día, ¿lo cuidas?
+TEST: lo cuido, sí. Por eso yo digo que en las tardes yo no puedo salir a ninguna parte
+porque si tendría que traérmelo y es pesado, full. Entonces...
+ENT: Bueno, TEST. ¿Te parece si terminamos aquí? Esa sonrisa me dice que "por favor, que
+sí" muchas gracias TEST, por la confianza, por la disposición, por el valor. Yo sé que tú no te
+sientes, una parte de ti siente que como que no eres fuerte, pero mira... sí. A veces nos cuesta
+darnos cuenta que sí estamos siendo fuertes y yo en éste momento te lo digo, tú no te das
+cuenta, pero tú sí eres fuerte. Muchas gracias, TEST. Terminamos.
+
+
